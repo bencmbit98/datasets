@@ -1,0 +1,1001 @@
+﻿Age,Gender,Race,Residency_Status,Marital_Status,Weight_kg,Height_m,BMI,Blood_Type,Allergies,Smoking_Status,Alcohol_Consumption,Chronic_Conditions,Mental_Health_Status,Medication,Hospital_Visits_Last_Year,Type_of_Healthcare_Coverage,Primary_Care_Facility,Last_Medical_Checkup,Digital_Health_Usage,Physical_Activity_Level,Dietary_Habits,Occupational_Hazards
+46,Male,Chinese,Permanent Resident,Divorced,84.2,2,21.05,O,Dust,Non-Smoker,Never,Heart Disease,Good,Yes,9,None,Hospital,2021-09-06,Yes,Moderate,Healthy,Moderate
+49,Male,Malay,Foreigner,Single,73.2,1.94,19.45,A,None,Smoker,Frequently,Diabetes,Moderate,Yes,6,Private,None,2022-02-22,Yes,High,Unhealthy,None
+71,Female,Indian,Citizen,Married,107,1.57,43.41,O,Nuts,Smoker,Never,Hypertension,Moderate,No,9,Private,None,2022-07-20,No,Moderate,Unhealthy,High
+77,Male,Malay,Foreigner,Widowed,108.6,1.8,33.52,AB,Nuts,Smoker,Occasionally,Hypertension,Moderate,No,6,Public,None,2023-09-06,No,Low,Healthy,None
+45,Female,Chinese,Foreigner,Widowed,100.6,1.86,29.08,A,None,Non-Smoker,Frequently,Heart Disease,Poor,Yes,1,Public,Hospital,2021-12-18,Yes,Moderate,Moderate,Moderate
+45,Male,Indian,Citizen,Married,97.8,1.65,35.92,O,Nuts,Smoker,Never,Diabetes,Moderate,No,0,None,Clinic,2022-03-23,No,High,Moderate,Low
+30,Female,Indian,Permanent Resident,Married,86.1,1.6,33.63,A,None,Smoker,Occasionally,Hypertension,Poor,Yes,8,None,Clinic,2022-01-17,Yes,Moderate,Moderate,Low
+41,Female,Malay,Permanent Resident,Single,49.5,1.63,18.63,O,Dust,Smoker,Never,Diabetes,Poor,No,8,None,Hospital,2022-11-16,Yes,Moderate,Moderate,Moderate
+56,Male,Malay,Foreigner,Single,49.7,1.57,20.16,A,Nuts,Smoker,Occasionally,Diabetes,Poor,No,8,Private,None,2023-05-22,Yes,Low,Healthy,Low
+79,Male,Malay,Permanent Resident,Divorced,47.8,1.71,16.35,O,Pollen,Non-Smoker,Never,None,Good,Yes,1,Private,Hospital,2021-04-25,No,High,Healthy,High
+44,Male,Chinese,Citizen,Married,91.4,1.7,31.63,A,None,Smoker,Occasionally,None,Moderate,No,6,Private,Hospital,2022-10-08,Yes,Low,Healthy,High
+59,Female,Others,Foreigner,Single,115.8,1.73,38.69,AB,None,Non-Smoker,Never,Heart Disease,Poor,Yes,5,Private,Hospital,2022-02-06,Yes,High,Moderate,Moderate
+73,Male,Others,Citizen,Married,53.9,1.99,13.61,O,Pollen,Smoker,Occasionally,None,Moderate,No,1,Private,Hospital,2023-08-05,No,Low,Moderate,Moderate
+57,Female,Indian,Permanent Resident,Widowed,66.1,1.91,18.12,A,None,Smoker,Occasionally,Heart Disease,Good,No,5,None,None,2023-09-11,Yes,Low,Moderate,High
+57,Female,Malay,Citizen,Widowed,95.4,1.95,25.09,A,Pollen,Smoker,Frequently,None,Good,No,3,None,None,2022-09-07,Yes,High,Healthy,None
+31,Male,Chinese,Foreigner,Married,117.7,1.53,50.28,AB,Pollen,Non-Smoker,Occasionally,Diabetes,Poor,No,3,None,Clinic,2022-08-04,No,Moderate,Moderate,None
+66,Female,Chinese,Citizen,Single,74.7,1.92,20.26,B,None,Non-Smoker,Never,Hypertension,Moderate,No,2,None,Clinic,2023-10-05,No,High,Healthy,Moderate
+57,Male,Chinese,Citizen,Widowed,60.9,1.88,17.23,B,Nuts,Non-Smoker,Frequently,Heart Disease,Moderate,No,6,Private,None,2021-04-19,Yes,High,Unhealthy,Low
+55,Female,Indian,Permanent Resident,Single,73.7,1.83,22.01,O,None,Non-Smoker,Frequently,Diabetes,Moderate,No,9,None,Clinic,2022-07-28,No,Low,Healthy,High
+44,Male,Indian,Citizen,Widowed,54.1,1.59,21.4,O,None,Non-Smoker,Never,Heart Disease,Moderate,Yes,9,Private,None,2021-05-06,No,High,Moderate,Low
+29,Female,Chinese,Citizen,Divorced,115.7,1.59,45.77,A,None,Smoker,Occasionally,None,Moderate,No,2,None,Clinic,2022-02-06,Yes,Moderate,Unhealthy,High
+28,Female,Malay,Permanent Resident,Single,76.7,1.64,28.52,O,Nuts,Smoker,Occasionally,Hypertension,Good,Yes,1,Private,Clinic,2023-03-06,Yes,High,Healthy,None
+29,Female,Others,Citizen,Single,102.9,1.89,28.81,B,None,Smoker,Never,Hypertension,Poor,No,5,None,Clinic,2022-01-04,No,Low,Moderate,High
+55,Male,Others,Permanent Resident,Widowed,55.1,1.98,14.05,B,Dust,Smoker,Occasionally,Heart Disease,Poor,Yes,8,Public,Hospital,2022-07-05,No,High,Unhealthy,High
+66,Male,Malay,Foreigner,Widowed,71.6,1.53,30.59,A,Pollen,Non-Smoker,Never,Diabetes,Moderate,Yes,3,None,Clinic,2022-01-12,No,High,Moderate,Low
+57,Female,Malay,Foreigner,Single,57.2,1.94,15.2,B,None,Smoker,Never,Heart Disease,Moderate,Yes,3,Public,Clinic,2023-02-23,Yes,Moderate,Moderate,High
+75,Male,Malay,Citizen,Married,113.4,1.93,30.44,O,Nuts,Non-Smoker,Frequently,Diabetes,Poor,Yes,0,Private,None,2023-12-03,Yes,Moderate,Moderate,Moderate
+26,Male,Indian,Permanent Resident,Divorced,42.9,1.99,10.83,B,None,Smoker,Frequently,None,Moderate,No,1,None,Hospital,2023-05-10,Yes,Moderate,Healthy,Moderate
+45,Male,Malay,Citizen,Divorced,76.5,1.88,21.64,A,Nuts,Smoker,Occasionally,Hypertension,Moderate,No,0,None,Hospital,2023-07-25,No,High,Unhealthy,Low
+69,Female,Others,Permanent Resident,Single,95.6,1.6,37.34,AB,None,Smoker,Occasionally,None,Good,Yes,3,None,None,2023-03-09,Yes,Low,Moderate,High
+39,Male,Malay,Citizen,Married,99.6,1.74,32.9,B,Pollen,Non-Smoker,Occasionally,None,Good,No,6,Private,None,2022-08-14,No,Low,Moderate,None
+75,Male,Indian,Citizen,Single,84.2,1.89,23.57,O,Nuts,Non-Smoker,Never,Diabetes,Moderate,No,5,Private,Clinic,2022-10-01,No,High,Moderate,Moderate
+46,Male,Chinese,Foreigner,Single,50.8,1.91,13.93,B,None,Non-Smoker,Frequently,None,Good,Yes,2,Private,None,2021-01-14,Yes,Low,Unhealthy,None
+63,Female,Chinese,Permanent Resident,Married,48.4,1.67,17.35,A,Nuts,Smoker,Frequently,Heart Disease,Poor,No,5,None,Clinic,2023-09-28,Yes,Low,Moderate,Low
+63,Male,Chinese,Foreigner,Single,85.4,1.84,25.22,A,Pollen,Non-Smoker,Occasionally,Hypertension,Moderate,Yes,8,Private,None,2022-10-28,No,Moderate,Healthy,Low
+78,Female,Indian,Citizen,Widowed,118.8,1.9,32.91,O,Dust,Non-Smoker,Never,None,Poor,Yes,1,None,Clinic,2021-08-25,Yes,Low,Moderate,Moderate
+39,Male,Others,Foreigner,Married,49.7,1.6,19.41,AB,Nuts,Non-Smoker,Occasionally,Hypertension,Poor,Yes,6,Private,None,2023-11-28,No,Low,Healthy,None
+36,Female,Indian,Citizen,Divorced,76,1.62,28.96,A,None,Non-Smoker,Never,Diabetes,Poor,No,2,None,Hospital,2022-04-04,No,Moderate,Unhealthy,High
+76,Male,Others,Foreigner,Married,71,1.82,21.43,A,Nuts,Smoker,Occasionally,Diabetes,Good,Yes,0,Private,None,2021-06-20,No,Moderate,Moderate,Moderate
+75,Male,Chinese,Foreigner,Widowed,62.3,1.61,24.03,A,Nuts,Non-Smoker,Frequently,None,Good,No,2,Public,Hospital,2022-08-14,No,Moderate,Healthy,None
+22,Female,Indian,Permanent Resident,Single,112.8,1.87,32.26,O,None,Non-Smoker,Never,Heart Disease,Moderate,Yes,4,Public,None,2022-02-17,Yes,High,Unhealthy,None
+31,Female,Malay,Foreigner,Widowed,81.4,1.99,20.56,O,Dust,Non-Smoker,Frequently,Heart Disease,Poor,No,4,Private,Clinic,2021-06-15,Yes,Low,Unhealthy,Moderate
+53,Male,Malay,Foreigner,Single,66.8,1.63,25.14,B,Pollen,Non-Smoker,Never,None,Poor,No,0,Public,None,2023-10-27,Yes,Moderate,Healthy,None
+68,Male,Chinese,Foreigner,Married,71.7,1.69,25.1,AB,Pollen,Smoker,Occasionally,Hypertension,Poor,No,2,None,Clinic,2022-06-11,Yes,Moderate,Healthy,Moderate
+28,Female,Others,Foreigner,Married,54.6,1.85,15.95,B,Dust,Non-Smoker,Occasionally,None,Poor,Yes,5,None,Hospital,2023-08-15,Yes,High,Unhealthy,Moderate
+47,Female,Others,Permanent Resident,Married,115.6,1.65,42.46,AB,Dust,Non-Smoker,Never,None,Poor,Yes,9,Private,None,2023-12-20,Yes,Low,Moderate,Moderate
+20,Female,Malay,Citizen,Married,119.2,1.52,51.59,A,Nuts,Non-Smoker,Frequently,None,Good,Yes,0,Private,Hospital,2023-09-28,Yes,Low,Unhealthy,Low
+30,Male,Indian,Citizen,Widowed,117.4,1.87,33.57,B,None,Non-Smoker,Never,Hypertension,Moderate,Yes,5,Public,None,2023-03-19,Yes,Moderate,Moderate,High
+50,Male,Malay,Foreigner,Widowed,94.3,1.84,27.85,B,None,Non-Smoker,Never,None,Poor,No,3,None,None,2021-04-10,Yes,Moderate,Healthy,Moderate
+78,Male,Chinese,Foreigner,Divorced,63.1,1.95,16.59,AB,Pollen,Non-Smoker,Occasionally,None,Poor,No,2,Public,Hospital,2021-01-05,No,Low,Moderate,High
+35,Male,Others,Citizen,Widowed,110.2,1.66,39.99,B,Pollen,Non-Smoker,Frequently,Hypertension,Poor,Yes,0,Private,Clinic,2021-06-21,No,Moderate,Moderate,Moderate
+51,Male,Others,Citizen,Married,85.5,1.84,25.25,B,Dust,Non-Smoker,Never,None,Good,No,0,Public,Hospital,2021-05-03,Yes,Moderate,Unhealthy,Low
+75,Male,Indian,Citizen,Divorced,84.9,1.61,32.75,B,Nuts,Smoker,Occasionally,Heart Disease,Poor,Yes,3,Private,None,2022-06-15,Yes,Moderate,Healthy,Moderate
+77,Female,Chinese,Citizen,Married,111.3,1.69,38.97,AB,None,Non-Smoker,Never,Diabetes,Good,No,4,Public,Clinic,2022-04-12,No,Moderate,Healthy,None
+30,Male,Malay,Foreigner,Widowed,85.6,1.8,26.42,A,None,Non-Smoker,Occasionally,None,Moderate,Yes,5,Private,Clinic,2023-07-24,Yes,Moderate,Unhealthy,None
+69,Male,Malay,Foreigner,Married,99.2,1.77,31.66,AB,Pollen,Smoker,Occasionally,None,Poor,No,5,Public,Clinic,2023-03-04,No,Low,Unhealthy,Moderate
+43,Female,Indian,Foreigner,Widowed,73.7,1.57,29.9,O,None,Smoker,Frequently,Diabetes,Good,No,4,Private,Clinic,2022-05-05,Yes,Moderate,Unhealthy,Moderate
+49,Male,Indian,Foreigner,Widowed,97.8,1.92,26.53,O,Dust,Non-Smoker,Frequently,Hypertension,Moderate,No,8,Public,None,2023-04-07,Yes,Low,Unhealthy,High
+65,Female,Malay,Citizen,Married,85.3,1.78,26.92,AB,Pollen,Non-Smoker,Never,None,Poor,Yes,1,Private,None,2021-12-17,Yes,Moderate,Moderate,Low
+29,Female,Malay,Permanent Resident,Single,104.8,1.6,40.94,B,Nuts,Smoker,Frequently,Diabetes,Good,No,7,Public,Clinic,2023-04-26,No,Low,Unhealthy,Moderate
+32,Male,Malay,Citizen,Single,79.2,1.54,33.4,A,Dust,Smoker,Never,None,Good,Yes,1,Public,Hospital,2022-03-07,Yes,High,Moderate,Low
+55,Male,Others,Foreigner,Widowed,85.7,1.93,23.01,A,Nuts,Non-Smoker,Never,Diabetes,Moderate,Yes,5,Public,None,2021-01-21,Yes,High,Moderate,High
+71,Female,Malay,Permanent Resident,Widowed,109.7,1.91,30.07,B,None,Smoker,Frequently,Hypertension,Good,No,4,Private,Clinic,2021-02-22,Yes,High,Moderate,Moderate
+77,Male,Others,Permanent Resident,Divorced,89.3,1.77,28.5,B,Pollen,Non-Smoker,Frequently,Diabetes,Poor,No,7,Public,None,2021-04-03,Yes,Moderate,Healthy,Low
+27,Male,Malay,Permanent Resident,Married,82.4,1.99,20.81,A,Pollen,Non-Smoker,Never,Diabetes,Good,No,7,Public,Hospital,2023-01-02,Yes,Low,Healthy,Moderate
+62,Male,Chinese,Foreigner,Divorced,93.8,1.86,27.11,B,Pollen,Smoker,Occasionally,None,Good,No,2,None,Hospital,2022-01-27,No,Low,Unhealthy,Low
+79,Female,Chinese,Citizen,Divorced,68.7,1.56,28.23,A,Dust,Non-Smoker,Occasionally,Heart Disease,Moderate,No,8,Private,Clinic,2021-09-01,Yes,Moderate,Moderate,Moderate
+65,Female,Malay,Permanent Resident,Married,78.5,1.76,25.34,O,Nuts,Smoker,Frequently,Heart Disease,Moderate,No,5,Private,None,2023-07-24,Yes,Moderate,Healthy,High
+30,Male,Others,Permanent Resident,Divorced,43.6,1.94,11.58,B,Pollen,Smoker,Occasionally,Hypertension,Poor,Yes,7,Private,Clinic,2023-12-23,No,Moderate,Moderate,Low
+61,Female,Indian,Foreigner,Single,57,1.52,24.67,AB,None,Non-Smoker,Never,Hypertension,Good,No,7,Public,Hospital,2022-04-28,Yes,High,Moderate,Low
+57,Female,Chinese,Citizen,Married,117.4,1.73,39.23,AB,Pollen,Non-Smoker,Frequently,None,Poor,Yes,2,None,Clinic,2021-03-10,No,High,Moderate,Moderate
+52,Male,Chinese,Permanent Resident,Widowed,60.6,1.81,18.5,B,Pollen,Non-Smoker,Never,Heart Disease,Moderate,Yes,2,Private,Hospital,2023-09-14,Yes,Moderate,Healthy,High
+33,Male,Indian,Permanent Resident,Married,96.7,1.93,25.96,AB,None,Smoker,Occasionally,None,Moderate,No,9,None,Hospital,2021-09-05,Yes,Low,Healthy,None
+75,Male,Indian,Foreigner,Divorced,72.7,1.94,19.32,A,Dust,Non-Smoker,Occasionally,Diabetes,Moderate,No,5,Public,Hospital,2023-02-19,No,High,Unhealthy,Low
+48,Male,Others,Permanent Resident,Divorced,86.2,1.87,24.65,O,None,Smoker,Frequently,Hypertension,Moderate,Yes,4,Private,Hospital,2022-03-17,Yes,Moderate,Unhealthy,High
+20,Male,Chinese,Citizen,Single,85.8,2,21.45,AB,Pollen,Smoker,Occasionally,None,Moderate,Yes,8,Private,Clinic,2021-05-11,No,Low,Unhealthy,High
+21,Female,Malay,Foreigner,Married,109.2,1.51,47.89,A,Pollen,Non-Smoker,Never,Hypertension,Moderate,Yes,9,Public,None,2021-05-08,No,Moderate,Healthy,Moderate
+44,Male,Chinese,Citizen,Married,103.5,1.72,34.99,A,Pollen,Smoker,Never,None,Good,No,2,None,Clinic,2023-04-10,Yes,Moderate,Healthy,High
+65,Female,Others,Permanent Resident,Divorced,72.9,1.58,29.2,O,Nuts,Smoker,Never,Diabetes,Moderate,No,0,Private,None,2023-03-06,No,Moderate,Moderate,Moderate
+39,Male,Indian,Foreigner,Divorced,67.4,1.8,20.8,O,Pollen,Smoker,Never,Diabetes,Moderate,No,9,None,Hospital,2022-04-17,Yes,High,Unhealthy,Low
+58,Female,Indian,Citizen,Widowed,109.3,1.6,42.7,B,None,Smoker,Occasionally,None,Good,No,0,Public,Hospital,2023-12-07,No,Low,Healthy,None
+61,Male,Malay,Foreigner,Widowed,59.7,1.69,20.9,A,Nuts,Smoker,Occasionally,Diabetes,Poor,Yes,5,Public,Clinic,2023-06-02,No,High,Moderate,Low
+43,Female,Malay,Permanent Resident,Divorced,59.6,1.58,23.87,A,Dust,Smoker,Never,Heart Disease,Good,Yes,5,Private,Hospital,2021-11-13,No,High,Moderate,Moderate
+35,Female,Malay,Foreigner,Single,49.7,1.67,17.82,A,Dust,Non-Smoker,Frequently,Heart Disease,Moderate,Yes,9,None,Hospital,2022-08-02,Yes,High,Unhealthy,Low
+37,Male,Others,Citizen,Divorced,90.4,1.63,34.02,B,None,Non-Smoker,Occasionally,None,Moderate,No,8,None,Clinic,2022-10-08,No,Moderate,Healthy,High
+48,Male,Indian,Citizen,Divorced,99.2,1.95,26.09,B,Pollen,Non-Smoker,Frequently,Hypertension,Good,Yes,8,Private,Clinic,2022-11-09,Yes,Moderate,Healthy,Moderate
+63,Female,Indian,Citizen,Widowed,42.3,1.84,12.49,AB,None,Smoker,Never,Diabetes,Good,No,3,None,Clinic,2022-04-16,Yes,Moderate,Healthy,High
+74,Female,Indian,Citizen,Single,114.7,1.8,35.4,O,None,Non-Smoker,Occasionally,None,Poor,Yes,8,None,Hospital,2022-08-12,Yes,Moderate,Healthy,High
+26,Female,Others,Permanent Resident,Married,81.7,1.58,32.73,B,None,Non-Smoker,Frequently,None,Moderate,Yes,1,Private,None,2022-05-07,Yes,Moderate,Unhealthy,Low
+70,Male,Indian,Citizen,Single,45.7,1.64,16.99,B,Pollen,Non-Smoker,Occasionally,Heart Disease,Moderate,Yes,4,Private,Clinic,2021-04-26,Yes,High,Unhealthy,None
+59,Female,Indian,Citizen,Married,104.8,1.65,38.49,O,Dust,Non-Smoker,Frequently,None,Moderate,No,3,Public,Clinic,2021-04-19,Yes,High,Unhealthy,Low
+42,Male,Chinese,Foreigner,Single,83.6,1.91,22.92,AB,Dust,Smoker,Never,Heart Disease,Good,No,1,Private,Hospital,2021-09-04,No,Low,Healthy,Moderate
+42,Male,Chinese,Permanent Resident,Widowed,49,1.56,20.13,B,Dust,Non-Smoker,Frequently,Heart Disease,Good,No,9,Public,Clinic,2022-09-07,No,Moderate,Healthy,High
+63,Male,Malay,Permanent Resident,Divorced,113.6,1.94,30.18,O,Dust,Smoker,Never,None,Poor,No,3,Private,Clinic,2022-07-09,Yes,Low,Moderate,None
+52,Female,Others,Citizen,Single,62.7,1.91,17.19,AB,Nuts,Smoker,Never,Diabetes,Moderate,Yes,0,Public,Clinic,2023-08-13,No,Moderate,Moderate,None
+64,Female,Chinese,Foreigner,Married,96.4,1.95,25.35,AB,Dust,Smoker,Occasionally,Hypertension,Moderate,Yes,4,Public,Clinic,2021-07-18,Yes,Low,Unhealthy,Moderate
+73,Male,Indian,Foreigner,Divorced,83.4,1.55,34.71,O,None,Smoker,Never,Hypertension,Good,No,3,None,None,2022-05-20,No,High,Healthy,Low
+50,Male,Malay,Foreigner,Divorced,91.3,1.74,30.16,B,Nuts,Smoker,Occasionally,Diabetes,Moderate,Yes,5,None,None,2023-10-03,No,Low,Healthy,High
+52,Male,Indian,Citizen,Widowed,94.8,1.75,30.96,B,Nuts,Non-Smoker,Never,None,Good,No,8,Private,Clinic,2023-01-09,No,Moderate,Unhealthy,None
+61,Male,Indian,Foreigner,Married,55.6,1.89,15.57,A,Dust,Non-Smoker,Occasionally,Diabetes,Poor,No,8,Private,None,2022-06-13,Yes,High,Healthy,Moderate
+27,Female,Others,Permanent Resident,Divorced,94.7,1.99,23.91,O,Nuts,Smoker,Occasionally,Diabetes,Poor,No,3,Public,None,2021-05-27,Yes,Moderate,Moderate,Low
+30,Female,Chinese,Foreigner,Widowed,115.1,1.95,30.27,O,None,Smoker,Frequently,None,Poor,Yes,6,None,Clinic,2023-02-10,Yes,Low,Moderate,Low
+50,Female,Malay,Permanent Resident,Single,73.3,1.57,29.74,A,None,Non-Smoker,Never,None,Poor,Yes,9,None,Hospital,2021-11-21,No,Moderate,Healthy,None
+56,Female,Chinese,Citizen,Single,47.6,1.86,13.76,AB,Pollen,Non-Smoker,Never,Hypertension,Good,No,4,Public,Hospital,2021-01-09,Yes,Moderate,Moderate,None
+58,Female,Indian,Foreigner,Married,116.2,1.7,40.21,A,Dust,Non-Smoker,Never,Diabetes,Good,No,4,Public,Clinic,2022-07-27,Yes,Low,Healthy,High
+58,Male,Indian,Citizen,Widowed,105.4,1.8,32.53,AB,None,Non-Smoker,Occasionally,None,Good,Yes,8,Private,Hospital,2021-07-09,No,Moderate,Moderate,High
+34,Female,Others,Citizen,Widowed,87.2,1.69,30.53,B,Nuts,Smoker,Never,None,Poor,Yes,2,None,Clinic,2022-04-04,No,Moderate,Healthy,Moderate
+26,Male,Others,Foreigner,Married,84.6,1.81,25.82,B,None,Smoker,Frequently,None,Moderate,No,9,Public,Clinic,2023-01-11,Yes,High,Moderate,Low
+59,Male,Indian,Citizen,Divorced,59.8,1.89,16.74,AB,Pollen,Non-Smoker,Occasionally,Diabetes,Good,Yes,1,Private,Hospital,2022-09-10,No,Moderate,Unhealthy,High
+61,Female,Malay,Citizen,Single,118.9,1.84,35.12,A,Pollen,Smoker,Never,None,Good,Yes,2,Private,None,2021-05-12,Yes,Low,Healthy,Low
+21,Female,Indian,Foreigner,Married,82.6,1.77,26.37,A,Nuts,Smoker,Frequently,Diabetes,Poor,No,1,None,None,2023-03-01,Yes,Low,Unhealthy,High
+27,Female,Chinese,Citizen,Widowed,98,1.52,42.42,B,Dust,Smoker,Frequently,Heart Disease,Good,Yes,9,Private,None,2021-12-10,No,High,Unhealthy,None
+51,Male,Chinese,Citizen,Widowed,53.1,1.98,13.54,O,Nuts,Non-Smoker,Never,None,Good,No,5,Public,Clinic,2023-08-02,Yes,Moderate,Healthy,Moderate
+61,Male,Chinese,Citizen,Married,74.6,1.78,23.55,O,Dust,Non-Smoker,Frequently,None,Moderate,Yes,2,None,None,2021-01-04,No,Moderate,Moderate,Low
+39,Female,Chinese,Foreigner,Divorced,85.4,1.71,29.21,B,Nuts,Smoker,Frequently,Hypertension,Moderate,Yes,3,Private,Hospital,2022-04-19,Yes,High,Moderate,None
+22,Male,Malay,Foreigner,Widowed,79.2,1.92,21.48,O,Pollen,Non-Smoker,Frequently,Heart Disease,Good,Yes,1,None,None,2021-01-28,Yes,Moderate,Moderate,High
+25,Male,Others,Foreigner,Divorced,99.1,2,24.78,A,Dust,Smoker,Never,None,Good,Yes,6,Private,Clinic,2021-06-01,No,Low,Moderate,Low
+23,Female,Chinese,Permanent Resident,Single,67.2,1.89,18.81,O,Dust,Smoker,Frequently,Hypertension,Good,Yes,6,Public,Clinic,2023-05-09,No,High,Healthy,Low
+70,Male,Indian,Permanent Resident,Married,60.7,1.67,21.76,B,None,Smoker,Occasionally,Hypertension,Poor,No,5,Public,Clinic,2023-04-27,No,Moderate,Unhealthy,None
+23,Female,Others,Citizen,Widowed,73.5,1.82,22.19,AB,Dust,Smoker,Never,Hypertension,Good,Yes,7,Private,None,2023-01-05,No,High,Moderate,Moderate
+25,Male,Chinese,Foreigner,Widowed,105.4,1.57,42.76,O,Dust,Non-Smoker,Occasionally,Heart Disease,Poor,Yes,7,Public,Hospital,2022-04-28,No,Low,Moderate,High
+47,Male,Chinese,Permanent Resident,Single,59.6,1.77,19.02,B,Nuts,Non-Smoker,Never,Diabetes,Good,No,0,None,Hospital,2022-08-18,No,High,Moderate,High
+31,Female,Malay,Citizen,Married,58.3,1.93,15.65,B,None,Smoker,Occasionally,None,Poor,No,4,Public,Clinic,2021-10-22,Yes,Moderate,Unhealthy,High
+75,Female,Malay,Permanent Resident,Divorced,112.4,1.76,36.29,B,None,Smoker,Frequently,Hypertension,Good,Yes,1,Private,Clinic,2022-08-13,Yes,Low,Moderate,None
+22,Female,Malay,Foreigner,Widowed,63.8,1.95,16.78,O,Dust,Non-Smoker,Never,Heart Disease,Moderate,Yes,7,Public,None,2021-12-11,Yes,Low,Unhealthy,Low
+74,Female,Malay,Permanent Resident,Widowed,81.2,1.86,23.47,AB,None,Non-Smoker,Never,None,Moderate,Yes,1,Private,Hospital,2022-08-12,No,Moderate,Unhealthy,High
+24,Male,Chinese,Foreigner,Single,118.8,1.68,42.09,O,Nuts,Smoker,Occasionally,None,Good,No,1,Private,None,2021-08-17,No,High,Unhealthy,Moderate
+56,Male,Others,Permanent Resident,Divorced,90.1,1.93,24.19,O,Pollen,Non-Smoker,Frequently,Heart Disease,Poor,No,5,Public,Hospital,2023-05-10,No,Low,Moderate,Moderate
+68,Male,Malay,Citizen,Widowed,104.7,1.51,45.92,A,None,Non-Smoker,Frequently,Hypertension,Good,No,7,None,Clinic,2021-12-11,Yes,Low,Moderate,None
+24,Female,Indian,Citizen,Married,116,1.93,31.14,AB,Nuts,Non-Smoker,Frequently,Heart Disease,Poor,No,6,None,Clinic,2022-08-23,No,Moderate,Healthy,High
+61,Male,Indian,Citizen,Widowed,61.8,1.53,26.4,B,Nuts,Smoker,Never,Hypertension,Poor,Yes,4,Public,None,2021-09-07,No,Low,Unhealthy,Low
+58,Female,Others,Citizen,Divorced,79.7,1.96,20.75,AB,Pollen,Smoker,Occasionally,Diabetes,Moderate,Yes,7,None,Hospital,2021-02-18,No,High,Healthy,Low
+77,Female,Others,Permanent Resident,Married,100.1,1.68,35.47,AB,Dust,Non-Smoker,Never,None,Good,Yes,0,Private,None,2022-12-23,Yes,High,Healthy,Moderate
+74,Male,Malay,Citizen,Divorced,52.2,1.99,13.18,B,Dust,Smoker,Never,Diabetes,Good,Yes,8,None,Clinic,2021-08-18,No,High,Unhealthy,None
+36,Male,Malay,Citizen,Single,70,1.78,22.09,O,Dust,Smoker,Never,Hypertension,Poor,No,1,None,Hospital,2022-12-16,Yes,Low,Healthy,Moderate
+76,Female,Chinese,Citizen,Single,75.6,1.66,27.44,AB,None,Smoker,Occasionally,Heart Disease,Poor,Yes,2,Private,Hospital,2023-06-15,Yes,Moderate,Moderate,Moderate
+74,Male,Indian,Permanent Resident,Widowed,44.4,1.73,14.84,O,Pollen,Smoker,Frequently,Heart Disease,Moderate,No,9,None,None,2022-01-19,Yes,Moderate,Moderate,None
+54,Male,Chinese,Permanent Resident,Single,86.3,1.79,26.93,B,None,Non-Smoker,Frequently,Diabetes,Poor,No,7,Private,Clinic,2021-05-08,Yes,Moderate,Unhealthy,Low
+30,Female,Others,Citizen,Married,86.9,1.6,33.95,AB,None,Smoker,Never,None,Good,Yes,6,None,Hospital,2022-10-09,Yes,Moderate,Healthy,Low
+39,Female,Others,Citizen,Widowed,66.3,1.67,23.77,O,None,Non-Smoker,Occasionally,None,Good,No,5,None,Hospital,2021-12-03,No,Low,Unhealthy,None
+33,Female,Others,Permanent Resident,Widowed,118.9,1.9,32.94,B,None,Smoker,Frequently,Hypertension,Moderate,Yes,4,Private,Hospital,2022-11-14,No,Low,Unhealthy,Low
+48,Male,Malay,Permanent Resident,Single,112.5,1.96,29.28,A,Nuts,Smoker,Occasionally,Diabetes,Good,No,9,Public,None,2021-08-20,No,High,Moderate,Moderate
+67,Female,Indian,Citizen,Widowed,110,1.86,31.8,B,Dust,Smoker,Never,Diabetes,Good,No,7,None,Hospital,2023-06-28,Yes,Moderate,Unhealthy,Low
+67,Female,Others,Foreigner,Divorced,94.9,1.79,29.62,AB,Pollen,Non-Smoker,Occasionally,Hypertension,Poor,No,8,Private,None,2022-01-28,Yes,Moderate,Healthy,Low
+56,Male,Malay,Citizen,Married,85.8,1.91,23.52,O,Pollen,Non-Smoker,Never,Hypertension,Moderate,Yes,5,None,None,2022-06-21,No,Low,Moderate,None
+29,Male,Malay,Citizen,Divorced,86.1,1.99,21.74,O,Nuts,Smoker,Frequently,Heart Disease,Poor,No,1,Public,Hospital,2021-03-28,Yes,Moderate,Moderate,Moderate
+47,Female,Chinese,Permanent Resident,Widowed,62,1.7,21.45,A,Nuts,Smoker,Frequently,None,Good,No,7,None,Hospital,2023-03-04,Yes,Moderate,Healthy,High
+53,Female,Indian,Citizen,Divorced,80.7,1.75,26.35,A,Pollen,Non-Smoker,Occasionally,Hypertension,Poor,Yes,9,None,None,2021-12-28,No,Moderate,Unhealthy,Moderate
+41,Male,Others,Permanent Resident,Married,75.6,1.82,22.82,B,Dust,Non-Smoker,Frequently,Heart Disease,Poor,No,5,None,Clinic,2022-05-14,Yes,Low,Unhealthy,High
+21,Female,Indian,Foreigner,Divorced,88.3,1.63,33.23,B,None,Non-Smoker,Occasionally,Heart Disease,Good,No,6,Private,Clinic,2021-01-04,No,Moderate,Moderate,Moderate
+57,Female,Indian,Permanent Resident,Single,97.3,1.67,34.89,O,Pollen,Smoker,Occasionally,None,Poor,Yes,0,Public,Hospital,2022-09-03,No,Moderate,Moderate,Low
+26,Female,Malay,Citizen,Single,80,1.82,24.15,AB,Nuts,Non-Smoker,Never,Hypertension,Good,No,4,Private,Hospital,2023-11-11,No,Moderate,Unhealthy,Moderate
+72,Female,Malay,Permanent Resident,Married,47.1,1.89,13.19,B,None,Non-Smoker,Never,None,Poor,Yes,9,None,None,2023-08-11,Yes,Moderate,Healthy,None
+41,Female,Malay,Citizen,Widowed,59.9,1.51,26.27,B,Dust,Non-Smoker,Occasionally,None,Moderate,No,8,None,Clinic,2022-12-22,No,Moderate,Moderate,High
+53,Female,Indian,Foreigner,Married,46.8,1.57,18.99,AB,Dust,Smoker,Occasionally,None,Moderate,Yes,4,None,Hospital,2022-07-14,Yes,Moderate,Healthy,Moderate
+62,Female,Chinese,Foreigner,Widowed,107.9,1.79,33.68,B,Nuts,Non-Smoker,Frequently,Hypertension,Moderate,Yes,1,None,None,2022-06-17,No,Moderate,Healthy,Moderate
+33,Female,Others,Foreigner,Single,92,1.62,35.06,O,Dust,Smoker,Frequently,Heart Disease,Poor,Yes,3,Public,Clinic,2023-04-16,No,Low,Unhealthy,High
+49,Male,Others,Permanent Resident,Divorced,87,1.58,34.85,B,Pollen,Smoker,Never,Diabetes,Poor,Yes,6,Private,Clinic,2022-10-03,Yes,High,Unhealthy,Moderate
+20,Male,Chinese,Foreigner,Single,41.4,1.58,16.58,B,Pollen,Smoker,Occasionally,None,Good,Yes,7,None,Hospital,2022-09-06,No,Low,Unhealthy,Low
+79,Female,Malay,Foreigner,Divorced,83.6,1.72,28.26,O,None,Smoker,Occasionally,None,Poor,No,2,Private,Clinic,2021-04-07,Yes,High,Healthy,High
+47,Male,Indian,Permanent Resident,Married,50.1,1.68,17.75,O,Dust,Smoker,Occasionally,Diabetes,Good,Yes,1,Public,None,2022-09-23,Yes,Low,Healthy,High
+73,Female,Malay,Foreigner,Married,62.7,1.97,16.16,B,None,Non-Smoker,Frequently,Hypertension,Good,No,5,Private,Clinic,2021-07-03,No,Moderate,Healthy,High
+22,Male,Others,Foreigner,Divorced,84.5,1.93,22.69,O,None,Smoker,Frequently,Diabetes,Poor,No,9,None,None,2022-08-19,No,Moderate,Moderate,High
+58,Female,Indian,Foreigner,Married,107.1,1.76,34.58,O,None,Non-Smoker,Occasionally,Heart Disease,Moderate,No,2,None,Hospital,2021-01-15,Yes,High,Unhealthy,None
+74,Male,Indian,Permanent Resident,Single,84.8,1.88,23.99,B,Dust,Smoker,Occasionally,None,Moderate,Yes,1,None,Clinic,2022-08-13,No,High,Healthy,None
+46,Male,Others,Foreigner,Divorced,61.5,1.95,16.17,O,Nuts,Non-Smoker,Never,Diabetes,Good,Yes,3,None,None,2021-12-01,Yes,High,Healthy,Moderate
+67,Male,Chinese,Permanent Resident,Single,76.8,1.56,31.56,A,Pollen,Smoker,Occasionally,Hypertension,Poor,No,5,Public,Clinic,2022-08-13,Yes,High,Moderate,None
+26,Male,Indian,Citizen,Married,78.3,1.77,24.99,O,Nuts,Smoker,Never,Hypertension,Good,Yes,7,Private,Clinic,2022-09-19,Yes,Moderate,Unhealthy,Low
+32,Female,Malay,Permanent Resident,Single,92.6,1.76,29.89,B,Nuts,Smoker,Occasionally,None,Good,No,9,None,Hospital,2022-12-11,No,Low,Moderate,High
+64,Female,Chinese,Foreigner,Married,46,1.98,11.73,A,Pollen,Smoker,Frequently,None,Good,No,0,Public,Hospital,2022-09-16,No,Moderate,Healthy,None
+58,Female,Indian,Citizen,Widowed,105.1,1.93,28.22,B,Dust,Smoker,Never,Heart Disease,Moderate,No,1,None,None,2022-04-28,Yes,High,Healthy,Moderate
+64,Female,Others,Citizen,Widowed,117.1,1.77,37.38,AB,Dust,Smoker,Frequently,Heart Disease,Poor,Yes,6,None,Hospital,2021-06-09,No,Low,Healthy,High
+63,Female,Others,Permanent Resident,Single,55.4,1.88,15.67,A,Nuts,Smoker,Never,Heart Disease,Good,Yes,3,None,None,2022-04-15,Yes,High,Unhealthy,Low
+37,Male,Malay,Permanent Resident,Married,42.3,1.99,10.68,B,None,Smoker,Frequently,Hypertension,Moderate,No,1,None,Clinic,2023-07-24,Yes,High,Moderate,High
+60,Female,Malay,Citizen,Widowed,70.5,1.87,20.16,A,Nuts,Non-Smoker,Never,Heart Disease,Poor,Yes,1,None,None,2021-09-24,Yes,High,Moderate,None
+40,Male,Indian,Foreigner,Widowed,106.9,1.88,30.25,B,Pollen,Non-Smoker,Occasionally,None,Poor,Yes,7,Private,None,2023-02-10,Yes,High,Moderate,High
+38,Male,Chinese,Foreigner,Married,65.2,1.65,23.95,B,Pollen,Non-Smoker,Occasionally,None,Good,Yes,4,Private,Hospital,2023-10-27,Yes,Moderate,Healthy,Moderate
+66,Male,Chinese,Permanent Resident,Single,94.7,1.84,27.97,O,None,Non-Smoker,Frequently,Heart Disease,Good,No,1,None,Hospital,2023-09-19,No,Low,Healthy,None
+59,Female,Malay,Foreigner,Single,63.3,1.76,20.44,B,Pollen,Smoker,Frequently,Heart Disease,Poor,No,3,None,None,2023-06-08,Yes,High,Unhealthy,High
+73,Male,Malay,Permanent Resident,Widowed,58.3,1.95,15.33,O,Nuts,Smoker,Occasionally,Diabetes,Moderate,No,0,None,Clinic,2022-10-05,Yes,Low,Unhealthy,None
+52,Male,Indian,Permanent Resident,Married,107.4,1.9,29.75,B,Pollen,Non-Smoker,Occasionally,Heart Disease,Poor,No,7,Public,Clinic,2021-07-20,No,High,Unhealthy,Moderate
+69,Male,Chinese,Foreigner,Married,65.4,1.81,19.96,A,Nuts,Smoker,Occasionally,Heart Disease,Poor,Yes,0,Public,Hospital,2021-11-03,Yes,High,Healthy,Low
+79,Female,Indian,Permanent Resident,Single,108.4,1.55,45.12,A,Dust,Non-Smoker,Never,Heart Disease,Good,No,3,Private,Clinic,2023-10-28,No,Moderate,Unhealthy,Low
+47,Female,Others,Foreigner,Divorced,53.9,1.6,21.05,A,Dust,Non-Smoker,Never,Hypertension,Good,No,9,Private,None,2022-07-27,No,High,Unhealthy,Moderate
+48,Female,Indian,Citizen,Divorced,46.3,1.99,11.69,B,Dust,Smoker,Never,Diabetes,Good,Yes,8,Private,Clinic,2021-11-05,Yes,Low,Moderate,Moderate
+39,Male,Indian,Citizen,Divorced,67.3,1.54,28.38,O,None,Smoker,Occasionally,Heart Disease,Poor,No,3,Private,Clinic,2023-03-15,Yes,High,Healthy,Low
+34,Female,Chinese,Permanent Resident,Married,57.9,1.85,16.92,A,Pollen,Smoker,Frequently,Diabetes,Poor,Yes,9,None,Clinic,2023-01-25,Yes,High,Unhealthy,High
+27,Male,Malay,Permanent Resident,Divorced,117.3,1.68,41.56,B,None,Smoker,Frequently,Heart Disease,Good,No,0,Private,Hospital,2023-12-19,No,High,Healthy,High
+56,Male,Indian,Permanent Resident,Single,84.5,1.68,29.94,A,Pollen,Smoker,Frequently,Diabetes,Good,No,8,Private,None,2022-02-08,Yes,Moderate,Unhealthy,Low
+22,Male,Malay,Permanent Resident,Divorced,89.6,1.52,38.78,B,None,Non-Smoker,Never,Hypertension,Good,No,4,Public,Clinic,2021-10-21,No,Moderate,Moderate,None
+30,Female,Chinese,Permanent Resident,Widowed,86.9,1.85,25.39,A,Dust,Smoker,Never,Diabetes,Poor,Yes,3,None,Hospital,2022-09-19,Yes,Moderate,Moderate,High
+30,Male,Indian,Citizen,Divorced,119.2,1.6,46.56,O,Pollen,Non-Smoker,Frequently,None,Good,Yes,5,Public,Hospital,2023-11-26,Yes,Moderate,Unhealthy,Moderate
+22,Male,Others,Citizen,Single,75.1,1.68,26.61,B,Dust,Non-Smoker,Never,None,Moderate,No,4,Public,None,2022-12-22,Yes,High,Moderate,Moderate
+68,Female,Malay,Permanent Resident,Widowed,118.9,1.62,45.31,B,Nuts,Non-Smoker,Frequently,Hypertension,Poor,No,8,None,Hospital,2023-03-16,Yes,High,Moderate,None
+57,Male,Malay,Permanent Resident,Married,47,1.79,14.67,B,Dust,Non-Smoker,Never,Diabetes,Poor,No,4,Private,Hospital,2021-04-22,No,High,Unhealthy,None
+21,Male,Malay,Permanent Resident,Widowed,119.3,1.97,30.74,B,Pollen,Smoker,Never,Heart Disease,Moderate,Yes,5,None,None,2021-03-02,Yes,Low,Healthy,Moderate
+22,Female,Chinese,Citizen,Single,78.1,1.81,23.84,O,Pollen,Non-Smoker,Frequently,None,Good,Yes,4,Private,None,2023-01-24,Yes,High,Healthy,Moderate
+72,Male,Malay,Citizen,Single,91.6,1.51,40.17,O,Nuts,Smoker,Occasionally,Hypertension,Good,Yes,5,None,None,2021-09-09,Yes,Low,Healthy,None
+69,Male,Malay,Foreigner,Married,103.2,1.92,27.99,A,Dust,Smoker,Never,Heart Disease,Good,Yes,5,Public,None,2023-02-22,No,High,Healthy,None
+21,Male,Others,Citizen,Widowed,79.5,1.67,28.51,O,Dust,Non-Smoker,Occasionally,Diabetes,Poor,No,3,None,Hospital,2022-03-20,Yes,High,Unhealthy,None
+32,Male,Others,Permanent Resident,Married,62.7,1.8,19.35,B,Nuts,Smoker,Never,Diabetes,Good,No,6,Private,None,2023-10-28,No,High,Unhealthy,Low
+59,Female,Malay,Foreigner,Married,54.8,1.89,15.34,O,Dust,Smoker,Occasionally,Hypertension,Poor,Yes,5,None,Hospital,2023-01-08,No,Low,Healthy,High
+61,Male,Indian,Foreigner,Widowed,110.5,1.76,35.67,O,None,Smoker,Occasionally,Heart Disease,Moderate,No,4,Public,Clinic,2021-11-10,No,Moderate,Moderate,Low
+65,Female,Chinese,Citizen,Married,48,2,12,A,Dust,Smoker,Occasionally,Diabetes,Poor,Yes,8,Public,Hospital,2022-09-28,Yes,High,Moderate,High
+43,Female,Chinese,Foreigner,Single,56.4,1.99,14.24,B,Dust,Non-Smoker,Frequently,Heart Disease,Good,No,9,Private,Clinic,2021-09-24,Yes,High,Moderate,Low
+47,Male,Others,Foreigner,Widowed,58.3,1.69,20.41,B,None,Smoker,Occasionally,Hypertension,Good,Yes,4,Private,None,2021-01-18,No,High,Healthy,High
+34,Female,Others,Citizen,Divorced,73.7,1.75,24.07,B,Nuts,Smoker,Occasionally,Heart Disease,Poor,No,3,Public,Hospital,2023-02-02,Yes,Low,Moderate,High
+72,Male,Malay,Citizen,Married,67,1.92,18.17,B,None,Non-Smoker,Occasionally,Hypertension,Poor,No,0,Public,Hospital,2022-06-23,Yes,Moderate,Unhealthy,None
+25,Male,Chinese,Permanent Resident,Divorced,115.4,1.52,49.95,A,Pollen,Non-Smoker,Never,Diabetes,Poor,Yes,2,None,Clinic,2022-01-21,No,Low,Unhealthy,High
+79,Female,Chinese,Permanent Resident,Married,104.2,1.75,34.02,AB,None,Non-Smoker,Never,Diabetes,Moderate,Yes,5,None,Clinic,2022-03-24,Yes,High,Moderate,High
+74,Male,Others,Citizen,Married,43.1,1.57,17.49,O,Nuts,Smoker,Never,Heart Disease,Moderate,No,7,Private,Hospital,2021-08-05,Yes,Low,Moderate,Low
+77,Male,Chinese,Foreigner,Widowed,114.4,1.57,46.41,A,Pollen,Smoker,Frequently,Diabetes,Moderate,Yes,6,None,Hospital,2021-04-02,No,Moderate,Unhealthy,Low
+47,Male,Chinese,Permanent Resident,Married,76.9,1.52,33.28,AB,Dust,Smoker,Occasionally,Hypertension,Good,Yes,9,Private,Clinic,2021-09-08,No,Low,Unhealthy,Low
+44,Male,Others,Permanent Resident,Married,91,1.94,24.18,B,Pollen,Smoker,Never,Hypertension,Poor,Yes,7,Private,Clinic,2022-11-19,No,Low,Moderate,Low
+43,Male,Others,Foreigner,Single,116.1,1.92,31.49,O,Nuts,Smoker,Never,Diabetes,Good,Yes,0,None,None,2021-04-09,Yes,Low,Moderate,High
+72,Male,Chinese,Permanent Resident,Divorced,66.9,1.94,17.78,B,None,Non-Smoker,Never,None,Poor,No,2,Private,None,2022-07-23,No,Moderate,Moderate,Moderate
+63,Female,Malay,Permanent Resident,Single,57.8,1.68,20.48,O,Dust,Smoker,Occasionally,None,Moderate,Yes,0,Public,None,2022-09-10,No,Moderate,Healthy,High
+41,Male,Malay,Citizen,Married,86.5,1.74,28.57,O,None,Smoker,Frequently,Hypertension,Good,No,5,Public,None,2022-12-21,No,Low,Moderate,High
+21,Male,Indian,Foreigner,Divorced,64.1,1.81,19.57,AB,Pollen,Non-Smoker,Frequently,Heart Disease,Poor,Yes,8,Public,None,2023-09-07,Yes,Low,Unhealthy,Moderate
+66,Male,Others,Foreigner,Widowed,72.4,1.86,20.93,A,Dust,Smoker,Occasionally,Hypertension,Moderate,No,7,Public,Hospital,2023-06-19,No,High,Moderate,High
+76,Male,Others,Permanent Resident,Married,66.9,1.55,27.85,B,Dust,Non-Smoker,Never,None,Moderate,No,2,Private,Hospital,2021-10-24,Yes,Moderate,Moderate,Moderate
+69,Female,Chinese,Permanent Resident,Divorced,108.6,1.94,28.86,B,Pollen,Smoker,Never,Diabetes,Moderate,No,6,Private,None,2022-12-27,Yes,Low,Moderate,High
+65,Male,Indian,Foreigner,Divorced,89.8,1.75,29.32,B,None,Non-Smoker,Occasionally,None,Good,No,5,Public,None,2021-06-20,Yes,Low,Moderate,Low
+75,Male,Indian,Permanent Resident,Single,96.5,1.52,41.77,O,Dust,Non-Smoker,Occasionally,None,Poor,No,8,Private,Clinic,2022-05-28,No,Low,Moderate,None
+74,Female,Indian,Foreigner,Divorced,119.4,1.5,53.07,A,Nuts,Non-Smoker,Occasionally,Heart Disease,Good,Yes,4,Public,Clinic,2023-05-22,Yes,High,Unhealthy,High
+40,Male,Others,Foreigner,Married,115.3,1.74,38.08,A,Pollen,Non-Smoker,Never,None,Poor,Yes,5,Public,Hospital,2022-05-17,No,Moderate,Moderate,Moderate
+74,Female,Others,Foreigner,Married,107.9,1.85,31.53,B,Dust,Smoker,Never,Heart Disease,Good,Yes,3,Private,Hospital,2021-01-19,Yes,Moderate,Unhealthy,High
+69,Female,Indian,Citizen,Married,55.3,1.69,19.36,O,Nuts,Smoker,Never,None,Good,Yes,3,Private,Hospital,2021-05-08,Yes,High,Healthy,Moderate
+35,Female,Chinese,Foreigner,Divorced,114.1,1.93,30.63,O,None,Smoker,Frequently,None,Good,No,5,Public,None,2022-11-02,No,High,Unhealthy,None
+63,Male,Indian,Permanent Resident,Divorced,72.1,1.85,21.07,O,Nuts,Non-Smoker,Occasionally,Hypertension,Poor,Yes,6,Public,Hospital,2022-07-08,No,Moderate,Healthy,None
+20,Female,Chinese,Citizen,Widowed,114.9,1.97,29.61,AB,None,Non-Smoker,Never,Diabetes,Good,Yes,4,None,Hospital,2023-07-04,Yes,Moderate,Moderate,None
+23,Male,Indian,Citizen,Single,59.7,1.76,19.27,AB,Dust,Smoker,Occasionally,Hypertension,Poor,No,3,Private,Hospital,2021-07-10,No,Moderate,Unhealthy,Low
+77,Female,Others,Citizen,Divorced,76.2,1.75,24.88,B,Dust,Non-Smoker,Never,None,Good,No,1,Private,None,2021-04-05,No,Low,Healthy,Moderate
+20,Female,Malay,Foreigner,Divorced,52.6,1.7,18.2,A,Nuts,Non-Smoker,Never,Heart Disease,Good,Yes,8,None,Hospital,2022-02-07,No,High,Unhealthy,None
+64,Male,Others,Permanent Resident,Widowed,99.2,1.68,35.15,A,Pollen,Non-Smoker,Occasionally,Diabetes,Good,No,5,Public,Clinic,2021-09-25,Yes,Moderate,Moderate,None
+67,Male,Others,Foreigner,Divorced,110.9,1.65,40.73,A,None,Smoker,Never,Heart Disease,Poor,Yes,8,Private,None,2021-09-26,Yes,High,Healthy,None
+56,Female,Indian,Citizen,Widowed,112.7,1.65,41.4,O,Pollen,Smoker,Never,Hypertension,Good,Yes,2,None,Clinic,2021-04-03,Yes,Low,Unhealthy,None
+51,Male,Chinese,Foreigner,Widowed,87.1,1.87,24.91,B,None,Non-Smoker,Occasionally,None,Good,Yes,2,None,None,2021-09-17,No,High,Moderate,Low
+71,Female,Indian,Permanent Resident,Single,93,1.65,34.16,B,Dust,Non-Smoker,Frequently,None,Poor,No,8,Private,None,2021-07-19,Yes,Moderate,Moderate,High
+35,Female,Indian,Permanent Resident,Widowed,72.4,1.57,29.37,O,Pollen,Non-Smoker,Occasionally,Heart Disease,Good,Yes,2,None,None,2023-11-11,No,Low,Moderate,High
+45,Male,Indian,Citizen,Married,80.1,1.52,34.67,O,Pollen,Smoker,Never,None,Moderate,No,2,Public,None,2023-12-13,Yes,Low,Healthy,High
+58,Male,Malay,Permanent Resident,Single,103.9,1.72,35.12,O,Pollen,Non-Smoker,Never,Diabetes,Poor,Yes,9,None,Clinic,2023-05-14,No,Moderate,Unhealthy,None
+30,Female,Others,Permanent Resident,Divorced,119.3,1.54,50.3,B,Dust,Non-Smoker,Occasionally,Hypertension,Moderate,Yes,9,Public,Hospital,2021-11-01,No,Low,Healthy,Moderate
+37,Female,Chinese,Foreigner,Married,47.9,1.94,12.73,AB,Nuts,Non-Smoker,Occasionally,Heart Disease,Poor,No,3,None,Hospital,2022-08-24,No,High,Healthy,Moderate
+77,Female,Malay,Citizen,Widowed,47.1,1.67,16.89,AB,Dust,Non-Smoker,Never,None,Good,Yes,6,Public,None,2023-01-21,Yes,Moderate,Moderate,None
+44,Female,Indian,Citizen,Widowed,40.8,1.65,14.99,AB,Nuts,Non-Smoker,Occasionally,Diabetes,Moderate,No,5,Private,None,2023-08-26,Yes,High,Moderate,None
+67,Male,Others,Foreigner,Single,102.8,1.77,32.81,AB,None,Smoker,Occasionally,Diabetes,Moderate,No,2,None,None,2021-12-09,Yes,High,Unhealthy,None
+48,Male,Indian,Foreigner,Divorced,108.6,1.99,27.42,B,Dust,Non-Smoker,Frequently,Diabetes,Poor,Yes,0,Public,None,2022-06-01,Yes,Moderate,Unhealthy,None
+30,Male,Malay,Foreigner,Widowed,48.7,1.76,15.72,B,Dust,Non-Smoker,Never,Heart Disease,Moderate,Yes,9,None,Hospital,2021-03-13,Yes,Low,Moderate,None
+59,Male,Others,Permanent Resident,Widowed,118.4,1.9,32.8,O,Nuts,Non-Smoker,Frequently,None,Poor,No,6,None,Clinic,2022-09-25,No,Low,Moderate,High
+26,Male,Chinese,Foreigner,Widowed,85.3,1.7,29.52,A,None,Smoker,Frequently,Hypertension,Good,No,1,Private,None,2023-11-26,No,Moderate,Unhealthy,Moderate
+79,Male,Others,Foreigner,Married,73.7,1.94,19.58,O,Pollen,Smoker,Occasionally,Hypertension,Good,No,9,None,Clinic,2022-11-06,No,Low,Moderate,Low
+57,Female,Chinese,Permanent Resident,Widowed,89,1.58,35.65,AB,None,Non-Smoker,Occasionally,None,Good,Yes,4,Private,Hospital,2022-01-14,No,High,Unhealthy,None
+72,Female,Chinese,Permanent Resident,Divorced,107.5,1.68,38.09,B,Nuts,Smoker,Never,Heart Disease,Good,No,4,Private,None,2023-03-11,No,Low,Moderate,Low
+57,Female,Chinese,Citizen,Divorced,55.7,1.79,17.38,O,Pollen,Smoker,Never,Hypertension,Poor,Yes,0,Private,Hospital,2021-11-26,No,Low,Healthy,High
+38,Female,Malay,Permanent Resident,Married,43.1,1.9,11.94,AB,None,Non-Smoker,Occasionally,Diabetes,Moderate,Yes,1,None,Clinic,2022-04-22,No,Low,Unhealthy,Low
+27,Male,Others,Citizen,Divorced,98.7,1.71,33.75,AB,Pollen,Non-Smoker,Never,None,Poor,Yes,2,None,Clinic,2021-01-18,Yes,Moderate,Unhealthy,Low
+67,Female,Malay,Citizen,Divorced,43.8,1.52,18.96,O,Pollen,Non-Smoker,Never,Hypertension,Moderate,No,9,Private,None,2021-09-14,No,Moderate,Moderate,Moderate
+37,Female,Others,Permanent Resident,Married,113.5,1.75,37.06,AB,Nuts,Non-Smoker,Never,None,Good,No,8,None,Hospital,2023-07-21,Yes,Moderate,Healthy,Moderate
+50,Male,Malay,Foreigner,Widowed,87.2,1.58,34.93,O,Dust,Non-Smoker,Frequently,None,Good,Yes,3,Public,Clinic,2023-05-10,No,Low,Healthy,High
+77,Female,Malay,Citizen,Divorced,70.2,1.97,18.09,A,None,Smoker,Occasionally,Hypertension,Poor,No,5,Public,None,2021-07-02,No,High,Moderate,Moderate
+38,Male,Malay,Permanent Resident,Divorced,86.3,1.89,24.16,AB,None,Non-Smoker,Never,Heart Disease,Moderate,No,3,Private,Clinic,2023-04-20,No,High,Moderate,Low
+44,Male,Indian,Foreigner,Married,107.2,1.7,37.09,AB,Pollen,Smoker,Never,Hypertension,Poor,Yes,1,None,Clinic,2022-05-25,Yes,High,Unhealthy,None
+35,Female,Malay,Permanent Resident,Divorced,91.2,1.8,28.15,A,None,Non-Smoker,Frequently,None,Moderate,No,7,Public,Hospital,2021-08-07,No,Low,Moderate,None
+74,Female,Others,Citizen,Married,115.8,1.72,39.14,A,Nuts,Non-Smoker,Frequently,Heart Disease,Moderate,Yes,1,None,Hospital,2022-07-14,Yes,High,Healthy,High
+23,Female,Indian,Citizen,Divorced,57.7,1.55,24.02,AB,Dust,Smoker,Occasionally,Hypertension,Poor,Yes,5,None,None,2023-10-14,No,Low,Healthy,High
+38,Male,Malay,Foreigner,Single,87.7,1.82,26.48,A,Pollen,Non-Smoker,Frequently,Hypertension,Poor,Yes,4,Private,Hospital,2023-05-16,No,Low,Healthy,High
+78,Female,Chinese,Citizen,Widowed,54.9,1.66,19.92,AB,Dust,Smoker,Occasionally,None,Moderate,Yes,6,None,None,2022-11-17,Yes,Low,Moderate,Low
+35,Male,Chinese,Permanent Resident,Married,115.7,1.8,35.71,A,Dust,Non-Smoker,Occasionally,Hypertension,Moderate,No,2,None,None,2021-05-10,No,Low,Moderate,High
+78,Female,Chinese,Foreigner,Single,72.4,1.77,23.11,AB,Dust,Non-Smoker,Frequently,Heart Disease,Poor,No,6,Public,Hospital,2023-02-26,No,Low,Healthy,High
+53,Female,Indian,Foreigner,Widowed,49.7,1.66,18.04,AB,Pollen,Non-Smoker,Occasionally,Diabetes,Moderate,No,1,None,None,2022-12-11,No,High,Healthy,Moderate
+68,Female,Indian,Citizen,Divorced,43.4,1.69,15.2,A,Pollen,Non-Smoker,Never,Hypertension,Moderate,Yes,8,Private,None,2023-06-07,Yes,High,Healthy,Low
+54,Female,Malay,Permanent Resident,Widowed,95,1.87,27.17,A,None,Non-Smoker,Never,Heart Disease,Good,No,3,Public,Clinic,2021-12-15,No,Low,Moderate,Low
+53,Male,Malay,Permanent Resident,Widowed,98.1,1.89,27.46,AB,None,Non-Smoker,Occasionally,None,Moderate,No,9,Private,Clinic,2022-09-23,No,High,Healthy,Moderate
+49,Female,Malay,Foreigner,Divorced,72.3,1.73,24.16,A,Nuts,Non-Smoker,Occasionally,Diabetes,Moderate,No,6,Public,Clinic,2021-05-09,Yes,Low,Moderate,Moderate
+40,Male,Malay,Citizen,Divorced,53.2,1.96,13.85,B,None,Non-Smoker,Frequently,Heart Disease,Good,No,4,Private,None,2022-10-19,Yes,High,Moderate,None
+57,Male,Chinese,Foreigner,Divorced,111,1.69,38.86,AB,Dust,Smoker,Frequently,Diabetes,Good,Yes,0,Public,None,2021-02-24,Yes,Low,Healthy,High
+62,Male,Malay,Permanent Resident,Married,40.4,1.81,12.33,AB,Nuts,Smoker,Occasionally,Diabetes,Moderate,No,8,Private,Hospital,2022-08-11,No,High,Healthy,High
+39,Male,Chinese,Citizen,Married,75.7,1.58,30.32,O,Dust,Smoker,Never,Hypertension,Moderate,Yes,3,Private,None,2021-02-19,Yes,High,Unhealthy,Low
+61,Female,Chinese,Citizen,Widowed,45.5,1.63,17.13,AB,Dust,Non-Smoker,Frequently,Diabetes,Moderate,No,4,None,None,2021-02-18,No,Low,Unhealthy,Moderate
+77,Male,Indian,Permanent Resident,Single,58.7,1.95,15.44,B,Dust,Smoker,Never,Heart Disease,Moderate,Yes,3,None,Hospital,2021-12-12,Yes,Low,Moderate,Low
+28,Male,Malay,Foreigner,Married,84.3,1.52,36.49,B,Dust,Non-Smoker,Never,Heart Disease,Moderate,No,4,None,Hospital,2022-10-10,Yes,Moderate,Unhealthy,Moderate
+31,Female,Malay,Permanent Resident,Married,44.5,1.65,16.35,A,Dust,Non-Smoker,Occasionally,Hypertension,Moderate,No,6,Private,None,2021-11-05,Yes,Low,Moderate,Low
+24,Male,Chinese,Permanent Resident,Married,93.6,1.62,35.67,AB,Nuts,Non-Smoker,Occasionally,Diabetes,Poor,No,5,Private,Clinic,2023-08-11,Yes,High,Unhealthy,Moderate
+31,Male,Malay,Citizen,Divorced,41.5,1.78,13.1,A,Dust,Non-Smoker,Occasionally,Hypertension,Good,Yes,5,Private,None,2021-02-22,No,Moderate,Moderate,Low
+53,Male,Others,Permanent Resident,Single,100.6,1.87,28.77,O,None,Non-Smoker,Frequently,Hypertension,Good,No,5,Private,Hospital,2021-05-26,No,Low,Healthy,None
+71,Female,Indian,Citizen,Single,86,1.62,32.77,A,Pollen,Smoker,Frequently,Hypertension,Poor,No,4,None,None,2023-07-03,Yes,High,Moderate,None
+40,Female,Chinese,Citizen,Married,44.1,1.64,16.4,B,Nuts,Smoker,Never,Heart Disease,Good,No,0,None,Hospital,2021-02-01,Yes,High,Moderate,None
+35,Male,Others,Permanent Resident,Single,112.6,1.81,34.37,O,Dust,Non-Smoker,Never,None,Poor,Yes,7,Private,None,2021-03-02,No,High,Moderate,High
+29,Female,Chinese,Permanent Resident,Widowed,117.3,1.79,36.61,O,Dust,Smoker,Frequently,None,Moderate,No,2,Private,Hospital,2022-12-14,Yes,Moderate,Moderate,None
+40,Female,Others,Citizen,Widowed,59.2,1.88,16.75,A,Pollen,Non-Smoker,Never,None,Poor,No,0,Public,Clinic,2021-05-02,Yes,Low,Healthy,Moderate
+29,Male,Others,Permanent Resident,Widowed,51,1.88,14.43,O,Dust,Non-Smoker,Never,Hypertension,Poor,No,1,Private,None,2021-11-19,Yes,High,Unhealthy,High
+59,Female,Malay,Citizen,Married,54.4,1.84,16.07,B,None,Smoker,Frequently,Hypertension,Poor,Yes,9,None,Hospital,2022-12-20,Yes,Low,Healthy,High
+40,Female,Indian,Foreigner,Widowed,104.6,1.83,31.23,B,Nuts,Smoker,Frequently,Diabetes,Poor,Yes,7,Private,Clinic,2022-02-15,Yes,High,Moderate,Low
+61,Female,Indian,Citizen,Single,116.3,1.68,41.21,O,Dust,Non-Smoker,Never,Diabetes,Moderate,Yes,9,None,None,2021-06-22,Yes,Low,Moderate,Low
+51,Female,Others,Permanent Resident,Widowed,82.5,1.93,22.15,B,Nuts,Non-Smoker,Frequently,Heart Disease,Good,Yes,7,None,Clinic,2023-12-21,No,High,Unhealthy,Moderate
+73,Female,Malay,Foreigner,Divorced,82.9,1.65,30.45,A,None,Smoker,Occasionally,Diabetes,Good,Yes,7,None,None,2022-06-03,No,Moderate,Moderate,Low
+31,Female,Indian,Permanent Resident,Single,66.3,1.97,17.08,O,Dust,Non-Smoker,Frequently,Diabetes,Poor,Yes,6,Private,None,2021-07-25,No,High,Healthy,Low
+57,Female,Others,Citizen,Widowed,49.2,1.61,18.98,B,Dust,Non-Smoker,Frequently,Diabetes,Good,No,8,Public,Clinic,2023-09-24,No,Moderate,Healthy,Moderate
+62,Male,Malay,Citizen,Married,117.3,1.69,41.07,O,Dust,Smoker,Frequently,Heart Disease,Moderate,Yes,9,Private,Hospital,2021-02-08,Yes,Moderate,Healthy,None
+51,Female,Chinese,Citizen,Single,57.2,1.97,14.74,AB,Pollen,Non-Smoker,Occasionally,None,Good,No,6,None,Clinic,2023-02-16,Yes,Moderate,Moderate,Low
+77,Female,Chinese,Foreigner,Single,83.7,1.67,30.01,A,None,Non-Smoker,Occasionally,Hypertension,Good,No,4,None,Clinic,2021-01-19,No,Moderate,Moderate,Low
+31,Male,Others,Permanent Resident,Widowed,47,1.78,14.83,O,Nuts,Non-Smoker,Frequently,Heart Disease,Good,Yes,2,Public,Hospital,2022-02-20,No,Low,Healthy,High
+78,Female,Malay,Foreigner,Married,60.2,1.66,21.85,A,Dust,Smoker,Occasionally,Hypertension,Good,Yes,2,None,Clinic,2021-10-05,No,Low,Healthy,High
+29,Male,Indian,Foreigner,Married,47.4,1.63,17.84,B,Nuts,Non-Smoker,Occasionally,Hypertension,Good,Yes,0,Private,Hospital,2022-07-17,Yes,Low,Healthy,None
+78,Female,Chinese,Permanent Resident,Widowed,87.7,1.57,35.58,AB,None,Non-Smoker,Occasionally,Diabetes,Poor,No,0,Public,Clinic,2023-01-19,No,Low,Unhealthy,Low
+72,Male,Others,Foreigner,Divorced,96.4,1.77,30.77,AB,Dust,Non-Smoker,Never,Hypertension,Moderate,No,3,None,Clinic,2022-06-22,Yes,High,Healthy,None
+34,Male,Indian,Permanent Resident,Widowed,46.7,1.71,15.97,O,None,Non-Smoker,Occasionally,Hypertension,Poor,Yes,3,None,None,2022-09-19,Yes,Low,Moderate,Moderate
+23,Male,Malay,Citizen,Married,109.9,1.86,31.77,O,None,Non-Smoker,Frequently,Diabetes,Poor,Yes,9,Private,None,2023-12-01,No,High,Healthy,Low
+40,Male,Others,Permanent Resident,Widowed,70.1,1.57,28.44,O,None,Non-Smoker,Frequently,Heart Disease,Poor,No,4,Public,Clinic,2022-01-20,No,Moderate,Unhealthy,Moderate
+57,Female,Chinese,Permanent Resident,Widowed,116.6,1.84,34.44,AB,Pollen,Smoker,Never,None,Moderate,No,7,None,None,2023-12-07,Yes,Low,Healthy,Moderate
+56,Female,Chinese,Foreigner,Single,88.3,1.52,38.22,AB,None,Smoker,Occasionally,None,Poor,No,1,Public,None,2021-09-25,No,High,Healthy,None
+31,Female,Malay,Foreigner,Widowed,89.1,1.76,28.76,B,Pollen,Smoker,Frequently,Hypertension,Poor,No,3,None,Clinic,2023-12-04,No,Low,Unhealthy,Moderate
+62,Male,Chinese,Permanent Resident,Divorced,61.3,1.65,22.52,AB,None,Smoker,Occasionally,None,Good,No,4,Public,None,2022-12-07,No,Low,Healthy,Moderate
+35,Male,Others,Foreigner,Divorced,50.2,1.89,14.05,B,Dust,Smoker,Occasionally,Heart Disease,Good,No,3,Private,None,2021-04-17,Yes,Moderate,Healthy,Moderate
+66,Female,Indian,Permanent Resident,Widowed,74.3,1.75,24.26,O,Pollen,Non-Smoker,Frequently,Diabetes,Moderate,No,3,Private,None,2021-08-19,No,Moderate,Unhealthy,Low
+77,Male,Indian,Permanent Resident,Widowed,94.5,1.55,39.33,B,Dust,Smoker,Occasionally,Hypertension,Poor,Yes,5,Public,Hospital,2021-07-03,Yes,Moderate,Healthy,Low
+35,Male,Chinese,Citizen,Single,100.8,1.76,32.54,AB,Dust,Smoker,Never,None,Moderate,No,8,Private,Hospital,2023-05-08,Yes,Moderate,Unhealthy,Moderate
+31,Male,Indian,Foreigner,Widowed,66.3,1.71,22.67,B,None,Non-Smoker,Occasionally,None,Poor,No,6,Private,None,2023-08-18,No,High,Moderate,Low
+61,Male,Malay,Foreigner,Widowed,59.6,1.9,16.51,A,Nuts,Non-Smoker,Frequently,Hypertension,Moderate,Yes,1,Public,Clinic,2021-10-10,Yes,Moderate,Unhealthy,High
+59,Female,Others,Permanent Resident,Married,77.3,1.87,22.11,B,Nuts,Non-Smoker,Occasionally,Diabetes,Moderate,Yes,1,Private,Hospital,2023-05-27,No,High,Unhealthy,High
+42,Male,Indian,Citizen,Widowed,90.7,1.72,30.66,B,Dust,Non-Smoker,Frequently,None,Poor,Yes,1,None,Clinic,2022-04-21,No,High,Moderate,Low
+22,Male,Others,Permanent Resident,Married,69.5,1.82,20.98,O,None,Non-Smoker,Never,None,Good,Yes,5,Private,Hospital,2021-03-27,No,High,Healthy,Low
+78,Male,Indian,Permanent Resident,Divorced,52.8,1.89,14.78,AB,Pollen,Smoker,Never,Diabetes,Moderate,Yes,0,Public,None,2023-10-13,Yes,Low,Healthy,None
+56,Female,Others,Permanent Resident,Single,90.3,1.64,33.57,A,Dust,Non-Smoker,Frequently,None,Good,No,4,None,Hospital,2023-08-01,Yes,High,Healthy,High
+23,Male,Indian,Citizen,Widowed,106.4,1.55,44.29,A,Dust,Non-Smoker,Frequently,Diabetes,Poor,No,5,None,Hospital,2023-07-19,No,High,Unhealthy,High
+68,Male,Others,Permanent Resident,Divorced,106.6,1.9,29.53,AB,Dust,Smoker,Frequently,None,Poor,Yes,9,None,Clinic,2021-02-19,No,High,Healthy,Moderate
+56,Male,Indian,Permanent Resident,Widowed,84,1.77,26.81,AB,Nuts,Non-Smoker,Occasionally,Hypertension,Good,Yes,6,Private,None,2021-04-20,No,Moderate,Moderate,Moderate
+25,Male,Chinese,Citizen,Divorced,57.9,2,14.48,B,Nuts,Non-Smoker,Frequently,Hypertension,Poor,No,7,Private,None,2021-08-21,Yes,High,Healthy,Low
+49,Male,Others,Citizen,Divorced,59.6,1.87,17.04,O,None,Smoker,Never,Diabetes,Poor,Yes,6,Public,Hospital,2021-06-17,Yes,Moderate,Moderate,Moderate
+32,Male,Others,Citizen,Divorced,57.5,1.94,15.28,AB,Nuts,Non-Smoker,Never,Heart Disease,Good,No,9,None,None,2023-01-20,No,High,Healthy,None
+40,Female,Indian,Permanent Resident,Married,104.7,1.52,45.32,AB,None,Smoker,Never,Hypertension,Good,Yes,3,Public,Hospital,2021-07-26,Yes,Low,Moderate,Low
+44,Male,Malay,Permanent Resident,Divorced,69.8,1.88,19.75,O,None,Non-Smoker,Frequently,Diabetes,Poor,Yes,3,Public,None,2022-10-08,Yes,Low,Moderate,None
+35,Male,Chinese,Citizen,Single,87.3,1.76,28.18,AB,Dust,Non-Smoker,Occasionally,Diabetes,Poor,No,3,None,None,2022-05-23,No,Low,Healthy,Low
+74,Male,Chinese,Permanent Resident,Widowed,104.9,1.65,38.53,O,Nuts,Non-Smoker,Occasionally,Diabetes,Poor,Yes,0,Public,Hospital,2021-05-19,No,High,Healthy,High
+67,Female,Indian,Foreigner,Divorced,85.1,1.55,35.42,O,Nuts,Non-Smoker,Occasionally,Hypertension,Good,Yes,3,Private,Hospital,2023-01-05,No,High,Healthy,Moderate
+28,Male,Others,Citizen,Divorced,57.4,1.85,16.77,B,Pollen,Non-Smoker,Frequently,Hypertension,Moderate,No,1,None,Hospital,2022-12-03,Yes,High,Moderate,High
+21,Female,Malay,Foreigner,Divorced,45.7,1.74,15.09,AB,Nuts,Non-Smoker,Occasionally,Heart Disease,Moderate,Yes,3,None,Hospital,2023-05-07,No,Low,Healthy,Low
+73,Female,Others,Citizen,Married,49.8,1.98,12.7,AB,Nuts,Non-Smoker,Never,None,Good,Yes,1,Public,Clinic,2021-01-25,Yes,Moderate,Healthy,Moderate
+63,Male,Malay,Permanent Resident,Divorced,119.2,1.81,36.38,AB,None,Smoker,Frequently,Diabetes,Moderate,Yes,9,None,None,2022-09-06,Yes,High,Healthy,Moderate
+43,Male,Indian,Citizen,Widowed,85,1.67,30.48,B,Nuts,Smoker,Never,Diabetes,Poor,Yes,1,None,None,2022-09-05,No,High,Unhealthy,High
+45,Female,Indian,Citizen,Single,118.7,1.71,40.59,B,None,Non-Smoker,Occasionally,Diabetes,Good,Yes,8,None,Hospital,2021-06-18,No,Moderate,Healthy,Low
+76,Male,Chinese,Permanent Resident,Single,114.6,1.88,32.42,O,Pollen,Smoker,Never,Diabetes,Moderate,Yes,5,Private,Clinic,2023-11-04,No,Moderate,Unhealthy,Low
+58,Female,Chinese,Permanent Resident,Married,113.6,1.94,30.18,O,Pollen,Non-Smoker,Occasionally,Heart Disease,Moderate,Yes,2,None,Hospital,2021-10-02,No,High,Unhealthy,Low
+52,Female,Indian,Permanent Resident,Married,51.8,1.74,17.11,B,Dust,Non-Smoker,Occasionally,Diabetes,Poor,No,0,Public,Hospital,2022-07-19,No,Moderate,Unhealthy,None
+33,Male,Indian,Foreigner,Divorced,88.1,1.83,26.31,A,Nuts,Non-Smoker,Frequently,Hypertension,Moderate,Yes,6,Public,Clinic,2022-06-03,No,High,Moderate,High
+54,Female,Chinese,Citizen,Married,49.7,1.99,12.55,B,Dust,Non-Smoker,Frequently,None,Good,Yes,5,Public,Clinic,2021-01-08,No,High,Healthy,None
+21,Female,Indian,Foreigner,Married,97,1.86,28.04,B,None,Smoker,Never,Heart Disease,Good,Yes,8,Private,Hospital,2023-01-28,No,Moderate,Unhealthy,None
+61,Male,Others,Permanent Resident,Divorced,89.9,1.85,26.27,A,Pollen,Smoker,Never,None,Good,No,9,Public,Hospital,2021-12-23,No,Low,Healthy,None
+29,Female,Indian,Foreigner,Single,51.6,1.68,18.28,AB,Pollen,Non-Smoker,Occasionally,Hypertension,Poor,No,9,Public,None,2023-10-17,Yes,High,Moderate,None
+66,Male,Indian,Citizen,Single,90.7,1.82,27.38,A,Nuts,Non-Smoker,Occasionally,None,Poor,No,4,Public,Hospital,2022-02-27,Yes,High,Healthy,Low
+32,Female,Malay,Foreigner,Divorced,53.3,1.77,17.01,AB,Dust,Non-Smoker,Frequently,Diabetes,Good,Yes,6,Public,Clinic,2023-09-26,No,Low,Unhealthy,Low
+64,Female,Malay,Permanent Resident,Married,116.3,1.85,33.98,B,Dust,Non-Smoker,Occasionally,Diabetes,Moderate,No,5,Public,None,2021-07-07,Yes,High,Unhealthy,High
+35,Female,Indian,Foreigner,Divorced,55.7,1.92,15.11,B,Nuts,Smoker,Never,Hypertension,Poor,No,8,None,Hospital,2023-12-18,Yes,High,Moderate,High
+66,Female,Malay,Citizen,Married,90.3,1.82,27.26,A,None,Smoker,Frequently,None,Poor,Yes,4,Private,Clinic,2022-10-18,No,High,Healthy,Moderate
+35,Male,Chinese,Citizen,Widowed,48.9,1.53,20.89,B,Dust,Non-Smoker,Never,Hypertension,Good,No,6,Public,None,2021-04-12,Yes,High,Moderate,Low
+45,Female,Malay,Citizen,Married,69.8,1.71,23.87,AB,Pollen,Smoker,Frequently,Diabetes,Moderate,No,6,None,Hospital,2021-02-28,Yes,Moderate,Moderate,None
+38,Male,Chinese,Permanent Resident,Single,94,1.99,23.74,B,None,Non-Smoker,Never,None,Poor,Yes,3,Public,Clinic,2022-05-11,Yes,Moderate,Moderate,Moderate
+79,Female,Indian,Foreigner,Divorced,73.3,1.97,18.89,O,Dust,Non-Smoker,Never,None,Poor,No,1,Private,Clinic,2023-03-03,No,High,Healthy,Low
+66,Female,Chinese,Permanent Resident,Married,99.5,1.55,41.42,O,Nuts,Non-Smoker,Frequently,None,Poor,Yes,4,Private,Clinic,2021-08-23,Yes,Low,Healthy,Moderate
+54,Female,Malay,Citizen,Divorced,56.2,1.99,14.19,AB,None,Smoker,Never,Heart Disease,Moderate,No,3,Public,Hospital,2023-08-27,Yes,Moderate,Moderate,High
+34,Female,Indian,Foreigner,Single,109.6,1.94,29.12,O,Pollen,Non-Smoker,Frequently,Diabetes,Poor,No,0,Private,Hospital,2021-12-01,No,Low,Unhealthy,Moderate
+30,Female,Chinese,Citizen,Divorced,73.8,1.8,22.78,O,Nuts,Non-Smoker,Never,Hypertension,Poor,Yes,2,Private,Hospital,2022-01-18,Yes,Low,Moderate,Moderate
+78,Female,Others,Permanent Resident,Divorced,109.3,1.57,44.34,A,Dust,Non-Smoker,Never,Hypertension,Poor,No,2,None,Clinic,2023-04-20,Yes,Low,Moderate,None
+48,Female,Others,Foreigner,Single,83.2,1.78,26.26,AB,Dust,Smoker,Never,Hypertension,Moderate,No,3,Private,None,2021-11-28,Yes,High,Moderate,Moderate
+33,Male,Malay,Foreigner,Divorced,102.3,1.57,41.5,O,None,Non-Smoker,Frequently,Heart Disease,Good,Yes,7,Private,None,2023-01-17,Yes,High,Moderate,Moderate
+70,Male,Malay,Foreigner,Divorced,49.4,1.93,13.26,O,None,Smoker,Never,Diabetes,Moderate,No,0,Public,Clinic,2023-02-07,Yes,Moderate,Moderate,Low
+48,Male,Others,Foreigner,Single,52.1,1.82,15.73,B,Dust,Smoker,Occasionally,None,Poor,No,0,Private,None,2021-04-26,No,Low,Moderate,None
+69,Male,Others,Permanent Resident,Married,109.9,1.69,38.48,AB,None,Non-Smoker,Occasionally,Hypertension,Poor,No,4,Private,None,2023-10-17,No,Moderate,Healthy,Low
+37,Female,Chinese,Citizen,Widowed,75.4,1.97,19.43,AB,None,Non-Smoker,Frequently,Heart Disease,Poor,No,9,None,Hospital,2022-07-05,Yes,Moderate,Moderate,Low
+30,Male,Malay,Permanent Resident,Married,55.6,1.66,20.18,A,Dust,Smoker,Frequently,Hypertension,Good,No,0,None,Hospital,2021-08-22,Yes,Low,Unhealthy,High
+67,Male,Chinese,Permanent Resident,Divorced,110.8,1.76,35.77,AB,Pollen,Non-Smoker,Occasionally,Heart Disease,Good,Yes,8,None,Clinic,2022-09-16,Yes,Low,Moderate,Moderate
+75,Female,Chinese,Permanent Resident,Divorced,87.5,1.54,36.89,B,None,Non-Smoker,Occasionally,Diabetes,Good,Yes,1,Private,Clinic,2021-09-25,No,Moderate,Unhealthy,High
+23,Male,Malay,Citizen,Married,115.9,1.53,49.51,B,Dust,Smoker,Frequently,Diabetes,Good,Yes,9,None,Hospital,2022-01-05,No,Low,Healthy,None
+29,Male,Others,Foreigner,Widowed,45.4,1.69,15.9,A,None,Smoker,Never,Diabetes,Good,No,2,Private,None,2022-11-05,No,High,Moderate,Low
+68,Female,Chinese,Permanent Resident,Widowed,48.7,1.84,14.38,AB,Nuts,Non-Smoker,Occasionally,Diabetes,Good,Yes,0,Public,Hospital,2022-06-24,No,Low,Unhealthy,High
+63,Male,Malay,Permanent Resident,Married,106.7,1.75,34.84,A,Dust,Non-Smoker,Frequently,Diabetes,Good,No,7,Private,None,2022-12-22,No,Low,Moderate,High
+20,Male,Malay,Permanent Resident,Divorced,75.8,1.67,27.18,O,Pollen,Non-Smoker,Frequently,Heart Disease,Good,No,3,Private,None,2022-11-22,Yes,Moderate,Moderate,Moderate
+67,Female,Others,Citizen,Married,114.1,1.64,42.42,A,Dust,Non-Smoker,Frequently,Hypertension,Good,No,5,Private,None,2021-08-24,Yes,Low,Healthy,High
+67,Female,Chinese,Foreigner,Widowed,108.7,1.98,27.73,B,Pollen,Smoker,Frequently,None,Poor,Yes,6,Private,Hospital,2023-09-20,No,Moderate,Unhealthy,None
+51,Female,Others,Permanent Resident,Widowed,119.5,1.66,43.37,B,Pollen,Smoker,Never,Hypertension,Good,Yes,0,Public,Hospital,2021-05-12,No,High,Healthy,High
+28,Female,Others,Citizen,Widowed,116,1.97,29.89,B,None,Non-Smoker,Frequently,None,Moderate,No,5,None,Clinic,2022-09-10,No,High,Unhealthy,None
+44,Male,Others,Foreigner,Married,47.9,1.55,19.94,B,Pollen,Smoker,Occasionally,Hypertension,Moderate,Yes,2,Private,Clinic,2022-10-23,Yes,Low,Moderate,Low
+39,Female,Chinese,Citizen,Married,90.4,1.85,26.41,B,None,Smoker,Never,Heart Disease,Good,No,7,Public,Hospital,2022-07-16,Yes,Moderate,Healthy,Low
+62,Female,Malay,Foreigner,Divorced,92,1.88,26.03,A,None,Smoker,Never,Heart Disease,Moderate,Yes,3,Public,Clinic,2022-10-07,Yes,Low,Healthy,Low
+75,Female,Others,Permanent Resident,Married,109.7,1.97,28.27,O,Dust,Non-Smoker,Never,None,Poor,Yes,6,Public,Clinic,2022-02-10,No,High,Moderate,None
+45,Male,Chinese,Foreigner,Single,70.6,1.72,23.86,B,Dust,Non-Smoker,Frequently,None,Moderate,Yes,8,Public,None,2022-12-21,Yes,High,Moderate,None
+33,Male,Chinese,Foreigner,Divorced,66.1,1.82,19.96,AB,Pollen,Non-Smoker,Occasionally,None,Poor,No,3,Private,None,2023-07-09,No,Low,Moderate,Low
+75,Male,Malay,Citizen,Single,116,1.89,32.47,B,Dust,Smoker,Occasionally,None,Good,Yes,7,None,Hospital,2023-10-02,No,Low,Unhealthy,None
+72,Female,Chinese,Permanent Resident,Divorced,104.4,1.8,32.22,B,Pollen,Smoker,Never,Diabetes,Moderate,Yes,3,Public,Hospital,2022-12-11,No,Low,Moderate,High
+26,Male,Chinese,Permanent Resident,Single,86.2,1.95,22.67,O,None,Smoker,Never,Heart Disease,Good,No,4,None,Clinic,2023-10-09,No,High,Unhealthy,Low
+73,Male,Indian,Citizen,Divorced,81.6,1.6,31.87,AB,Dust,Non-Smoker,Never,Heart Disease,Good,Yes,6,Public,Hospital,2021-08-16,No,Moderate,Moderate,Low
+29,Male,Malay,Permanent Resident,Widowed,66.3,1.66,24.06,O,Nuts,Smoker,Frequently,Diabetes,Poor,Yes,0,Private,None,2022-11-05,Yes,Low,Moderate,None
+24,Female,Chinese,Foreigner,Widowed,82.2,1.8,25.37,B,Pollen,Smoker,Occasionally,Hypertension,Poor,No,3,None,Clinic,2023-11-12,No,Low,Unhealthy,Moderate
+57,Female,Chinese,Foreigner,Divorced,114.6,1.55,47.7,B,Pollen,Non-Smoker,Never,Heart Disease,Good,No,0,Private,None,2022-04-22,No,Moderate,Healthy,High
+56,Female,Indian,Citizen,Divorced,42.8,1.62,16.31,AB,Pollen,Smoker,Occasionally,Hypertension,Good,No,4,Private,Hospital,2023-05-14,No,Moderate,Healthy,Moderate
+31,Female,Indian,Foreigner,Single,90,1.77,28.73,A,None,Smoker,Never,Diabetes,Good,No,7,None,Clinic,2022-06-28,Yes,Moderate,Moderate,None
+23,Female,Others,Foreigner,Divorced,61.5,1.81,18.77,O,Nuts,Smoker,Frequently,Diabetes,Poor,Yes,4,None,Hospital,2021-03-27,No,Low,Healthy,Low
+62,Female,Others,Citizen,Divorced,112.9,1.59,44.66,AB,Dust,Non-Smoker,Occasionally,Diabetes,Poor,Yes,4,None,Hospital,2022-06-07,Yes,High,Unhealthy,Moderate
+61,Male,Others,Citizen,Widowed,117.9,1.91,32.32,A,None,Non-Smoker,Frequently,Diabetes,Good,No,5,None,Clinic,2021-12-02,Yes,Low,Moderate,Moderate
+20,Male,Chinese,Foreigner,Divorced,106.2,1.93,28.51,A,Nuts,Smoker,Frequently,Heart Disease,Poor,No,5,Private,Hospital,2022-08-04,Yes,Moderate,Moderate,Moderate
+36,Male,Chinese,Citizen,Divorced,90.1,1.57,36.55,O,Nuts,Non-Smoker,Never,Hypertension,Good,No,2,None,Clinic,2021-03-06,Yes,High,Healthy,High
+66,Male,Indian,Citizen,Married,109.4,1.51,47.98,O,Pollen,Smoker,Occasionally,Hypertension,Moderate,No,9,Private,Clinic,2023-03-26,No,Low,Healthy,Low
+79,Male,Chinese,Foreigner,Widowed,117.3,1.77,37.44,B,Nuts,Smoker,Frequently,None,Good,No,6,None,Hospital,2021-02-05,No,High,Unhealthy,Low
+66,Female,Malay,Permanent Resident,Single,71.4,1.57,28.97,B,Dust,Non-Smoker,Occasionally,Heart Disease,Poor,Yes,8,Private,None,2023-09-28,No,High,Unhealthy,Low
+22,Female,Indian,Foreigner,Divorced,60.7,1.73,20.28,O,None,Non-Smoker,Occasionally,Diabetes,Good,Yes,6,Private,None,2021-03-04,Yes,Low,Unhealthy,High
+42,Female,Malay,Permanent Resident,Divorced,108.9,1.75,35.56,B,None,Non-Smoker,Frequently,None,Good,Yes,7,None,Hospital,2021-02-18,Yes,Low,Moderate,High
+36,Male,Chinese,Permanent Resident,Single,44.6,1.9,12.35,AB,Dust,Smoker,Occasionally,None,Poor,No,7,None,Clinic,2022-07-21,No,Low,Healthy,None
+70,Female,Chinese,Foreigner,Divorced,76,1.77,24.26,A,Pollen,Smoker,Frequently,None,Moderate,No,7,Public,Clinic,2021-02-17,No,High,Moderate,Low
+62,Female,Malay,Permanent Resident,Single,113.9,1.75,37.19,O,None,Non-Smoker,Never,None,Poor,Yes,2,None,Clinic,2021-10-10,No,Low,Healthy,High
+54,Female,Indian,Foreigner,Married,60.1,1.97,15.49,B,Nuts,Non-Smoker,Frequently,Heart Disease,Poor,Yes,8,Private,None,2021-07-01,No,High,Healthy,Low
+47,Female,Malay,Foreigner,Single,93.2,1.6,36.41,O,Dust,Smoker,Occasionally,Hypertension,Good,No,9,Private,Hospital,2023-08-12,Yes,High,Moderate,Moderate
+52,Female,Chinese,Permanent Resident,Married,88.1,1.67,31.59,A,Pollen,Smoker,Occasionally,Diabetes,Poor,No,6,Private,None,2023-07-23,Yes,Low,Moderate,None
+29,Male,Others,Citizen,Married,49.4,1.92,13.4,O,Dust,Non-Smoker,Frequently,None,Moderate,Yes,5,Private,Clinic,2021-05-11,No,High,Moderate,Moderate
+49,Female,Indian,Permanent Resident,Single,93,1.76,30.02,A,Nuts,Smoker,Frequently,Hypertension,Good,Yes,6,None,Clinic,2021-12-07,No,Moderate,Unhealthy,None
+66,Male,Others,Foreigner,Widowed,45.8,1.96,11.92,B,Dust,Smoker,Occasionally,Diabetes,Good,Yes,9,Private,Clinic,2023-12-18,Yes,Low,Unhealthy,Low
+79,Male,Indian,Permanent Resident,Single,77.5,1.81,23.66,AB,None,Smoker,Frequently,Diabetes,Poor,Yes,9,Private,None,2022-09-14,Yes,Moderate,Unhealthy,Moderate
+70,Female,Indian,Permanent Resident,Married,96.7,1.75,31.58,B,Pollen,Non-Smoker,Occasionally,Hypertension,Poor,No,8,None,Clinic,2021-08-27,Yes,Low,Healthy,High
+44,Female,Others,Permanent Resident,Married,83.2,1.56,34.19,O,None,Non-Smoker,Frequently,Diabetes,Poor,Yes,6,Public,Hospital,2021-08-14,Yes,Low,Moderate,Low
+28,Female,Others,Foreigner,Divorced,109.4,1.77,34.92,A,Pollen,Non-Smoker,Occasionally,None,Good,No,9,Private,Clinic,2022-08-26,Yes,Low,Healthy,None
+33,Female,Indian,Citizen,Widowed,51,1.6,19.92,AB,Dust,Smoker,Occasionally,Heart Disease,Moderate,No,7,Private,None,2023-06-17,Yes,Low,Unhealthy,None
+35,Male,Indian,Permanent Resident,Single,87,1.8,26.85,O,Pollen,Non-Smoker,Frequently,None,Moderate,Yes,0,Public,Hospital,2021-01-08,Yes,High,Moderate,High
+55,Female,Others,Permanent Resident,Single,103.3,1.85,30.18,A,Pollen,Smoker,Frequently,None,Moderate,Yes,1,Public,None,2023-02-24,No,Moderate,Unhealthy,Low
+39,Male,Malay,Citizen,Widowed,42.3,1.6,16.52,AB,None,Smoker,Frequently,Diabetes,Good,Yes,4,Private,Hospital,2022-01-12,No,High,Healthy,None
+47,Male,Malay,Citizen,Married,92.2,1.67,33.06,O,Dust,Non-Smoker,Never,Diabetes,Moderate,No,3,Private,None,2022-03-06,No,High,Moderate,None
+64,Male,Chinese,Permanent Resident,Married,114.7,1.61,44.25,B,None,Non-Smoker,Never,Diabetes,Moderate,No,4,Private,Hospital,2022-01-26,No,High,Healthy,High
+44,Female,Indian,Citizen,Divorced,52.4,1.76,16.92,O,Nuts,Non-Smoker,Occasionally,None,Poor,No,8,Private,Clinic,2021-09-19,No,Moderate,Moderate,Moderate
+45,Female,Chinese,Citizen,Married,55,1.9,15.24,B,Nuts,Smoker,Never,Heart Disease,Moderate,No,1,None,Clinic,2021-03-17,No,Moderate,Moderate,Moderate
+24,Female,Others,Permanent Resident,Married,101.1,1.7,34.98,A,Pollen,Smoker,Never,Hypertension,Moderate,Yes,4,None,None,2021-06-19,No,High,Moderate,Moderate
+78,Female,Indian,Permanent Resident,Single,102.1,1.68,36.17,O,None,Smoker,Frequently,Diabetes,Good,No,9,Public,Clinic,2022-07-18,No,Low,Moderate,Low
+74,Female,Indian,Citizen,Single,97.2,1.65,35.7,A,Nuts,Smoker,Frequently,Diabetes,Poor,No,1,None,Clinic,2023-01-07,No,High,Unhealthy,None
+73,Male,Malay,Citizen,Divorced,47,1.57,19.07,O,Nuts,Smoker,Never,Diabetes,Good,No,7,Public,None,2021-02-09,No,High,Moderate,High
+26,Male,Malay,Foreigner,Divorced,48.6,1.53,20.76,O,Dust,Non-Smoker,Frequently,Heart Disease,Poor,No,7,None,Hospital,2022-11-04,Yes,High,Healthy,High
+76,Male,Chinese,Citizen,Widowed,61,1.92,16.55,B,None,Non-Smoker,Frequently,None,Good,Yes,5,None,Clinic,2023-01-01,No,Low,Moderate,Moderate
+21,Male,Chinese,Citizen,Married,90.4,1.6,35.31,AB,Pollen,Non-Smoker,Occasionally,Diabetes,Good,Yes,9,Private,None,2021-06-03,Yes,High,Moderate,Low
+40,Female,Others,Foreigner,Widowed,84.1,1.64,31.27,B,None,Smoker,Never,None,Poor,No,4,Private,Hospital,2022-05-08,No,Low,Unhealthy,None
+71,Female,Chinese,Foreigner,Widowed,91.4,1.7,31.63,AB,Dust,Non-Smoker,Frequently,None,Poor,No,3,Private,Clinic,2023-12-22,No,Moderate,Moderate,None
+59,Female,Others,Citizen,Widowed,85.2,1.67,30.55,A,Dust,Non-Smoker,Never,Heart Disease,Good,No,6,None,Clinic,2023-08-01,Yes,Moderate,Unhealthy,High
+34,Male,Chinese,Permanent Resident,Married,71.9,1.59,28.44,A,None,Smoker,Never,Diabetes,Moderate,Yes,9,Private,Hospital,2021-02-14,Yes,High,Moderate,None
+49,Male,Indian,Foreigner,Single,74,1.7,25.61,B,Pollen,Non-Smoker,Never,Hypertension,Moderate,Yes,8,Public,Hospital,2021-04-09,Yes,Moderate,Unhealthy,Low
+47,Female,Malay,Citizen,Divorced,87.3,1.79,27.25,A,Nuts,Smoker,Occasionally,Hypertension,Moderate,No,7,Private,Clinic,2022-10-28,No,High,Moderate,Moderate
+77,Male,Others,Citizen,Divorced,108.7,1.98,27.73,O,Dust,Smoker,Frequently,Heart Disease,Good,Yes,4,None,Clinic,2022-01-12,No,Moderate,Moderate,Low
+28,Male,Chinese,Citizen,Single,68.4,1.5,30.4,B,Pollen,Smoker,Occasionally,Heart Disease,Poor,No,6,Public,Hospital,2021-09-05,Yes,Low,Healthy,Moderate
+78,Male,Malay,Citizen,Married,52.6,1.76,16.98,O,Pollen,Non-Smoker,Frequently,Hypertension,Good,No,1,Private,Hospital,2023-06-19,Yes,Low,Unhealthy,High
+50,Female,Indian,Foreigner,Single,47.7,1.65,17.52,A,None,Non-Smoker,Never,Diabetes,Good,No,4,Public,Clinic,2021-01-10,No,Low,Moderate,None
+29,Male,Malay,Citizen,Single,80.6,1.64,29.97,A,Dust,Smoker,Occasionally,Heart Disease,Good,No,7,Public,None,2023-11-08,Yes,Moderate,Moderate,None
+46,Female,Indian,Citizen,Divorced,102.3,1.66,37.12,B,Dust,Smoker,Frequently,Hypertension,Poor,Yes,1,None,Clinic,2022-01-25,No,High,Moderate,Moderate
+25,Male,Indian,Citizen,Single,88.5,1.56,36.37,B,Pollen,Non-Smoker,Frequently,Heart Disease,Poor,Yes,1,Public,None,2022-05-17,No,Moderate,Healthy,None
+60,Male,Chinese,Citizen,Married,107.9,1.65,39.63,AB,Nuts,Non-Smoker,Never,Heart Disease,Moderate,No,7,None,Clinic,2021-02-17,No,High,Unhealthy,None
+42,Male,Indian,Citizen,Married,110.6,1.88,31.29,O,Dust,Smoker,Never,Hypertension,Poor,Yes,7,Private,None,2022-03-05,Yes,Moderate,Unhealthy,None
+64,Female,Chinese,Permanent Resident,Married,93.6,1.72,31.64,O,Dust,Non-Smoker,Frequently,Diabetes,Moderate,Yes,7,Public,Hospital,2023-09-25,Yes,Low,Healthy,Low
+65,Female,Indian,Permanent Resident,Married,48.5,1.64,18.03,B,Nuts,Smoker,Never,Diabetes,Poor,No,7,Private,None,2021-09-09,Yes,High,Moderate,Moderate
+38,Male,Chinese,Foreigner,Divorced,102.6,1.67,36.79,B,Nuts,Smoker,Occasionally,None,Poor,No,0,Private,None,2022-11-28,No,Moderate,Unhealthy,High
+54,Female,Others,Citizen,Widowed,103,1.88,29.14,AB,Dust,Smoker,Frequently,Heart Disease,Good,Yes,9,Private,None,2022-07-02,Yes,Moderate,Healthy,Moderate
+30,Female,Indian,Foreigner,Single,85.6,2,21.4,B,Dust,Non-Smoker,Frequently,Heart Disease,Poor,Yes,5,None,Hospital,2023-10-01,Yes,High,Unhealthy,Moderate
+73,Female,Others,Foreigner,Married,66.4,1.9,18.39,B,Nuts,Smoker,Frequently,Hypertension,Good,No,6,None,Clinic,2022-08-14,No,Moderate,Healthy,None
+25,Male,Others,Foreigner,Widowed,47,1.92,12.75,AB,Nuts,Smoker,Never,None,Poor,Yes,2,None,Clinic,2021-06-24,No,Moderate,Healthy,Moderate
+34,Male,Malay,Citizen,Divorced,75.4,1.53,32.21,AB,Pollen,Non-Smoker,Occasionally,Diabetes,Moderate,Yes,0,None,Clinic,2021-02-18,No,Moderate,Moderate,Moderate
+49,Male,Malay,Foreigner,Divorced,103.8,1.75,33.89,O,Pollen,Smoker,Occasionally,Diabetes,Moderate,No,0,Private,None,2021-01-09,No,Moderate,Moderate,Moderate
+34,Male,Others,Citizen,Married,64.5,1.81,19.69,A,Dust,Smoker,Frequently,None,Good,Yes,0,None,None,2022-02-17,Yes,Moderate,Moderate,Moderate
+57,Female,Chinese,Foreigner,Married,114.2,1.53,48.78,A,Pollen,Smoker,Never,Diabetes,Moderate,Yes,9,None,Hospital,2023-12-21,No,Low,Healthy,None
+64,Female,Others,Foreigner,Widowed,84.5,1.56,34.72,O,Dust,Smoker,Frequently,None,Poor,Yes,1,None,Clinic,2023-12-26,Yes,Moderate,Moderate,High
+73,Male,Indian,Citizen,Widowed,104.3,1.53,44.56,O,None,Smoker,Frequently,Diabetes,Moderate,No,9,None,Clinic,2023-04-13,Yes,Low,Healthy,Low
+33,Male,Malay,Citizen,Widowed,57.5,1.78,18.15,B,Dust,Smoker,Occasionally,None,Moderate,Yes,5,Public,None,2023-02-20,No,Low,Healthy,None
+22,Male,Indian,Foreigner,Widowed,44.2,1.54,18.64,AB,Pollen,Non-Smoker,Frequently,None,Moderate,No,1,None,Hospital,2021-02-05,Yes,Moderate,Healthy,None
+34,Male,Malay,Foreigner,Divorced,110.5,1.52,47.83,AB,None,Non-Smoker,Never,Diabetes,Good,No,9,None,None,2022-12-19,Yes,High,Healthy,Moderate
+78,Male,Others,Foreigner,Single,98.6,1.59,39,O,Pollen,Smoker,Frequently,Heart Disease,Good,No,1,None,Clinic,2023-02-08,No,Moderate,Healthy,High
+65,Female,Indian,Foreigner,Widowed,68.7,1.99,17.35,AB,Nuts,Smoker,Occasionally,None,Moderate,No,3,Public,None,2022-07-14,No,Low,Healthy,None
+52,Female,Indian,Citizen,Married,40.3,1.7,13.94,AB,None,Non-Smoker,Occasionally,None,Poor,Yes,8,Private,None,2021-10-04,No,Low,Unhealthy,Moderate
+32,Male,Malay,Permanent Resident,Married,63,1.57,25.56,B,Nuts,Smoker,Frequently,Diabetes,Good,Yes,3,None,Hospital,2022-03-07,Yes,Low,Moderate,Low
+76,Male,Others,Citizen,Single,92,1.67,32.99,O,Nuts,Smoker,Never,Hypertension,Good,No,8,Public,None,2022-03-22,No,Low,Moderate,None
+54,Male,Malay,Permanent Resident,Divorced,51.2,1.71,17.51,B,Dust,Non-Smoker,Never,Heart Disease,Poor,Yes,0,Public,None,2021-10-04,Yes,Moderate,Healthy,High
+71,Female,Others,Permanent Resident,Divorced,97.9,1.56,40.23,AB,Dust,Smoker,Never,None,Moderate,Yes,4,Private,Clinic,2023-09-28,Yes,Low,Unhealthy,None
+23,Male,Chinese,Citizen,Widowed,97.6,1.71,33.38,AB,Dust,Non-Smoker,Occasionally,Hypertension,Poor,No,6,Public,Hospital,2022-10-11,No,Low,Unhealthy,Moderate
+21,Female,Others,Permanent Resident,Divorced,71.1,1.87,20.33,O,Pollen,Smoker,Occasionally,Hypertension,Moderate,No,1,Private,Hospital,2022-03-19,No,Moderate,Healthy,High
+70,Female,Chinese,Citizen,Widowed,60.9,1.77,19.44,O,Pollen,Non-Smoker,Never,Heart Disease,Poor,No,7,None,None,2023-08-01,No,Moderate,Healthy,High
+25,Female,Malay,Citizen,Married,82.3,1.75,26.87,AB,Nuts,Non-Smoker,Never,Heart Disease,Poor,Yes,4,None,None,2022-07-09,Yes,High,Moderate,Moderate
+74,Female,Indian,Citizen,Widowed,46.8,1.71,16,AB,Pollen,Non-Smoker,Never,Diabetes,Moderate,Yes,6,Private,Hospital,2021-08-28,Yes,High,Healthy,Low
+29,Female,Malay,Citizen,Widowed,78.7,1.6,30.74,O,Pollen,Smoker,Never,None,Good,No,5,Public,Clinic,2022-09-05,Yes,Low,Healthy,High
+62,Male,Chinese,Permanent Resident,Married,43,1.56,17.67,AB,Pollen,Non-Smoker,Frequently,Diabetes,Moderate,Yes,7,None,Clinic,2022-11-15,Yes,Low,Healthy,None
+27,Female,Chinese,Foreigner,Widowed,81.9,1.65,30.08,AB,Nuts,Non-Smoker,Occasionally,Heart Disease,Poor,Yes,1,Public,Clinic,2022-01-05,No,Low,Healthy,High
+48,Female,Malay,Citizen,Widowed,78.9,1.55,32.84,B,Nuts,Smoker,Frequently,None,Poor,Yes,1,Private,None,2022-01-26,Yes,Moderate,Unhealthy,Moderate
+56,Male,Malay,Citizen,Widowed,60.1,1.86,17.37,O,Pollen,Smoker,Occasionally,Heart Disease,Moderate,No,1,Private,Hospital,2022-08-20,No,Low,Healthy,High
+67,Male,Chinese,Permanent Resident,Married,81.9,1.57,33.23,B,Pollen,Non-Smoker,Frequently,Hypertension,Poor,Yes,7,Private,None,2023-01-16,Yes,High,Unhealthy,High
+69,Male,Chinese,Foreigner,Married,84,1.92,22.79,B,None,Smoker,Frequently,Hypertension,Good,No,1,None,Clinic,2022-10-27,Yes,Low,Moderate,Low
+34,Male,Indian,Permanent Resident,Divorced,55.7,1.91,15.27,O,Dust,Non-Smoker,Occasionally,None,Poor,Yes,0,None,Hospital,2021-07-25,Yes,High,Moderate,High
+22,Female,Indian,Foreigner,Widowed,87.7,1.58,35.13,O,Nuts,Smoker,Frequently,Hypertension,Moderate,No,2,None,Hospital,2022-09-17,Yes,Moderate,Unhealthy,None
+76,Female,Malay,Foreigner,Married,60.9,1.71,20.83,O,None,Non-Smoker,Frequently,Diabetes,Poor,No,3,None,Clinic,2022-11-01,No,High,Healthy,High
+27,Female,Malay,Foreigner,Single,110.8,1.86,32.03,O,Nuts,Smoker,Never,Hypertension,Poor,No,4,Public,Hospital,2021-10-22,No,High,Healthy,Moderate
+24,Female,Chinese,Permanent Resident,Widowed,86.4,1.65,31.74,AB,Nuts,Smoker,Occasionally,None,Moderate,Yes,6,Public,None,2021-06-08,No,Moderate,Healthy,Moderate
+51,Female,Others,Permanent Resident,Single,97.7,1.65,35.89,A,None,Non-Smoker,Frequently,Diabetes,Good,No,5,Public,Hospital,2022-01-26,No,Low,Moderate,High
+57,Female,Chinese,Foreigner,Divorced,50.3,1.78,15.88,O,Pollen,Non-Smoker,Never,Diabetes,Moderate,Yes,0,None,Hospital,2023-01-24,No,Moderate,Unhealthy,Low
+24,Male,Others,Citizen,Widowed,118.7,1.52,51.38,A,Dust,Non-Smoker,Occasionally,Heart Disease,Good,No,4,Public,Hospital,2023-10-04,Yes,Moderate,Moderate,Low
+40,Male,Indian,Permanent Resident,Divorced,60.2,1.72,20.35,O,Pollen,Non-Smoker,Never,Hypertension,Good,Yes,7,Public,None,2023-05-23,No,High,Healthy,None
+24,Female,Malay,Permanent Resident,Married,62.6,1.67,22.45,B,Dust,Smoker,Never,Diabetes,Moderate,No,7,Public,Hospital,2022-12-07,No,High,Unhealthy,None
+22,Female,Chinese,Foreigner,Single,43.5,1.93,11.68,AB,Nuts,Smoker,Frequently,Diabetes,Good,Yes,8,None,Clinic,2023-08-01,No,Moderate,Moderate,High
+71,Female,Indian,Citizen,Divorced,70,1.91,19.19,A,Pollen,Non-Smoker,Occasionally,Diabetes,Good,Yes,1,Private,Clinic,2022-02-14,Yes,Moderate,Unhealthy,Moderate
+40,Male,Others,Foreigner,Divorced,105.3,1.95,27.69,B,Dust,Non-Smoker,Frequently,Hypertension,Moderate,Yes,2,None,None,2021-02-19,No,Low,Unhealthy,Moderate
+45,Male,Indian,Citizen,Single,115.9,1.52,50.16,B,Pollen,Non-Smoker,Never,Hypertension,Poor,No,9,None,Hospital,2022-10-23,Yes,High,Healthy,None
+33,Female,Indian,Foreigner,Single,93.7,1.54,39.51,A,Dust,Smoker,Never,Hypertension,Good,Yes,0,None,Hospital,2022-03-16,Yes,High,Healthy,Moderate
+57,Male,Indian,Citizen,Single,85.9,1.9,23.8,A,Dust,Smoker,Frequently,Hypertension,Moderate,No,7,Public,None,2021-05-11,No,Low,Unhealthy,None
+25,Female,Chinese,Permanent Resident,Widowed,114.8,1.59,45.41,O,None,Smoker,Frequently,Hypertension,Good,No,8,None,None,2022-05-18,No,High,Moderate,None
+30,Male,Indian,Citizen,Widowed,119.4,1.92,32.39,A,Dust,Smoker,Frequently,None,Moderate,Yes,4,Private,Hospital,2022-02-18,No,High,Moderate,None
+60,Male,Others,Foreigner,Divorced,105.6,1.85,30.85,O,None,Non-Smoker,Never,Heart Disease,Poor,Yes,7,Private,Clinic,2022-04-22,No,Low,Unhealthy,Moderate
+33,Female,Others,Permanent Resident,Married,87.1,1.78,27.49,AB,None,Non-Smoker,Never,Heart Disease,Moderate,No,0,Private,Clinic,2021-10-26,No,Moderate,Moderate,Low
+64,Male,Malay,Permanent Resident,Single,97.1,1.86,28.07,O,Pollen,Non-Smoker,Never,None,Moderate,No,1,None,None,2021-06-25,Yes,Low,Unhealthy,High
+48,Female,Chinese,Citizen,Divorced,57.8,1.95,15.2,O,None,Non-Smoker,Never,Diabetes,Poor,No,1,Public,Hospital,2023-03-06,No,High,Moderate,None
+27,Male,Chinese,Foreigner,Widowed,43.2,1.87,12.35,B,Nuts,Non-Smoker,Never,Hypertension,Poor,No,8,Public,Clinic,2021-07-16,Yes,High,Healthy,Low
+78,Female,Others,Citizen,Widowed,119.6,1.68,42.38,O,Nuts,Non-Smoker,Occasionally,Diabetes,Poor,No,1,Private,Clinic,2021-04-22,No,Moderate,Healthy,Low
+69,Male,Others,Foreigner,Single,45,1.66,16.33,A,None,Non-Smoker,Frequently,Diabetes,Poor,No,7,None,Clinic,2021-04-15,Yes,Low,Unhealthy,Low
+30,Male,Chinese,Permanent Resident,Widowed,79.7,1.52,34.5,O,Nuts,Smoker,Occasionally,None,Poor,Yes,7,None,Clinic,2021-04-19,Yes,Low,Moderate,None
+21,Female,Others,Foreigner,Married,97.4,1.69,34.1,AB,None,Smoker,Occasionally,Hypertension,Poor,Yes,1,Private,Clinic,2021-08-12,Yes,Low,Unhealthy,Moderate
+36,Female,Others,Citizen,Widowed,95.5,1.62,36.39,B,Dust,Smoker,Occasionally,Hypertension,Moderate,No,3,Private,Hospital,2021-06-12,No,Low,Unhealthy,Low
+68,Male,Indian,Citizen,Divorced,51.3,1.98,13.09,AB,Pollen,Smoker,Occasionally,Hypertension,Good,No,2,None,Clinic,2021-06-12,No,Low,Unhealthy,High
+26,Male,Chinese,Citizen,Single,73.4,1.94,19.5,B,Dust,Smoker,Occasionally,Diabetes,Moderate,No,1,Private,None,2021-07-03,No,High,Moderate,Moderate
+46,Male,Malay,Foreigner,Widowed,76.3,1.59,30.18,O,Dust,Smoker,Never,Hypertension,Poor,No,4,Private,None,2022-10-28,No,Moderate,Moderate,Moderate
+59,Female,Chinese,Citizen,Married,66,1.99,16.67,A,Nuts,Non-Smoker,Occasionally,Heart Disease,Poor,No,5,None,Clinic,2022-07-25,No,Low,Moderate,None
+27,Female,Others,Foreigner,Widowed,68.7,1.99,17.35,O,None,Non-Smoker,Never,Diabetes,Moderate,No,8,Public,Clinic,2022-05-09,Yes,Moderate,Unhealthy,None
+25,Male,Indian,Permanent Resident,Widowed,74.4,1.58,29.8,A,Pollen,Smoker,Frequently,Heart Disease,Moderate,Yes,3,Private,Clinic,2022-08-17,No,Moderate,Healthy,High
+36,Female,Indian,Citizen,Widowed,68.5,1.66,24.86,B,Dust,Non-Smoker,Never,None,Moderate,No,3,None,Clinic,2023-08-13,No,High,Healthy,None
+67,Female,Others,Foreigner,Divorced,60.6,1.68,21.47,A,None,Non-Smoker,Never,Heart Disease,Poor,Yes,7,Private,Clinic,2022-08-13,No,Low,Healthy,Low
+53,Female,Chinese,Permanent Resident,Divorced,91.9,1.58,36.81,B,Pollen,Smoker,Frequently,Hypertension,Poor,No,3,None,Clinic,2023-02-10,No,Low,Unhealthy,None
+57,Male,Others,Foreigner,Divorced,71.4,1.91,19.57,AB,Pollen,Smoker,Frequently,Hypertension,Moderate,No,3,Private,Hospital,2021-08-03,Yes,High,Healthy,Low
+71,Male,Chinese,Foreigner,Divorced,47.4,1.74,15.66,A,Nuts,Non-Smoker,Occasionally,Hypertension,Poor,No,3,None,Hospital,2023-06-26,Yes,Moderate,Moderate,Low
+56,Female,Indian,Citizen,Married,58.2,1.99,14.7,B,None,Non-Smoker,Frequently,Heart Disease,Good,No,5,Private,Clinic,2021-10-13,No,Moderate,Unhealthy,High
+52,Male,Others,Citizen,Married,84.2,1.9,23.32,AB,Pollen,Non-Smoker,Never,Heart Disease,Poor,No,7,None,None,2022-10-06,No,High,Healthy,Low
+56,Male,Malay,Permanent Resident,Married,103,1.75,33.63,A,Pollen,Non-Smoker,Occasionally,Hypertension,Moderate,No,4,None,Hospital,2023-12-11,Yes,High,Unhealthy,None
+63,Female,Malay,Permanent Resident,Married,86.2,1.82,26.02,A,Dust,Non-Smoker,Frequently,None,Moderate,Yes,3,Private,None,2021-08-14,Yes,High,Unhealthy,None
+35,Female,Indian,Citizen,Single,44.7,1.76,14.43,AB,Dust,Non-Smoker,Occasionally,Heart Disease,Moderate,No,1,Private,Hospital,2022-10-16,No,Low,Moderate,None
+26,Male,Indian,Citizen,Widowed,82.5,1.58,33.05,B,Dust,Smoker,Occasionally,None,Moderate,Yes,9,None,None,2022-03-25,Yes,High,Unhealthy,High
+71,Male,Others,Foreigner,Single,76,1.88,21.5,B,None,Smoker,Occasionally,Hypertension,Poor,Yes,3,Public,Hospital,2023-02-19,No,Low,Healthy,None
+30,Female,Others,Foreigner,Widowed,88.7,1.79,27.68,O,Dust,Smoker,Occasionally,Diabetes,Moderate,No,0,Private,Hospital,2021-04-23,No,Low,Moderate,High
+77,Male,Others,Foreigner,Widowed,76.6,1.87,21.91,B,Dust,Smoker,Never,Diabetes,Moderate,No,6,None,Hospital,2023-12-23,No,High,Healthy,High
+46,Female,Indian,Permanent Resident,Married,76.5,1.84,22.6,B,None,Non-Smoker,Never,Hypertension,Poor,No,5,None,None,2021-08-24,Yes,Moderate,Healthy,High
+31,Female,Malay,Citizen,Divorced,78,1.74,25.76,O,Pollen,Non-Smoker,Never,Heart Disease,Moderate,Yes,6,None,None,2021-01-01,Yes,Moderate,Moderate,High
+64,Female,Others,Foreigner,Married,51.6,1.87,14.76,B,Nuts,Non-Smoker,Never,Diabetes,Good,No,2,None,None,2023-09-20,Yes,Low,Healthy,Moderate
+62,Female,Indian,Permanent Resident,Married,79.7,1.96,20.75,O,None,Non-Smoker,Frequently,Diabetes,Moderate,No,9,Private,Hospital,2022-08-15,Yes,Low,Moderate,None
+50,Female,Others,Permanent Resident,Widowed,80.1,1.56,32.91,B,Nuts,Non-Smoker,Frequently,None,Poor,No,2,Public,Clinic,2022-09-09,No,Moderate,Healthy,High
+64,Male,Indian,Permanent Resident,Widowed,109.7,1.56,45.08,A,None,Smoker,Never,Hypertension,Good,Yes,7,Public,Clinic,2021-06-02,No,High,Unhealthy,Moderate
+40,Male,Chinese,Citizen,Married,102.7,1.98,26.2,A,Dust,Non-Smoker,Frequently,Hypertension,Good,No,9,None,None,2022-08-22,No,High,Unhealthy,Low
+56,Male,Chinese,Foreigner,Widowed,59.8,1.62,22.79,O,Nuts,Smoker,Never,None,Good,No,3,None,None,2021-02-10,Yes,Low,Unhealthy,Moderate
+79,Male,Indian,Foreigner,Single,45.3,1.72,15.31,O,Dust,Smoker,Frequently,None,Good,Yes,5,None,None,2021-06-27,No,Low,Moderate,High
+58,Male,Malay,Permanent Resident,Married,53.5,1.96,13.93,A,Nuts,Non-Smoker,Frequently,Diabetes,Good,No,7,Public,Hospital,2022-10-04,Yes,Low,Moderate,Low
+65,Male,Indian,Citizen,Widowed,58,1.62,22.1,A,Nuts,Non-Smoker,Occasionally,None,Moderate,Yes,8,None,Clinic,2022-12-22,Yes,Low,Unhealthy,Moderate
+29,Female,Others,Permanent Resident,Single,114.5,1.61,44.17,AB,Pollen,Non-Smoker,Frequently,None,Good,No,4,Private,Hospital,2023-12-07,Yes,Moderate,Moderate,High
+77,Male,Chinese,Foreigner,Single,93.8,1.65,34.45,B,Dust,Non-Smoker,Frequently,Hypertension,Moderate,Yes,8,Public,Hospital,2021-10-08,No,High,Moderate,None
+72,Male,Indian,Foreigner,Divorced,46.3,1.78,14.61,B,Dust,Smoker,Never,Heart Disease,Poor,Yes,7,Private,Hospital,2022-04-16,Yes,Moderate,Healthy,Moderate
+30,Male,Chinese,Foreigner,Married,67.9,1.61,26.19,B,Dust,Non-Smoker,Never,Heart Disease,Good,No,0,Public,None,2022-08-28,Yes,High,Moderate,Moderate
+64,Female,Chinese,Permanent Resident,Divorced,98.9,1.95,26.01,A,Pollen,Smoker,Occasionally,None,Poor,No,2,Private,Clinic,2022-02-22,No,High,Unhealthy,Moderate
+42,Male,Indian,Permanent Resident,Married,102.1,1.85,29.83,A,Dust,Smoker,Frequently,None,Poor,Yes,9,None,None,2022-06-26,Yes,Moderate,Healthy,Low
+58,Female,Others,Citizen,Single,43.7,1.66,15.86,B,Pollen,Smoker,Never,Hypertension,Moderate,No,6,Public,Clinic,2021-04-03,Yes,Moderate,Unhealthy,Moderate
+38,Male,Chinese,Citizen,Widowed,50.6,1.84,14.95,O,Pollen,Smoker,Frequently,Diabetes,Poor,No,2,Public,Clinic,2021-02-19,Yes,Moderate,Healthy,None
+50,Male,Malay,Foreigner,Widowed,42.2,1.81,12.88,A,None,Smoker,Occasionally,Diabetes,Poor,No,3,None,None,2023-02-22,No,High,Moderate,None
+26,Male,Chinese,Citizen,Married,61.6,1.81,18.8,A,Pollen,Smoker,Occasionally,Diabetes,Good,No,2,Private,Hospital,2022-08-09,Yes,Moderate,Unhealthy,High
+65,Female,Indian,Citizen,Widowed,45,1.85,13.15,AB,None,Non-Smoker,Never,Heart Disease,Good,No,5,Private,Hospital,2021-06-21,No,High,Unhealthy,None
+76,Female,Chinese,Permanent Resident,Single,85.7,1.94,22.77,B,Dust,Non-Smoker,Frequently,Diabetes,Good,No,5,Public,Hospital,2022-02-12,Yes,High,Moderate,None
+58,Female,Indian,Citizen,Widowed,44.1,1.84,13.03,AB,None,Non-Smoker,Occasionally,Heart Disease,Moderate,Yes,7,None,Hospital,2021-01-08,No,Moderate,Unhealthy,Moderate
+70,Female,Malay,Citizen,Divorced,77,1.9,21.33,O,Pollen,Smoker,Never,Heart Disease,Poor,No,9,Public,Hospital,2022-02-07,Yes,Moderate,Unhealthy,Low
+40,Male,Others,Permanent Resident,Divorced,98.1,1.69,34.35,AB,Pollen,Smoker,Never,Heart Disease,Moderate,No,9,None,None,2021-05-21,Yes,Low,Unhealthy,Low
+60,Male,Malay,Citizen,Married,67.7,1.55,28.18,B,Pollen,Non-Smoker,Frequently,None,Poor,Yes,8,Public,None,2022-08-12,Yes,Low,Unhealthy,High
+29,Male,Indian,Citizen,Divorced,101.1,1.68,35.82,B,Nuts,Smoker,Occasionally,Heart Disease,Moderate,Yes,4,Private,None,2021-11-13,No,Moderate,Unhealthy,Low
+66,Female,Chinese,Permanent Resident,Single,116,1.53,49.55,B,Nuts,Smoker,Occasionally,Heart Disease,Good,No,8,Private,Clinic,2022-04-03,No,High,Moderate,Moderate
+55,Female,Malay,Foreigner,Married,75,1.77,23.94,A,None,Smoker,Frequently,None,Moderate,Yes,0,Public,None,2023-01-19,Yes,High,Moderate,None
+43,Female,Chinese,Permanent Resident,Married,62,1.63,23.34,B,Pollen,Non-Smoker,Occasionally,Hypertension,Good,No,8,Public,Hospital,2022-07-20,Yes,Low,Healthy,None
+44,Male,Others,Foreigner,Married,43.4,1.64,16.14,B,Pollen,Non-Smoker,Occasionally,Heart Disease,Good,No,7,None,None,2022-01-08,No,Low,Unhealthy,Low
+36,Female,Malay,Permanent Resident,Widowed,98.6,1.83,29.44,B,Dust,Smoker,Never,Hypertension,Poor,No,5,Private,Hospital,2022-05-16,Yes,Moderate,Unhealthy,Moderate
+63,Female,Chinese,Citizen,Married,89.5,1.61,34.53,O,Dust,Non-Smoker,Never,None,Poor,Yes,4,None,None,2023-04-21,No,High,Moderate,Moderate
+65,Female,Others,Permanent Resident,Divorced,117.6,1.71,40.22,B,Nuts,Non-Smoker,Occasionally,Hypertension,Poor,No,8,Public,Hospital,2022-04-15,No,Moderate,Healthy,None
+26,Female,Chinese,Foreigner,Married,112.7,1.99,28.46,O,Nuts,Smoker,Never,Hypertension,Poor,No,9,Public,Clinic,2022-09-09,Yes,High,Healthy,Moderate
+57,Male,Chinese,Foreigner,Single,66.3,1.99,16.74,A,None,Non-Smoker,Frequently,Diabetes,Moderate,No,1,Private,Hospital,2023-09-09,Yes,Moderate,Unhealthy,Low
+55,Male,Others,Foreigner,Divorced,90.8,1.53,38.79,AB,None,Smoker,Frequently,None,Poor,Yes,1,Private,None,2022-12-01,No,High,Moderate,None
+59,Female,Indian,Foreigner,Widowed,96.2,1.58,38.54,B,None,Non-Smoker,Frequently,Diabetes,Poor,Yes,1,Public,Clinic,2021-11-23,No,Moderate,Moderate,High
+30,Male,Others,Citizen,Divorced,53.1,1.76,17.14,B,Pollen,Smoker,Frequently,Diabetes,Good,Yes,1,Public,Clinic,2021-10-27,No,Moderate,Unhealthy,Moderate
+61,Female,Indian,Foreigner,Widowed,52.8,1.64,19.63,B,None,Smoker,Never,Heart Disease,Good,No,2,Private,Hospital,2022-02-06,Yes,Low,Healthy,Low
+44,Female,Chinese,Citizen,Married,86,1.65,31.59,O,None,Smoker,Frequently,Diabetes,Moderate,Yes,5,None,None,2023-11-06,Yes,High,Healthy,Moderate
+21,Female,Chinese,Citizen,Single,52.4,1.51,22.98,A,Nuts,Smoker,Occasionally,Heart Disease,Good,No,6,Public,Hospital,2022-09-21,Yes,High,Unhealthy,Moderate
+72,Female,Indian,Permanent Resident,Married,92.9,1.71,31.77,B,Nuts,Non-Smoker,Never,Diabetes,Good,No,8,Public,Hospital,2023-02-12,No,Low,Healthy,None
+51,Female,Malay,Citizen,Widowed,54.2,1.61,20.91,A,Pollen,Smoker,Never,Heart Disease,Good,Yes,5,None,None,2022-11-11,No,Low,Unhealthy,None
+60,Male,Chinese,Permanent Resident,Single,58.9,1.61,22.72,B,Pollen,Smoker,Occasionally,None,Good,No,4,None,Hospital,2023-06-20,No,Moderate,Moderate,Low
+42,Male,Indian,Permanent Resident,Widowed,43.4,1.71,14.84,B,None,Smoker,Occasionally,None,Good,No,0,None,None,2022-04-06,Yes,Low,Healthy,Moderate
+42,Male,Others,Foreigner,Married,69.7,1.61,26.89,B,Nuts,Smoker,Occasionally,None,Poor,No,9,Public,Hospital,2021-04-02,Yes,Low,Moderate,Low
+66,Male,Malay,Permanent Resident,Married,92.8,1.57,37.65,AB,Pollen,Smoker,Occasionally,None,Poor,No,8,None,None,2022-02-09,No,High,Healthy,Moderate
+35,Male,Others,Permanent Resident,Single,83.2,1.93,22.34,B,Dust,Non-Smoker,Frequently,Diabetes,Moderate,No,1,Public,Hospital,2022-07-17,No,Low,Unhealthy,Moderate
+73,Female,Indian,Foreigner,Widowed,107.9,1.67,38.69,AB,Dust,Non-Smoker,Never,None,Moderate,No,6,None,Hospital,2023-05-08,Yes,High,Healthy,Moderate
+65,Male,Malay,Permanent Resident,Single,57.6,1.95,15.15,B,None,Non-Smoker,Never,Heart Disease,Poor,Yes,3,Public,Hospital,2023-01-18,No,Low,Moderate,Moderate
+48,Female,Others,Citizen,Single,100.8,1.75,32.91,AB,Dust,Smoker,Frequently,Diabetes,Good,Yes,8,Public,None,2021-08-01,No,High,Moderate,Moderate
+55,Male,Others,Permanent Resident,Divorced,78.2,1.62,29.8,B,Dust,Non-Smoker,Occasionally,Diabetes,Good,No,8,Private,None,2023-08-23,Yes,High,Moderate,High
+75,Female,Indian,Foreigner,Single,86.7,1.6,33.87,O,Nuts,Non-Smoker,Frequently,Hypertension,Good,Yes,9,Public,Hospital,2022-10-05,Yes,Moderate,Moderate,Moderate
+72,Male,Chinese,Permanent Resident,Single,54.3,1.76,17.53,A,Pollen,Smoker,Frequently,Hypertension,Moderate,Yes,2,None,Clinic,2022-10-09,No,Low,Moderate,Low
+64,Male,Malay,Permanent Resident,Widowed,119,1.9,32.96,B,Dust,Non-Smoker,Frequently,Heart Disease,Poor,No,0,Public,Hospital,2023-05-10,No,Low,Healthy,None
+36,Female,Malay,Citizen,Widowed,53.5,1.57,21.7,O,Nuts,Smoker,Frequently,Heart Disease,Poor,No,1,None,Clinic,2021-12-07,Yes,Low,Moderate,None
+58,Male,Malay,Citizen,Single,93,1.85,27.17,A,Nuts,Smoker,Occasionally,Hypertension,Poor,No,4,None,Clinic,2022-09-06,No,High,Healthy,High
+39,Male,Indian,Citizen,Widowed,105.7,1.85,30.88,A,Nuts,Non-Smoker,Occasionally,None,Moderate,Yes,0,Public,Clinic,2023-08-07,No,Low,Unhealthy,High
+71,Male,Chinese,Permanent Resident,Divorced,51.9,1.54,21.88,A,Pollen,Non-Smoker,Never,Hypertension,Good,No,4,None,Clinic,2022-04-16,No,Moderate,Healthy,None
+77,Male,Indian,Citizen,Divorced,53.6,1.5,23.82,A,Dust,Non-Smoker,Never,Hypertension,Good,No,5,Public,None,2023-02-02,Yes,Moderate,Healthy,Low
+58,Female,Malay,Permanent Resident,Married,84.8,1.72,28.66,AB,Dust,Non-Smoker,Never,None,Good,Yes,6,Private,Hospital,2023-04-24,No,High,Moderate,Moderate
+59,Male,Malay,Foreigner,Married,92.8,1.75,30.3,AB,Pollen,Non-Smoker,Frequently,Heart Disease,Good,No,6,Public,Clinic,2023-08-23,Yes,Moderate,Moderate,Moderate
+22,Male,Indian,Citizen,Divorced,57.9,1.6,22.62,AB,None,Smoker,Frequently,None,Good,No,8,Private,Clinic,2023-07-19,Yes,Low,Moderate,High
+66,Female,Others,Foreigner,Married,66.5,1.74,21.96,O,Dust,Smoker,Frequently,Hypertension,Poor,No,8,None,None,2023-11-21,No,High,Healthy,High
+44,Male,Chinese,Citizen,Widowed,47.7,1.93,12.81,AB,None,Smoker,Frequently,Diabetes,Poor,No,3,Private,Hospital,2021-11-14,No,High,Moderate,Moderate
+58,Female,Chinese,Permanent Resident,Widowed,80.6,1.71,27.56,AB,None,Non-Smoker,Frequently,None,Good,No,8,Public,None,2023-12-15,No,High,Healthy,None
+21,Male,Malay,Foreigner,Divorced,105.3,1.51,46.18,O,Dust,Smoker,Frequently,Heart Disease,Good,Yes,5,Private,Hospital,2021-02-20,Yes,Low,Unhealthy,High
+21,Male,Chinese,Permanent Resident,Married,110.2,1.83,32.91,O,None,Smoker,Frequently,Hypertension,Moderate,Yes,7,Private,Clinic,2023-08-05,Yes,Low,Unhealthy,None
+65,Female,Chinese,Permanent Resident,Widowed,60,1.65,22.04,A,Nuts,Smoker,Occasionally,Hypertension,Good,No,9,Public,None,2022-03-03,Yes,High,Healthy,Moderate
+68,Female,Indian,Permanent Resident,Single,69.1,1.69,24.19,O,Pollen,Non-Smoker,Frequently,None,Moderate,No,5,Public,Clinic,2021-07-13,Yes,High,Unhealthy,High
+20,Female,Others,Foreigner,Single,97.5,1.89,27.29,A,Pollen,Non-Smoker,Never,None,Good,Yes,9,None,Clinic,2023-10-14,Yes,High,Moderate,Moderate
+36,Female,Others,Permanent Resident,Widowed,80.9,1.77,25.82,O,None,Smoker,Occasionally,None,Poor,No,5,Private,None,2022-10-23,Yes,High,Healthy,High
+28,Female,Indian,Permanent Resident,Married,57,1.66,20.69,B,Nuts,Smoker,Never,Diabetes,Good,Yes,5,None,Hospital,2021-09-28,No,Moderate,Healthy,Low
+42,Female,Others,Foreigner,Married,58.7,1.94,15.6,B,Nuts,Non-Smoker,Occasionally,Diabetes,Poor,Yes,3,Public,Clinic,2022-03-13,No,High,Moderate,None
+45,Male,Indian,Foreigner,Divorced,85.6,1.75,27.95,O,Nuts,Non-Smoker,Occasionally,Heart Disease,Good,Yes,3,None,Hospital,2022-08-10,Yes,Low,Healthy,High
+62,Male,Indian,Permanent Resident,Single,95.8,1.87,27.4,B,Dust,Smoker,Frequently,Diabetes,Poor,No,2,Private,Hospital,2023-03-26,Yes,High,Healthy,Low
+28,Male,Chinese,Permanent Resident,Single,117,1.99,29.54,AB,None,Smoker,Occasionally,Diabetes,Moderate,No,1,None,Hospital,2022-11-03,No,Moderate,Healthy,High
+28,Female,Malay,Citizen,Married,42.9,1.99,10.83,B,None,Non-Smoker,Occasionally,None,Moderate,Yes,7,Public,Clinic,2022-01-04,Yes,Moderate,Healthy,None
+60,Female,Indian,Permanent Resident,Single,42.2,1.51,18.51,O,Dust,Smoker,Occasionally,Hypertension,Good,No,9,Public,Clinic,2022-04-12,Yes,High,Unhealthy,Moderate
+49,Female,Chinese,Foreigner,Single,97.7,1.84,28.86,B,Pollen,Non-Smoker,Never,None,Moderate,Yes,9,None,None,2022-06-03,Yes,High,Moderate,Low
+31,Female,Malay,Foreigner,Married,88.1,1.86,25.47,AB,Nuts,Smoker,Never,None,Moderate,No,2,Private,Clinic,2022-11-14,Yes,Low,Unhealthy,Low
+79,Female,Others,Permanent Resident,Married,105,1.97,27.06,A,Pollen,Non-Smoker,Frequently,Heart Disease,Poor,Yes,7,None,Clinic,2021-10-15,Yes,Moderate,Unhealthy,High
+40,Male,Others,Foreigner,Single,109.6,1.59,43.35,A,Pollen,Non-Smoker,Never,Heart Disease,Poor,No,7,Public,None,2023-01-15,Yes,Low,Moderate,None
+36,Female,Indian,Foreigner,Single,57.5,1.56,23.63,AB,Dust,Smoker,Occasionally,None,Moderate,Yes,8,Private,Clinic,2023-09-19,No,Low,Healthy,None
+28,Female,Others,Permanent Resident,Married,92.1,1.94,24.47,AB,Nuts,Non-Smoker,Never,Heart Disease,Poor,No,8,Public,Hospital,2023-11-01,No,Low,Unhealthy,Low
+22,Female,Others,Citizen,Widowed,85.2,1.58,34.13,AB,Dust,Smoker,Never,Diabetes,Poor,Yes,1,None,Clinic,2023-06-15,No,High,Unhealthy,High
+57,Male,Others,Foreigner,Married,57.4,1.5,25.51,B,Dust,Non-Smoker,Frequently,Diabetes,Poor,No,3,None,None,2022-02-22,Yes,High,Moderate,Low
+40,Male,Malay,Foreigner,Widowed,82,1.88,23.2,O,None,Smoker,Never,None,Moderate,Yes,7,Private,Hospital,2023-08-26,Yes,Low,Moderate,None
+74,Male,Indian,Foreigner,Married,40.2,1.54,16.95,A,Nuts,Non-Smoker,Frequently,Heart Disease,Good,Yes,2,None,Clinic,2022-08-27,No,High,Healthy,Low
+34,Female,Indian,Foreigner,Widowed,88.4,1.65,32.47,B,Dust,Smoker,Frequently,None,Poor,Yes,3,Private,Hospital,2023-05-22,Yes,Moderate,Unhealthy,Moderate
+61,Male,Chinese,Foreigner,Divorced,92.8,1.73,31.01,AB,Pollen,Smoker,Occasionally,Diabetes,Poor,Yes,0,Public,Clinic,2022-05-13,Yes,Low,Unhealthy,Moderate
+70,Female,Chinese,Permanent Resident,Married,43.6,1.66,15.82,B,Pollen,Smoker,Never,Heart Disease,Good,No,0,Public,Hospital,2021-11-22,Yes,High,Moderate,Moderate
+53,Female,Others,Permanent Resident,Single,56.8,1.89,15.9,A,Dust,Smoker,Never,Diabetes,Good,No,4,None,Clinic,2023-06-19,No,Moderate,Moderate,High
+57,Female,Chinese,Foreigner,Married,85.7,1.76,27.67,B,None,Non-Smoker,Occasionally,None,Poor,Yes,5,Private,Hospital,2023-09-09,Yes,High,Moderate,Moderate
+60,Male,Indian,Permanent Resident,Single,116.3,1.89,32.56,AB,Dust,Non-Smoker,Never,Heart Disease,Good,Yes,2,Public,Hospital,2021-04-14,No,Moderate,Healthy,None
+31,Male,Others,Permanent Resident,Divorced,67.8,1.58,27.16,B,Pollen,Non-Smoker,Never,Heart Disease,Good,No,0,Private,Hospital,2023-07-10,No,Moderate,Moderate,Moderate
+37,Female,Malay,Citizen,Widowed,90.8,1.72,30.69,B,Dust,Smoker,Never,Diabetes,Moderate,No,6,None,None,2023-08-03,Yes,High,Moderate,High
+36,Female,Chinese,Permanent Resident,Widowed,48.5,1.52,20.99,O,None,Non-Smoker,Never,Hypertension,Poor,No,8,None,Clinic,2023-03-08,No,Moderate,Unhealthy,Low
+29,Female,Others,Permanent Resident,Married,98.1,1.64,36.47,A,Pollen,Smoker,Occasionally,Heart Disease,Moderate,No,6,Private,Hospital,2021-06-09,Yes,Low,Unhealthy,High
+55,Female,Indian,Foreigner,Married,47,1.84,13.88,O,None,Smoker,Frequently,Heart Disease,Good,Yes,4,None,Hospital,2021-07-27,No,Low,Moderate,None
+73,Female,Indian,Permanent Resident,Divorced,105.1,1.89,29.42,B,Nuts,Non-Smoker,Never,Hypertension,Poor,No,3,Private,Clinic,2022-01-15,No,Moderate,Unhealthy,Low
+72,Female,Malay,Foreigner,Single,85.5,1.65,31.4,O,Dust,Non-Smoker,Never,Diabetes,Moderate,Yes,9,Public,Hospital,2022-06-18,Yes,Moderate,Unhealthy,High
+54,Male,Indian,Foreigner,Divorced,100.3,1.79,31.3,AB,Pollen,Non-Smoker,Occasionally,Heart Disease,Poor,No,5,Private,Hospital,2022-09-27,Yes,High,Healthy,Moderate
+74,Female,Chinese,Foreigner,Married,40.6,1.93,10.9,A,Dust,Smoker,Occasionally,Heart Disease,Moderate,Yes,8,Public,None,2021-05-04,Yes,Moderate,Healthy,Low
+23,Female,Malay,Permanent Resident,Divorced,43.8,1.53,18.71,AB,Nuts,Smoker,Never,Diabetes,Moderate,Yes,2,None,Clinic,2021-12-25,Yes,Low,Unhealthy,None
+75,Male,Chinese,Foreigner,Widowed,64.5,1.9,17.87,AB,None,Smoker,Frequently,Heart Disease,Good,No,7,None,Hospital,2023-04-23,No,Low,Healthy,None
+70,Female,Malay,Permanent Resident,Married,119.4,1.52,51.68,AB,None,Non-Smoker,Frequently,Hypertension,Good,Yes,6,None,Clinic,2021-10-17,No,High,Healthy,Low
+79,Male,Others,Permanent Resident,Widowed,94.8,1.73,31.67,AB,Nuts,Non-Smoker,Never,Heart Disease,Moderate,Yes,7,Private,Hospital,2023-11-27,Yes,High,Healthy,High
+46,Female,Chinese,Citizen,Married,52.4,1.62,19.97,AB,Nuts,Non-Smoker,Never,Heart Disease,Good,No,4,Private,None,2022-10-23,No,High,Moderate,None
+32,Male,Indian,Citizen,Single,54.2,1.68,19.2,O,Pollen,Smoker,Frequently,Heart Disease,Good,No,2,Public,Hospital,2023-11-09,Yes,Low,Unhealthy,None
+54,Female,Indian,Foreigner,Married,88.2,1.53,37.68,B,Pollen,Smoker,Never,Heart Disease,Poor,Yes,6,Private,Clinic,2021-12-26,No,Moderate,Unhealthy,High
+46,Male,Malay,Citizen,Divorced,52,1.6,20.31,A,Dust,Non-Smoker,Never,None,Good,No,1,None,None,2023-04-11,Yes,Low,Healthy,Moderate
+38,Male,Chinese,Citizen,Divorced,116.9,1.8,36.08,AB,Pollen,Non-Smoker,Frequently,Diabetes,Good,Yes,0,Public,Hospital,2023-11-13,No,Moderate,Healthy,None
+47,Male,Indian,Foreigner,Married,55.3,1.7,19.13,O,None,Smoker,Occasionally,Heart Disease,Moderate,No,7,None,None,2021-01-24,No,Moderate,Moderate,High
+33,Male,Chinese,Permanent Resident,Divorced,100.3,1.77,32.02,AB,Nuts,Smoker,Occasionally,Diabetes,Moderate,Yes,4,Public,None,2022-06-09,Yes,Low,Moderate,High
+57,Female,Malay,Permanent Resident,Single,55.8,1.68,19.77,B,Dust,Smoker,Never,Heart Disease,Good,No,1,None,Hospital,2022-04-24,Yes,Low,Unhealthy,High
+33,Female,Chinese,Citizen,Married,48,1.92,13.02,AB,None,Smoker,Occasionally,None,Poor,No,0,Public,Clinic,2021-01-12,Yes,Low,Moderate,Low
+42,Male,Malay,Citizen,Single,102.4,1.67,36.72,AB,Pollen,Non-Smoker,Occasionally,Hypertension,Good,Yes,8,Private,Hospital,2022-01-14,No,Low,Healthy,Low
+62,Female,Others,Citizen,Married,76.6,1.64,28.48,AB,Dust,Smoker,Never,Heart Disease,Moderate,No,2,None,Hospital,2021-02-02,Yes,Moderate,Unhealthy,None
+20,Male,Chinese,Permanent Resident,Divorced,113.3,1.57,45.97,AB,Dust,Smoker,Frequently,Hypertension,Poor,Yes,8,Private,None,2022-08-04,No,Low,Moderate,Low
+79,Male,Others,Citizen,Married,119.1,1.61,45.95,O,Nuts,Smoker,Occasionally,Diabetes,Good,Yes,4,Private,None,2022-08-06,No,High,Moderate,Moderate
+30,Female,Malay,Permanent Resident,Single,45.2,1.99,11.41,O,None,Smoker,Frequently,None,Moderate,Yes,1,Public,Hospital,2021-04-21,No,Moderate,Unhealthy,None
+32,Male,Indian,Foreigner,Widowed,108.6,1.62,41.38,A,Dust,Smoker,Never,None,Good,No,3,None,Hospital,2022-10-27,Yes,Moderate,Healthy,Moderate
+51,Male,Others,Permanent Resident,Single,118.3,1.93,31.76,B,Dust,Smoker,Occasionally,Hypertension,Moderate,Yes,5,Public,None,2021-12-03,Yes,Moderate,Unhealthy,High
+46,Male,Malay,Foreigner,Widowed,62.4,1.62,23.78,A,Nuts,Non-Smoker,Frequently,Heart Disease,Moderate,Yes,3,None,Hospital,2021-06-17,No,Moderate,Healthy,High
+29,Female,Malay,Foreigner,Single,69.4,1.95,18.25,AB,Dust,Smoker,Never,None,Poor,No,2,Public,Hospital,2022-12-24,No,High,Healthy,Moderate
+68,Male,Malay,Foreigner,Single,88.7,1.54,37.4,B,Pollen,Non-Smoker,Never,Hypertension,Moderate,No,3,Public,None,2022-03-12,Yes,Low,Moderate,High
+27,Female,Chinese,Permanent Resident,Divorced,78.9,1.81,24.08,B,None,Non-Smoker,Never,None,Good,No,9,Private,Clinic,2021-05-05,Yes,Moderate,Healthy,Moderate
+63,Male,Indian,Citizen,Widowed,77.8,1.68,27.57,O,Dust,Smoker,Frequently,Diabetes,Poor,Yes,5,Private,Hospital,2022-07-15,Yes,Moderate,Moderate,None
+62,Female,Others,Citizen,Single,104,1.98,26.53,B,Dust,Non-Smoker,Occasionally,None,Poor,Yes,7,Private,None,2021-09-19,No,High,Moderate,High
+39,Male,Indian,Permanent Resident,Single,64.6,1.62,24.62,B,Dust,Smoker,Occasionally,None,Good,Yes,3,Private,None,2021-11-12,No,Low,Unhealthy,None
+28,Male,Chinese,Permanent Resident,Single,112.4,1.68,39.82,AB,None,Smoker,Never,Diabetes,Good,Yes,5,Private,Clinic,2023-06-08,No,High,Unhealthy,None
+57,Female,Indian,Citizen,Divorced,76.2,1.7,26.37,O,Nuts,Smoker,Frequently,Hypertension,Poor,Yes,8,Public,Hospital,2021-06-04,Yes,Moderate,Moderate,High
+67,Female,Others,Citizen,Single,109.5,1.55,45.58,B,Dust,Smoker,Occasionally,Heart Disease,Good,Yes,7,Private,Hospital,2022-07-13,Yes,Moderate,Unhealthy,Low
+28,Male,Chinese,Foreigner,Divorced,82.3,1.56,33.82,AB,Pollen,Non-Smoker,Frequently,Heart Disease,Moderate,Yes,4,Private,Clinic,2023-12-20,Yes,Low,Moderate,Moderate
+23,Female,Malay,Foreigner,Divorced,50.4,1.95,13.25,A,Dust,Smoker,Frequently,Hypertension,Moderate,No,2,None,None,2022-10-22,Yes,High,Healthy,Low
+37,Male,Others,Foreigner,Married,104,1.77,33.2,O,Pollen,Smoker,Frequently,None,Moderate,No,7,None,Clinic,2022-07-23,Yes,Moderate,Unhealthy,None
+25,Female,Others,Permanent Resident,Widowed,80.6,1.54,33.99,O,Pollen,Non-Smoker,Occasionally,Hypertension,Poor,Yes,8,Public,None,2023-02-11,No,High,Healthy,Low
+42,Female,Indian,Permanent Resident,Married,44.7,1.58,17.91,AB,Pollen,Non-Smoker,Occasionally,Heart Disease,Good,Yes,1,Public,Clinic,2023-03-20,Yes,High,Moderate,Moderate
+58,Female,Malay,Citizen,Divorced,50.6,1.99,12.78,A,None,Smoker,Occasionally,None,Moderate,Yes,6,Private,None,2022-11-23,Yes,Moderate,Healthy,Moderate
+56,Female,Chinese,Foreigner,Single,73.6,1.61,28.39,AB,Pollen,Smoker,Occasionally,Hypertension,Moderate,Yes,6,None,Clinic,2021-10-07,No,High,Moderate,Low
+73,Male,Malay,Citizen,Married,59.5,1.54,25.09,B,Dust,Smoker,Frequently,None,Poor,No,2,Private,Hospital,2023-01-22,Yes,High,Healthy,None
+78,Female,Others,Citizen,Widowed,64.1,1.66,23.26,O,Pollen,Non-Smoker,Never,Diabetes,Poor,No,1,Public,Hospital,2022-03-12,No,High,Unhealthy,High
+73,Male,Malay,Citizen,Divorced,102.5,1.66,37.2,AB,Pollen,Smoker,Occasionally,Diabetes,Good,Yes,2,None,None,2021-04-17,Yes,Moderate,Healthy,None
+59,Female,Others,Foreigner,Divorced,118.3,1.94,31.43,AB,Dust,Smoker,Frequently,Hypertension,Poor,Yes,7,Public,Hospital,2021-11-16,No,High,Healthy,Low
+27,Female,Malay,Permanent Resident,Widowed,108.1,1.7,37.4,A,Dust,Smoker,Occasionally,Heart Disease,Moderate,Yes,4,Public,Hospital,2021-05-18,No,Moderate,Moderate,Moderate
+70,Male,Others,Foreigner,Widowed,85.2,1.73,28.47,O,Nuts,Non-Smoker,Frequently,None,Poor,Yes,6,Public,Hospital,2023-07-10,No,Moderate,Moderate,Low
+44,Female,Indian,Foreigner,Single,43.6,1.87,12.47,O,Dust,Smoker,Occasionally,Heart Disease,Good,No,9,None,Hospital,2023-04-21,Yes,High,Healthy,High
+35,Female,Others,Foreigner,Widowed,91.1,1.67,32.67,B,Pollen,Smoker,Never,Heart Disease,Moderate,Yes,7,None,Hospital,2023-01-13,No,Low,Moderate,High
+72,Female,Others,Permanent Resident,Married,111.8,1.74,36.93,O,Nuts,Smoker,Occasionally,Heart Disease,Moderate,No,6,Public,None,2021-06-03,No,Moderate,Unhealthy,Low
+63,Female,Chinese,Foreigner,Single,113.3,1.65,41.62,O,None,Smoker,Frequently,Hypertension,Poor,Yes,1,Public,Hospital,2021-07-24,Yes,High,Healthy,Moderate
+65,Male,Indian,Foreigner,Widowed,119.5,1.64,44.43,A,None,Non-Smoker,Frequently,Diabetes,Good,Yes,0,Private,Clinic,2021-09-01,No,Moderate,Healthy,None
+48,Female,Others,Citizen,Widowed,55.9,1.8,17.25,O,None,Smoker,Frequently,Hypertension,Poor,Yes,6,Private,None,2021-07-28,No,High,Moderate,Low
+79,Female,Indian,Foreigner,Widowed,115.4,1.55,48.03,O,Dust,Smoker,Never,Diabetes,Moderate,Yes,6,None,Hospital,2022-09-02,No,Low,Healthy,High
+43,Female,Others,Citizen,Widowed,112,1.52,48.48,A,None,Non-Smoker,Never,Heart Disease,Poor,Yes,8,Private,None,2023-05-04,Yes,High,Healthy,High
+43,Male,Indian,Citizen,Single,119,1.69,41.67,A,Pollen,Smoker,Frequently,None,Good,Yes,3,None,Hospital,2022-08-11,Yes,Moderate,Healthy,Low
+62,Male,Malay,Citizen,Divorced,55.6,1.59,21.99,A,None,Non-Smoker,Occasionally,Heart Disease,Moderate,No,5,None,Hospital,2022-03-20,Yes,Moderate,Moderate,None
+51,Female,Malay,Foreigner,Single,50.5,1.63,19.01,O,Nuts,Non-Smoker,Occasionally,Diabetes,Moderate,No,6,Public,Clinic,2023-03-28,No,Low,Moderate,High
+37,Male,Malay,Foreigner,Single,61.3,1.81,18.71,AB,None,Non-Smoker,Occasionally,Hypertension,Moderate,Yes,2,None,Clinic,2021-07-22,No,Moderate,Unhealthy,High
+72,Female,Chinese,Foreigner,Single,113.1,1.91,31,B,Pollen,Smoker,Never,None,Poor,Yes,8,Public,Clinic,2023-10-09,No,High,Healthy,Moderate
+72,Female,Malay,Citizen,Single,88,1.67,31.55,A,Dust,Non-Smoker,Frequently,Heart Disease,Good,No,2,None,None,2022-11-17,Yes,High,Unhealthy,Low
+47,Female,Others,Foreigner,Divorced,117.1,1.73,39.13,B,Pollen,Smoker,Never,Diabetes,Moderate,Yes,1,None,Hospital,2021-02-23,No,High,Unhealthy,Low
+26,Female,Indian,Citizen,Married,53.5,1.57,21.7,A,Dust,Smoker,Frequently,Heart Disease,Good,No,5,None,Clinic,2021-05-07,No,Moderate,Moderate,None
+72,Female,Indian,Citizen,Married,43,1.7,14.88,B,Nuts,Smoker,Never,None,Moderate,No,6,None,Clinic,2023-09-04,Yes,Low,Moderate,High
+78,Male,Others,Citizen,Married,85,1.65,31.22,AB,Dust,Smoker,Never,Hypertension,Poor,No,7,Private,Clinic,2022-07-13,No,High,Moderate,High
+32,Female,Others,Citizen,Divorced,47.5,1.84,14.03,O,None,Non-Smoker,Frequently,None,Moderate,Yes,1,None,Hospital,2023-12-12,Yes,High,Moderate,Low
+20,Male,Indian,Citizen,Divorced,69.8,1.63,26.27,O,None,Smoker,Occasionally,Diabetes,Moderate,No,4,Public,None,2022-02-13,Yes,Moderate,Unhealthy,None
+46,Male,Malay,Foreigner,Widowed,106.2,1.84,31.37,B,Nuts,Non-Smoker,Occasionally,None,Good,Yes,6,None,Hospital,2022-04-02,Yes,High,Healthy,Low
+56,Male,Indian,Permanent Resident,Widowed,99.9,1.61,38.54,A,Nuts,Non-Smoker,Never,Diabetes,Good,Yes,6,None,Clinic,2022-03-23,Yes,Low,Healthy,Low
+79,Male,Others,Citizen,Widowed,82.8,1.76,26.73,A,None,Non-Smoker,Frequently,None,Moderate,No,4,Public,Hospital,2022-07-13,Yes,Low,Healthy,Moderate
+42,Male,Indian,Citizen,Divorced,68.9,1.74,22.76,A,None,Non-Smoker,Frequently,Diabetes,Moderate,Yes,0,Public,Hospital,2022-03-02,Yes,High,Moderate,Moderate
+31,Male,Chinese,Foreigner,Single,113.4,1.56,46.6,O,Pollen,Non-Smoker,Frequently,Heart Disease,Moderate,Yes,7,Public,Hospital,2022-07-12,No,Low,Unhealthy,None
+54,Female,Others,Foreigner,Married,112.8,1.66,40.93,O,Nuts,Smoker,Frequently,Hypertension,Poor,Yes,2,None,Hospital,2023-05-01,Yes,High,Unhealthy,None
+77,Male,Chinese,Citizen,Divorced,100.1,1.56,41.13,AB,None,Smoker,Frequently,Diabetes,Good,Yes,7,Private,Hospital,2021-02-27,Yes,High,Healthy,Moderate
+34,Male,Chinese,Permanent Resident,Single,92.7,1.55,38.58,O,Nuts,Non-Smoker,Occasionally,Diabetes,Poor,Yes,1,Private,Hospital,2022-02-05,Yes,Moderate,Healthy,High
+40,Male,Malay,Foreigner,Divorced,54.3,1.64,20.19,O,Pollen,Non-Smoker,Never,Diabetes,Moderate,Yes,3,Public,Clinic,2023-05-07,No,Low,Moderate,Moderate
+79,Male,Others,Foreigner,Married,83.9,1.92,22.76,A,Pollen,Non-Smoker,Occasionally,Hypertension,Poor,Yes,7,Public,Clinic,2023-03-10,No,Low,Moderate,None
+44,Male,Indian,Permanent Resident,Single,86.8,1.5,38.58,A,Nuts,Non-Smoker,Frequently,Heart Disease,Poor,Yes,4,None,None,2023-01-21,No,High,Moderate,Moderate
+72,Male,Others,Citizen,Widowed,72.2,1.98,18.42,A,Nuts,Non-Smoker,Occasionally,Diabetes,Poor,No,2,Private,None,2022-08-10,Yes,High,Moderate,Moderate
+48,Female,Indian,Citizen,Married,78.7,1.89,22.03,O,Nuts,Smoker,Occasionally,Diabetes,Poor,No,9,None,None,2023-12-24,No,Low,Moderate,None
+77,Female,Malay,Permanent Resident,Single,82.6,1.8,25.49,A,Dust,Smoker,Never,Hypertension,Poor,Yes,3,None,None,2023-01-06,Yes,Moderate,Moderate,High
+38,Female,Others,Foreigner,Single,82,1.89,22.96,A,Dust,Smoker,Frequently,Hypertension,Poor,No,1,Public,None,2023-01-08,No,Low,Unhealthy,Low
+55,Female,Malay,Citizen,Divorced,89.9,1.83,26.84,O,Dust,Smoker,Never,Hypertension,Moderate,No,5,Public,None,2023-11-14,No,Low,Moderate,High
+24,Male,Malay,Permanent Resident,Divorced,99.6,1.62,37.95,AB,Nuts,Smoker,Occasionally,Diabetes,Poor,Yes,7,None,None,2022-01-06,Yes,Low,Unhealthy,Moderate
+63,Female,Indian,Citizen,Divorced,65.8,1.8,20.31,AB,None,Smoker,Occasionally,Diabetes,Poor,Yes,0,Private,Clinic,2022-01-18,No,Moderate,Unhealthy,None
+46,Female,Indian,Foreigner,Married,69.9,1.96,18.2,O,Pollen,Smoker,Never,Heart Disease,Good,Yes,0,None,Clinic,2022-06-26,Yes,Low,Unhealthy,Moderate
+40,Female,Indian,Permanent Resident,Single,89,1.59,35.2,A,None,Non-Smoker,Never,Diabetes,Good,No,1,None,None,2021-01-10,No,High,Moderate,Moderate
+39,Female,Indian,Permanent Resident,Divorced,82.9,1.85,24.22,AB,Pollen,Non-Smoker,Frequently,Diabetes,Poor,Yes,7,None,None,2023-01-24,Yes,High,Healthy,High
+59,Female,Malay,Foreigner,Married,118.1,1.65,43.38,O,Nuts,Smoker,Frequently,Diabetes,Moderate,No,0,None,None,2022-03-22,Yes,High,Healthy,None
+51,Female,Malay,Citizen,Widowed,46.5,1.71,15.9,AB,Pollen,Non-Smoker,Frequently,Heart Disease,Moderate,No,8,None,Clinic,2021-11-09,No,Low,Healthy,None
+54,Female,Others,Permanent Resident,Single,45,1.78,14.2,A,None,Non-Smoker,Never,Hypertension,Good,No,9,None,Clinic,2021-04-22,Yes,Low,Moderate,Moderate
+41,Male,Chinese,Permanent Resident,Widowed,107.5,1.78,33.93,B,Nuts,Smoker,Occasionally,Heart Disease,Poor,No,7,None,None,2021-07-18,Yes,Moderate,Unhealthy,Low
+30,Female,Others,Foreigner,Widowed,80.1,1.86,23.15,B,Nuts,Non-Smoker,Occasionally,Hypertension,Poor,No,7,None,None,2021-09-01,Yes,Low,Healthy,Low
+28,Male,Chinese,Foreigner,Single,45.1,1.91,12.36,O,Pollen,Non-Smoker,Frequently,Heart Disease,Poor,No,0,Private,None,2022-12-12,Yes,Low,Unhealthy,Moderate
+65,Female,Indian,Citizen,Divorced,87.3,1.98,22.27,AB,Dust,Smoker,Never,Hypertension,Good,Yes,2,Public,None,2023-05-08,Yes,High,Moderate,High
+72,Female,Chinese,Foreigner,Divorced,104.5,1.54,44.06,O,None,Non-Smoker,Frequently,Heart Disease,Moderate,Yes,0,None,Hospital,2023-11-13,No,High,Moderate,None
+29,Male,Others,Foreigner,Married,74.5,1.89,20.86,A,None,Non-Smoker,Frequently,Heart Disease,Poor,Yes,8,Private,Hospital,2023-05-08,No,High,Healthy,High
+40,Female,Malay,Permanent Resident,Single,56.8,1.65,20.86,B,Dust,Smoker,Frequently,Diabetes,Moderate,No,3,Private,Clinic,2022-09-09,No,Moderate,Healthy,None
+71,Female,Others,Foreigner,Divorced,45.8,1.73,15.3,B,Pollen,Smoker,Occasionally,Diabetes,Poor,Yes,5,Private,Clinic,2022-01-02,No,Low,Healthy,Moderate
+72,Female,Chinese,Citizen,Widowed,80.5,1.89,22.54,A,Nuts,Smoker,Never,Diabetes,Good,No,8,None,Clinic,2023-04-08,No,High,Moderate,Moderate
+24,Female,Others,Foreigner,Married,86.7,1.51,38.02,AB,Pollen,Smoker,Frequently,Hypertension,Poor,No,9,None,None,2023-01-17,No,Moderate,Moderate,Low
+29,Male,Indian,Foreigner,Widowed,105.6,1.61,40.74,B,Pollen,Smoker,Frequently,Heart Disease,Poor,Yes,5,Public,Clinic,2023-10-14,Yes,Low,Unhealthy,High
+21,Female,Others,Permanent Resident,Divorced,105.2,1.52,45.53,O,Dust,Non-Smoker,Frequently,Hypertension,Good,No,0,Private,Clinic,2022-12-18,Yes,Moderate,Healthy,Low
+68,Male,Chinese,Permanent Resident,Single,42.6,1.83,12.72,O,Pollen,Non-Smoker,Never,None,Good,No,1,None,Clinic,2023-10-28,No,Low,Healthy,None
+70,Male,Chinese,Citizen,Widowed,77.5,1.52,33.54,B,Dust,Smoker,Frequently,Diabetes,Good,No,9,None,None,2022-11-11,No,High,Unhealthy,Low
+38,Male,Malay,Foreigner,Divorced,119.2,1.75,38.92,B,Dust,Non-Smoker,Never,Heart Disease,Poor,Yes,1,None,Hospital,2021-12-05,Yes,Low,Healthy,Low
+22,Male,Chinese,Permanent Resident,Married,82,1.76,26.47,A,None,Smoker,Never,Heart Disease,Good,Yes,1,None,None,2023-08-18,No,High,Moderate,High
+67,Male,Chinese,Permanent Resident,Married,42.6,1.62,16.23,B,None,Smoker,Frequently,Diabetes,Poor,No,3,Public,Clinic,2022-04-21,Yes,Low,Unhealthy,Low
+51,Male,Malay,Foreigner,Widowed,93.5,1.66,33.93,A,None,Smoker,Never,Hypertension,Moderate,No,7,None,None,2021-06-18,No,Moderate,Moderate,None
+63,Female,Chinese,Foreigner,Divorced,62.4,1.73,20.85,B,None,Non-Smoker,Frequently,None,Good,Yes,4,Private,Clinic,2023-06-08,Yes,High,Moderate,Moderate
+50,Female,Malay,Permanent Resident,Married,93.9,1.59,37.14,AB,Dust,Non-Smoker,Frequently,Heart Disease,Moderate,Yes,2,Public,Clinic,2023-07-03,Yes,Moderate,Unhealthy,Low
+53,Male,Indian,Citizen,Divorced,40.4,1.59,15.98,B,None,Non-Smoker,Occasionally,None,Good,No,3,Private,Clinic,2021-02-18,Yes,Moderate,Unhealthy,High
+64,Male,Chinese,Foreigner,Married,89.3,1.95,23.48,B,Nuts,Smoker,Frequently,Heart Disease,Good,Yes,4,None,None,2021-03-14,No,Low,Healthy,High
+66,Male,Indian,Citizen,Divorced,102.1,1.7,35.33,O,Pollen,Smoker,Never,Hypertension,Good,Yes,9,Public,Clinic,2022-07-05,No,High,Moderate,High
+48,Male,Malay,Foreigner,Widowed,108.9,1.5,48.4,O,None,Non-Smoker,Occasionally,None,Moderate,No,8,Public,Hospital,2022-12-21,No,High,Unhealthy,Moderate
+52,Male,Chinese,Foreigner,Married,92.3,1.86,26.68,B,Dust,Non-Smoker,Never,Diabetes,Moderate,No,8,None,Clinic,2021-06-03,No,Moderate,Unhealthy,Low
+68,Female,Chinese,Permanent Resident,Divorced,54.3,1.89,15.2,B,Nuts,Non-Smoker,Occasionally,Hypertension,Moderate,Yes,7,Private,Clinic,2023-03-07,Yes,Low,Healthy,High
+62,Male,Others,Citizen,Widowed,59.6,1.69,20.87,B,Dust,Smoker,Frequently,Hypertension,Poor,Yes,1,Private,Clinic,2021-03-10,Yes,High,Healthy,None
+55,Male,Others,Permanent Resident,Married,71.3,1.53,30.46,A,Nuts,Smoker,Frequently,None,Moderate,No,6,Private,None,2022-12-10,No,Low,Unhealthy,High
+36,Female,Chinese,Foreigner,Divorced,116.2,1.77,37.09,A,Dust,Smoker,Frequently,Diabetes,Poor,Yes,2,Public,Hospital,2023-08-28,No,High,Unhealthy,None
+45,Male,Chinese,Permanent Resident,Widowed,48.5,1.59,19.18,O,Nuts,Smoker,Never,Diabetes,Moderate,Yes,3,Public,Clinic,2023-05-25,Yes,Low,Healthy,High
+54,Female,Others,Citizen,Single,74.1,1.84,21.89,A,Dust,Smoker,Frequently,Hypertension,Poor,Yes,8,Private,Clinic,2023-12-25,Yes,Low,Healthy,Moderate
+39,Female,Malay,Foreigner,Widowed,53.8,1.76,17.37,AB,None,Smoker,Never,Hypertension,Poor,No,5,Public,None,2021-06-26,No,Low,Healthy,None
+51,Male,Chinese,Permanent Resident,Divorced,87,1.83,25.98,A,None,Smoker,Never,Diabetes,Moderate,No,8,None,None,2021-09-19,No,Moderate,Moderate,Moderate
+58,Female,Others,Citizen,Single,79.3,1.62,30.22,AB,Pollen,Non-Smoker,Occasionally,Hypertension,Good,Yes,1,Private,None,2023-04-05,Yes,High,Healthy,None
+32,Male,Malay,Permanent Resident,Married,86.7,1.56,35.63,B,Pollen,Non-Smoker,Occasionally,Hypertension,Moderate,No,9,Public,Hospital,2022-01-27,Yes,Moderate,Healthy,Moderate
+64,Female,Others,Foreigner,Married,60,1.68,21.26,B,None,Smoker,Frequently,None,Poor,Yes,4,Public,Clinic,2021-08-27,No,Low,Unhealthy,Low
+54,Male,Malay,Permanent Resident,Married,87.4,1.87,24.99,A,None,Non-Smoker,Frequently,Hypertension,Poor,No,4,Public,Clinic,2023-06-10,No,Low,Healthy,None
+31,Male,Others,Citizen,Divorced,47.7,1.54,20.11,O,Nuts,Non-Smoker,Frequently,None,Moderate,Yes,6,Public,None,2022-11-06,No,High,Healthy,Moderate
+48,Female,Malay,Citizen,Married,98,1.57,39.76,B,Nuts,Non-Smoker,Never,None,Moderate,Yes,0,Private,Hospital,2022-08-13,Yes,Moderate,Healthy,High
+68,Female,Chinese,Citizen,Married,42.6,1.79,13.3,AB,Dust,Non-Smoker,Never,Hypertension,Moderate,Yes,5,Public,Hospital,2021-01-06,Yes,Low,Unhealthy,Low
+22,Female,Others,Citizen,Single,79.1,1.75,25.83,O,Nuts,Non-Smoker,Never,Hypertension,Poor,No,9,Public,Clinic,2021-05-15,No,Low,Unhealthy,Low
+61,Male,Malay,Citizen,Married,90.2,1.93,24.22,A,Nuts,Smoker,Frequently,None,Moderate,No,3,Private,Hospital,2023-05-12,Yes,Moderate,Moderate,Low
+74,Male,Malay,Permanent Resident,Widowed,44.5,1.93,11.95,A,Dust,Smoker,Occasionally,Heart Disease,Good,Yes,9,None,Hospital,2022-04-22,No,Low,Healthy,High
+50,Male,Malay,Citizen,Single,112.4,1.54,47.39,A,Pollen,Smoker,Never,Diabetes,Poor,Yes,8,Private,Hospital,2021-07-20,No,Moderate,Moderate,None
+55,Female,Chinese,Citizen,Widowed,107,1.71,36.59,A,Pollen,Smoker,Occasionally,Hypertension,Poor,No,7,None,Clinic,2021-07-12,Yes,High,Moderate,Moderate
+40,Female,Chinese,Permanent Resident,Divorced,111.1,1.54,46.85,AB,Nuts,Non-Smoker,Occasionally,Hypertension,Moderate,No,8,None,None,2023-03-20,Yes,Low,Moderate,None
+45,Male,Chinese,Citizen,Divorced,51.1,1.83,15.26,A,Nuts,Non-Smoker,Occasionally,None,Good,Yes,7,Public,Clinic,2022-01-24,Yes,Moderate,Unhealthy,Moderate
+79,Male,Malay,Foreigner,Widowed,41.3,1.64,15.36,B,None,Smoker,Never,None,Poor,Yes,7,Public,Clinic,2023-07-25,No,Low,Moderate,Moderate
+51,Female,Malay,Foreigner,Divorced,75.4,1.71,25.79,B,Pollen,Non-Smoker,Frequently,None,Poor,No,5,Public,Hospital,2022-08-28,No,Low,Healthy,Moderate
+50,Female,Malay,Permanent Resident,Divorced,106.3,1.92,28.84,O,Nuts,Non-Smoker,Never,Heart Disease,Moderate,No,4,Public,Hospital,2021-06-19,No,Moderate,Unhealthy,Low
+79,Female,Malay,Foreigner,Single,63.6,1.59,25.16,B,Nuts,Smoker,Never,Heart Disease,Good,Yes,9,Private,Hospital,2022-08-22,Yes,Moderate,Healthy,None
+60,Male,Malay,Permanent Resident,Widowed,69.5,1.69,24.33,A,Pollen,Smoker,Occasionally,None,Good,No,1,Public,Hospital,2022-04-09,Yes,Low,Unhealthy,Moderate
+23,Male,Indian,Permanent Resident,Divorced,110.3,1.63,41.51,B,None,Non-Smoker,Occasionally,None,Good,Yes,2,Private,Clinic,2023-09-03,No,Moderate,Healthy,Moderate
+32,Male,Others,Citizen,Married,81.1,1.81,24.76,O,Dust,Non-Smoker,Frequently,Hypertension,Good,No,3,None,None,2022-10-12,No,Low,Moderate,Moderate
+48,Male,Chinese,Citizen,Single,88.8,1.84,26.23,AB,Nuts,Non-Smoker,Frequently,None,Moderate,Yes,9,None,None,2021-08-15,No,Low,Unhealthy,None
+32,Female,Indian,Permanent Resident,Married,82.2,1.92,22.3,O,Nuts,Smoker,Occasionally,Hypertension,Good,Yes,0,None,Clinic,2021-11-21,No,Moderate,Unhealthy,Low
+34,Female,Chinese,Citizen,Divorced,106.6,1.55,44.37,AB,Nuts,Non-Smoker,Occasionally,Diabetes,Poor,No,8,Private,Hospital,2022-07-21,No,Low,Healthy,None
+77,Male,Malay,Foreigner,Divorced,62.7,1.62,23.89,A,Dust,Non-Smoker,Frequently,Diabetes,Good,No,6,Public,Hospital,2021-07-23,Yes,Low,Moderate,None
+38,Male,Malay,Permanent Resident,Widowed,63.9,1.97,16.47,A,Dust,Smoker,Frequently,Diabetes,Moderate,No,6,Private,Hospital,2021-11-24,Yes,High,Unhealthy,None
+32,Male,Indian,Permanent Resident,Single,93.3,1.97,24.04,AB,Dust,Smoker,Occasionally,Diabetes,Good,Yes,7,Public,None,2021-07-10,Yes,Moderate,Moderate,Moderate
+25,Male,Others,Permanent Resident,Widowed,96.8,1.56,39.78,AB,Nuts,Non-Smoker,Occasionally,Heart Disease,Good,Yes,2,None,Hospital,2022-09-05,Yes,High,Moderate,High
+45,Male,Indian,Foreigner,Divorced,46.6,1.58,18.67,A,Nuts,Non-Smoker,Never,None,Moderate,No,2,Private,Hospital,2022-04-20,No,High,Moderate,High
+73,Male,Chinese,Foreigner,Single,41.9,1.56,17.22,A,Pollen,Non-Smoker,Occasionally,Diabetes,Poor,Yes,6,Public,Hospital,2022-05-04,Yes,Low,Healthy,Low
+40,Male,Chinese,Citizen,Divorced,74,1.63,27.85,B,Dust,Smoker,Never,Heart Disease,Poor,No,8,None,Clinic,2021-08-26,Yes,Low,Healthy,High
+33,Male,Indian,Citizen,Single,67.5,1.56,27.74,AB,Dust,Non-Smoker,Frequently,None,Good,Yes,2,Public,None,2023-08-18,Yes,Moderate,Moderate,Low
+48,Female,Others,Foreigner,Widowed,93.5,1.8,28.86,B,Nuts,Smoker,Frequently,Hypertension,Good,No,6,Private,Clinic,2021-06-18,Yes,Moderate,Healthy,None
+78,Female,Chinese,Citizen,Widowed,97,1.72,32.79,O,Pollen,Non-Smoker,Never,Heart Disease,Poor,Yes,2,None,None,2021-10-18,No,Moderate,Healthy,Low
+20,Female,Chinese,Permanent Resident,Married,69.7,1.61,26.89,AB,Pollen,Non-Smoker,Occasionally,None,Good,Yes,2,None,None,2021-06-03,No,High,Moderate,Moderate
+20,Male,Chinese,Permanent Resident,Single,81.3,1.67,29.15,O,Dust,Non-Smoker,Never,Hypertension,Moderate,No,8,Public,None,2021-10-15,Yes,High,Healthy,Moderate
+39,Male,Malay,Citizen,Widowed,78.5,1.59,31.05,AB,Nuts,Non-Smoker,Frequently,Diabetes,Good,No,9,Private,Hospital,2021-11-28,No,Moderate,Moderate,None
+33,Male,Chinese,Citizen,Divorced,93.1,1.51,40.83,B,Dust,Non-Smoker,Never,Heart Disease,Good,Yes,7,None,None,2022-12-13,Yes,High,Unhealthy,High
+38,Female,Others,Foreigner,Single,78.3,1.65,28.76,A,None,Smoker,Occasionally,Hypertension,Good,Yes,2,Private,Hospital,2021-07-20,No,Low,Moderate,High
+62,Male,Malay,Permanent Resident,Single,85.2,1.91,23.35,A,Pollen,Smoker,Occasionally,Diabetes,Good,Yes,9,None,Clinic,2022-11-25,Yes,Moderate,Healthy,Moderate
+30,Female,Indian,Permanent Resident,Married,49.1,1.8,15.15,A,Pollen,Smoker,Occasionally,None,Good,No,9,None,Clinic,2023-05-02,Yes,Low,Unhealthy,High
+64,Male,Malay,Permanent Resident,Divorced,94.7,1.67,33.96,B,Dust,Non-Smoker,Occasionally,Heart Disease,Good,Yes,3,Public,Clinic,2023-09-24,No,High,Unhealthy,High
+55,Male,Others,Foreigner,Single,86.1,1.56,35.38,AB,Nuts,Smoker,Occasionally,None,Poor,Yes,0,None,Clinic,2022-01-07,Yes,Low,Unhealthy,Moderate
+58,Female,Chinese,Foreigner,Divorced,115.2,1.98,29.38,AB,Pollen,Non-Smoker,Occasionally,Heart Disease,Poor,No,2,Private,Clinic,2022-10-24,Yes,High,Moderate,Moderate
+24,Female,Chinese,Citizen,Widowed,111.7,1.61,43.09,A,Nuts,Smoker,Never,Hypertension,Good,Yes,9,Public,Clinic,2022-04-23,No,Moderate,Moderate,Low
+48,Female,Chinese,Foreigner,Divorced,71.9,1.9,19.92,AB,Dust,Smoker,Never,Diabetes,Good,Yes,0,None,Hospital,2023-06-21,Yes,Moderate,Healthy,High
+43,Female,Malay,Permanent Resident,Married,87,1.5,38.67,O,None,Non-Smoker,Never,Diabetes,Good,Yes,8,Private,Clinic,2023-01-21,Yes,High,Unhealthy,None
+59,Male,Chinese,Foreigner,Married,108.2,1.67,38.8,B,Nuts,Non-Smoker,Occasionally,None,Poor,Yes,0,Private,None,2023-07-03,Yes,Low,Healthy,Moderate
+56,Female,Indian,Citizen,Divorced,58.5,1.57,23.73,B,Pollen,Non-Smoker,Never,Diabetes,Moderate,Yes,1,None,None,2022-06-14,Yes,Low,Unhealthy,High
+26,Male,Indian,Permanent Resident,Single,55.4,1.78,17.49,A,Dust,Non-Smoker,Never,Heart Disease,Poor,Yes,9,Public,Clinic,2023-05-17,No,High,Moderate,Low
+44,Male,Others,Citizen,Widowed,114,1.83,34.04,AB,Nuts,Smoker,Never,Hypertension,Moderate,No,1,Public,Clinic,2023-03-23,Yes,High,Moderate,Moderate
+35,Female,Others,Citizen,Single,74.2,1.83,22.16,A,Dust,Smoker,Never,None,Moderate,Yes,5,Private,Clinic,2022-08-06,No,High,Healthy,None
+65,Male,Indian,Citizen,Married,60.9,1.58,24.4,A,None,Smoker,Never,None,Moderate,No,2,Private,Hospital,2023-11-27,Yes,High,Healthy,Moderate
+48,Male,Malay,Foreigner,Married,72.7,1.88,20.57,A,Pollen,Smoker,Occasionally,Heart Disease,Moderate,Yes,0,Public,Hospital,2023-06-25,Yes,High,Healthy,Low
+52,Female,Chinese,Permanent Resident,Single,85.7,1.95,22.54,B,None,Non-Smoker,Never,Heart Disease,Poor,No,6,None,Hospital,2022-10-05,No,High,Unhealthy,None
+26,Female,Others,Citizen,Single,75.1,1.53,32.08,O,Pollen,Non-Smoker,Frequently,Hypertension,Poor,No,5,Private,None,2023-10-06,Yes,Moderate,Unhealthy,None
+45,Female,Others,Citizen,Divorced,41.7,1.63,15.69,AB,None,Smoker,Frequently,Diabetes,Moderate,Yes,7,Public,Clinic,2021-11-07,Yes,High,Moderate,High
+62,Female,Chinese,Permanent Resident,Married,76.7,1.82,23.16,O,Nuts,Smoker,Frequently,Diabetes,Good,Yes,5,Public,None,2021-04-20,No,Moderate,Unhealthy,Low
+79,Female,Indian,Permanent Resident,Divorced,110.7,1.86,32,AB,None,Non-Smoker,Occasionally,None,Moderate,Yes,0,None,Clinic,2021-04-18,Yes,High,Moderate,Low
+28,Male,Indian,Citizen,Divorced,94.3,1.75,30.79,O,Dust,Non-Smoker,Frequently,Hypertension,Poor,No,0,None,Clinic,2022-02-28,Yes,Moderate,Healthy,Low
+30,Female,Malay,Citizen,Married,110.1,1.92,29.87,O,Dust,Non-Smoker,Frequently,Diabetes,Poor,No,1,Private,None,2022-06-05,Yes,Moderate,Moderate,High
+73,Male,Others,Permanent Resident,Married,43.5,1.76,14.04,A,Pollen,Smoker,Never,None,Poor,No,4,Public,None,2021-01-20,Yes,Low,Moderate,None
+35,Male,Malay,Permanent Resident,Divorced,56.7,1.92,15.38,B,None,Non-Smoker,Frequently,Hypertension,Good,No,1,Private,None,2022-03-21,Yes,High,Moderate,Moderate
+46,Male,Malay,Citizen,Widowed,56.4,1.65,20.72,O,None,Smoker,Occasionally,Heart Disease,Good,No,1,Private,Clinic,2022-08-06,Yes,Low,Healthy,None
+64,Female,Chinese,Citizen,Married,105.9,1.67,37.97,A,Dust,Smoker,Never,Diabetes,Moderate,Yes,7,Private,Hospital,2023-06-28,Yes,Moderate,Unhealthy,Moderate
+71,Male,Chinese,Permanent Resident,Single,46.3,1.79,14.45,A,None,Non-Smoker,Never,None,Poor,Yes,5,Public,Clinic,2021-11-18,Yes,High,Healthy,High
+33,Male,Others,Citizen,Widowed,83.6,1.98,21.32,AB,None,Smoker,Never,Hypertension,Poor,No,2,Private,None,2021-11-26,Yes,Low,Unhealthy,None
+76,Male,Malay,Permanent Resident,Divorced,44.2,1.95,11.62,A,Pollen,Smoker,Occasionally,Hypertension,Moderate,No,0,Private,Hospital,2022-12-03,Yes,Moderate,Unhealthy,Low
+40,Female,Others,Citizen,Married,74.8,1.63,28.15,B,Dust,Non-Smoker,Never,Diabetes,Good,Yes,4,None,Clinic,2022-01-15,No,Low,Unhealthy,Moderate
+66,Male,Chinese,Permanent Resident,Married,88.7,1.78,28,AB,Nuts,Smoker,Occasionally,Diabetes,Moderate,No,9,Public,Hospital,2022-04-27,Yes,Low,Healthy,Moderate
+53,Male,Others,Permanent Resident,Single,73.4,1.54,30.95,A,Pollen,Smoker,Occasionally,Diabetes,Good,No,1,None,Hospital,2022-07-23,Yes,Low,Moderate,None
+34,Male,Malay,Foreigner,Single,66.9,1.55,27.85,B,None,Non-Smoker,Never,Heart Disease,Moderate,No,7,Private,None,2022-06-22,Yes,High,Healthy,None
+24,Male,Malay,Citizen,Widowed,61.6,1.85,18,B,Nuts,Smoker,Frequently,Hypertension,Good,Yes,1,None,Clinic,2021-02-27,Yes,Moderate,Healthy,Moderate
+62,Male,Chinese,Citizen,Single,65.2,1.8,20.12,A,Dust,Smoker,Never,Diabetes,Good,Yes,6,Private,Clinic,2023-05-14,No,High,Healthy,None
+37,Male,Malay,Permanent Resident,Married,57.4,1.98,14.64,O,Nuts,Non-Smoker,Frequently,Heart Disease,Poor,Yes,6,Private,None,2021-10-23,No,High,Healthy,High
+75,Female,Indian,Citizen,Widowed,65.5,1.52,28.35,AB,None,Smoker,Frequently,None,Good,No,8,None,Hospital,2021-08-24,No,High,Unhealthy,None
+27,Male,Indian,Citizen,Single,50.8,1.79,15.85,O,Pollen,Smoker,Frequently,None,Poor,Yes,6,Public,Clinic,2023-06-14,No,High,Unhealthy,High
+47,Male,Others,Citizen,Married,44.1,1.98,11.25,A,Pollen,Smoker,Never,Diabetes,Poor,Yes,8,Private,Clinic,2022-02-25,Yes,High,Moderate,None
+32,Female,Chinese,Foreigner,Widowed,106.6,1.58,42.7,O,Pollen,Smoker,Never,Diabetes,Poor,Yes,0,Private,Clinic,2022-11-13,No,Low,Unhealthy,Low
+60,Male,Malay,Foreigner,Single,75.2,1.67,26.96,B,Dust,Non-Smoker,Frequently,Diabetes,Moderate,Yes,1,Private,Hospital,2023-02-09,Yes,Low,Moderate,Low
+63,Male,Others,Permanent Resident,Married,91,1.8,28.09,B,Dust,Smoker,Frequently,Hypertension,Poor,Yes,7,Public,Clinic,2022-03-04,No,Moderate,Moderate,Low
+30,Female,Chinese,Citizen,Divorced,81.5,1.76,26.31,B,Nuts,Smoker,Occasionally,Diabetes,Poor,No,6,Public,Clinic,2023-12-16,Yes,High,Moderate,Moderate
+32,Female,Malay,Permanent Resident,Married,75,1.71,25.65,A,Nuts,Non-Smoker,Never,Diabetes,Poor,No,6,Private,Hospital,2022-09-26,No,Moderate,Moderate,None
+57,Female,Chinese,Permanent Resident,Widowed,119.2,1.87,34.09,A,None,Non-Smoker,Frequently,Heart Disease,Poor,No,4,Public,Clinic,2023-05-18,No,Moderate,Healthy,Moderate
+23,Male,Others,Permanent Resident,Widowed,62.4,1.72,21.09,B,None,Smoker,Never,Diabetes,Moderate,Yes,7,Public,Clinic,2023-10-09,Yes,Low,Moderate,Moderate
+33,Male,Malay,Permanent Resident,Single,93.8,1.51,41.14,B,Pollen,Non-Smoker,Occasionally,Hypertension,Good,Yes,4,Private,Clinic,2021-10-01,No,Low,Unhealthy,High
+74,Female,Chinese,Permanent Resident,Divorced,110.8,1.97,28.55,A,None,Non-Smoker,Never,Heart Disease,Good,Yes,2,None,Hospital,2023-05-27,No,High,Moderate,Low
+78,Male,Others,Foreigner,Divorced,75.4,1.85,22.03,O,None,Non-Smoker,Occasionally,Heart Disease,Good,No,2,Private,None,2023-04-22,No,Moderate,Unhealthy,None
+36,Male,Malay,Citizen,Divorced,72.2,1.96,18.79,A,None,Non-Smoker,Occasionally,Diabetes,Poor,No,3,Private,Clinic,2023-06-17,No,Moderate,Moderate,High
+20,Male,Indian,Foreigner,Divorced,113.9,1.63,42.87,AB,None,Smoker,Occasionally,None,Moderate,Yes,6,Private,Clinic,2021-04-06,No,High,Moderate,Moderate
+33,Female,Indian,Citizen,Single,89.2,1.94,23.7,O,None,Smoker,Frequently,Diabetes,Poor,No,3,None,Hospital,2022-10-14,Yes,High,Moderate,Moderate
+43,Female,Others,Permanent Resident,Married,46.2,1.92,12.53,AB,Dust,Non-Smoker,Occasionally,None,Good,Yes,6,Public,Hospital,2023-07-07,No,Moderate,Moderate,Low
+59,Male,Malay,Permanent Resident,Married,84.4,1.67,30.26,AB,Nuts,Smoker,Frequently,None,Moderate,Yes,9,None,Clinic,2021-11-22,Yes,Moderate,Unhealthy,Moderate
+27,Female,Malay,Foreigner,Single,118,1.99,29.8,A,Nuts,Non-Smoker,Never,Heart Disease,Poor,No,7,Public,Hospital,2023-12-08,No,Moderate,Moderate,Moderate
+32,Male,Indian,Foreigner,Divorced,42.2,1.51,18.51,A,Pollen,Smoker,Frequently,Diabetes,Good,Yes,0,Public,Clinic,2021-05-27,No,High,Moderate,Moderate
+25,Female,Indian,Permanent Resident,Single,117.5,1.77,37.51,O,None,Smoker,Never,Hypertension,Moderate,Yes,4,Private,Clinic,2023-05-09,Yes,Moderate,Healthy,Low
+63,Male,Malay,Permanent Resident,Widowed,43.3,1.83,12.93,B,None,Non-Smoker,Never,Hypertension,Poor,No,7,None,Hospital,2021-05-20,Yes,Low,Unhealthy,Low
+69,Female,Others,Permanent Resident,Widowed,56.9,1.65,20.9,O,Nuts,Non-Smoker,Frequently,Diabetes,Moderate,No,5,Public,None,2022-07-14,No,Low,Healthy,High
+26,Male,Malay,Citizen,Divorced,91.6,1.7,31.7,A,Dust,Non-Smoker,Never,Heart Disease,Poor,No,7,None,Clinic,2021-01-27,Yes,Low,Healthy,Moderate
+75,Female,Others,Foreigner,Widowed,95.7,1.93,25.69,B,None,Smoker,Frequently,Diabetes,Moderate,No,4,Private,Hospital,2023-03-19,Yes,Moderate,Unhealthy,None
+67,Male,Indian,Permanent Resident,Single,63.4,1.69,22.2,A,Nuts,Smoker,Never,Heart Disease,Poor,Yes,1,Public,None,2021-12-24,Yes,Moderate,Moderate,High
+35,Female,Malay,Foreigner,Widowed,60.8,1.9,16.84,AB,Dust,Non-Smoker,Occasionally,Heart Disease,Good,No,3,Private,Clinic,2022-03-22,Yes,Low,Healthy,None
+46,Female,Indian,Permanent Resident,Divorced,51.9,1.89,14.53,A,Nuts,Smoker,Frequently,Hypertension,Poor,Yes,8,Private,None,2021-08-15,Yes,Moderate,Moderate,High
+65,Male,Others,Citizen,Widowed,75.1,1.62,28.62,A,Dust,Smoker,Never,None,Good,Yes,3,Private,None,2021-03-07,No,Moderate,Unhealthy,High
+38,Male,Indian,Foreigner,Widowed,111.6,1.64,41.49,O,Dust,Smoker,Frequently,Diabetes,Poor,No,4,Private,None,2023-04-06,No,High,Unhealthy,High
+53,Male,Malay,Permanent Resident,Married,107.7,1.7,37.27,O,Nuts,Smoker,Frequently,Hypertension,Good,Yes,8,Private,None,2023-09-10,Yes,Moderate,Unhealthy,Moderate
+56,Male,Chinese,Foreigner,Married,85,1.52,36.79,O,Pollen,Non-Smoker,Occasionally,None,Good,No,0,None,None,2022-05-20,Yes,Moderate,Unhealthy,High
+53,Male,Chinese,Citizen,Widowed,57.8,1.67,20.73,O,Pollen,Smoker,Frequently,Hypertension,Moderate,Yes,4,Public,Clinic,2022-10-27,Yes,Low,Moderate,None
+60,Male,Indian,Citizen,Widowed,40.5,1.77,12.93,O,Pollen,Non-Smoker,Occasionally,Hypertension,Good,No,9,None,Clinic,2021-03-23,No,Moderate,Unhealthy,None
+31,Female,Malay,Foreigner,Divorced,76.2,1.83,22.75,O,Nuts,Smoker,Frequently,None,Moderate,No,8,None,None,2023-11-07,No,Low,Healthy,Moderate
+44,Male,Chinese,Citizen,Single,48.4,1.56,19.89,A,Dust,Non-Smoker,Never,Hypertension,Good,Yes,1,Private,None,2021-01-21,No,Low,Healthy,Low
+36,Female,Chinese,Citizen,Married,118.9,1.52,51.46,B,None,Smoker,Occasionally,Diabetes,Good,No,1,Private,None,2023-10-25,Yes,Low,Moderate,Low
+69,Female,Malay,Permanent Resident,Married,83,1.66,30.12,AB,None,Smoker,Frequently,Hypertension,Poor,Yes,9,None,Hospital,2021-11-05,No,Moderate,Unhealthy,High
+29,Male,Chinese,Citizen,Married,108.2,1.58,43.34,O,None,Smoker,Never,Heart Disease,Good,Yes,1,Private,None,2022-07-25,Yes,Moderate,Healthy,High
+72,Female,Others,Foreigner,Divorced,109,1.68,38.62,AB,Pollen,Smoker,Occasionally,None,Good,Yes,1,Private,Clinic,2023-07-08,Yes,Low,Unhealthy,None
+47,Female,Others,Foreigner,Divorced,88,1.97,22.68,O,Nuts,Smoker,Frequently,Hypertension,Poor,Yes,6,Public,None,2021-07-24,Yes,Low,Moderate,Low
+21,Female,Others,Permanent Resident,Divorced,52.4,1.56,21.53,B,Nuts,Smoker,Never,Diabetes,Poor,No,2,Private,Hospital,2022-09-03,No,Low,Healthy,None
+40,Female,Malay,Permanent Resident,Divorced,47.1,1.59,18.63,O,Pollen,Non-Smoker,Never,Hypertension,Moderate,Yes,5,None,None,2021-12-23,No,High,Unhealthy,High
+66,Female,Indian,Foreigner,Single,105.9,1.79,33.05,AB,Pollen,Smoker,Occasionally,Hypertension,Moderate,Yes,5,Private,Hospital,2022-05-19,Yes,Low,Moderate,Moderate
+74,Male,Indian,Citizen,Widowed,111.8,1.68,39.61,AB,None,Non-Smoker,Occasionally,None,Good,Yes,2,Public,Hospital,2022-03-20,Yes,High,Healthy,High
+47,Female,Indian,Foreigner,Widowed,98.4,1.91,26.97,B,Pollen,Non-Smoker,Never,Hypertension,Good,Yes,2,None,Clinic,2021-08-18,Yes,Low,Moderate,High
+50,Male,Chinese,Foreigner,Divorced,61.4,1.82,18.54,B,None,Non-Smoker,Frequently,Diabetes,Moderate,Yes,2,None,Clinic,2022-02-18,Yes,High,Moderate,Low
+57,Female,Indian,Permanent Resident,Widowed,99.5,1.67,35.68,B,None,Smoker,Frequently,Heart Disease,Poor,Yes,5,Private,None,2022-08-12,Yes,Moderate,Moderate,High
+26,Female,Malay,Permanent Resident,Married,97.4,1.54,41.07,AB,Pollen,Smoker,Frequently,Heart Disease,Good,No,5,None,Clinic,2023-08-07,No,Moderate,Unhealthy,Low
+79,Male,Others,Citizen,Widowed,66.1,2,16.52,B,Dust,Non-Smoker,Occasionally,Hypertension,Poor,Yes,8,Public,None,2022-09-26,Yes,Low,Healthy,None
+50,Male,Others,Citizen,Widowed,40.3,1.78,12.72,B,None,Non-Smoker,Occasionally,Hypertension,Poor,Yes,2,None,None,2021-12-06,No,Moderate,Unhealthy,None
+30,Male,Chinese,Permanent Resident,Married,41.5,1.64,15.43,B,Dust,Non-Smoker,Never,None,Good,Yes,0,None,Clinic,2021-02-23,Yes,Low,Moderate,High
+36,Male,Malay,Permanent Resident,Single,116.7,1.7,40.38,AB,None,Smoker,Occasionally,Diabetes,Poor,Yes,0,None,Hospital,2022-08-28,No,Moderate,Unhealthy,High
+55,Male,Others,Citizen,Divorced,46.8,1.77,14.94,AB,Dust,Non-Smoker,Occasionally,Heart Disease,Poor,No,6,None,Hospital,2021-05-25,Yes,Moderate,Unhealthy,Moderate
+37,Female,Chinese,Permanent Resident,Widowed,119.1,1.95,31.32,AB,Dust,Non-Smoker,Frequently,None,Poor,Yes,1,Public,Hospital,2022-11-21,No,Low,Moderate,Low
+25,Male,Indian,Foreigner,Single,54.1,1.69,18.94,A,Nuts,Smoker,Occasionally,Hypertension,Moderate,No,5,Public,Hospital,2021-08-17,No,Low,Moderate,None
+51,Female,Chinese,Foreigner,Divorced,105,1.55,43.7,AB,Pollen,Non-Smoker,Frequently,Hypertension,Good,Yes,3,Private,None,2022-05-02,Yes,Moderate,Unhealthy,None
+20,Male,Chinese,Permanent Resident,Widowed,109.4,1.73,36.55,A,None,Smoker,Never,Diabetes,Moderate,No,0,Private,Hospital,2023-06-08,Yes,Moderate,Moderate,None
+48,Female,Indian,Permanent Resident,Single,73.4,1.51,32.19,AB,None,Non-Smoker,Never,None,Moderate,No,9,Private,Hospital,2023-01-18,No,High,Healthy,None
+36,Male,Chinese,Citizen,Married,96.9,1.95,25.48,AB,None,Non-Smoker,Never,Heart Disease,Poor,No,0,Public,Hospital,2022-03-02,Yes,Low,Unhealthy,Moderate
+76,Male,Indian,Foreigner,Divorced,70.6,1.89,19.76,B,None,Smoker,Frequently,Hypertension,Moderate,Yes,3,Public,Hospital,2022-03-22,No,Moderate,Unhealthy,None
+31,Male,Malay,Citizen,Widowed,94.7,1.54,39.93,A,Pollen,Smoker,Frequently,Heart Disease,Poor,Yes,9,Private,None,2022-03-23,Yes,High,Unhealthy,None
+31,Female,Chinese,Citizen,Single,48.1,1.81,14.68,A,Dust,Smoker,Occasionally,None,Poor,No,0,Private,Clinic,2022-09-04,Yes,Low,Healthy,High
+76,Male,Chinese,Permanent Resident,Single,89.9,1.64,33.43,O,Pollen,Non-Smoker,Never,None,Moderate,Yes,4,Private,None,2021-06-06,Yes,Moderate,Healthy,Low
+45,Female,Indian,Citizen,Single,107.6,1.94,28.59,AB,Nuts,Smoker,Never,Heart Disease,Good,No,5,Public,Hospital,2023-10-09,No,High,Healthy,None
+25,Male,Indian,Citizen,Single,76.2,1.89,21.33,O,None,Smoker,Occasionally,Heart Disease,Moderate,No,1,Private,Clinic,2023-10-26,Yes,Moderate,Healthy,Low
+64,Female,Indian,Citizen,Divorced,67,1.52,29,O,None,Non-Smoker,Occasionally,None,Moderate,No,1,None,None,2021-08-23,Yes,Low,Unhealthy,None
+45,Male,Others,Citizen,Married,83.4,1.52,36.1,B,Dust,Non-Smoker,Frequently,Heart Disease,Good,Yes,3,Public,None,2023-09-25,No,High,Moderate,None
+33,Female,Indian,Foreigner,Single,112,1.58,44.86,AB,Nuts,Non-Smoker,Occasionally,None,Moderate,Yes,9,Private,Hospital,2023-01-04,Yes,Low,Moderate,Low
+39,Female,Chinese,Citizen,Divorced,61.7,1.92,16.74,B,Dust,Smoker,Never,Hypertension,Good,Yes,8,None,Hospital,2021-09-16,No,Moderate,Healthy,None
+35,Male,Indian,Citizen,Married,78.8,1.75,25.73,A,None,Smoker,Frequently,Heart Disease,Good,Yes,9,Public,Hospital,2023-02-27,Yes,High,Moderate,None
+60,Male,Malay,Foreigner,Widowed,86.3,1.66,31.32,A,Pollen,Smoker,Never,None,Moderate,Yes,8,Public,Clinic,2021-01-11,Yes,Low,Healthy,None
+21,Female,Chinese,Permanent Resident,Widowed,72.6,1.87,20.76,A,Nuts,Smoker,Frequently,Diabetes,Good,Yes,5,None,Hospital,2021-07-14,No,High,Moderate,Low
+54,Female,Chinese,Citizen,Single,119.7,1.56,49.19,A,None,Smoker,Frequently,Heart Disease,Good,No,3,Private,None,2022-07-02,No,Moderate,Moderate,Moderate
+26,Female,Chinese,Permanent Resident,Single,74.6,1.61,28.78,O,Nuts,Non-Smoker,Never,Hypertension,Moderate,No,3,Private,None,2021-09-16,Yes,Moderate,Healthy,None
+66,Female,Malay,Permanent Resident,Widowed,52.8,1.73,17.64,B,Nuts,Non-Smoker,Frequently,Hypertension,Poor,Yes,1,Private,Hospital,2023-02-22,No,Moderate,Moderate,Low
+69,Male,Malay,Citizen,Divorced,102.9,1.63,38.73,AB,Pollen,Non-Smoker,Occasionally,Diabetes,Moderate,No,7,None,Hospital,2023-09-05,Yes,High,Moderate,Low
+51,Male,Chinese,Permanent Resident,Single,59.3,1.74,19.59,B,None,Smoker,Never,Heart Disease,Moderate,No,8,Private,Hospital,2021-04-17,No,Moderate,Unhealthy,None
+47,Female,Chinese,Permanent Resident,Married,50.7,1.8,15.65,O,Dust,Non-Smoker,Never,None,Moderate,Yes,3,None,None,2021-02-12,Yes,High,Healthy,Low
+74,Female,Chinese,Permanent Resident,Single,118.6,1.91,32.51,O,Pollen,Smoker,Occasionally,None,Moderate,Yes,0,None,None,2021-02-18,Yes,Moderate,Healthy,Moderate
+58,Female,Indian,Citizen,Single,49,1.67,17.57,AB,Nuts,Non-Smoker,Frequently,Diabetes,Good,No,9,None,None,2022-10-24,Yes,Low,Moderate,None
+47,Female,Chinese,Foreigner,Divorced,41.9,1.96,10.91,AB,Nuts,Non-Smoker,Frequently,Diabetes,Good,Yes,2,None,None,2023-07-24,No,High,Healthy,Moderate
+52,Female,Indian,Citizen,Divorced,64.5,1.66,23.41,A,Nuts,Non-Smoker,Frequently,Heart Disease,Moderate,No,8,Public,None,2021-06-14,No,Low,Moderate,Moderate
+34,Female,Others,Permanent Resident,Married,82,1.89,22.96,AB,Nuts,Non-Smoker,Occasionally,Hypertension,Moderate,No,7,None,None,2021-08-01,Yes,Low,Healthy,Low
+74,Female,Chinese,Citizen,Divorced,48.6,1.51,21.31,B,None,Non-Smoker,Frequently,None,Moderate,Yes,3,None,Clinic,2023-03-21,No,Low,Moderate,None
+59,Female,Indian,Foreigner,Divorced,109.4,1.87,31.28,B,Nuts,Smoker,Occasionally,Heart Disease,Good,Yes,7,Private,None,2022-07-12,No,Moderate,Unhealthy,Moderate
+38,Male,Others,Foreigner,Divorced,64.7,1.65,23.76,O,Dust,Non-Smoker,Never,None,Poor,Yes,5,Private,None,2023-09-06,Yes,High,Moderate,None
+39,Female,Others,Foreigner,Married,112.5,1.86,32.52,B,None,Non-Smoker,Occasionally,Hypertension,Moderate,Yes,5,None,None,2022-01-09,Yes,Low,Healthy,High
+53,Male,Malay,Permanent Resident,Widowed,57.3,1.67,20.55,B,Nuts,Non-Smoker,Occasionally,Heart Disease,Poor,Yes,4,Public,None,2023-04-10,No,Moderate,Healthy,Moderate
+61,Male,Indian,Permanent Resident,Divorced,89.3,1.57,36.23,AB,Pollen,Non-Smoker,Occasionally,None,Moderate,No,4,Private,None,2022-12-03,No,Low,Healthy,None
+77,Male,Malay,Permanent Resident,Single,116.7,1.92,31.66,AB,Nuts,Smoker,Occasionally,None,Poor,No,9,Private,Clinic,2022-05-01,Yes,High,Healthy,Low
+22,Male,Chinese,Citizen,Married,45.7,1.65,16.79,B,None,Non-Smoker,Never,Heart Disease,Moderate,Yes,7,Private,None,2023-01-23,No,Moderate,Unhealthy,None
+60,Female,Malay,Foreigner,Single,81.2,1.57,32.94,AB,Dust,Smoker,Frequently,Diabetes,Poor,Yes,8,None,None,2022-07-01,Yes,High,Healthy,Low
+77,Female,Malay,Foreigner,Married,52.8,1.93,14.17,A,None,Non-Smoker,Occasionally,Heart Disease,Poor,Yes,0,None,Clinic,2022-08-07,No,Low,Healthy,Low
+57,Male,Others,Permanent Resident,Divorced,118.5,1.98,30.23,AB,None,Smoker,Never,Heart Disease,Moderate,No,9,Private,Clinic,2021-07-08,No,High,Healthy,None
+35,Female,Chinese,Permanent Resident,Married,75.1,1.98,19.16,A,None,Smoker,Frequently,Hypertension,Poor,No,9,Public,None,2022-11-25,No,High,Moderate,Low
+45,Female,Malay,Permanent Resident,Single,53.5,1.57,21.7,A,Pollen,Smoker,Occasionally,None,Poor,No,7,Private,None,2022-11-19,Yes,Moderate,Moderate,None
+62,Female,Chinese,Foreigner,Widowed,43.6,1.97,11.23,AB,Pollen,Smoker,Never,Diabetes,Moderate,Yes,3,None,Hospital,2022-06-15,No,Moderate,Healthy,Low
+25,Female,Others,Permanent Resident,Married,67.8,1.96,17.65,AB,Pollen,Non-Smoker,Frequently,Heart Disease,Good,No,9,None,Clinic,2023-09-24,Yes,High,Moderate,None
+46,Male,Others,Foreigner,Widowed,92.1,1.61,35.53,B,Nuts,Smoker,Never,None,Good,No,5,None,Clinic,2021-09-01,Yes,High,Healthy,None
+22,Male,Malay,Foreigner,Married,99.3,1.72,33.57,B,Nuts,Non-Smoker,Occasionally,Heart Disease,Moderate,Yes,8,None,None,2021-11-24,No,Moderate,Healthy,Low
+29,Male,Malay,Citizen,Divorced,114.3,1.98,29.16,AB,Nuts,Non-Smoker,Frequently,Diabetes,Moderate,No,9,None,Hospital,2023-08-12,No,High,Healthy,Low
+68,Male,Indian,Permanent Resident,Divorced,117.1,1.81,35.74,AB,Pollen,Non-Smoker,Occasionally,Heart Disease,Good,Yes,9,Public,None,2022-04-19,No,Low,Unhealthy,Moderate
+48,Female,Indian,Citizen,Married,52.2,1.51,22.89,AB,Nuts,Non-Smoker,Frequently,Hypertension,Poor,Yes,8,Private,Hospital,2022-01-02,Yes,High,Healthy,None
+21,Female,Malay,Permanent Resident,Divorced,68.5,1.72,23.15,B,Dust,Non-Smoker,Frequently,Hypertension,Good,No,9,Public,None,2021-08-10,No,Moderate,Healthy,Low
+26,Female,Indian,Foreigner,Divorced,107.1,1.85,31.29,B,None,Smoker,Frequently,Diabetes,Good,No,4,Private,None,2022-02-08,Yes,Moderate,Unhealthy,Moderate
+45,Male,Indian,Citizen,Married,48.7,1.73,16.27,O,None,Smoker,Occasionally,Hypertension,Moderate,No,0,Private,None,2023-02-19,Yes,Moderate,Healthy,None
+22,Male,Malay,Foreigner,Divorced,90.6,1.76,29.25,B,Nuts,Smoker,Never,Hypertension,Moderate,No,9,Public,Hospital,2023-07-04,No,Low,Moderate,Moderate
+66,Female,Chinese,Permanent Resident,Single,66.2,1.62,25.22,AB,Nuts,Non-Smoker,Occasionally,Heart Disease,Poor,Yes,6,Private,Hospital,2021-01-11,Yes,High,Moderate,High
+71,Male,Malay,Permanent Resident,Single,84.4,1.66,30.63,O,None,Non-Smoker,Frequently,Diabetes,Good,No,5,None,Hospital,2021-03-09,Yes,Low,Moderate,High
+79,Female,Chinese,Foreigner,Single,113.5,1.74,37.49,AB,Dust,Smoker,Never,Diabetes,Good,Yes,7,Private,Clinic,2023-01-08,Yes,Moderate,Healthy,Low
+53,Female,Others,Citizen,Single,100.6,1.96,26.19,B,Pollen,Smoker,Occasionally,Heart Disease,Good,No,1,Private,Clinic,2021-02-28,Yes,Low,Unhealthy,Moderate
+52,Male,Chinese,Permanent Resident,Married,82.1,1.79,25.62,AB,None,Non-Smoker,Frequently,Diabetes,Poor,No,9,Public,Hospital,2023-09-11,Yes,Low,Healthy,Low
+49,Female,Indian,Permanent Resident,Widowed,108,1.99,27.27,B,Dust,Smoker,Occasionally,None,Moderate,No,7,Private,Clinic,2021-01-05,No,Low,Healthy,Low
+66,Female,Others,Citizen,Widowed,65.7,1.57,26.65,O,Nuts,Non-Smoker,Frequently,None,Poor,No,9,Public,Hospital,2023-02-17,Yes,High,Healthy,High
+21,Female,Others,Citizen,Single,68.7,1.97,17.7,B,Dust,Non-Smoker,Occasionally,Hypertension,Good,No,8,None,None,2022-06-04,No,Low,Unhealthy,Moderate
+45,Male,Chinese,Citizen,Single,82.8,1.55,34.46,B,Dust,Non-Smoker,Frequently,Diabetes,Moderate,Yes,6,Public,Clinic,2023-05-05,Yes,Moderate,Healthy,High
+49,Female,Chinese,Citizen,Widowed,82.2,1.8,25.37,B,Dust,Smoker,Occasionally,Hypertension,Moderate,Yes,6,Private,Hospital,2021-01-21,No,Low,Healthy,Moderate
+22,Female,Others,Citizen,Single,67.9,1.83,20.28,B,Pollen,Non-Smoker,Frequently,Heart Disease,Moderate,No,9,None,None,2021-03-16,No,High,Moderate,None
+74,Female,Indian,Permanent Resident,Divorced,67.4,1.83,20.13,O,Dust,Smoker,Frequently,Heart Disease,Moderate,No,7,None,Clinic,2023-09-25,No,High,Unhealthy,Moderate
+58,Female,Others,Foreigner,Widowed,116.1,1.95,30.53,A,Nuts,Non-Smoker,Frequently,None,Moderate,Yes,4,Private,None,2022-10-09,Yes,Moderate,Unhealthy,Low
+75,Male,Chinese,Foreigner,Married,68,1.52,29.43,AB,Pollen,Smoker,Never,Hypertension,Good,Yes,9,Private,Clinic,2022-02-01,No,Low,Unhealthy,None
+31,Male,Indian,Permanent Resident,Married,48.1,1.61,18.56,B,Dust,Non-Smoker,Never,Hypertension,Moderate,No,1,None,Clinic,2022-11-14,Yes,Moderate,Healthy,Low
+25,Female,Others,Foreigner,Divorced,104,1.87,29.74,O,None,Smoker,Frequently,Heart Disease,Good,No,2,Public,Hospital,2022-08-18,No,Moderate,Moderate,Moderate
+25,Female,Indian,Permanent Resident,Widowed,62.5,1.51,27.41,A,Nuts,Non-Smoker,Never,Diabetes,Poor,No,1,Public,None,2021-02-18,Yes,Moderate,Moderate,Low
+55,Male,Others,Permanent Resident,Divorced,107.9,1.8,33.3,O,None,Smoker,Occasionally,Heart Disease,Poor,Yes,1,None,Hospital,2021-01-01,Yes,High,Unhealthy,Moderate
+63,Male,Others,Citizen,Widowed,45,1.89,12.6,AB,Pollen,Smoker,Frequently,None,Poor,Yes,4,None,Hospital,2022-07-03,No,Low,Healthy,None
+69,Female,Chinese,Foreigner,Single,112.4,1.68,39.82,B,None,Non-Smoker,Never,None,Poor,Yes,2,Public,None,2023-10-14,Yes,Low,Healthy,None
+60,Female,Malay,Citizen,Divorced,80.1,1.65,29.42,O,Pollen,Smoker,Occasionally,Diabetes,Poor,No,6,None,Clinic,2021-05-03,No,Low,Unhealthy,Moderate
+23,Male,Indian,Foreigner,Married,101.2,1.67,36.29,B,Pollen,Non-Smoker,Never,Heart Disease,Poor,Yes,4,Public,None,2021-05-11,Yes,Low,Moderate,None
+29,Female,Indian,Citizen,Single,76,1.68,26.93,A,Pollen,Smoker,Never,Diabetes,Poor,Yes,9,None,Clinic,2022-11-08,No,High,Moderate,High
+56,Male,Malay,Foreigner,Widowed,54.9,1.8,16.94,A,Pollen,Smoker,Never,Hypertension,Moderate,Yes,2,Private,Clinic,2023-06-25,No,Moderate,Unhealthy,None
+44,Male,Others,Foreigner,Divorced,74.2,1.74,24.51,A,Pollen,Smoker,Frequently,Diabetes,Poor,No,1,Private,None,2021-11-04,Yes,Moderate,Unhealthy,High
+61,Female,Indian,Foreigner,Married,114.6,1.6,44.77,AB,Dust,Non-Smoker,Never,None,Good,Yes,2,Public,Clinic,2021-07-15,No,Moderate,Moderate,Low
+76,Male,Others,Foreigner,Widowed,78.4,1.79,24.47,AB,Pollen,Non-Smoker,Occasionally,None,Moderate,Yes,8,Private,Clinic,2021-12-20,Yes,Low,Moderate,Low
+38,Female,Indian,Foreigner,Widowed,106.4,1.86,30.76,B,Pollen,Non-Smoker,Never,None,Moderate,No,9,None,Clinic,2021-06-02,No,High,Unhealthy,Low
+57,Female,Others,Permanent Resident,Widowed,106.9,1.72,36.13,B,Nuts,Smoker,Frequently,Heart Disease,Moderate,Yes,9,Public,Hospital,2021-12-27,No,High,Unhealthy,Low
+24,Male,Chinese,Citizen,Single,40.8,1.9,11.3,AB,Nuts,Non-Smoker,Never,None,Poor,No,8,Private,None,2021-07-15,No,Moderate,Healthy,Low
+48,Female,Chinese,Foreigner,Single,69.5,1.88,19.66,AB,Pollen,Non-Smoker,Frequently,Hypertension,Moderate,Yes,5,Private,Hospital,2023-10-12,No,Moderate,Unhealthy,Moderate
+69,Female,Others,Foreigner,Single,96.4,1.92,26.15,B,Nuts,Non-Smoker,Never,Heart Disease,Good,No,1,Private,None,2022-11-01,Yes,Moderate,Moderate,Low
+45,Male,Chinese,Permanent Resident,Divorced,53.6,1.6,20.94,A,Dust,Non-Smoker,Never,Heart Disease,Moderate,No,3,Private,Hospital,2022-04-09,Yes,Moderate,Moderate,None
+75,Female,Chinese,Foreigner,Divorced,43.4,1.67,15.56,A,Nuts,Smoker,Never,Heart Disease,Good,No,3,Public,None,2022-11-01,Yes,Low,Moderate,Moderate
+71,Male,Chinese,Foreigner,Widowed,98.5,1.94,26.17,AB,None,Non-Smoker,Occasionally,Diabetes,Good,Yes,0,Private,Hospital,2021-09-25,No,High,Unhealthy,Moderate
+73,Male,Others,Foreigner,Widowed,57.3,1.65,21.05,A,Dust,Non-Smoker,Never,Hypertension,Moderate,Yes,6,Public,Hospital,2021-01-07,No,High,Moderate,None
+62,Female,Others,Permanent Resident,Single,91.9,1.59,36.35,AB,Pollen,Non-Smoker,Occasionally,Hypertension,Poor,Yes,3,Private,Clinic,2022-03-12,Yes,Low,Unhealthy,Moderate
+52,Female,Others,Foreigner,Widowed,60.1,1.7,20.8,A,Nuts,Smoker,Occasionally,Heart Disease,Good,Yes,5,None,None,2022-02-09,No,High,Healthy,None
+76,Male,Indian,Foreigner,Single,41.2,1.93,11.06,AB,None,Non-Smoker,Never,Hypertension,Poor,Yes,0,Public,Clinic,2022-03-15,Yes,High,Unhealthy,None
+46,Female,Malay,Foreigner,Divorced,111.7,1.56,45.9,O,Nuts,Non-Smoker,Occasionally,Diabetes,Moderate,No,4,Public,Clinic,2023-06-15,Yes,High,Moderate,Low
+41,Male,Indian,Foreigner,Married,45.8,1.96,11.92,B,Dust,Non-Smoker,Occasionally,None,Poor,Yes,6,Private,Clinic,2021-12-13,Yes,Moderate,Moderate,None
+77,Female,Indian,Permanent Resident,Widowed,43.1,1.87,12.33,B,Dust,Smoker,Occasionally,Hypertension,Moderate,Yes,3,Public,Clinic,2023-10-27,No,Moderate,Healthy,Low
+62,Female,Malay,Foreigner,Widowed,59.1,1.73,19.75,O,None,Non-Smoker,Never,Hypertension,Good,Yes,3,Private,Hospital,2023-02-16,No,Low,Moderate,Moderate
+43,Male,Indian,Foreigner,Single,60.9,1.96,15.85,A,Dust,Non-Smoker,Never,None,Good,No,4,Private,Clinic,2022-10-03,No,Low,Unhealthy,High
+59,Female,Chinese,Permanent Resident,Divorced,104.4,1.79,32.58,AB,Nuts,Non-Smoker,Never,Diabetes,Poor,No,3,Private,Hospital,2023-06-09,Yes,Low,Moderate,Moderate
+21,Male,Indian,Permanent Resident,Married,95.8,1.84,28.3,AB,Dust,Smoker,Frequently,Diabetes,Poor,Yes,8,Private,Clinic,2021-03-22,No,High,Healthy,None
+63,Male,Chinese,Permanent Resident,Married,84,1.83,25.08,AB,Nuts,Smoker,Frequently,Diabetes,Poor,Yes,8,Private,None,2023-08-16,Yes,High,Moderate,Low
+31,Female,Indian,Foreigner,Widowed,61.4,1.79,19.16,A,Dust,Non-Smoker,Occasionally,Heart Disease,Poor,No,0,Private,Hospital,2023-01-02,Yes,Moderate,Unhealthy,None
+23,Female,Malay,Citizen,Divorced,87.8,1.73,29.34,AB,Dust,Non-Smoker,Occasionally,None,Moderate,Yes,8,Private,Hospital,2023-05-12,Yes,Moderate,Moderate,None
+51,Female,Others,Citizen,Married,102.2,1.69,35.78,AB,None,Non-Smoker,Never,Heart Disease,Good,Yes,2,Public,Clinic,2021-07-24,Yes,Moderate,Unhealthy,Moderate
+20,Male,Chinese,Permanent Resident,Divorced,49.7,1.81,15.17,B,Nuts,Non-Smoker,Frequently,Heart Disease,Good,Yes,9,Public,None,2023-09-23,No,High,Moderate,Low
+68,Female,Indian,Permanent Resident,Divorced,98.7,1.96,25.69,AB,Pollen,Smoker,Occasionally,Hypertension,Poor,Yes,7,Public,Clinic,2022-08-06,No,Moderate,Unhealthy,None
+34,Female,Others,Permanent Resident,Divorced,100.9,1.71,34.51,AB,Dust,Non-Smoker,Occasionally,Hypertension,Poor,No,9,Private,None,2022-09-09,Yes,Moderate,Unhealthy,None
+27,Female,Chinese,Foreigner,Married,40.8,1.96,10.62,AB,Dust,Smoker,Frequently,None,Poor,Yes,3,Private,Hospital,2022-05-28,No,Low,Unhealthy,None
+48,Female,Others,Foreigner,Widowed,76.8,1.75,25.08,A,None,Smoker,Frequently,Hypertension,Good,No,7,None,Clinic,2023-05-16,No,Moderate,Moderate,High
+31,Male,Others,Citizen,Widowed,60.9,1.65,22.37,A,None,Smoker,Frequently,Heart Disease,Good,Yes,6,Public,Hospital,2023-04-12,No,High,Healthy,High
+22,Male,Indian,Foreigner,Married,107.7,1.96,28.04,AB,Nuts,Non-Smoker,Occasionally,Heart Disease,Poor,Yes,3,Private,Hospital,2021-12-01,No,Low,Unhealthy,Moderate
+40,Female,Others,Foreigner,Divorced,114.9,1.69,40.23,B,Pollen,Non-Smoker,Occasionally,Heart Disease,Poor,Yes,2,Private,Clinic,2022-06-04,No,Moderate,Healthy,None

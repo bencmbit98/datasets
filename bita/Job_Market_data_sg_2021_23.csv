@@ -1,0 +1,1001 @@
+﻿Age,Gender,Race,Educational_Level,Marital_Status,Industry,Occupation,Years_in_Current_Job,Employment_Type,Monthly_Income_SGD,Job_Satisfaction_Level,Skills_Training,Promotion_in_Last_5_Years,Looking_for_Job_Change,Work_Hours_per_Week,Commute_Time_One_Way_Hours,Previous_Employment_Status,Residency_Status,Languages_Spoken,Work_Location_Preference,Recent_Training_or_Courses,Expected_Salary_Increase_%,Job_Security_Concerns,Interview_Date
+34,Male,Others,Diploma,Single,Finance,Engineer,10,Full-time,9443.95,Neutral,Yes,Yes,Yes,38.6,1.37,Retired,Foreigner,Others,On-site,Yes,5.7,No,2022-01-21
+64,Female,Others,High School,Widowed,Hospitality,Teacher,26,Self-employed,7267.79,Very Satisfied,No,Yes,No,53.3,0.78,Student,Foreigner,Malay,Remote,No,14.6,No,2023-09-24
+29,Female,Others,Diploma,Married,Education,Doctor,2,Part-time,8197.49,Satisfied,No,No,Yes,43.9,1.73,Unemployed,Permanent Resident,English,Remote,Yes,17.6,Yes,2023-05-02
+53,Female,Others,PhD,Divorced,Healthcare,Laborer,19,Part-time,3429.73,Unsatisfied,Yes,Yes,Yes,37.7,1.87,Student,Foreigner,Malay,On-site,No,8.1,Yes,2021-06-01
+64,Female,Malay,Diploma,Single,Healthcare,Laborer,21,Self-employed,4267.99,Unsatisfied,Yes,No,No,53,0.85,Student,Citizen,Mandarin,On-site,No,10.4,No,2022-06-28
+47,Female,Others,Bachelor,Widowed,Healthcare,Manager,2,Self-employed,5195.35,Satisfied,No,Yes,Yes,60,0.63,Student,Foreigner,Others,Remote,Yes,16.8,No,2021-04-21
+40,Male,Malay,Bachelor,Married,Finance,Laborer,20,Contract,11814.24,Very Satisfied,No,Yes,No,46.7,1.69,Student,Citizen,Mandarin,On-site,No,5.9,Yes,2023-05-16
+22,Male,Malay,PhD,Married,Finance,Engineer,22,Part-time,14582.99,Very Satisfied,Yes,Yes,No,58,1.39,Employed,Foreigner,English,On-site,Yes,19.5,Yes,2022-10-11
+59,Female,Malay,Bachelor,Married,Education,Technician,21,Full-time,12257.27,Very Unsatisfied,Yes,Yes,No,44.3,1.82,Employed,Citizen,Mandarin,Remote,No,19.6,Yes,2023-07-21
+63,Female,Chinese,Diploma,Married,Hospitality,Doctor,26,Contract,14760.97,Unsatisfied,No,Yes,No,58.6,0.98,Employed,Permanent Resident,Tamil,Hybrid,Yes,12.9,No,2022-09-12
+22,Female,Malay,PhD,Divorced,Hospitality,Technician,21,Self-employed,11075.62,Neutral,No,Yes,No,55.3,0.72,Student,Citizen,Malay,Remote,No,13.3,No,2023-08-23
+35,Female,Indian,Bachelor,Divorced,Construction,Manager,4,Full-time,9577.37,Very Satisfied,Yes,No,No,44.3,1.36,Retired,Foreigner,Others,On-site,Yes,5,Yes,2023-03-02
+55,Male,Malay,Master,Single,Hospitality,Technician,23,Full-time,14957.77,Satisfied,Yes,No,No,45.6,1.43,Student,Citizen,Others,Hybrid,Yes,18.2,No,2023-09-13
+57,Female,Chinese,High School,Single,Finance,Laborer,20,Full-time,12211.16,Unsatisfied,No,No,Yes,39,1.1,Retired,Foreigner,Malay,Remote,Yes,16.3,No,2022-04-25
+34,Female,Malay,High School,Divorced,Healthcare,Engineer,29,Contract,2288.22,Very Unsatisfied,No,No,No,42.4,0.61,Employed,Citizen,Malay,Remote,Yes,16.2,No,2021-01-06
+33,Male,Chinese,Master,Single,Finance,Doctor,22,Self-employed,12114.33,Very Unsatisfied,Yes,Yes,Yes,38,1.55,Unemployed,Foreigner,Mandarin,On-site,No,19.8,Yes,2023-07-14
+54,Male,Indian,Diploma,Married,Education,Laborer,11,Contract,3956.69,Unsatisfied,No,Yes,No,49.4,1.32,Student,Citizen,Others,Hybrid,Yes,14.1,Yes,2022-11-15
+50,Female,Malay,PhD,Widowed,Education,Manager,27,Part-time,2421.66,Very Unsatisfied,Yes,No,No,57.7,0.85,Retired,Permanent Resident,Tamil,Hybrid,No,18.3,Yes,2022-12-19
+34,Female,Indian,High School,Widowed,Hospitality,Teacher,22,Part-time,14590.6,Satisfied,No,No,Yes,47.8,1.31,Employed,Foreigner,Malay,Hybrid,No,15.7,No,2022-05-27
+35,Male,Chinese,Master,Divorced,Finance,Teacher,22,Contract,13150.21,Very Unsatisfied,Yes,Yes,Yes,41.9,0.85,Student,Permanent Resident,English,Remote,No,5.7,Yes,2023-11-18
+23,Female,Malay,PhD,Widowed,Finance,Clerk,16,Part-time,4187.81,Very Unsatisfied,No,Yes,Yes,36.8,0.9,Employed,Permanent Resident,Others,Hybrid,Yes,6.5,No,2021-11-06
+53,Female,Malay,Diploma,Divorced,Construction,Clerk,0,Self-employed,12325.4,Unsatisfied,Yes,Yes,No,49,0.97,Retired,Citizen,Others,Remote,Yes,12.5,Yes,2023-08-16
+40,Male,Malay,Diploma,Widowed,Construction,Manager,12,Full-time,7569.86,Very Satisfied,No,No,No,37.5,1.22,Student,Permanent Resident,Mandarin,Remote,No,11.2,No,2021-02-23
+40,Male,Others,PhD,Single,Finance,Manager,3,Self-employed,11627.59,Satisfied,No,Yes,No,47.4,1.16,Unemployed,Permanent Resident,Others,Hybrid,Yes,5,Yes,2022-08-23
+43,Female,Others,High School,Married,Healthcare,Manager,29,Part-time,13271.18,Very Satisfied,Yes,No,Yes,43.6,0.93,Unemployed,Citizen,Others,Hybrid,No,19.9,No,2023-05-01
+37,Female,Malay,Bachelor,Widowed,Hospitality,Technician,2,Contract,14605.09,Very Satisfied,Yes,Yes,Yes,35.7,1.72,Student,Permanent Resident,Malay,On-site,Yes,10.4,Yes,2021-02-27
+38,Female,Indian,High School,Widowed,Healthcare,Engineer,1,Self-employed,11023.25,Unsatisfied,No,No,No,38.8,0.53,Employed,Foreigner,Others,Remote,Yes,8.3,No,2022-10-27
+34,Female,Chinese,PhD,Married,Construction,Engineer,24,Part-time,6753.73,Very Unsatisfied,Yes,No,No,43.9,0.99,Employed,Foreigner,English,On-site,Yes,13.3,No,2023-01-04
+63,Female,Malay,Bachelor,Single,Information Technology,Teacher,2,Self-employed,11174.15,Unsatisfied,Yes,No,Yes,55.9,1.18,Employed,Foreigner,Others,Hybrid,No,6.8,No,2022-04-21
+38,Male,Chinese,PhD,Married,Information Technology,Technician,21,Full-time,7043.05,Very Satisfied,Yes,Yes,No,53.2,0.52,Employed,Foreigner,Malay,On-site,No,19.7,No,2023-05-02
+55,Male,Indian,Master,Divorced,Healthcare,Manager,29,Self-employed,9888.23,Satisfied,No,No,No,50.3,0.64,Retired,Permanent Resident,English,Remote,Yes,19.3,Yes,2023-08-01
+28,Female,Indian,PhD,Widowed,Healthcare,Engineer,24,Full-time,6773.26,Very Unsatisfied,Yes,No,Yes,45,1.12,Retired,Foreigner,Malay,Remote,No,11.5,No,2023-02-03
+58,Female,Chinese,High School,Divorced,Healthcare,Clerk,6,Full-time,5151.36,Neutral,No,Yes,Yes,37.1,1.43,Retired,Citizen,Malay,Hybrid,Yes,7.1,Yes,2022-07-28
+21,Female,Chinese,Master,Married,Finance,Manager,18,Part-time,5002.19,Very Satisfied,Yes,Yes,Yes,60,1.98,Student,Foreigner,English,On-site,Yes,17,No,2021-01-22
+47,Female,Malay,PhD,Single,Hospitality,Teacher,5,Part-time,12652.87,Satisfied,Yes,No,Yes,49.8,1.56,Employed,Permanent Resident,Malay,On-site,Yes,18.7,Yes,2021-07-02
+51,Male,Indian,Bachelor,Widowed,Hospitality,Doctor,8,Part-time,7554.23,Neutral,Yes,No,No,46.9,1.15,Retired,Foreigner,Mandarin,Hybrid,Yes,5.5,No,2022-03-11
+55,Female,Others,Bachelor,Married,Education,Clerk,20,Self-employed,5899.51,Unsatisfied,Yes,No,No,58.9,1.73,Retired,Foreigner,Others,Hybrid,No,19.7,Yes,2023-03-04
+55,Female,Indian,PhD,Married,Information Technology,Laborer,2,Self-employed,4613.32,Unsatisfied,No,Yes,Yes,48.9,1.24,Student,Permanent Resident,Mandarin,Hybrid,No,8.2,No,2021-06-18
+55,Female,Indian,Bachelor,Widowed,Education,Clerk,7,Self-employed,4258.39,Satisfied,Yes,No,No,42.4,1.9,Retired,Permanent Resident,English,Remote,No,16.4,Yes,2021-03-16
+22,Female,Others,High School,Widowed,Healthcare,Manager,26,Contract,10134.25,Neutral,No,No,Yes,44.2,1.82,Student,Foreigner,English,Remote,No,12.1,No,2021-10-12
+43,Male,Indian,Diploma,Single,Education,Manager,10,Full-time,7376.48,Neutral,No,No,Yes,35.1,1.18,Retired,Permanent Resident,Mandarin,Remote,No,13.1,Yes,2022-06-24
+61,Male,Chinese,Diploma,Widowed,Healthcare,Doctor,17,Contract,4407.76,Unsatisfied,Yes,No,Yes,42,0.97,Employed,Permanent Resident,English,On-site,No,11.9,No,2023-03-08
+56,Male,Others,Bachelor,Divorced,Finance,Teacher,12,Contract,11477.23,Very Satisfied,No,No,Yes,44,0.76,Student,Foreigner,Mandarin,Hybrid,No,12.2,Yes,2022-06-07
+26,Female,Indian,High School,Widowed,Construction,Engineer,28,Self-employed,5123.79,Unsatisfied,Yes,No,No,41.2,1.39,Student,Citizen,Others,Remote,Yes,9.6,Yes,2022-07-14
+57,Female,Indian,High School,Widowed,Construction,Doctor,28,Self-employed,11276.07,Very Satisfied,No,No,No,47.4,1.96,Unemployed,Citizen,English,On-site,No,16.5,Yes,2021-04-15
+48,Male,Chinese,Diploma,Single,Information Technology,Doctor,26,Full-time,5969.37,Unsatisfied,No,No,Yes,56.4,0.69,Employed,Foreigner,Others,Hybrid,Yes,12.6,No,2021-08-28
+42,Female,Others,Master,Married,Healthcare,Teacher,5,Full-time,13918.08,Very Satisfied,No,No,Yes,37.7,1.18,Employed,Foreigner,Mandarin,On-site,No,9.8,No,2022-12-16
+47,Male,Others,Bachelor,Married,Construction,Laborer,4,Full-time,6063.08,Very Unsatisfied,Yes,Yes,Yes,54.4,1.62,Unemployed,Permanent Resident,English,On-site,Yes,10.4,Yes,2023-03-04
+23,Male,Indian,High School,Single,Education,Manager,26,Part-time,13479.8,Very Satisfied,Yes,No,Yes,54.5,0.85,Unemployed,Permanent Resident,Malay,Hybrid,No,16.5,No,2023-11-05
+62,Female,Chinese,High School,Widowed,Finance,Teacher,18,Contract,11176.85,Neutral,Yes,No,No,37.5,1.9,Retired,Foreigner,Tamil,Hybrid,Yes,5.1,Yes,2021-11-12
+29,Female,Chinese,Diploma,Married,Construction,Engineer,10,Contract,10166.49,Unsatisfied,No,Yes,Yes,48.4,0.82,Student,Citizen,English,On-site,Yes,18.3,Yes,2023-07-20
+30,Male,Indian,High School,Widowed,Construction,Doctor,13,Self-employed,8437.57,Very Satisfied,Yes,No,Yes,58.7,1.58,Retired,Foreigner,English,Remote,Yes,19.3,No,2022-07-28
+58,Female,Indian,Bachelor,Widowed,Hospitality,Clerk,23,Contract,9444.18,Very Satisfied,No,Yes,No,54.7,1.4,Student,Foreigner,Tamil,Remote,No,5.9,Yes,2022-10-28
+37,Female,Indian,Master,Divorced,Healthcare,Teacher,10,Contract,7220.6,Unsatisfied,No,Yes,Yes,57.8,1.37,Retired,Citizen,Mandarin,Hybrid,Yes,9.7,No,2022-10-11
+21,Male,Indian,Master,Married,Finance,Technician,4,Full-time,7897.89,Neutral,Yes,Yes,No,51.9,1.38,Retired,Foreigner,Mandarin,On-site,No,5.4,No,2023-06-06
+20,Female,Indian,Master,Divorced,Construction,Engineer,14,Contract,9975.18,Satisfied,Yes,Yes,Yes,48.5,0.55,Employed,Citizen,Mandarin,Hybrid,Yes,14.5,Yes,2023-04-10
+46,Female,Chinese,Master,Single,Information Technology,Doctor,17,Contract,4243.78,Unsatisfied,No,Yes,No,58.1,1.53,Student,Permanent Resident,Tamil,On-site,Yes,5.5,No,2022-11-03
+36,Male,Malay,Master,Married,Information Technology,Manager,4,Self-employed,10724.4,Unsatisfied,No,No,No,50.6,1.9,Student,Foreigner,Others,Hybrid,No,9.6,No,2021-03-14
+22,Female,Malay,High School,Widowed,Finance,Manager,5,Full-time,8976.04,Very Unsatisfied,No,Yes,Yes,47.8,1.75,Retired,Permanent Resident,Others,Remote,No,16.9,Yes,2021-06-03
+54,Female,Malay,Bachelor,Widowed,Education,Teacher,16,Part-time,10082.88,Very Satisfied,No,Yes,Yes,40.2,1.01,Retired,Permanent Resident,Mandarin,Hybrid,Yes,11.3,No,2022-07-24
+47,Male,Malay,PhD,Widowed,Construction,Clerk,25,Contract,14128.48,Satisfied,Yes,No,No,55.1,1.25,Unemployed,Citizen,Mandarin,Remote,Yes,15.6,No,2023-01-19
+53,Female,Others,Bachelor,Widowed,Information Technology,Technician,17,Contract,10200.49,Unsatisfied,No,No,Yes,52.2,0.76,Retired,Permanent Resident,Others,Hybrid,Yes,14.8,Yes,2022-05-27
+54,Female,Malay,Diploma,Married,Construction,Engineer,1,Part-time,9126.53,Very Satisfied,No,No,No,57,0.69,Student,Citizen,Others,On-site,Yes,13,No,2023-10-28
+40,Female,Indian,Bachelor,Divorced,Hospitality,Doctor,28,Self-employed,14540.41,Satisfied,No,No,No,57.2,0.9,Student,Permanent Resident,Mandarin,Hybrid,Yes,8.6,No,2021-07-27
+61,Female,Chinese,Diploma,Divorced,Education,Doctor,3,Contract,2106.16,Very Satisfied,Yes,Yes,Yes,41.1,1.45,Retired,Permanent Resident,English,Remote,No,19.9,No,2022-10-27
+55,Female,Indian,Diploma,Widowed,Construction,Teacher,23,Self-employed,7853.76,Satisfied,No,No,No,41.5,1.64,Student,Permanent Resident,Malay,Remote,Yes,15.4,Yes,2023-09-17
+25,Female,Indian,High School,Divorced,Construction,Laborer,15,Contract,13790.08,Neutral,No,No,Yes,56.5,1.73,Unemployed,Citizen,English,Remote,No,12,Yes,2021-10-13
+41,Female,Others,Diploma,Widowed,Construction,Clerk,18,Contract,12879.76,Neutral,Yes,No,Yes,54.1,1.38,Employed,Permanent Resident,Tamil,Remote,No,7.7,No,2023-01-05
+52,Female,Indian,PhD,Single,Information Technology,Laborer,10,Self-employed,7292.92,Very Satisfied,No,No,Yes,39.5,1.57,Employed,Citizen,Mandarin,On-site,No,13.2,No,2022-11-05
+31,Female,Malay,Bachelor,Widowed,Healthcare,Doctor,16,Contract,12100.12,Neutral,No,Yes,Yes,37.7,1.28,Employed,Citizen,Mandarin,Hybrid,No,6.7,Yes,2021-08-05
+44,Female,Malay,Diploma,Widowed,Finance,Doctor,11,Full-time,14046.06,Very Unsatisfied,Yes,Yes,No,56.8,1.08,Employed,Foreigner,Mandarin,Hybrid,No,7.6,No,2021-08-04
+35,Male,Malay,High School,Widowed,Construction,Teacher,15,Self-employed,5463.11,Satisfied,Yes,No,Yes,56.5,1.94,Unemployed,Foreigner,Malay,Remote,No,13,No,2021-12-14
+30,Male,Chinese,Diploma,Single,Healthcare,Doctor,10,Contract,7171.29,Very Unsatisfied,No,No,No,59.7,1.75,Unemployed,Citizen,Mandarin,Hybrid,Yes,7.3,Yes,2021-08-06
+57,Male,Indian,Diploma,Single,Education,Laborer,19,Part-time,7946.87,Neutral,Yes,Yes,No,58.8,0.54,Student,Permanent Resident,Others,Remote,No,14.6,Yes,2022-12-14
+45,Female,Malay,High School,Divorced,Hospitality,Laborer,14,Part-time,5588.11,Unsatisfied,No,No,No,48.3,1.08,Retired,Permanent Resident,Others,On-site,Yes,19.9,Yes,2023-10-04
+62,Female,Others,Diploma,Married,Information Technology,Teacher,17,Contract,12173.81,Satisfied,Yes,No,No,35.3,1.5,Retired,Foreigner,Mandarin,Hybrid,Yes,18.1,Yes,2023-03-03
+43,Male,Malay,PhD,Widowed,Hospitality,Technician,3,Part-time,8989.17,Neutral,Yes,No,Yes,45.1,1.31,Employed,Foreigner,Others,Hybrid,Yes,11.1,No,2021-09-19
+20,Female,Others,High School,Single,Hospitality,Teacher,3,Contract,14338.2,Satisfied,No,No,Yes,58.5,1.17,Student,Permanent Resident,English,Hybrid,Yes,7.5,Yes,2023-10-27
+38,Male,Malay,High School,Divorced,Education,Engineer,20,Part-time,10738.19,Very Unsatisfied,No,No,Yes,35.6,0.93,Retired,Permanent Resident,Others,On-site,No,11,Yes,2023-03-07
+50,Male,Indian,PhD,Widowed,Education,Doctor,19,Full-time,14437.56,Satisfied,No,No,No,42.6,0.97,Retired,Citizen,Others,Remote,Yes,12.7,No,2021-05-10
+34,Female,Chinese,Master,Single,Information Technology,Laborer,22,Full-time,3749.29,Very Unsatisfied,No,No,Yes,48.2,1.3,Employed,Citizen,Others,Remote,Yes,14.4,Yes,2023-04-09
+45,Female,Others,Diploma,Widowed,Hospitality,Doctor,7,Self-employed,9845.21,Very Satisfied,No,No,Yes,37.3,0.78,Retired,Foreigner,English,Remote,Yes,6.4,No,2023-05-20
+61,Female,Indian,Master,Divorced,Finance,Manager,8,Self-employed,2576.39,Neutral,Yes,Yes,Yes,55.1,1.38,Student,Permanent Resident,Tamil,Hybrid,No,7.1,No,2022-06-04
+57,Male,Others,PhD,Widowed,Construction,Teacher,11,Part-time,10071.73,Satisfied,No,Yes,No,48.8,1.34,Employed,Foreigner,Malay,On-site,Yes,6.1,No,2023-09-21
+58,Female,Malay,Master,Married,Construction,Manager,9,Part-time,10548.18,Very Unsatisfied,Yes,No,No,55.9,0.85,Unemployed,Permanent Resident,Malay,Remote,Yes,17.7,No,2023-07-18
+33,Male,Indian,High School,Widowed,Healthcare,Manager,11,Contract,5325.62,Neutral,Yes,Yes,Yes,40.8,0.76,Unemployed,Foreigner,Mandarin,Remote,Yes,13.4,Yes,2023-08-05
+61,Male,Others,High School,Widowed,Information Technology,Doctor,0,Self-employed,14187.03,Neutral,No,Yes,Yes,45.2,1.62,Retired,Citizen,Tamil,Remote,Yes,6.4,Yes,2023-12-11
+26,Female,Chinese,Diploma,Married,Finance,Doctor,11,Full-time,11503.87,Satisfied,Yes,Yes,No,51.4,1.07,Employed,Foreigner,Malay,Hybrid,No,14.5,Yes,2021-01-09
+50,Female,Malay,Diploma,Single,Finance,Teacher,20,Part-time,14802.56,Neutral,No,No,No,56.4,0.82,Employed,Citizen,Others,Hybrid,No,10.8,Yes,2022-06-13
+26,Male,Malay,Master,Divorced,Education,Engineer,3,Part-time,8481.37,Very Satisfied,Yes,No,No,38.9,1.18,Employed,Foreigner,Mandarin,Remote,No,17.8,Yes,2022-01-03
+42,Female,Indian,Diploma,Single,Construction,Laborer,0,Full-time,11792.58,Very Unsatisfied,No,No,No,47.4,1.41,Employed,Permanent Resident,Malay,On-site,No,11.1,Yes,2023-03-15
+27,Male,Others,PhD,Single,Healthcare,Clerk,22,Full-time,5546.65,Very Satisfied,No,No,Yes,46.4,1.21,Unemployed,Foreigner,Malay,Remote,Yes,5.6,Yes,2022-01-24
+37,Female,Malay,Master,Divorced,Information Technology,Clerk,15,Contract,8025.43,Very Satisfied,No,Yes,Yes,42.9,1.66,Retired,Foreigner,Others,Remote,No,12.7,No,2023-05-09
+62,Male,Chinese,PhD,Divorced,Construction,Technician,26,Contract,4893.04,Satisfied,No,Yes,No,56.3,0.56,Student,Permanent Resident,Mandarin,Remote,No,5.7,Yes,2021-09-28
+27,Female,Others,Master,Single,Hospitality,Doctor,6,Part-time,7062.4,Neutral,No,No,Yes,37.5,0.79,Student,Permanent Resident,Others,Hybrid,Yes,10.4,No,2022-05-22
+63,Female,Chinese,High School,Widowed,Education,Laborer,19,Full-time,12543.13,Very Unsatisfied,Yes,No,No,47.8,1.98,Unemployed,Citizen,English,Hybrid,Yes,7.5,Yes,2022-10-02
+45,Female,Malay,High School,Divorced,Hospitality,Clerk,2,Contract,12666.35,Very Unsatisfied,No,Yes,Yes,51.6,1.36,Unemployed,Permanent Resident,Others,Remote,Yes,13.7,Yes,2023-04-20
+34,Male,Chinese,Diploma,Married,Healthcare,Teacher,3,Full-time,6799.59,Very Unsatisfied,No,Yes,No,46,1.91,Retired,Citizen,Malay,On-site,Yes,10.9,Yes,2023-08-01
+47,Male,Indian,Master,Divorced,Construction,Doctor,3,Contract,9643.42,Very Satisfied,Yes,No,No,44.1,0.67,Unemployed,Citizen,Others,On-site,Yes,8.2,No,2022-05-10
+63,Male,Others,PhD,Married,Finance,Manager,21,Full-time,6699.28,Unsatisfied,Yes,No,Yes,35.5,1.84,Retired,Citizen,Others,Remote,No,12.2,Yes,2022-05-24
+54,Female,Malay,Bachelor,Married,Finance,Teacher,28,Full-time,12612.7,Satisfied,No,Yes,Yes,57.9,1.27,Student,Permanent Resident,Tamil,Hybrid,No,12.6,Yes,2023-07-05
+51,Male,Malay,PhD,Widowed,Finance,Teacher,4,Contract,11175.63,Satisfied,Yes,Yes,No,52,0.59,Retired,Foreigner,English,Hybrid,No,5.2,No,2022-12-02
+29,Male,Chinese,Diploma,Single,Education,Doctor,9,Contract,6920.33,Neutral,No,Yes,Yes,56.3,1.58,Employed,Citizen,English,Remote,Yes,19.3,Yes,2022-04-28
+23,Male,Others,Bachelor,Divorced,Education,Laborer,21,Full-time,12205.23,Very Unsatisfied,Yes,No,No,53.8,1.49,Retired,Citizen,Mandarin,On-site,No,16.8,No,2022-10-24
+57,Female,Malay,High School,Divorced,Healthcare,Laborer,27,Contract,7881.21,Unsatisfied,Yes,Yes,Yes,57,1.74,Unemployed,Citizen,Tamil,Hybrid,No,12.1,No,2021-04-11
+38,Male,Indian,PhD,Divorced,Healthcare,Technician,15,Contract,7840.09,Very Satisfied,No,Yes,No,36.6,1.36,Retired,Permanent Resident,Others,Hybrid,No,12.7,Yes,2021-08-17
+35,Male,Indian,Diploma,Divorced,Construction,Engineer,8,Full-time,6591.85,Very Unsatisfied,No,Yes,No,57,0.94,Retired,Permanent Resident,Tamil,On-site,No,6.7,Yes,2021-07-20
+51,Male,Others,High School,Married,Information Technology,Clerk,29,Full-time,2853.58,Unsatisfied,No,No,No,46.4,0.55,Employed,Citizen,Others,Remote,Yes,19.9,No,2021-04-14
+37,Female,Others,High School,Widowed,Finance,Engineer,12,Part-time,6907.95,Satisfied,Yes,Yes,Yes,55.5,1.58,Retired,Permanent Resident,Mandarin,Hybrid,No,18.9,Yes,2023-05-08
+40,Female,Others,High School,Married,Information Technology,Clerk,1,Part-time,12150.95,Unsatisfied,Yes,Yes,Yes,55.9,1.19,Employed,Citizen,Mandarin,Hybrid,Yes,14.6,Yes,2023-05-10
+51,Male,Indian,Diploma,Married,Information Technology,Clerk,10,Contract,10658.47,Neutral,No,Yes,Yes,51.1,0.7,Student,Citizen,Tamil,Remote,Yes,5.4,No,2023-09-23
+52,Female,Chinese,Diploma,Married,Finance,Manager,7,Contract,5961.37,Very Satisfied,No,Yes,Yes,40.1,0.92,Student,Foreigner,Tamil,On-site,No,12.5,Yes,2021-12-16
+54,Female,Others,PhD,Married,Healthcare,Clerk,25,Contract,8219.59,Satisfied,Yes,Yes,Yes,55.4,1.78,Employed,Citizen,Malay,On-site,Yes,7.2,No,2023-10-04
+60,Female,Chinese,Diploma,Married,Finance,Doctor,13,Contract,2165.24,Very Unsatisfied,Yes,No,No,50.1,0.87,Unemployed,Permanent Resident,Malay,On-site,Yes,9.8,No,2022-07-19
+41,Female,Malay,Master,Married,Hospitality,Engineer,13,Self-employed,11765.67,Unsatisfied,Yes,No,Yes,42.2,1.61,Employed,Foreigner,Mandarin,On-site,No,17,No,2022-03-18
+57,Female,Indian,Master,Divorced,Information Technology,Clerk,9,Contract,4260.03,Satisfied,Yes,No,Yes,58.1,1.58,Retired,Citizen,English,Hybrid,No,10.4,No,2022-11-06
+40,Female,Others,Bachelor,Divorced,Education,Laborer,3,Part-time,9117.88,Very Unsatisfied,No,Yes,No,47,1.03,Employed,Foreigner,Mandarin,On-site,No,7.5,Yes,2021-12-14
+63,Male,Others,High School,Married,Education,Engineer,6,Contract,3652.03,Unsatisfied,Yes,Yes,Yes,43.8,0.73,Unemployed,Permanent Resident,English,Hybrid,Yes,17,Yes,2021-04-13
+48,Female,Others,Bachelor,Divorced,Construction,Technician,21,Full-time,14694.84,Unsatisfied,No,No,No,35.1,1.15,Employed,Permanent Resident,Others,Remote,Yes,9.8,Yes,2023-06-26
+23,Female,Indian,Diploma,Divorced,Hospitality,Doctor,24,Self-employed,5171.4,Very Satisfied,No,Yes,No,55.1,1.61,Employed,Permanent Resident,Tamil,On-site,Yes,10.8,Yes,2022-09-04
+46,Male,Chinese,Bachelor,Married,Education,Laborer,20,Contract,3770.07,Satisfied,No,No,No,53.6,0.83,Retired,Foreigner,Malay,Remote,No,5.6,No,2021-07-14
+41,Male,Malay,Bachelor,Married,Hospitality,Clerk,7,Self-employed,2285.48,Satisfied,No,No,No,54,1,Student,Citizen,Malay,Hybrid,No,19.4,Yes,2022-10-05
+52,Male,Others,PhD,Married,Education,Clerk,9,Part-time,7465.76,Unsatisfied,Yes,Yes,No,57,1.71,Student,Permanent Resident,Mandarin,On-site,Yes,13.5,No,2021-07-07
+27,Female,Indian,High School,Married,Construction,Clerk,3,Contract,13167.17,Satisfied,Yes,No,Yes,41.8,1.93,Unemployed,Citizen,Mandarin,On-site,Yes,15.9,No,2023-04-13
+28,Male,Others,Master,Widowed,Hospitality,Engineer,22,Self-employed,9178.06,Satisfied,Yes,No,Yes,57.5,1.81,Student,Foreigner,Malay,On-site,No,8.1,No,2022-01-23
+25,Male,Chinese,High School,Widowed,Education,Doctor,25,Contract,3294.35,Satisfied,Yes,No,Yes,59.1,0.94,Employed,Citizen,Malay,On-site,Yes,19.2,Yes,2021-01-14
+29,Male,Chinese,Master,Widowed,Construction,Manager,20,Part-time,6177.39,Unsatisfied,No,Yes,Yes,48.2,1.64,Employed,Citizen,Malay,Remote,No,9.8,Yes,2021-12-02
+33,Female,Chinese,PhD,Married,Education,Clerk,13,Contract,9094.29,Neutral,Yes,Yes,No,46.2,0.63,Student,Foreigner,Mandarin,Hybrid,Yes,10,Yes,2022-08-23
+23,Female,Indian,High School,Single,Healthcare,Engineer,25,Full-time,4541.53,Neutral,No,No,No,50.1,1.8,Employed,Foreigner,Malay,On-site,No,19.1,No,2021-10-02
+20,Female,Chinese,Master,Widowed,Finance,Manager,2,Full-time,3655.41,Satisfied,Yes,No,Yes,35.9,0.6,Unemployed,Permanent Resident,English,Remote,No,12.8,No,2021-08-04
+53,Male,Malay,High School,Married,Education,Doctor,20,Self-employed,12972.05,Very Unsatisfied,No,No,No,56.3,0.59,Retired,Citizen,Malay,Remote,No,5.9,Yes,2022-08-27
+27,Female,Others,High School,Widowed,Education,Laborer,24,Part-time,2249.5,Unsatisfied,Yes,No,Yes,60,1.41,Retired,Foreigner,Others,On-site,Yes,16.6,No,2022-10-20
+48,Male,Malay,Diploma,Divorced,Education,Engineer,9,Part-time,8264.01,Neutral,Yes,Yes,Yes,48.6,1.28,Retired,Permanent Resident,Mandarin,Hybrid,No,12.6,No,2023-09-24
+26,Male,Indian,Bachelor,Single,Information Technology,Technician,15,Self-employed,10618.52,Unsatisfied,Yes,Yes,Yes,58.4,1.54,Employed,Foreigner,Tamil,Hybrid,No,14.2,Yes,2023-03-10
+56,Female,Others,High School,Widowed,Healthcare,Technician,19,Contract,5456.43,Very Unsatisfied,Yes,No,Yes,48.9,1.18,Retired,Citizen,Tamil,Remote,Yes,11.7,No,2023-10-01
+49,Female,Others,High School,Divorced,Hospitality,Teacher,21,Self-employed,10546.3,Satisfied,Yes,Yes,No,46.8,1.81,Student,Permanent Resident,English,Hybrid,No,18,No,2022-06-05
+42,Male,Malay,PhD,Divorced,Hospitality,Laborer,9,Full-time,6807.21,Neutral,No,No,Yes,50.2,1.48,Employed,Permanent Resident,Mandarin,Hybrid,No,12.9,Yes,2021-09-18
+54,Female,Others,PhD,Widowed,Information Technology,Teacher,8,Full-time,4208.65,Satisfied,No,No,No,56.8,0.54,Student,Foreigner,Mandarin,Hybrid,No,16.5,Yes,2022-10-08
+38,Female,Others,Bachelor,Married,Construction,Doctor,12,Full-time,3400.31,Unsatisfied,Yes,Yes,Yes,53.5,1.58,Employed,Foreigner,English,Remote,Yes,11.6,Yes,2022-03-15
+30,Female,Chinese,High School,Married,Healthcare,Clerk,21,Self-employed,7078.63,Very Satisfied,No,Yes,Yes,48.6,1.15,Unemployed,Foreigner,Tamil,Hybrid,No,13.6,No,2022-04-11
+58,Female,Others,PhD,Single,Healthcare,Teacher,2,Contract,2100.34,Very Unsatisfied,No,No,Yes,59.1,1.79,Retired,Citizen,Mandarin,On-site,Yes,11.5,Yes,2022-09-12
+43,Female,Others,High School,Single,Information Technology,Engineer,9,Self-employed,8482.5,Neutral,No,No,Yes,38.5,1.88,Retired,Citizen,Mandarin,Hybrid,No,11.2,No,2022-03-22
+50,Male,Malay,Bachelor,Divorced,Education,Clerk,2,Self-employed,9395.51,Neutral,No,Yes,Yes,50.9,0.98,Employed,Citizen,Mandarin,Hybrid,No,13.1,No,2022-08-23
+33,Female,Chinese,High School,Widowed,Construction,Teacher,27,Part-time,8946.1,Very Satisfied,No,No,Yes,54.1,1.03,Student,Foreigner,Mandarin,Hybrid,Yes,18.1,Yes,2022-10-03
+45,Male,Chinese,High School,Married,Education,Manager,1,Part-time,5794.87,Unsatisfied,No,Yes,Yes,44.7,1.78,Employed,Citizen,English,Hybrid,No,17.3,Yes,2021-04-24
+58,Male,Indian,PhD,Single,Construction,Technician,24,Full-time,13405.28,Satisfied,Yes,No,No,55.1,1.88,Unemployed,Foreigner,Mandarin,Remote,No,16.5,No,2021-02-27
+40,Female,Indian,PhD,Single,Construction,Doctor,18,Part-time,4222.65,Neutral,No,No,No,40,1.14,Retired,Permanent Resident,English,Hybrid,Yes,16.5,No,2022-03-19
+44,Male,Chinese,High School,Single,Finance,Clerk,29,Full-time,7293.99,Unsatisfied,No,Yes,No,45.9,1.48,Employed,Citizen,English,On-site,No,11.2,No,2021-03-05
+40,Female,Others,PhD,Married,Education,Engineer,12,Part-time,12320.29,Very Satisfied,Yes,Yes,No,38.8,1.48,Student,Foreigner,Others,On-site,No,7.1,No,2023-08-22
+55,Male,Malay,High School,Divorced,Information Technology,Doctor,18,Part-time,6075.5,Neutral,No,Yes,No,47.9,0.73,Employed,Permanent Resident,English,On-site,No,9.6,Yes,2022-03-04
+42,Male,Indian,Master,Single,Construction,Doctor,19,Contract,11188.6,Very Unsatisfied,Yes,Yes,No,39.2,1.86,Retired,Foreigner,Tamil,On-site,No,15.3,No,2023-11-25
+59,Female,Malay,High School,Married,Hospitality,Engineer,3,Part-time,8699.2,Satisfied,No,Yes,No,49.6,1.08,Unemployed,Foreigner,Others,Remote,No,16.3,Yes,2023-10-23
+50,Male,Indian,Diploma,Widowed,Information Technology,Manager,22,Contract,12309.02,Unsatisfied,Yes,Yes,No,53.4,0.66,Employed,Foreigner,English,Remote,No,18.4,Yes,2021-07-02
+50,Female,Others,Bachelor,Divorced,Finance,Teacher,11,Part-time,11306.19,Satisfied,Yes,No,No,39.3,0.66,Employed,Permanent Resident,English,Remote,Yes,12.9,No,2021-04-25
+21,Female,Chinese,Bachelor,Widowed,Education,Engineer,26,Full-time,4544.74,Very Unsatisfied,Yes,No,No,52,1.62,Unemployed,Foreigner,English,Remote,No,7.4,No,2023-09-03
+55,Female,Others,Bachelor,Divorced,Healthcare,Manager,5,Part-time,10425.19,Very Unsatisfied,No,No,No,51.6,1.06,Unemployed,Foreigner,Malay,Hybrid,No,8.7,No,2021-02-04
+30,Male,Indian,Bachelor,Widowed,Hospitality,Teacher,11,Contract,8348.94,Very Unsatisfied,No,No,No,45.8,0.67,Student,Foreigner,Others,Hybrid,Yes,10.6,No,2021-03-03
+38,Male,Malay,Master,Married,Finance,Clerk,10,Full-time,3327.53,Satisfied,Yes,No,No,58.3,0.71,Employed,Permanent Resident,English,Remote,Yes,19.5,Yes,2021-05-15
+51,Female,Malay,Master,Single,Finance,Engineer,0,Part-time,8570.21,Neutral,Yes,No,No,46.9,0.68,Retired,Permanent Resident,Others,Hybrid,Yes,7,No,2021-09-24
+26,Male,Others,High School,Divorced,Education,Manager,26,Full-time,11156.5,Very Satisfied,Yes,Yes,Yes,50.3,1.96,Unemployed,Foreigner,Others,Hybrid,No,8.5,Yes,2022-03-12
+36,Male,Others,Diploma,Married,Information Technology,Engineer,18,Part-time,12270.39,Very Unsatisfied,No,No,Yes,54.5,1.16,Student,Citizen,Tamil,Hybrid,No,7.7,Yes,2023-07-24
+46,Female,Indian,High School,Married,Education,Manager,15,Full-time,7932.44,Very Unsatisfied,Yes,Yes,Yes,42.9,0.81,Student,Citizen,English,On-site,No,12.2,No,2021-04-17
+41,Female,Indian,High School,Widowed,Construction,Technician,22,Full-time,10488.69,Very Satisfied,Yes,No,No,52.2,1.07,Unemployed,Citizen,Mandarin,Remote,No,10.7,Yes,2021-08-06
+30,Male,Malay,Master,Single,Information Technology,Technician,23,Full-time,11103.6,Satisfied,No,Yes,Yes,56.3,0.92,Student,Citizen,Others,Hybrid,Yes,6.5,No,2021-10-27
+20,Male,Others,Bachelor,Single,Construction,Engineer,20,Contract,14476.5,Neutral,Yes,Yes,No,38,1.04,Retired,Foreigner,Tamil,Remote,Yes,20,Yes,2022-01-15
+60,Female,Others,PhD,Widowed,Construction,Clerk,4,Part-time,14890.98,Neutral,Yes,No,Yes,56,0.7,Student,Permanent Resident,Tamil,Hybrid,Yes,9.2,Yes,2021-11-19
+20,Female,Indian,Diploma,Widowed,Healthcare,Teacher,19,Part-time,14310.52,Very Unsatisfied,Yes,No,Yes,56.1,1.86,Employed,Permanent Resident,Mandarin,Hybrid,No,5.2,Yes,2021-03-02
+63,Female,Malay,Bachelor,Single,Healthcare,Doctor,6,Self-employed,7519.55,Neutral,No,Yes,Yes,59.8,1.57,Employed,Foreigner,Others,Remote,No,9.9,Yes,2023-06-15
+32,Male,Malay,Master,Single,Construction,Manager,1,Self-employed,2186.11,Satisfied,No,No,Yes,41.7,1.54,Unemployed,Citizen,Mandarin,On-site,No,18,Yes,2023-09-11
+29,Female,Others,PhD,Married,Healthcare,Manager,1,Contract,5476.82,Very Unsatisfied,No,Yes,Yes,56,1.93,Employed,Foreigner,Mandarin,On-site,No,5.2,Yes,2021-12-09
+30,Female,Others,PhD,Married,Finance,Laborer,6,Full-time,6063.94,Very Unsatisfied,Yes,No,No,50.2,1.93,Unemployed,Permanent Resident,Malay,Remote,Yes,18.5,Yes,2021-08-03
+36,Female,Others,Diploma,Married,Education,Laborer,26,Full-time,8923.64,Very Satisfied,No,Yes,No,49.7,1.91,Unemployed,Permanent Resident,Others,On-site,No,12.1,Yes,2023-03-22
+31,Male,Indian,Diploma,Widowed,Healthcare,Teacher,23,Self-employed,14190.85,Very Unsatisfied,No,No,No,53.9,0.75,Retired,Citizen,English,Hybrid,Yes,9.4,No,2022-10-20
+39,Male,Indian,Master,Married,Hospitality,Clerk,12,Part-time,2221.27,Very Satisfied,No,No,No,56.7,1.09,Unemployed,Foreigner,Mandarin,Remote,No,16.1,Yes,2022-01-26
+61,Female,Chinese,High School,Single,Construction,Laborer,9,Self-employed,11570.49,Very Satisfied,Yes,No,Yes,48.3,1.16,Retired,Permanent Resident,Mandarin,Remote,No,10.5,No,2021-01-13
+48,Male,Indian,High School,Married,Education,Laborer,29,Part-time,14256.26,Unsatisfied,Yes,Yes,No,58.8,0.85,Unemployed,Foreigner,Mandarin,Hybrid,No,10.8,No,2023-06-16
+29,Male,Malay,Bachelor,Married,Hospitality,Manager,7,Part-time,5129.61,Neutral,Yes,No,Yes,54.2,1.08,Unemployed,Foreigner,English,Remote,No,9.8,Yes,2021-07-03
+41,Female,Indian,Diploma,Single,Hospitality,Clerk,10,Contract,3244.82,Unsatisfied,Yes,No,No,56.7,0.76,Student,Foreigner,Mandarin,On-site,No,16.1,Yes,2023-11-20
+46,Male,Chinese,Diploma,Single,Information Technology,Technician,23,Contract,7760.7,Very Satisfied,Yes,No,Yes,49.2,0.63,Employed,Permanent Resident,English,Hybrid,No,12.5,No,2022-02-13
+51,Female,Others,PhD,Single,Construction,Engineer,3,Part-time,5628.13,Very Unsatisfied,Yes,No,Yes,39.4,1.93,Unemployed,Permanent Resident,Others,Hybrid,No,18,Yes,2021-09-05
+57,Female,Indian,Master,Married,Healthcare,Clerk,29,Self-employed,6010.29,Very Unsatisfied,No,Yes,Yes,43.3,0.54,Retired,Citizen,Tamil,On-site,Yes,16.3,No,2021-02-26
+61,Female,Malay,Diploma,Single,Information Technology,Teacher,15,Self-employed,3587.9,Very Satisfied,No,Yes,No,45.3,1.69,Student,Foreigner,English,Remote,Yes,13.7,Yes,2023-02-18
+28,Female,Malay,Master,Married,Education,Clerk,7,Full-time,13282.32,Satisfied,Yes,Yes,No,59.8,1.21,Unemployed,Permanent Resident,English,On-site,No,10.4,No,2023-10-14
+32,Female,Malay,Diploma,Widowed,Healthcare,Clerk,18,Self-employed,13173.66,Very Satisfied,Yes,Yes,No,40.7,1.61,Unemployed,Foreigner,Mandarin,Remote,Yes,16.4,No,2021-01-10
+47,Female,Malay,Master,Widowed,Hospitality,Clerk,2,Full-time,2464.4,Neutral,Yes,Yes,No,36.2,0.93,Student,Permanent Resident,Others,Remote,No,19.5,Yes,2021-06-07
+56,Female,Indian,Diploma,Single,Hospitality,Laborer,15,Part-time,8947.25,Very Unsatisfied,Yes,Yes,No,52.2,1.82,Retired,Citizen,Others,Remote,No,19.2,No,2023-02-05
+61,Male,Indian,PhD,Widowed,Education,Laborer,24,Part-time,11201.87,Very Unsatisfied,No,No,No,43.5,1.03,Unemployed,Foreigner,Mandarin,On-site,No,6.8,Yes,2021-08-25
+21,Male,Others,Bachelor,Widowed,Education,Doctor,24,Contract,11899.83,Satisfied,No,No,Yes,48.3,0.88,Unemployed,Permanent Resident,English,On-site,No,13.2,Yes,2021-07-17
+21,Female,Malay,Bachelor,Widowed,Healthcare,Doctor,21,Contract,8565.92,Satisfied,No,No,Yes,41.9,0.71,Retired,Foreigner,Tamil,Hybrid,No,14.9,Yes,2021-03-06
+30,Female,Malay,PhD,Married,Education,Engineer,9,Self-employed,2114.14,Very Satisfied,Yes,No,No,36.6,1.37,Unemployed,Permanent Resident,Mandarin,Hybrid,Yes,17.6,Yes,2021-02-01
+63,Male,Indian,Master,Single,Healthcare,Laborer,2,Contract,13748.77,Satisfied,Yes,No,Yes,57.2,0.65,Retired,Foreigner,Others,Hybrid,No,13.8,Yes,2021-10-05
+59,Male,Indian,Bachelor,Widowed,Education,Technician,29,Part-time,2929.68,Unsatisfied,No,Yes,No,52.6,1.65,Employed,Citizen,Tamil,Remote,No,18,Yes,2023-10-20
+58,Female,Indian,Bachelor,Widowed,Hospitality,Engineer,8,Part-time,5223.51,Very Satisfied,Yes,No,Yes,35.9,0.92,Employed,Permanent Resident,Others,Remote,No,11.7,Yes,2021-12-09
+43,Female,Chinese,Diploma,Widowed,Healthcare,Engineer,3,Full-time,8533.07,Very Satisfied,Yes,No,No,50.5,1.14,Unemployed,Foreigner,English,Remote,No,6.2,No,2021-10-24
+59,Male,Others,Bachelor,Widowed,Information Technology,Laborer,6,Full-time,3777.92,Satisfied,Yes,Yes,Yes,51.5,0.54,Employed,Foreigner,English,Remote,No,19,Yes,2023-07-15
+33,Female,Malay,Diploma,Married,Hospitality,Laborer,26,Self-employed,14489.55,Very Unsatisfied,No,No,Yes,35.6,0.64,Employed,Citizen,Malay,On-site,No,13,Yes,2021-11-01
+49,Male,Chinese,Master,Widowed,Hospitality,Technician,21,Contract,12102,Very Unsatisfied,No,Yes,Yes,44.1,1.9,Retired,Foreigner,Mandarin,Hybrid,No,16,Yes,2023-10-17
+23,Male,Indian,Bachelor,Widowed,Hospitality,Technician,5,Part-time,7129.84,Very Satisfied,Yes,Yes,Yes,47.1,0.89,Retired,Permanent Resident,Tamil,On-site,No,18.5,No,2021-10-21
+22,Male,Chinese,High School,Married,Healthcare,Engineer,24,Part-time,3332.49,Very Unsatisfied,No,No,No,45.9,1.66,Employed,Citizen,English,On-site,No,10.9,Yes,2022-12-24
+45,Female,Indian,High School,Divorced,Construction,Teacher,1,Self-employed,3812.28,Very Unsatisfied,No,No,No,37.5,1.47,Employed,Foreigner,Others,Hybrid,No,15.6,Yes,2023-12-22
+55,Male,Others,Diploma,Married,Information Technology,Technician,7,Self-employed,7907.61,Unsatisfied,No,No,Yes,37.9,0.58,Employed,Foreigner,English,Remote,No,10.3,Yes,2022-08-27
+31,Male,Others,Bachelor,Married,Education,Manager,19,Self-employed,6562.47,Very Unsatisfied,No,No,No,58.7,1.63,Unemployed,Citizen,English,Hybrid,No,17.4,No,2022-10-06
+21,Male,Indian,Diploma,Divorced,Information Technology,Technician,18,Contract,2068.76,Satisfied,No,No,No,42.6,1.21,Retired,Foreigner,Tamil,On-site,No,5.4,No,2021-07-03
+32,Male,Malay,Diploma,Widowed,Construction,Doctor,0,Contract,2025.5,Neutral,No,Yes,Yes,37.3,1.35,Employed,Foreigner,English,Remote,No,18,Yes,2022-03-18
+30,Male,Malay,PhD,Married,Education,Clerk,11,Part-time,6314.06,Satisfied,Yes,Yes,Yes,44.3,0.64,Retired,Foreigner,Mandarin,Hybrid,No,6.9,No,2023-03-26
+28,Male,Indian,Bachelor,Widowed,Education,Doctor,24,Full-time,8878.29,Neutral,Yes,No,Yes,53.9,1.75,Unemployed,Citizen,Mandarin,Remote,No,10.8,Yes,2021-03-06
+54,Female,Chinese,Diploma,Widowed,Construction,Manager,12,Contract,3195.56,Unsatisfied,No,No,Yes,44,1.49,Employed,Citizen,English,On-site,No,19.9,No,2021-10-16
+40,Female,Chinese,Master,Widowed,Hospitality,Engineer,25,Self-employed,14491.52,Very Satisfied,No,No,No,38.6,1.01,Unemployed,Foreigner,Tamil,Hybrid,Yes,9.4,Yes,2023-05-01
+58,Female,Malay,Bachelor,Divorced,Information Technology,Manager,14,Contract,5096.21,Satisfied,Yes,Yes,Yes,57.3,0.86,Unemployed,Foreigner,Others,Remote,Yes,9.2,No,2021-01-17
+28,Male,Indian,Master,Married,Hospitality,Manager,7,Contract,12173.94,Very Satisfied,No,Yes,No,41.2,1.07,Student,Permanent Resident,Mandarin,Hybrid,Yes,8.7,No,2021-08-26
+61,Female,Chinese,PhD,Married,Construction,Manager,2,Part-time,5066.39,Unsatisfied,Yes,No,Yes,56.2,0.84,Unemployed,Permanent Resident,Tamil,Hybrid,No,16.9,Yes,2022-02-02
+37,Male,Indian,High School,Single,Construction,Teacher,29,Full-time,12782.52,Satisfied,No,No,No,54.4,0.82,Unemployed,Foreigner,Tamil,Hybrid,No,7.3,No,2022-12-24
+43,Female,Indian,PhD,Widowed,Hospitality,Teacher,7,Self-employed,10161.77,Very Satisfied,Yes,No,Yes,50.1,1.04,Employed,Permanent Resident,English,Remote,Yes,15.6,No,2021-06-13
+21,Female,Others,PhD,Widowed,Education,Engineer,3,Part-time,4182.93,Very Unsatisfied,Yes,No,No,47.7,1.47,Unemployed,Permanent Resident,Mandarin,On-site,No,15,No,2022-01-08
+38,Female,Indian,Master,Divorced,Finance,Clerk,25,Contract,14240.35,Satisfied,No,Yes,Yes,57.8,1.71,Retired,Foreigner,Malay,Remote,No,17.8,Yes,2023-04-19
+32,Female,Malay,PhD,Single,Education,Technician,6,Full-time,4221.99,Unsatisfied,Yes,No,Yes,58.1,1.88,Employed,Permanent Resident,Tamil,Remote,No,12.5,Yes,2022-02-26
+59,Female,Malay,Master,Widowed,Construction,Engineer,4,Self-employed,7450.95,Satisfied,Yes,Yes,No,44.5,0.7,Retired,Foreigner,Mandarin,Hybrid,No,14.7,Yes,2021-09-08
+56,Female,Chinese,Master,Divorced,Construction,Doctor,5,Part-time,5735.54,Neutral,Yes,No,Yes,42.9,0.78,Student,Citizen,Tamil,Remote,No,17.1,No,2023-07-05
+51,Female,Chinese,High School,Married,Hospitality,Engineer,13,Part-time,7212.49,Satisfied,Yes,No,No,44.5,0.88,Retired,Foreigner,Tamil,On-site,No,17.9,No,2022-10-09
+23,Male,Others,PhD,Single,Construction,Technician,6,Full-time,5685.11,Satisfied,No,Yes,Yes,53.5,0.62,Student,Permanent Resident,Others,Remote,No,14.1,No,2021-04-03
+32,Female,Others,Master,Widowed,Healthcare,Teacher,26,Self-employed,11739.07,Very Satisfied,Yes,Yes,No,56,1.08,Employed,Permanent Resident,Malay,Remote,Yes,10.6,Yes,2023-02-18
+51,Female,Others,PhD,Widowed,Construction,Technician,8,Full-time,4004.63,Satisfied,Yes,No,Yes,39.7,1.55,Retired,Permanent Resident,Mandarin,Remote,Yes,14.6,Yes,2022-12-19
+60,Female,Chinese,Bachelor,Divorced,Education,Doctor,10,Part-time,2312.23,Very Unsatisfied,No,Yes,Yes,42,0.7,Employed,Citizen,Tamil,Remote,Yes,13.8,Yes,2021-06-19
+23,Male,Malay,Master,Divorced,Finance,Clerk,20,Full-time,13741.65,Very Unsatisfied,Yes,Yes,No,54.3,1.05,Unemployed,Permanent Resident,Tamil,Hybrid,No,17.3,No,2021-03-16
+42,Female,Indian,Master,Married,Education,Teacher,15,Contract,5806.78,Unsatisfied,No,No,Yes,39.1,1.52,Retired,Permanent Resident,Malay,On-site,Yes,9.3,No,2022-12-23
+63,Female,Chinese,High School,Married,Finance,Manager,3,Part-time,5133.25,Neutral,No,Yes,Yes,35.6,1.11,Employed,Foreigner,Tamil,On-site,No,11.9,No,2022-06-10
+37,Female,Malay,Diploma,Widowed,Hospitality,Laborer,15,Self-employed,10601.83,Satisfied,No,No,No,35.9,0.79,Student,Citizen,Malay,On-site,Yes,11.4,Yes,2021-01-21
+45,Male,Malay,Diploma,Single,Education,Teacher,13,Self-employed,14204.85,Satisfied,No,No,No,42.7,1.3,Student,Citizen,Mandarin,On-site,Yes,8.9,Yes,2021-04-28
+36,Male,Malay,Bachelor,Single,Education,Teacher,16,Full-time,6204.85,Unsatisfied,No,No,Yes,47.5,1.97,Retired,Foreigner,Malay,On-site,Yes,19.8,No,2023-07-27
+31,Female,Chinese,High School,Married,Education,Manager,12,Full-time,5147.61,Neutral,No,Yes,Yes,36.5,1.93,Student,Permanent Resident,Mandarin,Hybrid,Yes,10.5,No,2023-06-13
+37,Male,Others,High School,Divorced,Healthcare,Technician,9,Part-time,8572.03,Unsatisfied,No,Yes,Yes,46.6,0.56,Retired,Citizen,Tamil,Remote,Yes,18.2,Yes,2022-07-22
+29,Male,Chinese,High School,Widowed,Information Technology,Laborer,1,Full-time,11218.06,Satisfied,Yes,Yes,No,40.7,1.08,Unemployed,Permanent Resident,Mandarin,Remote,Yes,16.3,Yes,2023-04-07
+55,Male,Others,Master,Widowed,Construction,Doctor,29,Self-employed,10158.16,Unsatisfied,No,No,No,37.9,1.36,Retired,Citizen,Tamil,Remote,Yes,18,Yes,2023-05-12
+30,Male,Others,Diploma,Single,Hospitality,Teacher,21,Self-employed,3294.84,Neutral,Yes,No,Yes,59.9,0.51,Student,Foreigner,Others,On-site,No,15.1,Yes,2021-05-22
+41,Male,Malay,Diploma,Widowed,Hospitality,Doctor,1,Part-time,6082.98,Very Unsatisfied,Yes,Yes,Yes,48.9,1.15,Unemployed,Citizen,Others,Hybrid,No,19.7,Yes,2021-11-15
+31,Female,Chinese,High School,Widowed,Finance,Manager,14,Part-time,3364.74,Satisfied,No,No,Yes,35.6,0.81,Student,Foreigner,Tamil,On-site,Yes,19.1,No,2022-10-13
+31,Female,Others,Master,Divorced,Construction,Clerk,3,Self-employed,7999.66,Satisfied,No,Yes,Yes,51.8,1.2,Student,Foreigner,Mandarin,Hybrid,No,13.6,No,2021-03-04
+30,Male,Others,PhD,Single,Finance,Engineer,17,Contract,11223.08,Satisfied,No,Yes,No,37.3,1.15,Unemployed,Permanent Resident,Malay,On-site,Yes,8.3,No,2021-07-23
+28,Female,Indian,PhD,Divorced,Finance,Clerk,6,Self-employed,5905.42,Satisfied,No,No,No,46.2,1.59,Student,Permanent Resident,Malay,On-site,No,6.7,No,2021-01-16
+52,Male,Chinese,PhD,Widowed,Healthcare,Clerk,28,Contract,4645.73,Unsatisfied,Yes,Yes,Yes,38.3,0.52,Retired,Citizen,Tamil,Hybrid,Yes,11,Yes,2022-09-24
+52,Male,Others,High School,Widowed,Finance,Teacher,11,Full-time,4396.35,Satisfied,Yes,No,Yes,51.7,0.98,Unemployed,Permanent Resident,Others,Remote,No,14.7,Yes,2023-07-17
+26,Female,Indian,PhD,Married,Hospitality,Technician,29,Self-employed,11708.15,Satisfied,No,No,No,43.5,1.68,Student,Permanent Resident,Others,Remote,No,9.7,Yes,2023-05-24
+60,Male,Chinese,PhD,Widowed,Construction,Manager,14,Part-time,6337.91,Very Unsatisfied,Yes,Yes,No,47.3,1.71,Employed,Foreigner,English,Remote,No,19.3,Yes,2021-12-11
+48,Male,Malay,PhD,Widowed,Hospitality,Technician,15,Self-employed,10820.48,Neutral,No,No,Yes,58.8,0.8,Retired,Foreigner,Tamil,On-site,Yes,16.5,No,2023-01-10
+56,Female,Others,High School,Single,Information Technology,Laborer,23,Self-employed,10820.96,Satisfied,Yes,Yes,No,44.2,1.37,Unemployed,Permanent Resident,English,Remote,Yes,15.1,No,2021-02-24
+52,Female,Chinese,High School,Widowed,Information Technology,Manager,21,Full-time,13025.88,Satisfied,No,Yes,No,40.8,1.7,Student,Citizen,Tamil,On-site,Yes,19.5,No,2022-02-09
+40,Male,Chinese,Master,Single,Construction,Teacher,14,Full-time,11868.28,Satisfied,Yes,Yes,Yes,50.3,0.96,Student,Permanent Resident,Malay,Remote,No,16.2,Yes,2023-11-18
+49,Male,Malay,High School,Divorced,Finance,Laborer,9,Contract,9599.51,Neutral,No,No,No,43.2,1.46,Student,Citizen,Malay,On-site,Yes,10.1,No,2022-08-10
+34,Female,Malay,PhD,Single,Construction,Clerk,21,Full-time,9283.81,Very Satisfied,No,Yes,Yes,46.8,0.88,Retired,Permanent Resident,English,On-site,Yes,15.4,Yes,2021-03-26
+25,Male,Chinese,High School,Single,Hospitality,Technician,4,Contract,6473.76,Satisfied,Yes,Yes,No,36.6,0.9,Employed,Foreigner,English,Remote,Yes,16.9,Yes,2022-05-02
+62,Female,Malay,High School,Divorced,Information Technology,Technician,21,Contract,10283.24,Very Satisfied,Yes,Yes,Yes,44.6,1.73,Retired,Citizen,Tamil,Hybrid,Yes,11.5,Yes,2022-04-18
+46,Female,Malay,Bachelor,Married,Information Technology,Teacher,2,Part-time,11469.52,Satisfied,Yes,Yes,Yes,56.1,0.63,Unemployed,Citizen,Malay,Remote,Yes,11.1,Yes,2021-02-19
+29,Male,Malay,Master,Widowed,Education,Engineer,12,Part-time,6097.71,Very Unsatisfied,No,No,No,36,0.72,Retired,Citizen,Others,On-site,No,5.2,Yes,2021-02-17
+44,Female,Malay,High School,Divorced,Construction,Clerk,8,Contract,7794.66,Unsatisfied,No,Yes,No,45.7,0.91,Student,Permanent Resident,Mandarin,Hybrid,No,15.8,Yes,2022-11-21
+63,Male,Indian,High School,Single,Construction,Manager,9,Contract,10203.09,Unsatisfied,No,No,No,53.4,0.81,Student,Citizen,Others,On-site,Yes,9.4,Yes,2022-12-06
+34,Female,Indian,High School,Widowed,Information Technology,Doctor,20,Contract,7442.36,Unsatisfied,Yes,No,Yes,46.6,0.63,Student,Citizen,English,Hybrid,Yes,17.6,Yes,2022-01-08
+54,Male,Indian,Bachelor,Divorced,Hospitality,Engineer,27,Full-time,10689.68,Neutral,Yes,Yes,No,50,0.91,Unemployed,Foreigner,Tamil,Hybrid,Yes,16.3,No,2021-11-23
+35,Female,Malay,Bachelor,Single,Finance,Technician,8,Full-time,4905.33,Satisfied,Yes,No,Yes,58.8,0.65,Unemployed,Permanent Resident,Others,Remote,No,11.3,Yes,2022-01-05
+60,Male,Chinese,Bachelor,Divorced,Healthcare,Clerk,11,Full-time,10806.84,Neutral,No,No,No,59.7,0.68,Unemployed,Permanent Resident,Tamil,On-site,No,17.5,Yes,2021-02-05
+22,Male,Malay,High School,Widowed,Finance,Doctor,22,Contract,8272.01,Satisfied,Yes,No,No,55.5,1.72,Student,Citizen,Tamil,On-site,Yes,16.6,Yes,2022-08-17
+25,Male,Indian,Master,Divorced,Education,Manager,1,Part-time,3737.27,Neutral,No,Yes,No,37.2,1.92,Unemployed,Foreigner,Others,Remote,Yes,10.2,Yes,2022-11-10
+43,Male,Others,High School,Married,Information Technology,Teacher,0,Full-time,14643.31,Satisfied,Yes,Yes,Yes,55.2,1.54,Employed,Permanent Resident,Malay,Remote,Yes,19.8,No,2023-03-17
+54,Female,Indian,PhD,Widowed,Construction,Technician,15,Contract,6020.68,Very Unsatisfied,Yes,No,No,48.2,0.73,Unemployed,Citizen,Others,On-site,Yes,18.5,No,2022-02-10
+22,Female,Indian,High School,Married,Construction,Doctor,5,Self-employed,7417.37,Very Unsatisfied,Yes,Yes,No,40.8,0.51,Student,Permanent Resident,English,On-site,Yes,7.3,Yes,2023-11-17
+36,Male,Indian,High School,Divorced,Education,Technician,9,Part-time,10091.95,Satisfied,Yes,No,Yes,54.5,0.79,Unemployed,Permanent Resident,Mandarin,Remote,No,14.4,No,2023-12-11
+58,Female,Malay,Bachelor,Married,Finance,Teacher,4,Part-time,8912.11,Unsatisfied,Yes,Yes,Yes,48.4,1.9,Employed,Citizen,English,Hybrid,Yes,13.8,No,2023-01-20
+37,Male,Malay,Bachelor,Single,Healthcare,Technician,28,Self-employed,9825.04,Unsatisfied,Yes,No,Yes,56.9,0.65,Retired,Citizen,Tamil,Hybrid,No,6.2,Yes,2021-09-15
+27,Male,Malay,Bachelor,Married,Construction,Clerk,28,Contract,10798.96,Very Satisfied,Yes,No,No,56.6,1.28,Student,Foreigner,Tamil,On-site,Yes,16.8,Yes,2023-05-08
+29,Female,Chinese,Master,Single,Construction,Teacher,9,Contract,9121.25,Neutral,Yes,No,Yes,54.2,1.11,Unemployed,Permanent Resident,English,Hybrid,Yes,17.3,Yes,2022-10-16
+34,Male,Others,Diploma,Single,Information Technology,Teacher,26,Contract,13422.92,Very Satisfied,No,Yes,Yes,50.4,1.45,Unemployed,Foreigner,English,Remote,No,10.2,No,2022-03-05
+28,Female,Others,Master,Divorced,Healthcare,Technician,29,Part-time,9232.64,Unsatisfied,No,Yes,Yes,55.9,0.75,Student,Foreigner,Others,On-site,No,8.9,Yes,2021-02-13
+22,Male,Chinese,High School,Widowed,Hospitality,Laborer,14,Contract,9489.14,Neutral,Yes,No,Yes,56,0.89,Student,Citizen,English,Remote,Yes,9.7,No,2021-07-05
+32,Female,Chinese,Master,Divorced,Hospitality,Teacher,12,Part-time,3915.66,Very Unsatisfied,Yes,Yes,No,58.1,1.32,Employed,Permanent Resident,Mandarin,Remote,No,14.7,No,2022-05-10
+55,Female,Malay,Diploma,Married,Information Technology,Teacher,10,Contract,14686.49,Very Unsatisfied,Yes,Yes,Yes,49.3,0.62,Unemployed,Permanent Resident,Others,On-site,No,8.1,No,2023-01-18
+50,Female,Chinese,Bachelor,Widowed,Construction,Teacher,8,Part-time,9301.78,Satisfied,No,No,Yes,46.7,0.67,Unemployed,Foreigner,English,Remote,Yes,10.3,Yes,2022-10-06
+33,Male,Chinese,High School,Single,Information Technology,Clerk,8,Self-employed,2033.34,Satisfied,No,No,No,46,1.87,Student,Citizen,English,On-site,Yes,11.3,No,2021-09-27
+61,Male,Malay,Bachelor,Married,Healthcare,Laborer,28,Self-employed,8313.37,Neutral,No,Yes,Yes,54.5,0.9,Retired,Permanent Resident,Others,Hybrid,Yes,13.4,Yes,2022-02-11
+20,Male,Chinese,Bachelor,Married,Construction,Doctor,12,Contract,8042.61,Unsatisfied,Yes,No,No,40.4,0.51,Employed,Citizen,Malay,Hybrid,Yes,19.7,No,2023-06-05
+51,Male,Others,Bachelor,Widowed,Information Technology,Laborer,4,Self-employed,8863.62,Satisfied,Yes,Yes,No,46.2,1.19,Unemployed,Foreigner,Tamil,Hybrid,No,11.9,Yes,2021-09-20
+34,Male,Malay,Bachelor,Divorced,Information Technology,Clerk,25,Part-time,4784.78,Satisfied,No,Yes,No,42.1,1.01,Student,Permanent Resident,Malay,On-site,No,17.4,Yes,2021-04-10
+46,Female,Others,Master,Divorced,Healthcare,Manager,13,Part-time,2942.46,Very Satisfied,No,Yes,No,46.3,0.63,Unemployed,Foreigner,Others,On-site,No,19.5,No,2022-06-24
+57,Male,Malay,Diploma,Married,Hospitality,Technician,3,Self-employed,14040.31,Satisfied,Yes,Yes,Yes,50.5,1.96,Retired,Foreigner,English,Hybrid,No,8.4,No,2022-11-24
+50,Male,Others,Bachelor,Single,Construction,Teacher,14,Part-time,10041.56,Very Unsatisfied,No,Yes,Yes,36.9,1.37,Employed,Permanent Resident,Others,Remote,Yes,7.4,No,2023-06-19
+41,Male,Indian,Bachelor,Widowed,Information Technology,Technician,6,Part-time,8021.6,Neutral,Yes,Yes,No,54.1,0.72,Retired,Permanent Resident,English,On-site,Yes,14.5,Yes,2021-06-11
+43,Female,Chinese,High School,Widowed,Education,Laborer,28,Part-time,6099.2,Satisfied,No,Yes,No,59,1.76,Retired,Citizen,Mandarin,Hybrid,No,14.2,No,2021-03-17
+30,Female,Indian,Diploma,Widowed,Hospitality,Engineer,3,Contract,2969.48,Very Unsatisfied,Yes,No,Yes,59.8,1.81,Unemployed,Foreigner,English,Remote,Yes,6.8,No,2021-09-16
+58,Female,Malay,Master,Widowed,Construction,Teacher,1,Full-time,10158.29,Unsatisfied,Yes,No,No,52.3,1.31,Student,Citizen,Mandarin,Remote,Yes,17.4,Yes,2023-11-20
+27,Male,Malay,Master,Widowed,Hospitality,Clerk,9,Contract,9432.29,Very Satisfied,No,No,Yes,46.2,1.93,Employed,Foreigner,Malay,On-site,Yes,16.5,No,2022-01-21
+42,Female,Malay,Master,Single,Information Technology,Teacher,16,Self-employed,6777.33,Neutral,No,No,Yes,45.7,1.55,Unemployed,Citizen,Malay,Hybrid,No,12.1,No,2022-08-25
+30,Female,Indian,Diploma,Divorced,Hospitality,Doctor,20,Contract,7702.62,Neutral,Yes,Yes,No,49.4,1.1,Unemployed,Foreigner,Tamil,Hybrid,No,9.7,Yes,2021-01-13
+41,Male,Chinese,Bachelor,Single,Healthcare,Engineer,20,Full-time,3110.68,Neutral,No,No,No,42.2,0.83,Retired,Citizen,Others,Remote,No,18.5,Yes,2021-12-20
+23,Male,Malay,High School,Married,Healthcare,Clerk,5,Self-employed,12055.51,Unsatisfied,No,Yes,No,49.2,0.89,Student,Citizen,Others,Remote,No,6,No,2021-08-05
+56,Female,Chinese,Diploma,Divorced,Education,Clerk,13,Full-time,3355.93,Unsatisfied,Yes,No,Yes,40.7,0.9,Retired,Permanent Resident,Others,Remote,No,15.8,Yes,2021-11-13
+60,Male,Chinese,PhD,Divorced,Healthcare,Engineer,7,Self-employed,7080.14,Very Unsatisfied,Yes,Yes,Yes,50.8,1.91,Employed,Permanent Resident,Malay,On-site,Yes,12.1,Yes,2023-04-05
+25,Female,Others,Bachelor,Divorced,Construction,Doctor,26,Contract,2349.62,Very Unsatisfied,No,No,No,52.7,1.64,Unemployed,Permanent Resident,Tamil,Hybrid,Yes,18.5,No,2023-11-20
+26,Male,Malay,PhD,Single,Hospitality,Doctor,14,Contract,4802.17,Very Satisfied,No,No,Yes,53.7,0.6,Employed,Citizen,Tamil,On-site,Yes,19.4,No,2021-06-12
+38,Male,Indian,Master,Married,Information Technology,Doctor,15,Contract,13385.74,Very Unsatisfied,Yes,Yes,No,39.5,0.8,Employed,Foreigner,Tamil,On-site,No,9.8,Yes,2023-04-16
+44,Male,Others,High School,Divorced,Hospitality,Engineer,20,Part-time,2138.39,Satisfied,No,No,Yes,44.6,1.84,Student,Citizen,Malay,Hybrid,No,14.4,Yes,2022-03-02
+54,Male,Malay,PhD,Married,Finance,Manager,7,Contract,7824.66,Unsatisfied,No,No,No,54.4,0.82,Retired,Citizen,English,Remote,Yes,10.2,Yes,2022-05-28
+25,Female,Indian,PhD,Single,Healthcare,Laborer,26,Part-time,9674.82,Neutral,No,No,Yes,54.8,1.28,Student,Citizen,Malay,Remote,No,6.3,Yes,2021-01-01
+36,Female,Indian,Diploma,Divorced,Finance,Doctor,14,Full-time,12937.28,Unsatisfied,No,Yes,No,43.9,1.67,Retired,Foreigner,Malay,On-site,Yes,17.4,No,2021-10-24
+55,Female,Others,Diploma,Widowed,Hospitality,Technician,22,Self-employed,13007.54,Unsatisfied,No,Yes,No,44.6,1.44,Employed,Citizen,English,Remote,No,8.7,Yes,2023-05-08
+51,Female,Others,PhD,Widowed,Construction,Laborer,8,Self-employed,5898.37,Very Unsatisfied,Yes,No,Yes,40.7,1.69,Employed,Permanent Resident,Mandarin,Hybrid,No,17,Yes,2023-02-28
+41,Male,Indian,Master,Divorced,Finance,Manager,13,Self-employed,4406.48,Unsatisfied,Yes,No,No,36.1,1.28,Student,Citizen,Tamil,On-site,Yes,8,No,2021-11-20
+52,Male,Chinese,Bachelor,Married,Construction,Doctor,5,Part-time,2862.55,Satisfied,No,Yes,No,43.4,1.22,Employed,Citizen,Others,Remote,No,11.9,No,2021-10-22
+58,Female,Chinese,High School,Divorced,Hospitality,Clerk,18,Part-time,12002.83,Neutral,Yes,Yes,Yes,51.1,1.29,Unemployed,Permanent Resident,Others,Hybrid,Yes,17.1,No,2022-12-05
+57,Female,Malay,Diploma,Married,Education,Manager,29,Contract,10553.51,Neutral,Yes,No,Yes,38.6,1.7,Retired,Citizen,Tamil,On-site,No,19.7,No,2021-10-10
+64,Female,Indian,PhD,Married,Construction,Engineer,22,Part-time,13892.35,Unsatisfied,Yes,Yes,No,59.9,0.99,Employed,Permanent Resident,English,Remote,Yes,6.9,Yes,2022-12-05
+39,Male,Malay,Master,Widowed,Information Technology,Manager,0,Self-employed,4368.47,Satisfied,No,Yes,Yes,51.7,1.09,Student,Foreigner,Malay,Remote,No,17.4,No,2022-06-15
+54,Male,Others,Master,Married,Healthcare,Engineer,28,Contract,14191.13,Satisfied,Yes,Yes,Yes,48.2,1.2,Employed,Citizen,Tamil,On-site,No,6.5,Yes,2023-05-22
+43,Male,Chinese,Bachelor,Widowed,Construction,Doctor,14,Self-employed,2519.16,Neutral,No,Yes,Yes,39,0.72,Student,Foreigner,Malay,On-site,No,16.3,Yes,2022-04-16
+30,Female,Indian,Bachelor,Widowed,Education,Engineer,25,Contract,3864.67,Neutral,Yes,Yes,Yes,51,1.78,Unemployed,Citizen,Tamil,On-site,Yes,6.6,Yes,2022-06-03
+63,Male,Chinese,PhD,Divorced,Construction,Doctor,1,Part-time,14993.53,Very Unsatisfied,No,No,No,53.4,0.7,Retired,Foreigner,Others,Hybrid,Yes,14.2,No,2022-08-13
+27,Female,Others,Master,Single,Finance,Laborer,28,Full-time,11430.74,Very Unsatisfied,No,No,No,53,0.84,Student,Permanent Resident,Mandarin,On-site,No,15.6,No,2021-06-19
+20,Female,Chinese,PhD,Divorced,Construction,Clerk,0,Self-employed,4382.9,Unsatisfied,Yes,Yes,No,51.8,1.34,Unemployed,Citizen,Tamil,Hybrid,No,6.1,Yes,2021-04-18
+51,Female,Malay,Diploma,Married,Education,Doctor,24,Full-time,12226.79,Satisfied,Yes,No,Yes,35.3,1.43,Employed,Permanent Resident,Mandarin,On-site,Yes,12.3,Yes,2023-05-03
+58,Male,Indian,Master,Single,Healthcare,Teacher,3,Contract,7440.49,Very Unsatisfied,Yes,No,Yes,58.9,1.18,Unemployed,Citizen,Others,Hybrid,No,15,Yes,2021-04-17
+47,Male,Chinese,Bachelor,Widowed,Construction,Technician,25,Contract,4894.48,Very Unsatisfied,No,Yes,Yes,36.1,0.91,Retired,Foreigner,Tamil,On-site,No,5.3,No,2021-07-01
+24,Male,Indian,Diploma,Married,Healthcare,Teacher,28,Full-time,5814.15,Satisfied,Yes,Yes,No,40.1,1.36,Student,Permanent Resident,Others,Remote,Yes,18.3,Yes,2021-01-06
+44,Male,Chinese,PhD,Single,Education,Laborer,21,Contract,10667.13,Very Satisfied,Yes,Yes,Yes,59.9,0.81,Retired,Citizen,Mandarin,Remote,No,9.7,Yes,2022-04-15
+21,Male,Indian,Master,Widowed,Healthcare,Clerk,12,Part-time,7922.46,Satisfied,No,No,Yes,39.2,1.44,Employed,Citizen,Mandarin,Remote,No,11.9,No,2022-12-16
+23,Male,Others,Diploma,Divorced,Education,Teacher,4,Full-time,7218.62,Very Unsatisfied,Yes,Yes,No,39.3,1.22,Unemployed,Citizen,Malay,Hybrid,No,14.8,No,2022-01-05
+54,Male,Chinese,Diploma,Widowed,Education,Technician,19,Self-employed,9493.11,Unsatisfied,Yes,Yes,Yes,59.5,0.62,Retired,Foreigner,Mandarin,Remote,Yes,12.1,Yes,2021-07-15
+60,Male,Malay,Master,Single,Information Technology,Laborer,0,Part-time,9507,Neutral,No,Yes,Yes,56.1,1.68,Unemployed,Foreigner,Malay,On-site,Yes,19.9,Yes,2021-09-18
+55,Female,Indian,PhD,Divorced,Construction,Clerk,20,Self-employed,9623.97,Very Unsatisfied,No,No,Yes,49.9,0.7,Employed,Citizen,Others,Hybrid,Yes,20,Yes,2022-05-25
+30,Male,Others,High School,Single,Education,Clerk,9,Self-employed,8168.52,Unsatisfied,No,No,Yes,52.8,1.52,Unemployed,Foreigner,English,On-site,Yes,16.8,No,2023-03-16
+61,Male,Malay,Diploma,Widowed,Healthcare,Teacher,9,Contract,5809.13,Neutral,No,Yes,No,43.2,1.2,Retired,Permanent Resident,Mandarin,On-site,No,14,Yes,2022-08-27
+37,Female,Indian,PhD,Married,Construction,Doctor,27,Full-time,13362.23,Unsatisfied,Yes,Yes,No,54.8,1.47,Retired,Foreigner,Others,Hybrid,No,8.4,Yes,2022-10-25
+26,Female,Others,PhD,Married,Information Technology,Teacher,4,Part-time,14831.56,Satisfied,No,No,No,54.4,1.9,Employed,Citizen,Others,Remote,No,11.4,Yes,2023-08-05
+39,Male,Indian,High School,Widowed,Construction,Laborer,25,Full-time,12866.28,Unsatisfied,Yes,Yes,No,35.6,1.42,Unemployed,Permanent Resident,English,On-site,No,9.8,No,2022-03-12
+54,Male,Malay,Bachelor,Divorced,Healthcare,Engineer,13,Full-time,9483.62,Unsatisfied,Yes,No,Yes,48.8,0.73,Student,Foreigner,Others,Remote,Yes,5.4,Yes,2022-11-11
+63,Male,Others,Master,Married,Construction,Clerk,0,Full-time,13704.39,Unsatisfied,Yes,Yes,Yes,39.7,0.98,Employed,Citizen,English,Hybrid,Yes,19.1,No,2021-05-21
+61,Male,Chinese,PhD,Single,Information Technology,Teacher,18,Self-employed,2130.3,Very Satisfied,No,No,Yes,45.9,0.92,Student,Foreigner,Mandarin,Remote,Yes,17.3,No,2023-05-02
+58,Male,Others,PhD,Widowed,Healthcare,Doctor,7,Full-time,12694.2,Neutral,No,No,Yes,40.6,1.5,Unemployed,Foreigner,Others,Remote,No,10.7,Yes,2023-08-10
+57,Male,Others,Diploma,Divorced,Construction,Technician,21,Contract,8672.88,Satisfied,No,No,Yes,51.6,1.35,Employed,Permanent Resident,Others,Remote,Yes,19.3,No,2023-09-16
+48,Female,Chinese,Master,Single,Construction,Technician,24,Part-time,4408.21,Very Unsatisfied,No,No,Yes,45.2,0.69,Unemployed,Permanent Resident,Tamil,On-site,No,8.6,Yes,2021-02-17
+46,Male,Chinese,High School,Married,Hospitality,Clerk,4,Contract,3820.77,Unsatisfied,No,No,No,35.6,1.06,Unemployed,Foreigner,Malay,On-site,Yes,6.9,No,2022-10-01
+27,Male,Malay,PhD,Divorced,Education,Doctor,0,Contract,4371.21,Very Satisfied,No,No,No,35.6,0.55,Employed,Foreigner,Others,On-site,Yes,10.7,No,2023-03-22
+54,Female,Chinese,Master,Single,Healthcare,Teacher,17,Full-time,4320.46,Satisfied,Yes,No,No,51.1,1.62,Student,Citizen,Malay,Remote,No,9.6,No,2021-03-21
+37,Female,Chinese,Bachelor,Single,Finance,Teacher,7,Contract,12382.66,Satisfied,Yes,No,No,52.6,1.45,Student,Citizen,Mandarin,Remote,Yes,11.6,No,2022-08-02
+30,Male,Malay,Master,Divorced,Finance,Laborer,20,Contract,2792.76,Very Satisfied,No,No,Yes,42,0.94,Employed,Citizen,Malay,Hybrid,No,15.9,Yes,2021-06-18
+62,Female,Indian,PhD,Divorced,Finance,Clerk,1,Full-time,5756.22,Very Satisfied,No,No,No,51.5,0.57,Employed,Foreigner,Tamil,On-site,Yes,13.1,No,2023-09-04
+41,Male,Indian,Bachelor,Widowed,Construction,Doctor,0,Part-time,5669.03,Very Satisfied,Yes,Yes,Yes,35.2,0.76,Unemployed,Citizen,Malay,Remote,No,6.8,No,2022-04-12
+60,Female,Others,PhD,Divorced,Healthcare,Teacher,29,Part-time,3796.3,Satisfied,No,No,No,39.3,1.21,Retired,Permanent Resident,English,Hybrid,No,8.2,No,2023-09-02
+36,Female,Indian,High School,Married,Information Technology,Technician,25,Self-employed,10597.47,Very Unsatisfied,Yes,No,Yes,50.3,1.06,Unemployed,Citizen,Malay,Remote,Yes,15.6,No,2022-09-16
+51,Male,Indian,Diploma,Single,Construction,Manager,15,Full-time,10047.92,Neutral,Yes,Yes,No,57.9,0.54,Student,Foreigner,Mandarin,On-site,Yes,8.7,Yes,2021-04-02
+38,Female,Chinese,Diploma,Single,Education,Manager,13,Self-employed,2448.19,Very Satisfied,Yes,Yes,Yes,53.6,1.6,Employed,Citizen,Tamil,Hybrid,Yes,11,No,2023-08-01
+21,Male,Indian,Master,Widowed,Finance,Engineer,3,Contract,12510.95,Satisfied,Yes,Yes,Yes,45.1,1.92,Unemployed,Citizen,Mandarin,Hybrid,No,14.3,Yes,2023-07-12
+51,Female,Others,Bachelor,Single,Finance,Teacher,26,Self-employed,2766.61,Very Satisfied,Yes,No,No,53.4,0.92,Unemployed,Foreigner,Others,On-site,Yes,18.2,Yes,2023-09-16
+52,Male,Chinese,High School,Divorced,Education,Manager,6,Full-time,4228.73,Neutral,Yes,No,No,43,0.68,Retired,Citizen,Tamil,On-site,Yes,12.3,No,2021-06-26
+56,Male,Others,Master,Married,Information Technology,Technician,26,Self-employed,14842.35,Very Unsatisfied,Yes,Yes,No,50.6,0.58,Retired,Permanent Resident,Tamil,Hybrid,Yes,13.8,Yes,2021-06-15
+58,Female,Malay,Master,Divorced,Construction,Laborer,21,Self-employed,12772.74,Unsatisfied,Yes,Yes,No,55.9,1.09,Unemployed,Permanent Resident,Mandarin,On-site,No,14.5,Yes,2023-05-24
+50,Male,Others,Master,Divorced,Construction,Doctor,8,Part-time,10471.05,Very Satisfied,No,No,Yes,40.4,0.69,Unemployed,Foreigner,English,Hybrid,No,12.9,No,2022-05-11
+59,Female,Chinese,Diploma,Single,Information Technology,Technician,15,Full-time,14287.54,Very Satisfied,Yes,Yes,Yes,58.3,1.76,Employed,Permanent Resident,Tamil,Hybrid,No,7.5,No,2021-12-16
+54,Female,Indian,Diploma,Widowed,Finance,Manager,24,Full-time,12068.33,Neutral,Yes,Yes,No,40.9,1.85,Student,Foreigner,English,Hybrid,Yes,17.6,Yes,2021-05-25
+58,Male,Others,Bachelor,Married,Finance,Doctor,13,Self-employed,3124.83,Very Satisfied,Yes,Yes,Yes,36.2,1.63,Employed,Citizen,Malay,Hybrid,No,10.4,No,2022-10-02
+60,Male,Others,Diploma,Widowed,Finance,Teacher,7,Full-time,14702.4,Very Unsatisfied,No,Yes,No,48.7,0.69,Unemployed,Foreigner,Others,Remote,No,10.9,Yes,2023-10-08
+38,Male,Malay,Master,Widowed,Hospitality,Laborer,5,Contract,10317.31,Unsatisfied,No,Yes,No,54.4,1.32,Retired,Foreigner,Malay,Hybrid,Yes,19.5,Yes,2023-02-28
+59,Male,Chinese,Bachelor,Divorced,Hospitality,Teacher,19,Self-employed,7095.98,Unsatisfied,No,Yes,Yes,35.4,1.83,Employed,Foreigner,Tamil,Remote,No,8.1,No,2021-11-14
+35,Male,Malay,Diploma,Widowed,Hospitality,Manager,4,Full-time,4031.81,Neutral,No,Yes,No,59.1,1.93,Employed,Foreigner,Tamil,Hybrid,Yes,7.3,No,2022-12-10
+34,Male,Others,Bachelor,Widowed,Hospitality,Doctor,13,Self-employed,14067.8,Satisfied,Yes,No,Yes,43.5,0.68,Retired,Permanent Resident,English,Remote,Yes,16,Yes,2023-10-21
+58,Male,Others,PhD,Divorced,Finance,Laborer,14,Part-time,10138.61,Very Unsatisfied,Yes,Yes,No,38,0.97,Employed,Foreigner,Tamil,On-site,Yes,18.6,Yes,2022-08-16
+52,Male,Chinese,High School,Divorced,Finance,Laborer,18,Self-employed,9049.31,Very Unsatisfied,Yes,Yes,No,44.4,1.87,Student,Permanent Resident,Malay,Remote,Yes,9.7,Yes,2023-01-04
+26,Male,Indian,High School,Married,Hospitality,Clerk,10,Contract,2402.29,Satisfied,Yes,Yes,Yes,39.2,1.68,Retired,Permanent Resident,Others,On-site,No,16.1,Yes,2021-10-09
+38,Male,Others,High School,Divorced,Hospitality,Laborer,9,Self-employed,11312.82,Very Unsatisfied,No,No,Yes,59.2,1.91,Unemployed,Citizen,Mandarin,Remote,No,19.5,Yes,2022-04-02
+25,Male,Indian,Master,Married,Healthcare,Clerk,26,Contract,4186.06,Unsatisfied,No,Yes,No,36.3,0.86,Employed,Foreigner,Malay,Hybrid,No,10.4,Yes,2022-06-14
+61,Female,Others,Master,Widowed,Healthcare,Teacher,7,Self-employed,9859.65,Unsatisfied,Yes,No,No,42.6,1.19,Retired,Permanent Resident,English,Remote,Yes,12.5,Yes,2023-12-18
+62,Female,Chinese,High School,Married,Information Technology,Clerk,12,Part-time,7093.88,Very Unsatisfied,No,Yes,Yes,40.6,1.03,Student,Foreigner,Others,Hybrid,No,9.6,Yes,2023-12-18
+49,Female,Others,Master,Widowed,Education,Doctor,13,Contract,2591.12,Very Unsatisfied,No,No,Yes,59.6,1.99,Employed,Citizen,Tamil,Hybrid,Yes,19.5,No,2022-11-24
+57,Female,Others,Master,Divorced,Education,Teacher,21,Contract,2781.24,Neutral,No,No,Yes,41.8,0.92,Unemployed,Permanent Resident,English,On-site,Yes,6.5,No,2023-11-22
+36,Male,Malay,PhD,Widowed,Finance,Technician,15,Self-employed,2694.74,Unsatisfied,No,Yes,Yes,56.6,1.75,Student,Foreigner,Tamil,On-site,No,15.8,No,2021-07-23
+27,Female,Indian,Master,Married,Construction,Engineer,6,Self-employed,3608.87,Very Satisfied,No,Yes,No,55.4,0.81,Student,Citizen,Tamil,Remote,Yes,15.7,No,2022-05-02
+49,Female,Malay,PhD,Single,Construction,Engineer,29,Part-time,3446.96,Unsatisfied,No,No,No,55.6,0.72,Unemployed,Citizen,Malay,Hybrid,Yes,10.5,No,2021-01-07
+23,Male,Others,PhD,Single,Construction,Clerk,8,Full-time,11060.05,Very Unsatisfied,Yes,No,No,45.5,1.69,Unemployed,Permanent Resident,English,Hybrid,Yes,19.5,No,2021-05-20
+41,Male,Chinese,Bachelor,Divorced,Education,Laborer,26,Full-time,3540.28,Very Unsatisfied,No,No,Yes,57.9,0.68,Unemployed,Citizen,Tamil,Remote,No,7.7,No,2022-03-03
+20,Female,Indian,Master,Widowed,Hospitality,Teacher,1,Self-employed,11106.2,Very Unsatisfied,No,Yes,No,53.9,1.09,Employed,Citizen,Malay,On-site,Yes,11,Yes,2023-06-24
+40,Male,Others,Bachelor,Married,Education,Technician,16,Part-time,6563.76,Very Satisfied,No,No,Yes,53,0.81,Retired,Permanent Resident,Malay,On-site,No,7.6,No,2023-12-14
+36,Female,Others,High School,Single,Information Technology,Laborer,9,Self-employed,6910.08,Neutral,Yes,No,Yes,48.7,1.48,Unemployed,Permanent Resident,Others,Hybrid,Yes,17.4,Yes,2022-03-17
+55,Male,Chinese,Master,Married,Information Technology,Doctor,3,Part-time,8960.11,Neutral,No,Yes,No,58.4,0.6,Employed,Permanent Resident,Tamil,On-site,No,12.1,No,2023-09-24
+24,Male,Indian,Master,Single,Education,Teacher,16,Full-time,13686.62,Unsatisfied,No,No,Yes,57,1.78,Student,Citizen,Mandarin,On-site,No,18.9,No,2021-09-03
+46,Male,Indian,Diploma,Divorced,Construction,Manager,14,Part-time,2977.39,Satisfied,No,Yes,Yes,55.5,0.98,Retired,Permanent Resident,English,Remote,No,7.7,Yes,2021-11-25
+49,Female,Chinese,Diploma,Married,Education,Technician,21,Self-employed,13678.35,Very Unsatisfied,Yes,No,No,59.7,1.4,Student,Permanent Resident,English,Hybrid,Yes,12.4,No,2022-09-24
+41,Female,Others,Diploma,Widowed,Information Technology,Teacher,16,Self-employed,10992.81,Very Unsatisfied,Yes,No,No,45.2,0.97,Retired,Permanent Resident,Mandarin,Hybrid,Yes,13.2,No,2021-04-15
+23,Male,Indian,Diploma,Widowed,Hospitality,Doctor,6,Contract,5357.94,Very Satisfied,No,Yes,Yes,54,1.44,Unemployed,Permanent Resident,English,On-site,No,18.4,No,2023-07-25
+61,Male,Indian,Master,Divorced,Education,Manager,3,Part-time,8275.48,Satisfied,Yes,Yes,Yes,36.2,1.77,Unemployed,Citizen,English,Hybrid,No,19.7,No,2022-03-10
+53,Male,Indian,High School,Divorced,Hospitality,Laborer,3,Part-time,11680.9,Very Satisfied,Yes,Yes,Yes,45.8,0.51,Student,Permanent Resident,Malay,Remote,Yes,17.9,Yes,2021-09-14
+51,Female,Indian,Master,Single,Finance,Laborer,3,Contract,8033.37,Neutral,Yes,No,Yes,48.7,0.86,Employed,Permanent Resident,Malay,Remote,Yes,6.3,No,2022-05-03
+63,Male,Indian,Diploma,Single,Finance,Laborer,26,Full-time,8656.92,Unsatisfied,No,No,Yes,39.1,1,Retired,Foreigner,Others,Hybrid,Yes,5.1,Yes,2022-02-25
+36,Female,Malay,Bachelor,Widowed,Healthcare,Technician,22,Part-time,2427.64,Very Unsatisfied,No,Yes,No,42.4,0.84,Student,Citizen,Mandarin,On-site,Yes,11.4,Yes,2022-02-27
+56,Male,Indian,PhD,Widowed,Healthcare,Teacher,5,Full-time,9087.74,Unsatisfied,Yes,No,No,36.2,1.07,Student,Permanent Resident,Malay,Hybrid,No,12.6,No,2021-03-12
+21,Female,Malay,PhD,Single,Construction,Engineer,27,Contract,2737.97,Neutral,No,No,Yes,58.4,1.2,Student,Foreigner,Malay,Hybrid,Yes,9.5,Yes,2021-05-15
+49,Female,Others,Master,Divorced,Education,Manager,15,Part-time,3656.86,Satisfied,Yes,Yes,Yes,39.3,0.86,Employed,Permanent Resident,Mandarin,On-site,No,11.9,Yes,2022-11-21
+52,Female,Chinese,Bachelor,Widowed,Healthcare,Doctor,2,Self-employed,6628.11,Very Satisfied,Yes,No,Yes,44.3,0.65,Retired,Citizen,Mandarin,On-site,No,15.3,Yes,2023-07-08
+51,Female,Chinese,Master,Single,Education,Laborer,2,Full-time,11729.45,Satisfied,No,Yes,No,41.6,0.91,Employed,Foreigner,Others,On-site,Yes,8.7,No,2023-08-28
+27,Male,Chinese,Bachelor,Single,Hospitality,Laborer,26,Part-time,7175,Satisfied,Yes,Yes,No,54.9,1.3,Retired,Permanent Resident,Malay,On-site,Yes,18.3,Yes,2021-03-02
+45,Female,Indian,Diploma,Divorced,Finance,Clerk,14,Full-time,8341.62,Neutral,Yes,Yes,No,49.3,1.94,Unemployed,Permanent Resident,Mandarin,Hybrid,No,12.9,Yes,2022-01-04
+37,Female,Indian,Diploma,Single,Education,Engineer,27,Contract,12795.17,Very Unsatisfied,Yes,Yes,Yes,42.7,1.12,Student,Citizen,Others,Hybrid,Yes,13.6,No,2021-11-08
+30,Male,Others,PhD,Married,Healthcare,Teacher,5,Full-time,8084.15,Very Satisfied,No,No,No,40.8,0.86,Student,Citizen,Tamil,Hybrid,No,17.1,Yes,2021-06-20
+22,Female,Malay,Master,Divorced,Information Technology,Laborer,20,Part-time,13038.81,Satisfied,Yes,Yes,No,38.4,0.6,Retired,Citizen,Others,Hybrid,Yes,7.3,Yes,2023-09-09
+62,Female,Indian,High School,Divorced,Construction,Laborer,14,Full-time,14665.88,Neutral,No,No,No,57.6,0.9,Student,Foreigner,English,Hybrid,Yes,11.1,Yes,2021-05-11
+47,Male,Chinese,Bachelor,Married,Information Technology,Technician,16,Contract,9650.05,Very Unsatisfied,Yes,No,No,41.9,1.36,Student,Permanent Resident,Malay,Hybrid,No,12.2,No,2021-04-10
+59,Male,Indian,PhD,Widowed,Hospitality,Technician,20,Part-time,9078.99,Satisfied,No,No,No,42.3,0.59,Student,Foreigner,Malay,Remote,Yes,8.4,Yes,2022-11-12
+64,Male,Malay,Bachelor,Widowed,Education,Clerk,12,Self-employed,11143.72,Neutral,No,No,Yes,58.5,1.2,Student,Foreigner,Tamil,Remote,Yes,15.4,Yes,2021-04-26
+25,Male,Malay,Bachelor,Married,Education,Technician,10,Full-time,13920.88,Very Unsatisfied,Yes,No,Yes,39.6,1.5,Retired,Permanent Resident,Others,Remote,Yes,13.3,Yes,2023-12-28
+53,Male,Chinese,Bachelor,Divorced,Hospitality,Laborer,7,Full-time,7513.5,Satisfied,Yes,No,No,54.2,0.57,Unemployed,Foreigner,Others,Hybrid,Yes,9.4,Yes,2022-11-26
+54,Male,Others,Bachelor,Married,Finance,Clerk,20,Contract,10020.2,Neutral,Yes,Yes,Yes,56.9,1.82,Unemployed,Citizen,Others,Hybrid,Yes,10.4,No,2021-07-16
+42,Female,Chinese,Master,Single,Healthcare,Manager,6,Self-employed,10800.8,Very Satisfied,Yes,No,No,51.5,1.07,Employed,Citizen,Others,Hybrid,No,7.1,Yes,2023-05-11
+56,Male,Chinese,PhD,Single,Education,Teacher,6,Self-employed,5899.07,Satisfied,Yes,Yes,No,35.8,0.51,Employed,Foreigner,Mandarin,Hybrid,No,12.6,Yes,2022-12-10
+61,Female,Others,Diploma,Widowed,Education,Clerk,14,Full-time,13276.83,Neutral,Yes,No,No,56.3,1.19,Retired,Citizen,Others,Hybrid,No,12.6,Yes,2021-12-24
+59,Male,Others,Bachelor,Widowed,Construction,Technician,7,Self-employed,7361,Very Unsatisfied,No,No,Yes,44.6,0.69,Student,Citizen,Mandarin,On-site,No,10.1,Yes,2021-04-27
+20,Female,Indian,Bachelor,Married,Education,Doctor,8,Contract,12634.47,Very Unsatisfied,No,Yes,No,52.3,1.46,Unemployed,Citizen,Malay,On-site,No,19.9,No,2022-09-16
+34,Male,Indian,Diploma,Divorced,Construction,Manager,14,Contract,6783.76,Very Unsatisfied,Yes,No,No,51.7,1.04,Unemployed,Citizen,Malay,On-site,No,12.6,No,2023-02-16
+38,Male,Chinese,Master,Widowed,Finance,Teacher,7,Full-time,14609.09,Unsatisfied,No,Yes,No,41.6,1.36,Student,Foreigner,Tamil,Hybrid,No,20,Yes,2022-03-10
+54,Male,Malay,High School,Divorced,Information Technology,Teacher,18,Part-time,9908.1,Satisfied,No,Yes,Yes,42,1.64,Student,Foreigner,English,On-site,No,13.4,No,2022-05-04
+26,Female,Others,Master,Married,Finance,Doctor,4,Full-time,6704.4,Very Satisfied,Yes,Yes,No,47.4,1.54,Unemployed,Citizen,Malay,Hybrid,Yes,16.4,Yes,2021-11-06
+53,Male,Indian,High School,Widowed,Finance,Laborer,22,Self-employed,2494.65,Unsatisfied,No,Yes,No,40.3,0.57,Unemployed,Citizen,Malay,Remote,No,7.3,No,2022-07-08
+51,Male,Malay,Diploma,Single,Finance,Clerk,15,Full-time,4923.62,Neutral,No,Yes,Yes,42,0.76,Employed,Foreigner,Mandarin,Remote,Yes,9.7,No,2023-04-05
+53,Male,Others,Master,Divorced,Construction,Technician,18,Part-time,10235.76,Satisfied,Yes,Yes,No,54.3,1.1,Student,Permanent Resident,Malay,On-site,No,20,Yes,2021-12-01
+48,Female,Malay,High School,Widowed,Hospitality,Doctor,4,Self-employed,12498.38,Unsatisfied,Yes,No,Yes,51.8,1.47,Employed,Permanent Resident,Tamil,Hybrid,No,12.4,No,2021-05-04
+26,Male,Indian,Bachelor,Divorced,Construction,Engineer,8,Self-employed,4044.72,Very Satisfied,Yes,No,No,45.6,0.72,Unemployed,Foreigner,Mandarin,On-site,Yes,18.5,Yes,2023-05-10
+27,Male,Indian,Diploma,Divorced,Finance,Laborer,8,Self-employed,14925.51,Very Satisfied,Yes,No,Yes,51.9,1.09,Retired,Permanent Resident,Others,Hybrid,Yes,9.3,Yes,2021-02-21
+62,Male,Others,Master,Married,Healthcare,Manager,24,Contract,6088.59,Unsatisfied,Yes,Yes,Yes,48.4,1.15,Retired,Foreigner,Others,On-site,No,8.3,Yes,2022-08-11
+54,Female,Malay,High School,Single,Construction,Laborer,20,Part-time,2186.27,Very Satisfied,No,No,Yes,47.9,1.8,Unemployed,Citizen,Tamil,Hybrid,No,5.2,No,2022-08-26
+44,Male,Chinese,Bachelor,Divorced,Hospitality,Teacher,3,Contract,8325.06,Very Unsatisfied,Yes,No,No,53.9,1.49,Unemployed,Permanent Resident,English,Hybrid,No,9.6,Yes,2022-01-02
+30,Male,Chinese,Diploma,Widowed,Hospitality,Teacher,19,Contract,8272.52,Neutral,No,Yes,Yes,48.1,1.73,Unemployed,Foreigner,Mandarin,Hybrid,No,11.9,Yes,2023-06-25
+53,Female,Indian,Master,Single,Education,Clerk,6,Self-employed,14096.36,Unsatisfied,No,Yes,No,37,1.23,Employed,Foreigner,Tamil,Hybrid,Yes,15.3,No,2021-03-15
+28,Female,Malay,High School,Widowed,Finance,Technician,1,Self-employed,6710.7,Very Satisfied,Yes,No,No,43.9,1.26,Unemployed,Foreigner,Malay,Remote,No,16.9,Yes,2021-08-21
+37,Male,Chinese,Master,Divorced,Healthcare,Laborer,17,Self-employed,14637.47,Satisfied,Yes,Yes,No,44.1,1.63,Retired,Permanent Resident,English,Hybrid,No,12.6,Yes,2021-07-05
+53,Female,Chinese,High School,Single,Hospitality,Engineer,25,Full-time,7241.64,Very Unsatisfied,No,Yes,No,43.4,1.62,Retired,Citizen,Mandarin,Remote,No,9.7,No,2022-01-17
+37,Female,Others,High School,Married,Hospitality,Manager,12,Part-time,5402.89,Very Unsatisfied,Yes,Yes,No,36,1.22,Employed,Citizen,English,Remote,Yes,18.5,Yes,2022-04-28
+31,Female,Chinese,PhD,Widowed,Education,Manager,14,Part-time,7665.3,Unsatisfied,No,Yes,No,35.8,1.91,Employed,Foreigner,Others,Remote,Yes,19.1,No,2022-08-04
+34,Male,Others,Master,Widowed,Healthcare,Engineer,11,Contract,3997.9,Unsatisfied,No,No,No,50.3,1.14,Retired,Permanent Resident,Mandarin,Hybrid,No,10.1,Yes,2022-12-06
+22,Male,Indian,Bachelor,Single,Education,Teacher,13,Contract,14963.36,Satisfied,No,Yes,Yes,44.6,0.76,Unemployed,Foreigner,English,On-site,Yes,14.1,No,2023-12-15
+60,Female,Others,High School,Married,Construction,Doctor,21,Contract,4746.13,Neutral,No,Yes,No,36.8,1.45,Student,Citizen,Tamil,On-site,Yes,12.7,Yes,2022-11-10
+22,Female,Others,Diploma,Divorced,Healthcare,Clerk,0,Full-time,9424.66,Unsatisfied,Yes,Yes,Yes,35.7,1.7,Unemployed,Foreigner,English,Remote,Yes,11.2,No,2021-12-28
+53,Female,Others,High School,Married,Finance,Engineer,29,Full-time,3138.26,Very Unsatisfied,No,Yes,Yes,42,1.54,Student,Citizen,English,Hybrid,Yes,14.4,Yes,2022-07-21
+30,Male,Indian,Diploma,Divorced,Construction,Manager,19,Self-employed,3181.39,Unsatisfied,Yes,No,No,58.5,1.83,Retired,Permanent Resident,Malay,Remote,No,5.2,No,2022-02-14
+54,Male,Indian,High School,Single,Hospitality,Doctor,3,Full-time,4552.24,Neutral,Yes,No,No,53.5,1.22,Employed,Permanent Resident,English,Remote,Yes,5.8,No,2023-05-11
+33,Female,Malay,Bachelor,Widowed,Information Technology,Laborer,3,Full-time,2674.4,Neutral,No,Yes,Yes,57.9,1.49,Student,Foreigner,English,Hybrid,Yes,9.5,No,2023-08-10
+21,Female,Indian,PhD,Married,Finance,Teacher,23,Full-time,14435.65,Satisfied,Yes,Yes,No,43.9,1.62,Retired,Citizen,Malay,Remote,No,11,Yes,2021-01-21
+28,Female,Chinese,Diploma,Divorced,Hospitality,Technician,1,Contract,12386.51,Satisfied,Yes,No,No,38.1,0.67,Retired,Citizen,Mandarin,On-site,No,18.3,No,2021-01-26
+43,Male,Chinese,High School,Single,Hospitality,Teacher,29,Full-time,10699.79,Very Unsatisfied,Yes,No,Yes,44.1,0.94,Unemployed,Citizen,Malay,Hybrid,No,6.9,Yes,2022-02-26
+36,Male,Chinese,Bachelor,Single,Education,Engineer,9,Part-time,3652.35,Very Unsatisfied,Yes,No,Yes,49.7,1.68,Student,Citizen,Others,Hybrid,Yes,14.6,Yes,2021-09-18
+53,Female,Malay,Master,Married,Construction,Manager,8,Full-time,12147,Satisfied,Yes,No,Yes,42.7,0.8,Student,Citizen,Others,Remote,No,19.4,Yes,2021-09-11
+45,Male,Malay,High School,Married,Finance,Teacher,15,Full-time,2781.42,Neutral,Yes,No,Yes,39.4,1.41,Student,Citizen,Tamil,Remote,Yes,14.1,No,2022-06-05
+41,Female,Chinese,Diploma,Widowed,Hospitality,Engineer,1,Contract,12020.04,Satisfied,Yes,No,No,37.9,1.75,Unemployed,Permanent Resident,Others,On-site,No,15.3,Yes,2021-11-10
+31,Male,Indian,High School,Widowed,Finance,Manager,23,Full-time,6474.03,Very Satisfied,Yes,Yes,Yes,42.8,0.9,Unemployed,Citizen,Others,Hybrid,No,8.5,No,2022-06-24
+50,Male,Chinese,Master,Divorced,Hospitality,Teacher,5,Part-time,14451.05,Very Unsatisfied,No,Yes,No,47.9,0.72,Unemployed,Permanent Resident,Tamil,Hybrid,No,12.5,No,2023-01-27
+46,Male,Malay,Diploma,Married,Education,Technician,21,Contract,14168.31,Satisfied,Yes,Yes,No,56.9,1.93,Retired,Permanent Resident,Others,Hybrid,No,11.8,Yes,2022-05-19
+43,Male,Indian,Master,Married,Hospitality,Doctor,5,Part-time,3672.14,Unsatisfied,No,Yes,No,57.7,0.76,Employed,Foreigner,Others,Remote,Yes,19.2,No,2022-12-19
+34,Male,Chinese,Diploma,Widowed,Construction,Engineer,8,Contract,3923.9,Very Satisfied,Yes,No,No,55.4,1.39,Student,Foreigner,English,Remote,Yes,16.5,No,2023-08-12
+39,Male,Chinese,Bachelor,Widowed,Education,Clerk,2,Contract,2129,Neutral,No,No,Yes,43.8,1.66,Employed,Permanent Resident,Tamil,On-site,No,13.4,Yes,2022-08-16
+40,Male,Chinese,PhD,Married,Finance,Clerk,6,Contract,4172.12,Neutral,Yes,No,No,44.3,0.87,Employed,Permanent Resident,Mandarin,Remote,Yes,7.2,Yes,2021-01-07
+26,Male,Indian,PhD,Married,Construction,Doctor,13,Contract,11893.73,Very Satisfied,Yes,Yes,No,50.3,1.45,Student,Citizen,Tamil,On-site,No,8,Yes,2021-05-18
+55,Male,Chinese,High School,Single,Construction,Teacher,5,Full-time,12315.84,Satisfied,Yes,Yes,Yes,44.5,0.55,Retired,Citizen,Malay,Remote,No,8.2,No,2023-06-07
+60,Female,Malay,Bachelor,Married,Information Technology,Technician,7,Part-time,14198,Unsatisfied,Yes,Yes,Yes,53.1,0.56,Employed,Foreigner,Tamil,Remote,No,9.6,Yes,2022-10-27
+26,Male,Others,Bachelor,Widowed,Education,Doctor,14,Part-time,5838.37,Unsatisfied,Yes,Yes,Yes,35.5,0.9,Retired,Foreigner,Malay,Hybrid,No,12.3,Yes,2022-10-09
+49,Male,Indian,Diploma,Divorced,Healthcare,Manager,18,Self-employed,14641.22,Neutral,Yes,Yes,Yes,38.1,1.36,Student,Permanent Resident,Mandarin,Remote,No,18.5,No,2023-08-22
+56,Female,Indian,High School,Single,Finance,Technician,24,Self-employed,10707.63,Very Unsatisfied,Yes,No,Yes,41.9,0.66,Unemployed,Foreigner,Mandarin,On-site,Yes,5.3,No,2023-05-27
+43,Male,Indian,Bachelor,Married,Finance,Manager,11,Full-time,13060.79,Neutral,No,No,No,59.7,1.72,Retired,Citizen,Mandarin,On-site,No,5.4,Yes,2023-04-13
+59,Male,Indian,High School,Single,Healthcare,Doctor,24,Full-time,5702.68,Very Unsatisfied,Yes,Yes,Yes,46.7,0.98,Employed,Foreigner,English,Remote,No,8.2,Yes,2021-09-05
+32,Male,Indian,Diploma,Single,Finance,Teacher,21,Contract,8116.84,Very Unsatisfied,No,Yes,No,43.9,1.96,Unemployed,Citizen,Others,On-site,Yes,8.2,No,2023-04-23
+41,Female,Indian,Master,Widowed,Information Technology,Technician,4,Part-time,4045.45,Very Unsatisfied,Yes,No,Yes,38.5,0.61,Student,Permanent Resident,Malay,Hybrid,Yes,7.3,Yes,2021-03-20
+48,Female,Indian,High School,Divorced,Healthcare,Technician,11,Self-employed,9094.99,Satisfied,Yes,Yes,No,45.8,0.77,Unemployed,Citizen,Mandarin,On-site,No,8,No,2022-04-13
+31,Male,Malay,Bachelor,Divorced,Hospitality,Technician,22,Part-time,2034.65,Very Unsatisfied,No,No,No,55.9,1.44,Unemployed,Permanent Resident,Malay,On-site,Yes,6.9,No,2021-10-05
+56,Male,Others,Diploma,Widowed,Hospitality,Manager,27,Contract,9739.66,Very Satisfied,Yes,No,Yes,48.9,0.72,Employed,Permanent Resident,Malay,Hybrid,Yes,6.6,Yes,2021-06-14
+32,Female,Others,Bachelor,Widowed,Hospitality,Clerk,17,Self-employed,11250.98,Satisfied,Yes,No,No,49.4,0.9,Retired,Foreigner,Mandarin,Hybrid,Yes,5.1,Yes,2021-09-12
+54,Female,Others,High School,Single,Construction,Technician,19,Full-time,5235.22,Very Satisfied,Yes,Yes,Yes,56.6,1.3,Student,Citizen,English,On-site,Yes,13.4,No,2021-04-23
+21,Female,Indian,Master,Married,Information Technology,Manager,1,Contract,11540.74,Very Unsatisfied,Yes,No,Yes,39.5,1.08,Unemployed,Foreigner,Malay,On-site,No,8.7,Yes,2023-02-06
+26,Female,Chinese,High School,Married,Education,Engineer,2,Part-time,2501.31,Unsatisfied,No,No,No,50.5,1.46,Unemployed,Citizen,Malay,Remote,No,9.8,No,2022-10-04
+31,Female,Malay,Master,Divorced,Information Technology,Teacher,11,Self-employed,8939.76,Unsatisfied,No,No,No,53.8,1.64,Unemployed,Citizen,Others,On-site,No,17.2,Yes,2023-12-06
+47,Male,Malay,Diploma,Single,Construction,Teacher,9,Self-employed,14733.23,Satisfied,No,No,Yes,58.5,1.97,Unemployed,Permanent Resident,Tamil,On-site,Yes,13.5,No,2022-07-15
+23,Male,Malay,PhD,Married,Healthcare,Manager,21,Part-time,5916.06,Satisfied,Yes,Yes,No,39.6,1.06,Employed,Foreigner,Others,On-site,Yes,15.9,Yes,2023-12-08
+20,Female,Others,Bachelor,Widowed,Education,Doctor,16,Full-time,3943.36,Unsatisfied,No,No,No,59.1,1.04,Unemployed,Citizen,Mandarin,Hybrid,No,17.8,No,2021-11-15
+48,Male,Others,PhD,Married,Information Technology,Manager,0,Full-time,14228.86,Very Satisfied,Yes,Yes,Yes,48,0.62,Retired,Citizen,Tamil,On-site,No,17.7,Yes,2023-10-16
+52,Female,Indian,Bachelor,Single,Hospitality,Technician,28,Full-time,12451.55,Very Unsatisfied,No,Yes,Yes,35.6,1.16,Employed,Permanent Resident,Mandarin,Hybrid,Yes,14.9,Yes,2022-03-02
+20,Female,Others,High School,Single,Education,Clerk,16,Part-time,3903.55,Unsatisfied,Yes,No,Yes,55.2,1.82,Employed,Permanent Resident,Malay,Hybrid,Yes,18,No,2021-02-16
+32,Male,Indian,High School,Single,Construction,Laborer,12,Self-employed,4690.05,Neutral,Yes,Yes,Yes,50.2,0.51,Student,Citizen,Tamil,On-site,No,18.7,Yes,2021-02-15
+52,Male,Others,Diploma,Married,Healthcare,Manager,22,Part-time,6447.02,Satisfied,Yes,Yes,No,52.3,1.89,Student,Citizen,English,Hybrid,Yes,8,No,2021-09-26
+56,Female,Malay,Bachelor,Divorced,Construction,Clerk,22,Contract,13302.39,Very Satisfied,No,Yes,No,39.9,1.16,Student,Citizen,Tamil,Remote,No,17.8,No,2021-06-25
+26,Female,Malay,Master,Single,Hospitality,Technician,9,Contract,7553.65,Very Satisfied,No,Yes,No,49.6,0.81,Retired,Citizen,Malay,Hybrid,No,13.4,No,2023-09-05
+52,Male,Others,Master,Single,Education,Technician,18,Full-time,10300.62,Unsatisfied,Yes,Yes,No,35,0.55,Student,Citizen,Others,On-site,No,11.1,No,2022-03-26
+39,Male,Indian,PhD,Married,Healthcare,Teacher,15,Part-time,6318.65,Satisfied,Yes,No,No,47.9,0.82,Retired,Foreigner,Mandarin,Hybrid,Yes,15.1,Yes,2022-10-25
+28,Female,Malay,Master,Single,Healthcare,Clerk,17,Full-time,3458.68,Unsatisfied,No,Yes,Yes,48.4,0.87,Retired,Citizen,Mandarin,Hybrid,Yes,17.6,Yes,2022-06-22
+58,Female,Chinese,Master,Divorced,Healthcare,Doctor,10,Self-employed,12979.44,Very Satisfied,No,No,Yes,39.9,0.52,Employed,Permanent Resident,English,Remote,No,9.5,Yes,2022-05-03
+26,Male,Indian,Diploma,Divorced,Healthcare,Doctor,7,Self-employed,14765.83,Neutral,Yes,No,No,39,1.29,Employed,Foreigner,Malay,Hybrid,Yes,19.9,Yes,2023-08-04
+42,Female,Chinese,High School,Divorced,Hospitality,Engineer,16,Full-time,9711.85,Very Satisfied,Yes,Yes,No,43.4,1.77,Employed,Foreigner,Malay,Remote,No,16.2,No,2022-01-17
+26,Female,Others,Diploma,Single,Healthcare,Engineer,9,Full-time,10726.67,Unsatisfied,No,Yes,No,41.1,1.78,Employed,Foreigner,Mandarin,On-site,Yes,16.7,No,2022-05-08
+23,Male,Malay,High School,Divorced,Finance,Teacher,3,Full-time,14782.69,Very Satisfied,No,No,Yes,54.3,1.9,Student,Foreigner,Tamil,Hybrid,No,16.7,Yes,2021-07-18
+41,Female,Chinese,Bachelor,Married,Finance,Engineer,10,Full-time,10103.14,Satisfied,No,No,No,39.5,1.65,Employed,Permanent Resident,Tamil,On-site,Yes,5.2,No,2022-02-08
+34,Female,Indian,PhD,Divorced,Information Technology,Teacher,19,Contract,11711.66,Unsatisfied,No,Yes,No,37.7,1.53,Employed,Citizen,Malay,Hybrid,Yes,18.7,No,2022-08-09
+21,Female,Indian,Bachelor,Single,Construction,Doctor,16,Part-time,10528.97,Satisfied,Yes,Yes,No,55.2,1.64,Employed,Citizen,Mandarin,On-site,Yes,11.8,No,2022-02-24
+32,Male,Others,Master,Divorced,Finance,Engineer,17,Contract,14480.65,Neutral,No,No,No,37.6,1.96,Student,Citizen,Others,On-site,Yes,18.7,Yes,2021-09-11
+54,Female,Chinese,Master,Divorced,Hospitality,Doctor,2,Part-time,5853.39,Very Satisfied,Yes,Yes,No,48.9,1.49,Unemployed,Foreigner,Mandarin,Remote,Yes,11.8,No,2021-06-20
+26,Female,Malay,High School,Widowed,Healthcare,Clerk,26,Full-time,14408.47,Very Unsatisfied,Yes,No,No,42,1.73,Unemployed,Foreigner,Others,Hybrid,Yes,19.7,No,2022-12-07
+55,Female,Indian,Master,Married,Construction,Manager,5,Contract,14994.82,Neutral,Yes,No,Yes,39.5,0.52,Unemployed,Citizen,Tamil,On-site,No,13.2,No,2021-07-08
+32,Female,Chinese,Master,Single,Education,Manager,1,Self-employed,14459.45,Neutral,Yes,No,Yes,53.9,1.69,Student,Permanent Resident,Tamil,Hybrid,Yes,13.4,No,2023-06-13
+20,Female,Malay,Diploma,Divorced,Information Technology,Clerk,12,Part-time,6466.86,Very Satisfied,No,No,No,40.4,1.82,Employed,Permanent Resident,Others,Remote,No,7,Yes,2022-10-14
+51,Male,Malay,PhD,Widowed,Information Technology,Clerk,8,Self-employed,4662.33,Unsatisfied,Yes,Yes,No,40.3,0.71,Employed,Foreigner,Others,On-site,Yes,10.1,Yes,2021-01-25
+56,Female,Chinese,High School,Divorced,Hospitality,Teacher,7,Full-time,4108.07,Very Satisfied,No,Yes,Yes,37.9,0.59,Unemployed,Foreigner,English,On-site,No,13.3,No,2021-08-23
+44,Female,Indian,Master,Divorced,Education,Doctor,20,Part-time,12557.97,Neutral,Yes,Yes,Yes,52.9,1.67,Student,Foreigner,Malay,Remote,Yes,9.6,No,2023-08-16
+21,Female,Malay,Master,Married,Education,Technician,5,Self-employed,14438.22,Satisfied,Yes,No,Yes,58,0.63,Student,Permanent Resident,Malay,Hybrid,Yes,8.3,Yes,2021-05-12
+36,Male,Malay,PhD,Single,Hospitality,Technician,0,Contract,8004.82,Very Satisfied,No,Yes,No,46.7,1.47,Retired,Permanent Resident,Malay,Hybrid,Yes,16,Yes,2023-04-15
+35,Female,Indian,High School,Widowed,Hospitality,Manager,17,Contract,13329.13,Satisfied,No,Yes,No,49.4,1.5,Retired,Citizen,English,Remote,No,19.4,No,2021-05-25
+35,Male,Malay,Bachelor,Widowed,Hospitality,Engineer,2,Part-time,3858.05,Satisfied,Yes,No,No,59.8,1.63,Retired,Citizen,English,Remote,No,18.3,No,2023-02-26
+55,Female,Indian,High School,Widowed,Healthcare,Technician,4,Part-time,12961.02,Neutral,No,Yes,No,42.7,0.75,Student,Permanent Resident,Tamil,Hybrid,Yes,17.9,No,2023-01-24
+54,Male,Malay,PhD,Widowed,Construction,Technician,18,Full-time,13061.55,Very Unsatisfied,Yes,Yes,No,59.9,1.55,Employed,Citizen,Mandarin,Remote,Yes,18.3,No,2023-11-24
+43,Female,Others,Bachelor,Married,Healthcare,Doctor,24,Full-time,13719.18,Very Satisfied,No,Yes,No,53.3,1.79,Unemployed,Permanent Resident,Malay,On-site,Yes,18.9,No,2021-02-13
+48,Female,Others,Master,Divorced,Hospitality,Doctor,26,Full-time,5172.56,Unsatisfied,Yes,Yes,No,43.4,1.99,Retired,Foreigner,Malay,On-site,Yes,7.7,No,2022-06-01
+20,Female,Others,High School,Single,Finance,Technician,7,Contract,2509.39,Satisfied,Yes,No,Yes,57.8,1.98,Unemployed,Foreigner,Others,On-site,Yes,19.3,Yes,2021-04-03
+26,Female,Others,PhD,Widowed,Information Technology,Engineer,6,Self-employed,2865.1,Satisfied,No,No,No,40.5,1.68,Unemployed,Foreigner,Tamil,Remote,Yes,11.4,Yes,2023-09-06
+28,Female,Malay,Master,Married,Construction,Doctor,4,Contract,13123.48,Very Unsatisfied,No,Yes,Yes,41.6,1.3,Retired,Citizen,Others,On-site,No,8.5,Yes,2022-03-21
+42,Male,Malay,Bachelor,Single,Hospitality,Engineer,10,Contract,7725.3,Very Satisfied,No,Yes,No,50.4,1.1,Employed,Citizen,Mandarin,Hybrid,No,13.7,No,2023-06-28
+24,Female,Indian,Diploma,Widowed,Construction,Teacher,29,Self-employed,2171.98,Satisfied,Yes,Yes,No,54.5,0.78,Student,Permanent Resident,Malay,Hybrid,No,5.6,No,2022-12-27
+54,Female,Chinese,Master,Divorced,Education,Laborer,15,Self-employed,12954.05,Very Unsatisfied,No,No,No,42.2,0.5,Student,Foreigner,Others,Hybrid,No,9.8,No,2023-01-28
+29,Female,Malay,Diploma,Widowed,Finance,Doctor,26,Self-employed,3583.66,Very Unsatisfied,Yes,No,No,57.5,1.98,Student,Citizen,Mandarin,Remote,Yes,19.9,Yes,2023-02-05
+53,Male,Malay,High School,Single,Construction,Doctor,14,Contract,2302.75,Satisfied,Yes,No,Yes,36.8,0.62,Employed,Permanent Resident,Mandarin,On-site,No,12.4,Yes,2022-07-27
+22,Female,Malay,PhD,Married,Information Technology,Teacher,0,Part-time,6489.72,Very Satisfied,Yes,Yes,Yes,38.5,0.82,Student,Citizen,Mandarin,Hybrid,No,19.7,Yes,2022-04-03
+21,Male,Chinese,PhD,Single,Hospitality,Doctor,18,Self-employed,9870.36,Unsatisfied,Yes,Yes,No,39.5,1.98,Student,Permanent Resident,Malay,On-site,Yes,7.4,No,2022-12-17
+60,Female,Others,Bachelor,Divorced,Hospitality,Technician,20,Full-time,4848.86,Satisfied,Yes,No,Yes,35.5,1.64,Student,Foreigner,Mandarin,Remote,No,18.2,Yes,2023-12-17
+24,Female,Indian,High School,Divorced,Information Technology,Doctor,15,Part-time,11057.4,Very Satisfied,No,No,No,42,1.82,Unemployed,Foreigner,Mandarin,On-site,No,11,No,2021-12-02
+52,Female,Chinese,PhD,Divorced,Healthcare,Engineer,24,Full-time,14531.64,Neutral,Yes,No,No,37.1,0.91,Student,Citizen,Malay,On-site,No,8.2,No,2021-12-18
+58,Female,Malay,Diploma,Married,Healthcare,Doctor,18,Full-time,14167.89,Satisfied,No,Yes,Yes,59.2,1.95,Employed,Permanent Resident,Mandarin,Remote,No,9.2,No,2021-08-08
+42,Male,Malay,Master,Single,Healthcare,Doctor,3,Self-employed,9634.33,Satisfied,Yes,Yes,Yes,43.2,1.55,Unemployed,Permanent Resident,Mandarin,Hybrid,No,11.8,No,2022-03-17
+32,Male,Indian,High School,Married,Education,Doctor,21,Contract,14145.32,Satisfied,No,No,Yes,49.5,1.61,Retired,Foreigner,Malay,Remote,Yes,18.2,No,2023-02-25
+43,Female,Indian,PhD,Single,Construction,Clerk,11,Full-time,12798.5,Neutral,Yes,Yes,Yes,46.1,0.72,Unemployed,Permanent Resident,English,Remote,Yes,6.5,Yes,2021-09-03
+42,Male,Indian,High School,Divorced,Information Technology,Engineer,2,Part-time,5557.14,Very Unsatisfied,Yes,No,Yes,39.1,1.18,Employed,Citizen,English,Remote,Yes,14.6,No,2021-05-04
+39,Male,Indian,High School,Single,Construction,Clerk,15,Full-time,12356.07,Very Satisfied,No,No,Yes,39.9,1.84,Unemployed,Foreigner,Tamil,Remote,Yes,17.7,Yes,2022-03-11
+38,Male,Chinese,PhD,Married,Construction,Technician,4,Self-employed,2863,Satisfied,No,Yes,No,55.5,1.78,Retired,Citizen,English,Hybrid,No,18.9,Yes,2022-01-24
+32,Male,Malay,High School,Married,Healthcare,Teacher,11,Part-time,5165.45,Very Satisfied,No,Yes,Yes,40,1.98,Student,Permanent Resident,Tamil,On-site,Yes,11.7,Yes,2022-09-19
+52,Female,Others,Master,Divorced,Healthcare,Clerk,19,Part-time,14300.6,Very Satisfied,Yes,Yes,No,44.9,0.51,Retired,Permanent Resident,Malay,On-site,Yes,5.3,Yes,2022-08-26
+45,Female,Malay,Diploma,Married,Information Technology,Teacher,3,Self-employed,2275.47,Very Satisfied,No,No,No,37,0.91,Employed,Citizen,English,On-site,Yes,6.2,Yes,2021-11-27
+55,Female,Others,Master,Single,Construction,Clerk,10,Self-employed,3596.86,Unsatisfied,Yes,Yes,Yes,43.2,1.4,Unemployed,Foreigner,Others,On-site,No,10.2,No,2021-01-16
+43,Male,Others,Bachelor,Married,Education,Manager,4,Self-employed,12156.52,Very Satisfied,Yes,No,No,36.1,1.51,Student,Permanent Resident,Tamil,Remote,Yes,7.8,Yes,2023-03-23
+62,Male,Indian,Diploma,Single,Construction,Manager,0,Contract,2130.71,Very Unsatisfied,No,Yes,No,53.4,1.73,Unemployed,Citizen,Others,On-site,No,16.5,Yes,2023-08-14
+46,Male,Chinese,PhD,Married,Information Technology,Teacher,11,Part-time,10521.37,Very Satisfied,Yes,Yes,Yes,47.3,1.87,Student,Foreigner,Tamil,Hybrid,Yes,10.1,No,2023-06-01
+21,Female,Chinese,Diploma,Widowed,Healthcare,Manager,18,Full-time,12884.24,Neutral,Yes,Yes,Yes,37.1,1.18,Retired,Foreigner,Others,Remote,No,14.4,No,2021-06-24
+24,Male,Chinese,Master,Single,Healthcare,Engineer,19,Contract,5102.21,Neutral,No,No,Yes,58.4,1.28,Student,Foreigner,Tamil,Remote,Yes,8.3,No,2022-07-28
+52,Female,Malay,Master,Widowed,Education,Laborer,3,Contract,8074.46,Neutral,Yes,Yes,Yes,54.5,1.79,Employed,Permanent Resident,English,Remote,No,17,No,2022-06-07
+56,Female,Chinese,Bachelor,Divorced,Healthcare,Doctor,18,Contract,10868.04,Very Unsatisfied,No,No,No,58.2,0.62,Unemployed,Permanent Resident,English,Remote,No,14.4,Yes,2022-03-17
+28,Female,Others,High School,Widowed,Finance,Manager,2,Contract,5090.14,Neutral,Yes,No,Yes,52.8,1.31,Employed,Foreigner,English,On-site,No,9.3,No,2023-06-04
+55,Female,Others,Bachelor,Divorced,Information Technology,Laborer,21,Full-time,12569.2,Neutral,Yes,No,No,52.2,1.4,Unemployed,Citizen,Malay,Remote,Yes,15,No,2022-09-16
+40,Male,Indian,Master,Single,Finance,Doctor,17,Part-time,12396.23,Neutral,No,Yes,Yes,44.8,1.65,Employed,Permanent Resident,Tamil,On-site,Yes,16.5,Yes,2022-09-05
+55,Male,Chinese,Bachelor,Married,Finance,Technician,28,Part-time,7696.27,Unsatisfied,No,Yes,Yes,42.5,1.37,Employed,Foreigner,Malay,On-site,Yes,9.3,Yes,2021-05-14
+32,Male,Others,Master,Married,Hospitality,Technician,22,Full-time,6434.35,Very Unsatisfied,No,No,No,48.1,1.87,Student,Permanent Resident,English,Remote,No,11.7,No,2021-03-20
+54,Female,Indian,PhD,Widowed,Finance,Manager,22,Self-employed,2173.89,Satisfied,No,Yes,Yes,43.2,1.42,Student,Permanent Resident,Mandarin,Remote,Yes,12.8,Yes,2023-03-24
+55,Female,Chinese,Bachelor,Widowed,Construction,Laborer,8,Self-employed,2895.95,Satisfied,Yes,No,No,40.7,0.82,Student,Foreigner,Tamil,Hybrid,Yes,6.3,Yes,2022-05-20
+36,Male,Indian,Master,Single,Hospitality,Laborer,2,Contract,14175.33,Neutral,No,No,No,40.4,1.71,Employed,Citizen,Others,On-site,No,17.9,Yes,2022-01-11
+27,Female,Indian,Diploma,Widowed,Healthcare,Doctor,6,Full-time,12383.4,Satisfied,Yes,No,Yes,53.5,1.51,Employed,Permanent Resident,Mandarin,Hybrid,No,17.1,Yes,2022-05-06
+44,Female,Indian,Bachelor,Married,Education,Manager,4,Contract,9200.85,Neutral,Yes,No,No,44.1,1.94,Student,Foreigner,English,Hybrid,No,6.9,Yes,2022-04-10
+38,Male,Others,Diploma,Single,Hospitality,Technician,8,Full-time,8034.41,Very Unsatisfied,No,Yes,No,38.5,1.82,Employed,Foreigner,English,Remote,Yes,16.3,No,2022-02-14
+52,Male,Chinese,High School,Single,Hospitality,Manager,20,Self-employed,9787.64,Unsatisfied,Yes,No,Yes,41.5,1.91,Unemployed,Foreigner,Malay,Hybrid,No,9,No,2023-01-09
+43,Male,Malay,High School,Married,Education,Doctor,1,Contract,9310.16,Neutral,Yes,Yes,Yes,60,1.21,Retired,Permanent Resident,Malay,Remote,Yes,13.2,Yes,2023-03-11
+44,Female,Others,Diploma,Widowed,Healthcare,Manager,5,Contract,8456.24,Neutral,No,Yes,Yes,39.7,1.19,Student,Citizen,Malay,Hybrid,No,17.6,Yes,2023-10-19
+37,Male,Chinese,PhD,Widowed,Construction,Engineer,6,Full-time,11966.24,Satisfied,No,No,Yes,40.7,0.68,Employed,Citizen,Others,On-site,No,15.7,Yes,2022-09-18
+48,Female,Others,Diploma,Single,Finance,Technician,25,Contract,13137.07,Unsatisfied,No,No,No,35.9,0.72,Employed,Citizen,Tamil,Remote,No,10.3,Yes,2022-03-18
+22,Female,Chinese,Bachelor,Single,Hospitality,Teacher,22,Part-time,12505.34,Very Satisfied,Yes,Yes,Yes,57,1.88,Retired,Citizen,Malay,Remote,Yes,8.2,No,2021-09-06
+64,Male,Malay,Diploma,Single,Construction,Teacher,17,Part-time,13963.4,Unsatisfied,No,Yes,Yes,52.4,0.99,Retired,Citizen,Mandarin,On-site,Yes,17.7,Yes,2021-02-05
+41,Female,Others,Diploma,Married,Education,Clerk,19,Self-employed,8843.16,Very Unsatisfied,No,No,Yes,43.9,1.63,Retired,Citizen,Malay,On-site,Yes,13.7,Yes,2023-11-08
+58,Male,Chinese,PhD,Single,Construction,Doctor,23,Full-time,11475.31,Unsatisfied,Yes,Yes,Yes,59.8,1.81,Employed,Permanent Resident,English,On-site,Yes,13.5,Yes,2023-05-01
+51,Male,Chinese,Master,Widowed,Information Technology,Clerk,23,Self-employed,13722.74,Unsatisfied,No,Yes,No,45.8,1.17,Retired,Permanent Resident,Malay,On-site,No,17.6,No,2022-10-02
+27,Male,Indian,Master,Married,Education,Teacher,29,Contract,5829.64,Satisfied,Yes,Yes,No,57.5,1.43,Retired,Permanent Resident,Mandarin,On-site,No,14.6,No,2023-12-23
+23,Female,Chinese,Diploma,Single,Finance,Doctor,11,Part-time,9092.39,Neutral,Yes,Yes,Yes,50.3,1.78,Unemployed,Permanent Resident,Mandarin,On-site,No,7.3,No,2023-03-08
+42,Female,Malay,Master,Widowed,Information Technology,Doctor,17,Part-time,2461.18,Neutral,No,Yes,No,45.6,0.61,Retired,Permanent Resident,Mandarin,On-site,No,5.5,No,2023-03-28
+36,Female,Chinese,Master,Married,Hospitality,Teacher,11,Part-time,9305.16,Satisfied,No,No,No,36.8,1.8,Student,Citizen,Tamil,Remote,No,8.6,Yes,2023-08-02
+46,Female,Indian,Bachelor,Divorced,Information Technology,Technician,21,Self-employed,4014.27,Neutral,Yes,Yes,No,36.7,1.27,Employed,Foreigner,Tamil,Remote,Yes,6.6,No,2022-04-04
+38,Female,Others,Master,Widowed,Hospitality,Engineer,14,Part-time,7196.65,Neutral,No,No,Yes,57.6,1.1,Student,Foreigner,Malay,On-site,Yes,9.4,Yes,2021-11-04
+54,Female,Others,Diploma,Single,Hospitality,Laborer,24,Contract,12247.74,Unsatisfied,Yes,No,No,44.4,1.49,Employed,Permanent Resident,Tamil,Hybrid,No,19.6,No,2023-09-12
+23,Female,Others,High School,Divorced,Information Technology,Manager,10,Part-time,13899.86,Unsatisfied,No,Yes,Yes,38.6,1.16,Employed,Citizen,Others,Hybrid,No,19.9,Yes,2023-07-20
+30,Female,Others,PhD,Widowed,Construction,Technician,16,Contract,2917.82,Neutral,Yes,Yes,No,39.5,0.76,Retired,Permanent Resident,English,Hybrid,No,11.4,No,2023-06-21
+30,Male,Indian,Diploma,Married,Healthcare,Manager,10,Full-time,9958.44,Satisfied,Yes,Yes,No,40.5,1.22,Unemployed,Permanent Resident,Malay,On-site,No,5.8,No,2023-06-06
+59,Female,Indian,Bachelor,Widowed,Healthcare,Clerk,29,Self-employed,5833.95,Satisfied,Yes,No,No,58.8,1.72,Employed,Citizen,English,Hybrid,Yes,15.6,Yes,2022-02-09
+62,Male,Others,High School,Widowed,Healthcare,Manager,21,Contract,3935.75,Satisfied,No,Yes,No,47.6,0.9,Employed,Permanent Resident,Mandarin,Hybrid,Yes,13.3,Yes,2022-09-14
+28,Female,Others,High School,Married,Construction,Engineer,28,Contract,8692.74,Very Unsatisfied,No,No,Yes,47.9,1.44,Student,Permanent Resident,Others,Remote,No,12.6,No,2023-03-22
+43,Male,Others,PhD,Single,Finance,Doctor,2,Contract,6319.08,Satisfied,Yes,Yes,No,50.7,1.84,Employed,Citizen,Tamil,Hybrid,Yes,11.5,No,2023-11-05
+35,Male,Others,Master,Divorced,Construction,Technician,19,Part-time,4048.58,Neutral,Yes,No,No,58.4,1.53,Unemployed,Foreigner,Others,On-site,No,8.2,No,2022-07-18
+49,Female,Chinese,PhD,Widowed,Hospitality,Manager,29,Self-employed,12478.55,Very Satisfied,Yes,Yes,Yes,56.6,0.9,Unemployed,Foreigner,Mandarin,On-site,No,6.3,No,2021-10-07
+48,Male,Others,Diploma,Divorced,Construction,Engineer,5,Part-time,6458.11,Satisfied,Yes,No,Yes,46,0.77,Student,Permanent Resident,Mandarin,On-site,Yes,9.7,Yes,2023-09-11
+45,Female,Chinese,PhD,Single,Construction,Engineer,5,Contract,6192.8,Satisfied,Yes,Yes,No,43.6,0.94,Unemployed,Foreigner,Mandarin,Hybrid,Yes,19.2,No,2023-06-09
+47,Male,Indian,High School,Divorced,Construction,Technician,3,Self-employed,2294.18,Very Satisfied,Yes,Yes,Yes,53,1.65,Retired,Permanent Resident,English,On-site,No,17.4,Yes,2022-02-20
+27,Male,Indian,Master,Single,Healthcare,Manager,29,Self-employed,11424.09,Unsatisfied,Yes,Yes,No,44.7,0.86,Unemployed,Foreigner,Others,Hybrid,Yes,14.3,No,2021-05-01
+64,Male,Chinese,Master,Divorced,Healthcare,Doctor,3,Full-time,8300.11,Satisfied,No,No,Yes,39.5,1.8,Employed,Permanent Resident,Others,Hybrid,No,7.3,Yes,2021-10-09
+27,Female,Malay,Master,Widowed,Information Technology,Doctor,10,Part-time,9089.44,Very Satisfied,No,Yes,Yes,52.6,1.12,Employed,Permanent Resident,Tamil,On-site,No,16.8,No,2022-01-20
+40,Female,Malay,Diploma,Single,Finance,Manager,25,Part-time,8685.2,Unsatisfied,No,Yes,No,39.9,0.89,Unemployed,Citizen,Mandarin,Hybrid,No,5.6,Yes,2021-05-23
+39,Female,Others,Diploma,Single,Healthcare,Laborer,29,Part-time,10480.51,Very Satisfied,No,Yes,No,41.3,1.21,Employed,Foreigner,Others,Remote,No,5.8,Yes,2023-02-17
+22,Male,Indian,High School,Single,Hospitality,Engineer,0,Full-time,3202.27,Satisfied,Yes,No,Yes,44,0.92,Employed,Permanent Resident,English,On-site,Yes,5.6,Yes,2022-04-22
+29,Male,Indian,Master,Divorced,Hospitality,Manager,4,Self-employed,11808.11,Very Satisfied,No,No,No,47.9,1.32,Retired,Permanent Resident,Tamil,On-site,No,19.6,No,2023-07-25
+28,Male,Indian,PhD,Divorced,Construction,Clerk,10,Full-time,11564.31,Unsatisfied,Yes,No,No,38.5,1.4,Retired,Foreigner,English,Remote,No,19.8,No,2021-05-17
+21,Female,Indian,High School,Divorced,Construction,Technician,26,Part-time,13517.54,Unsatisfied,Yes,Yes,Yes,47.4,1.31,Student,Foreigner,English,Remote,Yes,6.2,Yes,2022-03-04
+27,Female,Malay,Diploma,Single,Construction,Technician,5,Contract,10963.02,Very Unsatisfied,No,Yes,No,48.4,1.96,Retired,Citizen,Others,Remote,No,17.8,No,2023-09-11
+24,Male,Malay,Diploma,Single,Education,Manager,21,Full-time,8112.23,Neutral,No,No,Yes,55.5,1.84,Retired,Citizen,Tamil,On-site,No,10.2,No,2021-12-22
+58,Female,Malay,PhD,Married,Hospitality,Laborer,18,Self-employed,12673.47,Satisfied,Yes,No,Yes,43.9,0.95,Retired,Foreigner,English,Hybrid,Yes,11,No,2021-11-12
+60,Male,Indian,Bachelor,Divorced,Healthcare,Laborer,26,Part-time,5386.06,Neutral,No,Yes,Yes,39,1.34,Employed,Foreigner,English,Remote,No,6.6,Yes,2022-04-06
+34,Male,Chinese,Master,Divorced,Finance,Manager,6,Self-employed,8187.06,Very Satisfied,Yes,No,No,47.2,0.54,Employed,Foreigner,Others,Hybrid,Yes,11.3,Yes,2022-02-01
+55,Male,Malay,Master,Married,Hospitality,Clerk,24,Self-employed,12540.28,Satisfied,No,Yes,Yes,37,0.98,Employed,Permanent Resident,Malay,Remote,Yes,8.5,Yes,2023-10-05
+22,Male,Malay,Diploma,Divorced,Healthcare,Doctor,25,Contract,6474.86,Satisfied,Yes,Yes,No,46.5,1.81,Unemployed,Permanent Resident,Mandarin,Hybrid,No,5.7,Yes,2021-03-02
+36,Female,Malay,Master,Single,Construction,Engineer,22,Self-employed,8052.62,Very Unsatisfied,Yes,No,No,36,1.07,Unemployed,Citizen,English,Hybrid,No,13,Yes,2022-10-02
+47,Female,Malay,Bachelor,Divorced,Information Technology,Clerk,22,Part-time,11174.23,Satisfied,No,Yes,No,51.6,1.94,Employed,Permanent Resident,Others,Hybrid,Yes,16.8,No,2023-09-08
+41,Female,Chinese,Bachelor,Widowed,Healthcare,Technician,22,Self-employed,10565.91,Satisfied,No,Yes,No,52.3,0.82,Student,Permanent Resident,Tamil,Hybrid,Yes,6.9,Yes,2021-07-04
+43,Female,Others,Bachelor,Married,Finance,Teacher,17,Contract,4779.25,Neutral,Yes,Yes,Yes,48.6,1.14,Retired,Citizen,Tamil,On-site,Yes,15.5,No,2022-07-11
+43,Female,Others,High School,Widowed,Construction,Manager,21,Contract,2840.4,Neutral,No,No,Yes,42.6,1.63,Student,Citizen,English,Remote,Yes,16.6,No,2023-11-10
+21,Male,Malay,Diploma,Single,Education,Technician,28,Part-time,12132.34,Unsatisfied,Yes,No,Yes,50,0.93,Employed,Permanent Resident,Malay,On-site,Yes,15.9,Yes,2022-01-10
+22,Male,Malay,PhD,Divorced,Hospitality,Doctor,2,Part-time,3428.24,Neutral,Yes,Yes,No,55.7,1.99,Employed,Foreigner,Mandarin,On-site,Yes,17.7,No,2022-07-19
+26,Male,Indian,High School,Married,Hospitality,Clerk,22,Part-time,4443.1,Satisfied,No,Yes,No,36.6,1.24,Employed,Permanent Resident,Mandarin,Hybrid,Yes,17.5,Yes,2023-04-24
+60,Female,Malay,Master,Divorced,Hospitality,Clerk,0,Part-time,6361.41,Very Satisfied,No,No,Yes,58.3,1.8,Retired,Citizen,Malay,Hybrid,No,19.2,Yes,2022-05-24
+32,Male,Chinese,Master,Married,Finance,Clerk,17,Full-time,8152.23,Very Satisfied,No,Yes,No,53.8,0.63,Retired,Permanent Resident,Tamil,Hybrid,No,12.5,No,2023-01-05
+56,Male,Chinese,PhD,Married,Education,Doctor,12,Full-time,8583.06,Neutral,Yes,No,Yes,48.7,1.59,Employed,Foreigner,Malay,Hybrid,No,16.7,No,2023-07-11
+60,Male,Chinese,Bachelor,Married,Construction,Engineer,4,Part-time,9537.87,Unsatisfied,Yes,Yes,No,39.3,1.83,Unemployed,Citizen,English,Hybrid,Yes,5.9,Yes,2021-06-26
+58,Male,Others,PhD,Widowed,Information Technology,Laborer,7,Contract,6515.09,Neutral,Yes,No,Yes,40.9,1.98,Unemployed,Foreigner,Malay,Remote,Yes,15.6,Yes,2022-05-16
+25,Male,Malay,Master,Divorced,Education,Engineer,18,Self-employed,5548.12,Very Satisfied,Yes,No,Yes,59.8,1.36,Unemployed,Permanent Resident,Mandarin,On-site,Yes,7.5,Yes,2022-10-13
+51,Female,Chinese,Master,Divorced,Education,Doctor,25,Self-employed,9535.77,Very Satisfied,No,Yes,Yes,45.8,0.79,Employed,Permanent Resident,Others,Remote,Yes,16.1,No,2023-05-11
+61,Female,Others,PhD,Widowed,Education,Engineer,9,Contract,10610.7,Neutral,No,Yes,No,58.6,1.84,Unemployed,Citizen,Others,Hybrid,No,17.5,No,2023-02-17
+63,Female,Indian,Bachelor,Married,Healthcare,Doctor,10,Part-time,9789.04,Satisfied,No,Yes,No,45.7,1.14,Student,Citizen,Tamil,On-site,Yes,16,Yes,2023-12-18
+20,Female,Chinese,Master,Widowed,Hospitality,Teacher,22,Self-employed,3896.05,Satisfied,Yes,No,Yes,54.1,0.64,Student,Permanent Resident,Mandarin,Remote,Yes,16.1,Yes,2022-09-06
+32,Male,Malay,Diploma,Married,Education,Engineer,27,Self-employed,10878.85,Unsatisfied,Yes,No,No,35.4,0.6,Employed,Citizen,Malay,Remote,No,14.6,No,2022-12-04
+62,Female,Others,PhD,Single,Construction,Teacher,26,Full-time,3799.41,Unsatisfied,Yes,No,No,58.1,1.58,Unemployed,Permanent Resident,Tamil,Remote,Yes,7.1,No,2022-09-15
+58,Male,Others,Diploma,Widowed,Information Technology,Doctor,3,Self-employed,12651.66,Satisfied,Yes,Yes,No,40.3,1.56,Unemployed,Foreigner,Mandarin,Hybrid,Yes,12.6,Yes,2023-08-10
+48,Male,Indian,PhD,Widowed,Education,Laborer,3,Full-time,4220.07,Very Unsatisfied,No,No,No,41.6,0.74,Student,Foreigner,Others,Hybrid,Yes,16.6,No,2022-06-05
+23,Male,Chinese,Diploma,Single,Healthcare,Teacher,11,Contract,14763.53,Unsatisfied,No,Yes,Yes,39,1.41,Retired,Foreigner,Others,Hybrid,No,16.3,Yes,2021-11-09
+45,Male,Others,Diploma,Widowed,Construction,Teacher,17,Part-time,5781.63,Neutral,Yes,Yes,Yes,49.5,1.5,Unemployed,Citizen,Others,On-site,Yes,15.1,No,2021-12-27
+29,Female,Indian,Bachelor,Single,Hospitality,Technician,14,Part-time,4019.03,Unsatisfied,No,No,Yes,51.9,1.12,Unemployed,Citizen,Others,Remote,No,8.9,Yes,2021-12-26
+56,Female,Chinese,High School,Married,Hospitality,Engineer,9,Part-time,10546.27,Satisfied,Yes,No,Yes,50.7,0.93,Student,Foreigner,English,Remote,No,5.9,No,2021-09-13
+25,Female,Others,Diploma,Widowed,Hospitality,Clerk,11,Part-time,7313.55,Very Unsatisfied,No,Yes,No,37.1,0.62,Retired,Citizen,English,On-site,No,14.6,No,2022-10-20
+53,Male,Chinese,Master,Widowed,Education,Engineer,23,Contract,13480.5,Very Unsatisfied,No,No,Yes,38.3,1.72,Employed,Permanent Resident,Others,Remote,No,12,Yes,2023-09-06
+44,Female,Indian,High School,Single,Construction,Engineer,29,Self-employed,11204.08,Very Unsatisfied,Yes,No,Yes,57.6,0.54,Employed,Permanent Resident,Tamil,Hybrid,Yes,12.1,Yes,2023-01-20
+44,Female,Indian,Bachelor,Widowed,Construction,Clerk,3,Full-time,9365.13,Satisfied,No,No,Yes,40,1.09,Student,Foreigner,Malay,Remote,No,18.6,No,2022-05-02
+48,Male,Others,PhD,Divorced,Finance,Technician,15,Part-time,12841.65,Very Unsatisfied,Yes,No,Yes,52.2,0.82,Retired,Foreigner,Tamil,Hybrid,Yes,16.2,Yes,2021-06-07
+38,Female,Malay,PhD,Widowed,Information Technology,Teacher,17,Self-employed,9557.77,Neutral,Yes,Yes,No,46.8,1.25,Employed,Citizen,Mandarin,Remote,No,6.5,Yes,2022-08-02
+44,Male,Chinese,Diploma,Married,Healthcare,Clerk,1,Part-time,13252.83,Very Unsatisfied,Yes,Yes,Yes,44,1.13,Employed,Foreigner,Tamil,Hybrid,Yes,6.7,No,2021-07-21
+51,Male,Malay,Diploma,Single,Finance,Manager,13,Part-time,8521.22,Very Satisfied,Yes,Yes,Yes,40.8,1.86,Student,Permanent Resident,Mandarin,Hybrid,No,15.2,Yes,2022-10-07
+32,Female,Others,PhD,Widowed,Education,Laborer,5,Contract,4218.01,Satisfied,Yes,No,Yes,35.5,0.76,Student,Foreigner,Others,Remote,Yes,16.6,No,2021-02-12
+39,Male,Others,Diploma,Single,Finance,Engineer,3,Contract,5095.64,Neutral,Yes,Yes,Yes,36.6,1.61,Retired,Permanent Resident,Tamil,Hybrid,No,6.4,No,2023-10-06
+21,Male,Chinese,Diploma,Widowed,Information Technology,Laborer,20,Contract,7298.24,Very Unsatisfied,Yes,No,No,58.8,0.6,Retired,Citizen,English,On-site,Yes,10.2,Yes,2021-12-05
+26,Female,Chinese,High School,Widowed,Finance,Technician,18,Part-time,2998.4,Very Unsatisfied,No,No,Yes,58.7,1.96,Retired,Permanent Resident,English,Hybrid,Yes,7.4,Yes,2022-02-24
+58,Female,Chinese,Diploma,Married,Finance,Clerk,28,Self-employed,14357.43,Very Satisfied,No,No,No,49.6,1.05,Unemployed,Foreigner,Tamil,On-site,No,16.2,Yes,2023-10-27
+53,Male,Chinese,High School,Divorced,Finance,Laborer,6,Self-employed,3103.84,Unsatisfied,No,No,No,41.3,1.44,Unemployed,Foreigner,Mandarin,Hybrid,Yes,6.4,Yes,2021-06-14
+42,Female,Others,PhD,Widowed,Finance,Teacher,4,Part-time,9384.91,Neutral,No,No,Yes,36.8,1.39,Student,Citizen,Malay,Hybrid,Yes,8.3,Yes,2023-12-21
+44,Male,Others,Master,Divorced,Information Technology,Technician,7,Contract,2729.69,Very Unsatisfied,No,Yes,Yes,43.9,1.35,Unemployed,Permanent Resident,Others,On-site,No,6,No,2021-05-28
+45,Male,Others,High School,Divorced,Finance,Technician,14,Self-employed,9931.42,Satisfied,No,Yes,No,37.6,1.33,Student,Citizen,Mandarin,On-site,No,16.6,Yes,2022-12-10
+39,Female,Indian,Master,Single,Finance,Manager,22,Self-employed,7701.82,Very Satisfied,No,Yes,No,36.8,1.71,Employed,Foreigner,Mandarin,Remote,Yes,17.2,Yes,2021-08-10
+33,Female,Indian,PhD,Married,Hospitality,Laborer,6,Part-time,2826.66,Very Satisfied,No,Yes,Yes,35.4,1.27,Employed,Citizen,Mandarin,Remote,Yes,13.3,No,2022-12-11
+22,Female,Chinese,Diploma,Married,Finance,Clerk,7,Full-time,6116.45,Neutral,Yes,No,Yes,52.7,1.48,Unemployed,Permanent Resident,English,Remote,No,6.3,No,2023-02-24
+26,Male,Indian,Bachelor,Divorced,Finance,Laborer,6,Full-time,13725.99,Unsatisfied,No,Yes,Yes,53.9,1.34,Unemployed,Foreigner,Malay,Remote,Yes,19.8,No,2021-05-22
+38,Female,Chinese,High School,Divorced,Finance,Manager,22,Part-time,5682.72,Very Unsatisfied,Yes,No,Yes,35.8,1.6,Employed,Permanent Resident,Malay,On-site,Yes,18.4,No,2022-10-07
+29,Male,Chinese,Diploma,Married,Healthcare,Manager,29,Part-time,9642.69,Satisfied,Yes,No,No,59.6,1.51,Retired,Permanent Resident,Malay,Hybrid,No,16.4,No,2022-04-25
+57,Female,Others,Bachelor,Divorced,Information Technology,Clerk,21,Full-time,7108.56,Satisfied,No,Yes,No,37.4,1.12,Unemployed,Citizen,Tamil,Remote,Yes,12,No,2021-04-16
+29,Male,Chinese,Bachelor,Single,Education,Manager,7,Part-time,12597.01,Unsatisfied,Yes,No,No,45.7,1.23,Retired,Foreigner,English,Hybrid,Yes,6.8,Yes,2023-07-09
+33,Male,Others,Diploma,Married,Hospitality,Laborer,13,Full-time,9552.94,Satisfied,Yes,Yes,No,52.2,0.83,Employed,Citizen,Tamil,Hybrid,No,14.3,No,2021-06-22
+24,Male,Chinese,PhD,Single,Education,Teacher,24,Self-employed,11076.83,Neutral,Yes,Yes,Yes,47.5,1.89,Retired,Permanent Resident,Others,On-site,Yes,11,No,2022-03-23
+24,Female,Malay,Master,Married,Healthcare,Engineer,18,Self-employed,8034.95,Satisfied,No,No,No,45.3,0.86,Unemployed,Citizen,Mandarin,Remote,Yes,5.1,Yes,2021-01-19
+57,Male,Malay,Diploma,Single,Healthcare,Manager,21,Part-time,13746.44,Very Unsatisfied,No,Yes,No,49.9,0.97,Employed,Foreigner,English,Remote,No,7,Yes,2022-09-20
+46,Female,Others,Bachelor,Married,Healthcare,Doctor,14,Self-employed,4995.88,Satisfied,No,No,No,51.9,1.38,Student,Foreigner,Others,Remote,Yes,12.9,Yes,2023-12-05
+51,Male,Others,PhD,Widowed,Information Technology,Doctor,25,Full-time,2348.71,Unsatisfied,No,No,No,40.7,0.56,Unemployed,Citizen,Malay,Hybrid,No,9,Yes,2022-07-15
+22,Male,Malay,Master,Single,Hospitality,Teacher,2,Full-time,4280.04,Very Satisfied,Yes,Yes,No,57.7,0.99,Retired,Citizen,Malay,Hybrid,Yes,13.1,No,2022-09-07
+20,Female,Indian,Master,Single,Information Technology,Clerk,11,Contract,7616.8,Satisfied,No,No,No,39.4,1.88,Unemployed,Foreigner,Others,On-site,Yes,8.9,Yes,2023-08-26
+26,Female,Indian,High School,Married,Construction,Doctor,28,Contract,12465.46,Very Satisfied,Yes,No,No,59.3,0.51,Retired,Permanent Resident,Malay,On-site,No,16.1,No,2021-12-07
+64,Male,Malay,High School,Married,Hospitality,Engineer,0,Self-employed,8234.12,Very Unsatisfied,No,No,Yes,49.4,1.48,Employed,Permanent Resident,Others,On-site,Yes,13.4,No,2022-08-07
+32,Female,Malay,Bachelor,Single,Hospitality,Laborer,25,Full-time,12269.29,Very Unsatisfied,No,Yes,No,48.7,1.33,Student,Citizen,Others,Remote,Yes,17.6,Yes,2023-12-23
+30,Female,Malay,Diploma,Married,Healthcare,Laborer,17,Self-employed,5851.36,Very Unsatisfied,Yes,Yes,No,56.4,1.06,Employed,Permanent Resident,Others,Remote,No,12.5,No,2021-08-13
+49,Male,Others,Master,Widowed,Education,Manager,17,Full-time,14567.13,Very Satisfied,No,Yes,Yes,59.2,0.76,Retired,Foreigner,Tamil,On-site,No,19.7,No,2021-05-21
+62,Female,Malay,Master,Divorced,Finance,Laborer,3,Part-time,12714.94,Very Satisfied,Yes,Yes,Yes,47.8,1.36,Retired,Foreigner,English,Remote,Yes,17.7,No,2022-12-22
+34,Male,Malay,High School,Widowed,Construction,Clerk,23,Part-time,3155.38,Very Unsatisfied,Yes,No,Yes,51.3,0.57,Student,Permanent Resident,Malay,On-site,No,5.2,Yes,2021-07-15
+53,Female,Chinese,Bachelor,Widowed,Hospitality,Teacher,9,Contract,7101.93,Very Satisfied,Yes,Yes,Yes,36.8,1.67,Student,Foreigner,Tamil,Hybrid,No,5.3,No,2022-04-07
+29,Female,Others,Bachelor,Married,Education,Technician,13,Full-time,7826.64,Satisfied,No,No,Yes,40.3,1.33,Retired,Permanent Resident,Malay,Hybrid,Yes,16.4,No,2022-07-22
+23,Male,Malay,Bachelor,Single,Hospitality,Clerk,14,Part-time,3656.38,Satisfied,No,Yes,No,51.7,1.58,Student,Foreigner,English,On-site,Yes,14.4,Yes,2022-10-20
+32,Female,Malay,Diploma,Divorced,Education,Manager,26,Contract,14921.82,Satisfied,No,No,No,59.4,0.94,Unemployed,Citizen,Mandarin,Hybrid,No,10.7,Yes,2023-01-05
+26,Female,Chinese,High School,Widowed,Healthcare,Doctor,11,Self-employed,11561.92,Satisfied,Yes,Yes,Yes,46.1,1.18,Student,Foreigner,Others,On-site,Yes,19.9,Yes,2021-08-16
+55,Female,Malay,Bachelor,Divorced,Education,Laborer,5,Full-time,7330.71,Satisfied,No,Yes,Yes,47.1,0.94,Student,Permanent Resident,English,On-site,Yes,18.7,No,2022-12-05
+33,Male,Indian,PhD,Single,Finance,Doctor,17,Full-time,12979.93,Unsatisfied,No,No,No,44.5,0.99,Unemployed,Foreigner,Tamil,Hybrid,Yes,5.6,Yes,2022-01-16
+42,Female,Chinese,High School,Single,Healthcare,Doctor,22,Part-time,6595.96,Neutral,No,No,No,57.2,1.27,Employed,Foreigner,Tamil,Hybrid,No,18,No,2021-12-26
+24,Male,Indian,Diploma,Married,Construction,Manager,22,Contract,13747.76,Neutral,Yes,No,Yes,42.3,1.94,Retired,Citizen,Malay,Hybrid,Yes,11.5,Yes,2023-03-12
+23,Male,Others,High School,Divorced,Construction,Technician,27,Part-time,3937.04,Neutral,No,Yes,No,47.7,1.62,Unemployed,Permanent Resident,Malay,Remote,No,7.2,Yes,2021-01-24
+49,Male,Others,Diploma,Single,Healthcare,Laborer,25,Full-time,7022.61,Very Satisfied,Yes,No,No,56.7,1.1,Unemployed,Foreigner,Others,Remote,Yes,10.5,Yes,2023-05-18
+48,Female,Indian,PhD,Married,Healthcare,Engineer,7,Contract,7247.14,Very Unsatisfied,Yes,Yes,Yes,43.4,0.57,Employed,Permanent Resident,Others,Remote,No,6.7,Yes,2021-06-12
+33,Female,Chinese,Bachelor,Widowed,Construction,Laborer,27,Contract,13771.59,Very Unsatisfied,Yes,Yes,No,49.1,0.73,Employed,Permanent Resident,Mandarin,On-site,No,14.1,Yes,2022-02-26
+63,Female,Indian,PhD,Single,Healthcare,Clerk,6,Self-employed,3497.16,Very Satisfied,Yes,No,No,54.1,1.14,Unemployed,Permanent Resident,Tamil,Hybrid,No,19.1,No,2023-03-15
+42,Female,Malay,PhD,Widowed,Healthcare,Technician,13,Contract,3967.55,Satisfied,Yes,No,Yes,44.7,1.83,Unemployed,Foreigner,Mandarin,Remote,No,18.4,No,2021-05-04
+20,Male,Chinese,Diploma,Single,Education,Clerk,4,Contract,9770.59,Very Unsatisfied,No,Yes,No,39.5,1.21,Unemployed,Foreigner,Malay,On-site,Yes,6.8,No,2021-02-10
+38,Female,Indian,High School,Single,Construction,Manager,23,Full-time,8308.76,Very Satisfied,No,No,No,46.5,1.11,Unemployed,Permanent Resident,Tamil,On-site,Yes,6,No,2021-04-15
+58,Male,Chinese,High School,Widowed,Hospitality,Clerk,11,Contract,10561.31,Neutral,No,Yes,No,36.2,1.52,Unemployed,Citizen,Mandarin,Hybrid,Yes,9.3,No,2022-03-24
+23,Female,Indian,Master,Widowed,Hospitality,Teacher,20,Full-time,4483.33,Very Satisfied,No,Yes,Yes,50.1,1.22,Student,Foreigner,Others,Hybrid,Yes,9.8,Yes,2021-04-01
+49,Female,Indian,Master,Divorced,Information Technology,Teacher,9,Part-time,4967.49,Very Unsatisfied,No,No,Yes,41.9,0.88,Unemployed,Permanent Resident,English,Hybrid,Yes,18.8,Yes,2023-02-01
+59,Male,Chinese,Master,Widowed,Construction,Doctor,7,Part-time,9917.08,Neutral,No,Yes,No,45.9,1.49,Employed,Permanent Resident,Tamil,Remote,Yes,17.1,No,2021-07-18
+23,Male,Others,Master,Single,Finance,Laborer,15,Contract,14646.28,Neutral,Yes,Yes,No,38.6,1.24,Employed,Permanent Resident,Others,On-site,Yes,13.2,No,2023-01-07
+41,Female,Indian,Diploma,Widowed,Education,Engineer,29,Self-employed,10694.94,Very Satisfied,Yes,Yes,Yes,39.6,1.83,Retired,Foreigner,Tamil,Hybrid,No,7.8,Yes,2021-02-06
+64,Male,Chinese,Diploma,Widowed,Construction,Clerk,9,Contract,11199.43,Neutral,No,No,Yes,53.2,1.57,Retired,Citizen,Others,Hybrid,No,6.2,Yes,2021-08-21
+54,Female,Indian,Bachelor,Married,Hospitality,Technician,4,Full-time,10932.61,Unsatisfied,Yes,Yes,Yes,39.9,1.6,Student,Citizen,Mandarin,Hybrid,No,6.3,Yes,2023-11-19
+57,Female,Indian,High School,Single,Healthcare,Laborer,1,Part-time,5545.73,Satisfied,Yes,No,Yes,54.9,1.62,Retired,Citizen,Malay,Remote,Yes,17.9,Yes,2023-05-15
+22,Male,Chinese,Master,Married,Healthcare,Manager,1,Part-time,6000.11,Very Unsatisfied,No,Yes,Yes,57.7,0.69,Retired,Citizen,English,On-site,No,9.2,Yes,2022-12-23
+25,Male,Others,PhD,Married,Healthcare,Laborer,13,Self-employed,2059.89,Neutral,Yes,No,No,37.7,1.18,Employed,Citizen,English,Hybrid,Yes,12.2,Yes,2023-03-24
+49,Male,Chinese,PhD,Widowed,Information Technology,Teacher,8,Full-time,10302.88,Very Unsatisfied,No,Yes,No,40.2,0.71,Student,Foreigner,Malay,Hybrid,Yes,5.2,Yes,2023-08-09
+56,Female,Indian,Bachelor,Single,Finance,Laborer,12,Part-time,6749.94,Neutral,No,No,Yes,55.1,1.02,Retired,Citizen,Mandarin,Remote,Yes,19.6,Yes,2021-07-13
+22,Female,Chinese,Master,Single,Finance,Engineer,12,Self-employed,6659.28,Very Unsatisfied,No,Yes,No,57.4,1.62,Unemployed,Permanent Resident,Others,Remote,No,16.7,Yes,2021-06-27
+54,Male,Indian,Diploma,Widowed,Healthcare,Doctor,15,Contract,12323.17,Very Satisfied,No,No,No,45.2,1.61,Student,Permanent Resident,Malay,On-site,Yes,10.5,Yes,2022-11-15
+48,Male,Malay,High School,Divorced,Education,Doctor,22,Self-employed,11053.54,Very Satisfied,No,Yes,Yes,54.6,1.12,Employed,Foreigner,Others,Remote,No,9.5,No,2022-07-04
+27,Female,Chinese,Bachelor,Single,Finance,Manager,16,Self-employed,3560.24,Unsatisfied,No,No,Yes,37.4,0.67,Student,Permanent Resident,Mandarin,Hybrid,Yes,11.8,Yes,2021-09-26
+51,Male,Malay,Master,Single,Information Technology,Teacher,21,Contract,14810.2,Satisfied,Yes,No,No,52.3,1.58,Employed,Permanent Resident,Others,On-site,Yes,7.4,No,2022-10-14
+44,Male,Indian,Master,Single,Hospitality,Technician,16,Contract,12593.18,Very Unsatisfied,Yes,Yes,No,50.8,1.41,Employed,Permanent Resident,Others,Remote,Yes,14.4,Yes,2023-02-28
+51,Male,Malay,PhD,Divorced,Construction,Technician,15,Contract,5997.68,Very Satisfied,Yes,Yes,Yes,42.3,1.76,Student,Permanent Resident,Mandarin,Hybrid,No,11.7,Yes,2021-10-19
+32,Male,Others,PhD,Widowed,Education,Manager,25,Part-time,8508.71,Very Satisfied,No,Yes,Yes,41.3,0.68,Employed,Foreigner,English,Remote,No,16,No,2022-09-26
+55,Male,Indian,PhD,Divorced,Finance,Technician,0,Contract,12429.59,Unsatisfied,Yes,No,No,42.7,1.94,Unemployed,Permanent Resident,Malay,On-site,Yes,8.8,Yes,2021-01-05
+25,Male,Others,PhD,Widowed,Construction,Laborer,16,Self-employed,5832.69,Unsatisfied,Yes,Yes,No,54,1.56,Employed,Permanent Resident,English,Remote,No,17.2,Yes,2021-03-18
+58,Male,Indian,Diploma,Widowed,Information Technology,Laborer,9,Contract,14804.68,Unsatisfied,No,Yes,No,52.4,1.99,Student,Citizen,Mandarin,Remote,Yes,14.4,No,2023-10-21
+24,Male,Malay,Bachelor,Married,Healthcare,Teacher,2,Part-time,8402.52,Unsatisfied,No,Yes,No,49,0.58,Employed,Foreigner,English,Remote,Yes,15.8,No,2022-08-21
+57,Male,Others,Bachelor,Widowed,Education,Technician,29,Contract,2917.31,Satisfied,No,No,Yes,56.5,1.54,Unemployed,Foreigner,Malay,Hybrid,Yes,8.4,Yes,2022-08-11
+22,Female,Chinese,Diploma,Single,Information Technology,Manager,3,Self-employed,12197.25,Very Unsatisfied,Yes,Yes,No,57.2,1.07,Student,Citizen,English,Remote,Yes,17.1,Yes,2022-07-28
+35,Male,Indian,Diploma,Single,Information Technology,Manager,3,Full-time,11199.63,Satisfied,No,No,No,48,1.96,Employed,Foreigner,Tamil,Remote,No,6.5,No,2022-06-25
+29,Female,Chinese,Bachelor,Widowed,Finance,Teacher,22,Part-time,11617.55,Unsatisfied,Yes,Yes,Yes,57.1,0.83,Student,Citizen,English,Hybrid,No,9.7,Yes,2022-10-28
+20,Female,Others,High School,Divorced,Construction,Clerk,21,Part-time,12102.3,Satisfied,Yes,Yes,No,47.3,0.91,Unemployed,Foreigner,Malay,Remote,No,15.8,Yes,2021-02-14
+61,Female,Malay,High School,Divorced,Information Technology,Doctor,14,Contract,12165.53,Satisfied,No,Yes,Yes,42.9,1.22,Unemployed,Permanent Resident,Others,Hybrid,Yes,5.9,Yes,2022-05-19
+23,Male,Chinese,Master,Single,Construction,Laborer,3,Part-time,14464.69,Very Satisfied,Yes,Yes,No,49,0.79,Retired,Foreigner,Tamil,Remote,No,18.3,Yes,2022-06-02
+38,Male,Malay,Master,Divorced,Education,Teacher,22,Full-time,14785.34,Very Unsatisfied,No,Yes,Yes,44.2,1.64,Student,Foreigner,Mandarin,Hybrid,No,17,Yes,2022-10-15
+59,Male,Others,PhD,Married,Information Technology,Teacher,16,Full-time,13524.01,Satisfied,No,Yes,No,59.6,1.98,Employed,Foreigner,Malay,Remote,No,12.8,Yes,2021-06-17
+26,Male,Others,Bachelor,Single,Finance,Clerk,13,Part-time,13474.83,Neutral,Yes,Yes,Yes,57,0.5,Retired,Permanent Resident,English,Hybrid,Yes,9.2,No,2021-01-28
+46,Male,Others,PhD,Single,Finance,Clerk,21,Part-time,2677.55,Unsatisfied,Yes,Yes,Yes,51.2,1.64,Retired,Foreigner,Mandarin,On-site,No,5.7,No,2023-06-05
+50,Female,Others,Diploma,Married,Education,Laborer,13,Full-time,11017.59,Very Satisfied,Yes,Yes,Yes,59.5,0.59,Student,Foreigner,Tamil,Hybrid,Yes,17.6,No,2022-12-19
+22,Male,Chinese,PhD,Widowed,Education,Engineer,10,Part-time,13583.53,Very Satisfied,No,Yes,Yes,49.1,1.1,Retired,Foreigner,Malay,Remote,No,17.9,Yes,2023-11-20
+27,Male,Chinese,PhD,Divorced,Hospitality,Technician,9,Self-employed,11082.56,Neutral,Yes,Yes,No,39.7,0.73,Student,Permanent Resident,Mandarin,On-site,Yes,8.2,Yes,2021-09-10
+36,Male,Chinese,PhD,Married,Education,Laborer,1,Contract,3563.34,Neutral,No,Yes,Yes,52.5,1.47,Retired,Permanent Resident,Others,On-site,Yes,18.8,No,2021-10-02
+39,Male,Chinese,Bachelor,Single,Education,Engineer,22,Part-time,3151.6,Neutral,Yes,No,No,45.6,1.12,Student,Foreigner,Tamil,Hybrid,Yes,9.3,No,2023-10-21
+39,Male,Malay,Diploma,Single,Hospitality,Technician,23,Contract,5387.85,Very Unsatisfied,Yes,Yes,No,38.5,1.55,Unemployed,Citizen,English,On-site,No,7.8,No,2022-04-27
+33,Male,Malay,Master,Single,Education,Engineer,7,Full-time,3570.12,Very Unsatisfied,No,No,No,43.2,1.35,Student,Permanent Resident,Mandarin,Remote,Yes,9.7,Yes,2023-10-22
+45,Male,Malay,High School,Divorced,Finance,Technician,21,Full-time,6839.98,Very Unsatisfied,No,Yes,Yes,37.5,0.7,Retired,Permanent Resident,Others,Remote,Yes,15.9,No,2021-05-03
+33,Female,Others,Master,Single,Hospitality,Doctor,12,Part-time,9527.13,Satisfied,No,No,Yes,58.1,1.02,Retired,Permanent Resident,Tamil,Remote,Yes,15.1,Yes,2023-10-21
+56,Female,Malay,Bachelor,Married,Hospitality,Clerk,20,Part-time,8410.62,Very Unsatisfied,Yes,No,No,58.1,1.53,Unemployed,Citizen,English,Hybrid,No,15.6,No,2023-12-28
+32,Female,Malay,High School,Widowed,Construction,Technician,3,Contract,13450.01,Unsatisfied,Yes,Yes,No,39.7,0.85,Student,Foreigner,Mandarin,Remote,Yes,16.6,Yes,2021-08-10
+53,Female,Chinese,Diploma,Widowed,Hospitality,Laborer,6,Full-time,12757.17,Satisfied,Yes,No,No,36.7,1.68,Employed,Permanent Resident,Others,Remote,Yes,17.1,Yes,2023-06-04
+39,Male,Malay,High School,Widowed,Information Technology,Engineer,25,Contract,14948.89,Neutral,Yes,Yes,Yes,49.8,1.49,Employed,Permanent Resident,Tamil,Hybrid,No,18.4,Yes,2021-05-06
+64,Female,Chinese,Master,Married,Education,Doctor,15,Contract,14957,Satisfied,No,Yes,Yes,40.3,1.96,Unemployed,Citizen,English,Remote,No,11.9,No,2021-08-12
+30,Female,Malay,Bachelor,Divorced,Finance,Clerk,6,Part-time,5974.73,Very Unsatisfied,Yes,Yes,Yes,57.7,1.79,Student,Citizen,Others,Hybrid,Yes,16.7,No,2021-08-19
+54,Male,Others,Bachelor,Married,Education,Manager,19,Full-time,12093.97,Satisfied,No,No,Yes,42.4,0.79,Retired,Citizen,Others,On-site,Yes,5.6,No,2023-03-08
+59,Female,Indian,Bachelor,Widowed,Education,Laborer,5,Full-time,5769.92,Very Unsatisfied,No,Yes,No,54.2,1.45,Retired,Citizen,Mandarin,Remote,Yes,12.9,No,2023-09-28
+25,Female,Others,Diploma,Married,Education,Clerk,16,Part-time,13027.82,Very Unsatisfied,Yes,No,No,48.3,1.04,Retired,Citizen,Malay,Remote,Yes,16,Yes,2021-01-11
+48,Female,Malay,PhD,Divorced,Hospitality,Engineer,23,Self-employed,12342.13,Very Unsatisfied,Yes,Yes,Yes,48.2,1.25,Retired,Citizen,Mandarin,Remote,No,11.9,No,2023-05-13
+35,Female,Malay,Diploma,Married,Construction,Manager,6,Self-employed,7131.07,Very Unsatisfied,No,No,Yes,53.7,1.36,Student,Permanent Resident,Tamil,Remote,Yes,19.2,No,2023-03-25
+31,Male,Chinese,High School,Widowed,Education,Manager,21,Self-employed,9399.68,Very Unsatisfied,Yes,No,No,45.2,1.84,Retired,Citizen,Mandarin,Hybrid,No,6.7,No,2022-04-10
+32,Male,Chinese,High School,Divorced,Finance,Clerk,24,Full-time,6001.39,Very Satisfied,No,Yes,Yes,50.6,0.6,Student,Permanent Resident,Malay,On-site,Yes,17.6,No,2023-04-21
+37,Female,Indian,Master,Divorced,Hospitality,Clerk,21,Full-time,12717.74,Very Unsatisfied,No,Yes,Yes,51.9,1.5,Employed,Citizen,Tamil,Remote,Yes,15.9,Yes,2022-10-15
+37,Male,Chinese,High School,Divorced,Information Technology,Clerk,18,Full-time,7270.83,Very Satisfied,No,No,Yes,43.3,0.95,Unemployed,Citizen,Mandarin,Hybrid,Yes,11.6,No,2021-11-09
+56,Female,Others,PhD,Widowed,Hospitality,Engineer,29,Part-time,14255.5,Unsatisfied,Yes,Yes,No,45.1,1.36,Retired,Citizen,English,On-site,No,12.6,Yes,2022-05-05
+26,Female,Others,Diploma,Single,Education,Technician,25,Full-time,3992.25,Neutral,No,No,No,47.2,0.94,Unemployed,Permanent Resident,Tamil,On-site,Yes,19.6,No,2023-09-05
+23,Male,Chinese,Bachelor,Widowed,Finance,Clerk,9,Self-employed,4573.81,Very Satisfied,Yes,No,No,38.9,1.02,Student,Permanent Resident,Malay,Remote,Yes,18.8,No,2023-08-23
+42,Male,Chinese,PhD,Widowed,Information Technology,Teacher,10,Part-time,8685.04,Very Unsatisfied,No,No,Yes,35.3,0.95,Retired,Foreigner,Tamil,On-site,Yes,5,Yes,2022-04-09
+60,Male,Indian,High School,Married,Healthcare,Doctor,29,Contract,8583.59,Very Unsatisfied,No,No,Yes,59.5,0.83,Student,Citizen,Others,Remote,Yes,17.9,Yes,2021-11-13
+26,Male,Indian,Bachelor,Married,Information Technology,Manager,15,Contract,8348.9,Neutral,Yes,No,No,43.6,1.54,Employed,Permanent Resident,Others,On-site,Yes,6.9,Yes,2023-01-21
+59,Male,Indian,High School,Married,Healthcare,Manager,12,Contract,13512.43,Very Satisfied,Yes,No,No,44.1,1.66,Employed,Foreigner,Tamil,Hybrid,Yes,10.7,Yes,2023-12-02
+49,Female,Others,Diploma,Single,Finance,Laborer,22,Full-time,13324.19,Very Satisfied,Yes,No,No,35.7,1.89,Retired,Permanent Resident,Others,On-site,No,11.7,No,2021-01-21
+36,Female,Others,High School,Widowed,Information Technology,Laborer,28,Part-time,3002.58,Very Satisfied,No,No,No,46.7,1.2,Retired,Foreigner,English,Hybrid,Yes,13,No,2021-02-03
+21,Female,Malay,Bachelor,Married,Finance,Clerk,12,Self-employed,4866.73,Satisfied,No,Yes,No,44.3,0.88,Employed,Permanent Resident,English,On-site,No,18.6,No,2022-09-19
+28,Female,Chinese,High School,Married,Education,Technician,19,Part-time,13636.83,Unsatisfied,Yes,No,No,39.1,0.59,Student,Citizen,Others,Remote,No,13.8,Yes,2023-01-15
+36,Male,Indian,Bachelor,Divorced,Construction,Teacher,15,Contract,14778.69,Very Unsatisfied,Yes,Yes,Yes,53.3,0.78,Unemployed,Permanent Resident,Tamil,Hybrid,No,9.4,No,2023-03-03
+42,Female,Malay,Master,Single,Education,Laborer,20,Part-time,9133.04,Very Satisfied,No,No,No,48.4,0.71,Unemployed,Citizen,Tamil,On-site,No,6.9,No,2023-03-07
+57,Male,Malay,PhD,Married,Healthcare,Laborer,16,Part-time,4407.22,Satisfied,No,Yes,Yes,45,1.63,Student,Permanent Resident,English,Hybrid,No,18.5,Yes,2023-10-14
+32,Female,Others,Master,Widowed,Information Technology,Clerk,0,Contract,5422.16,Satisfied,No,No,Yes,35.1,1.04,Employed,Permanent Resident,English,Remote,Yes,10.2,No,2022-04-10
+48,Female,Others,PhD,Married,Hospitality,Technician,19,Part-time,5917.31,Neutral,No,No,No,48.8,0.88,Retired,Foreigner,Others,On-site,Yes,7.9,Yes,2023-01-16
+36,Male,Others,Bachelor,Divorced,Information Technology,Manager,5,Full-time,13554.8,Neutral,Yes,Yes,No,37.4,1.65,Unemployed,Citizen,Tamil,Hybrid,No,11.7,Yes,2021-02-12
+57,Female,Indian,Diploma,Divorced,Construction,Doctor,17,Full-time,13412.33,Neutral,Yes,Yes,No,48.6,1,Student,Citizen,Mandarin,On-site,No,5.8,No,2023-04-06
+56,Female,Chinese,PhD,Single,Healthcare,Clerk,17,Self-employed,8752.48,Satisfied,No,No,Yes,55.2,1.2,Unemployed,Permanent Resident,Others,Remote,Yes,10.5,No,2023-07-14
+41,Male,Malay,PhD,Divorced,Hospitality,Teacher,15,Part-time,11240.25,Neutral,No,No,Yes,49.5,1.38,Student,Foreigner,English,On-site,No,9.9,Yes,2023-05-25
+22,Female,Indian,PhD,Widowed,Finance,Engineer,21,Full-time,13756.55,Neutral,Yes,No,No,56.5,1.41,Unemployed,Citizen,English,Hybrid,No,18.9,Yes,2022-08-05
+55,Female,Others,Bachelor,Divorced,Hospitality,Technician,12,Full-time,8895.9,Unsatisfied,No,No,Yes,45.5,1.14,Student,Permanent Resident,Mandarin,Remote,No,11.8,Yes,2021-05-04
+53,Female,Others,Bachelor,Widowed,Information Technology,Manager,25,Part-time,10403.71,Satisfied,No,Yes,Yes,36.9,0.85,Employed,Foreigner,Malay,Remote,Yes,13.5,Yes,2021-06-28
+30,Female,Malay,Bachelor,Divorced,Finance,Manager,24,Part-time,10533.9,Satisfied,Yes,No,No,35.5,1.1,Retired,Permanent Resident,Others,Remote,Yes,5.7,No,2022-09-21
+36,Male,Indian,High School,Single,Healthcare,Engineer,22,Full-time,9558.89,Very Satisfied,No,No,No,43.9,1.48,Unemployed,Foreigner,Mandarin,On-site,No,8.5,No,2022-07-26
+33,Female,Indian,Master,Widowed,Information Technology,Clerk,17,Part-time,3361.54,Neutral,Yes,No,Yes,40.6,1.26,Retired,Citizen,Tamil,Remote,Yes,11.2,Yes,2021-10-18
+60,Male,Chinese,PhD,Divorced,Education,Laborer,3,Part-time,12392.05,Satisfied,Yes,No,Yes,43.6,1.98,Employed,Citizen,Mandarin,Remote,No,5.1,Yes,2021-12-08
+46,Female,Malay,Master,Widowed,Construction,Laborer,13,Contract,9142.1,Satisfied,Yes,Yes,No,37.4,1.72,Employed,Permanent Resident,Mandarin,Remote,No,5.9,No,2021-08-20
+29,Male,Others,High School,Married,Education,Technician,24,Contract,8911.92,Satisfied,No,Yes,Yes,35.2,1.42,Retired,Permanent Resident,Malay,Remote,No,10.1,No,2021-07-08
+27,Male,Others,Diploma,Divorced,Information Technology,Doctor,7,Full-time,4078.82,Very Satisfied,Yes,No,Yes,58.2,0.67,Retired,Citizen,Tamil,Hybrid,Yes,19.9,No,2021-01-16
+31,Female,Others,High School,Divorced,Healthcare,Technician,19,Contract,14307.24,Very Satisfied,Yes,Yes,No,54.8,1.69,Retired,Permanent Resident,Malay,Hybrid,Yes,19.5,Yes,2021-10-07
+60,Male,Others,Bachelor,Single,Hospitality,Clerk,15,Part-time,10994.34,Neutral,Yes,No,No,46.1,1.97,Student,Citizen,English,On-site,Yes,18.8,No,2021-04-13
+28,Male,Indian,Diploma,Divorced,Healthcare,Engineer,7,Contract,6345.99,Satisfied,Yes,Yes,No,47.4,0.88,Student,Foreigner,Others,Remote,No,18.5,Yes,2022-01-15
+61,Male,Malay,PhD,Widowed,Construction,Teacher,1,Part-time,6921.51,Neutral,No,Yes,No,45.3,1.62,Retired,Foreigner,Mandarin,Remote,No,5.6,No,2023-06-10
+51,Male,Malay,Bachelor,Widowed,Construction,Teacher,4,Self-employed,5112.25,Very Satisfied,No,No,Yes,46.8,0.94,Retired,Foreigner,English,On-site,Yes,17,No,2023-04-06
+42,Male,Malay,High School,Single,Finance,Engineer,5,Full-time,10188.11,Very Unsatisfied,Yes,No,No,46.4,1.01,Retired,Citizen,Others,Hybrid,Yes,14.3,No,2022-08-08
+36,Male,Chinese,Master,Single,Information Technology,Doctor,11,Full-time,3898.8,Neutral,No,No,No,47.2,1.15,Unemployed,Permanent Resident,Tamil,On-site,Yes,17.6,No,2021-03-28
+53,Female,Indian,High School,Single,Information Technology,Teacher,7,Part-time,3250.12,Unsatisfied,No,No,Yes,49,1.3,Employed,Permanent Resident,Mandarin,Hybrid,Yes,7.3,Yes,2022-11-09
+63,Male,Indian,PhD,Divorced,Healthcare,Manager,22,Full-time,13497.8,Satisfied,No,No,Yes,53,1.62,Retired,Citizen,English,Remote,Yes,17.2,Yes,2023-11-19
+53,Male,Indian,High School,Married,Finance,Laborer,5,Contract,2310.44,Neutral,No,No,No,52.6,1.69,Student,Foreigner,Tamil,On-site,Yes,14.9,No,2021-03-20
+63,Male,Indian,Bachelor,Widowed,Healthcare,Laborer,19,Self-employed,7466.08,Very Unsatisfied,No,No,No,42.7,1.5,Student,Citizen,English,On-site,Yes,13.6,Yes,2023-03-04
+48,Male,Chinese,Diploma,Married,Hospitality,Doctor,19,Part-time,14339.46,Very Unsatisfied,Yes,No,No,58.4,1.56,Student,Citizen,Tamil,Hybrid,Yes,14.4,No,2022-10-07
+31,Male,Chinese,Master,Single,Construction,Teacher,12,Contract,4806.51,Satisfied,No,Yes,No,42.9,0.64,Employed,Citizen,Tamil,Remote,No,19.5,No,2021-01-20
+41,Male,Chinese,PhD,Divorced,Finance,Technician,26,Full-time,9201.13,Satisfied,No,No,No,57.2,1.47,Retired,Permanent Resident,English,Remote,Yes,6.3,Yes,2023-09-08
+53,Male,Malay,Master,Divorced,Finance,Clerk,7,Contract,7168.61,Very Unsatisfied,Yes,Yes,Yes,56.7,0.86,Student,Citizen,English,On-site,No,14.4,Yes,2021-05-01
+52,Female,Chinese,PhD,Married,Healthcare,Teacher,8,Contract,6540.88,Unsatisfied,No,Yes,Yes,37.7,0.6,Employed,Permanent Resident,Malay,Remote,Yes,18.5,Yes,2022-02-18
+34,Male,Others,High School,Married,Information Technology,Clerk,28,Contract,14516.02,Unsatisfied,Yes,No,No,55.5,0.59,Unemployed,Permanent Resident,Others,Hybrid,Yes,19.1,Yes,2021-06-05
+33,Female,Malay,PhD,Married,Construction,Doctor,8,Contract,9141.36,Neutral,Yes,Yes,Yes,59,0.56,Student,Citizen,Tamil,Remote,No,11.9,Yes,2023-07-25
+62,Female,Others,Diploma,Single,Hospitality,Doctor,7,Part-time,2281.88,Neutral,Yes,No,No,50,1.19,Unemployed,Foreigner,Mandarin,Remote,No,8.7,No,2021-02-11
+60,Male,Malay,High School,Widowed,Education,Doctor,18,Contract,14227.86,Very Satisfied,Yes,No,No,57.9,0.85,Retired,Permanent Resident,Malay,Hybrid,Yes,16.7,Yes,2023-01-24
+39,Male,Indian,High School,Widowed,Information Technology,Laborer,7,Self-employed,13644.47,Unsatisfied,Yes,Yes,No,39.2,1.3,Student,Permanent Resident,Mandarin,On-site,No,9.5,No,2021-03-09
+51,Female,Others,Diploma,Single,Finance,Engineer,7,Self-employed,7453.98,Neutral,No,Yes,Yes,52.3,1.21,Unemployed,Citizen,English,Remote,Yes,19.7,Yes,2022-05-09
+24,Female,Indian,PhD,Married,Information Technology,Clerk,22,Part-time,12759.45,Satisfied,Yes,No,No,44.4,1.54,Retired,Foreigner,English,On-site,No,10.1,Yes,2021-03-27
+64,Female,Malay,Diploma,Divorced,Information Technology,Laborer,8,Part-time,12685.71,Very Satisfied,Yes,No,Yes,56.7,1.64,Retired,Permanent Resident,Malay,Hybrid,Yes,6.3,No,2022-10-20
+33,Male,Chinese,Master,Divorced,Hospitality,Clerk,9,Contract,11810.69,Very Satisfied,Yes,No,No,45.3,1.77,Unemployed,Foreigner,Mandarin,On-site,Yes,15.2,Yes,2022-05-26
+25,Female,Others,Master,Divorced,Healthcare,Doctor,6,Full-time,3870.8,Very Satisfied,No,No,Yes,46.4,1.44,Employed,Permanent Resident,Others,Remote,No,13.4,Yes,2022-09-19
+32,Female,Malay,Bachelor,Single,Education,Laborer,14,Self-employed,7308.5,Very Satisfied,Yes,No,No,37.1,0.54,Employed,Permanent Resident,Tamil,Hybrid,Yes,6.6,Yes,2023-02-11
+25,Female,Others,Diploma,Divorced,Finance,Teacher,17,Contract,10337.82,Neutral,No,Yes,Yes,58.1,1.26,Unemployed,Foreigner,Tamil,Remote,No,11.4,Yes,2022-05-08
+42,Male,Indian,Diploma,Married,Hospitality,Doctor,4,Part-time,8575.3,Neutral,Yes,Yes,No,36.2,1.67,Student,Foreigner,Tamil,Hybrid,No,15.5,No,2022-05-09
+23,Male,Malay,Bachelor,Married,Finance,Manager,10,Self-employed,2955.52,Satisfied,No,No,Yes,58.9,1.47,Employed,Permanent Resident,Malay,Remote,No,20,Yes,2023-11-09
+53,Female,Malay,PhD,Single,Healthcare,Engineer,21,Contract,4104.36,Very Satisfied,Yes,Yes,No,40.5,2,Student,Foreigner,English,Remote,Yes,16,No,2023-02-15
+33,Male,Chinese,High School,Divorced,Finance,Engineer,21,Self-employed,3319.63,Unsatisfied,Yes,Yes,Yes,40.7,1.2,Unemployed,Foreigner,Mandarin,Hybrid,Yes,10.9,Yes,2022-02-14
+61,Female,Chinese,Diploma,Widowed,Information Technology,Engineer,16,Part-time,9066.29,Neutral,Yes,No,No,44.4,1.37,Unemployed,Permanent Resident,English,Remote,No,17.3,Yes,2022-10-18
+60,Male,Others,High School,Single,Education,Laborer,11,Part-time,11659.96,Neutral,No,No,No,42.3,1.9,Student,Permanent Resident,Tamil,On-site,No,12.7,No,2023-02-27
+26,Male,Indian,PhD,Divorced,Information Technology,Engineer,23,Part-time,6608.2,Unsatisfied,Yes,Yes,No,54.8,0.96,Unemployed,Permanent Resident,Mandarin,Remote,No,15.7,Yes,2021-03-05
+59,Female,Chinese,Diploma,Divorced,Education,Clerk,20,Part-time,14927.32,Satisfied,No,No,No,58.5,1.23,Student,Foreigner,Malay,Remote,No,10.3,No,2022-02-21
+54,Female,Chinese,PhD,Divorced,Construction,Manager,20,Self-employed,5495.38,Unsatisfied,Yes,No,No,50.4,0.51,Student,Foreigner,English,On-site,No,15,No,2022-06-07
+23,Female,Chinese,High School,Widowed,Finance,Technician,25,Contract,9881.98,Very Satisfied,Yes,Yes,Yes,56.8,1.25,Employed,Foreigner,Others,On-site,No,7.9,Yes,2022-02-06
+32,Female,Chinese,High School,Divorced,Hospitality,Clerk,13,Contract,3281.55,Neutral,No,No,Yes,42.7,0.8,Employed,Permanent Resident,Tamil,Remote,Yes,11.3,Yes,2021-02-18
+63,Female,Chinese,Master,Widowed,Healthcare,Manager,28,Self-employed,7348.33,Neutral,No,No,Yes,51.6,0.78,Employed,Permanent Resident,Others,Hybrid,Yes,12.2,Yes,2023-10-22
+42,Female,Others,PhD,Single,Construction,Clerk,14,Self-employed,3642.1,Very Unsatisfied,Yes,No,Yes,43.7,1.55,Retired,Foreigner,English,Hybrid,No,10.6,No,2023-11-18
+55,Male,Malay,Diploma,Single,Information Technology,Clerk,13,Full-time,12698.82,Neutral,Yes,Yes,No,55.4,0.74,Employed,Citizen,Malay,Remote,Yes,9.9,Yes,2022-07-15
+47,Female,Others,PhD,Single,Construction,Technician,5,Self-employed,6414.02,Neutral,Yes,No,Yes,43.3,1.47,Employed,Citizen,Mandarin,Remote,No,8.1,Yes,2023-11-14
+24,Female,Chinese,PhD,Widowed,Information Technology,Engineer,18,Full-time,5339.75,Satisfied,Yes,Yes,No,45.7,0.82,Employed,Permanent Resident,Others,On-site,No,13,Yes,2023-05-26
+57,Female,Indian,High School,Widowed,Healthcare,Technician,1,Self-employed,14645.91,Neutral,Yes,Yes,Yes,54.2,1.63,Retired,Foreigner,Others,Hybrid,Yes,16.4,Yes,2023-05-06
+30,Female,Indian,Master,Single,Construction,Manager,24,Contract,6996.03,Satisfied,Yes,Yes,Yes,51.3,1.52,Unemployed,Foreigner,Others,On-site,No,19.8,No,2022-09-16
+53,Female,Indian,Bachelor,Widowed,Finance,Clerk,3,Contract,2745.79,Unsatisfied,Yes,No,Yes,44.4,1.61,Student,Citizen,Mandarin,On-site,Yes,8.6,Yes,2023-06-19
+41,Female,Malay,PhD,Widowed,Finance,Engineer,1,Self-employed,13447.85,Unsatisfied,Yes,No,No,49.8,1.13,Unemployed,Permanent Resident,English,On-site,Yes,10.9,No,2021-04-11
+60,Female,Malay,Master,Married,Hospitality,Doctor,17,Part-time,3348.6,Very Unsatisfied,Yes,No,Yes,45.7,1.7,Retired,Citizen,Mandarin,On-site,Yes,16.6,Yes,2021-08-08
+36,Female,Malay,PhD,Single,Hospitality,Engineer,10,Self-employed,9654.15,Satisfied,No,Yes,Yes,52.6,1.6,Student,Foreigner,Tamil,Hybrid,No,7.2,Yes,2023-04-13
+31,Male,Malay,Master,Married,Hospitality,Doctor,23,Contract,10097.71,Very Unsatisfied,Yes,No,Yes,55.8,1.55,Employed,Foreigner,Malay,Hybrid,Yes,6.1,No,2023-08-25
+43,Male,Malay,Master,Widowed,Finance,Technician,9,Full-time,9711.9,Satisfied,Yes,No,No,46.4,1.85,Employed,Permanent Resident,English,On-site,No,17.9,No,2022-04-11
+62,Female,Malay,High School,Divorced,Education,Engineer,19,Part-time,7586.84,Very Satisfied,No,Yes,No,57.7,0.85,Student,Foreigner,Tamil,On-site,No,19.9,Yes,2022-10-01
+20,Female,Indian,High School,Divorced,Education,Technician,3,Part-time,2459.72,Very Unsatisfied,No,No,Yes,51,1.03,Student,Foreigner,Mandarin,Remote,No,12.5,Yes,2021-02-10
+39,Female,Indian,Diploma,Married,Construction,Teacher,8,Contract,3100.64,Unsatisfied,Yes,No,No,41.8,0.63,Student,Permanent Resident,Mandarin,Remote,Yes,16.2,No,2022-07-26
+20,Male,Chinese,PhD,Widowed,Hospitality,Doctor,8,Self-employed,2325.04,Satisfied,Yes,Yes,No,44.6,2,Employed,Citizen,Mandarin,Hybrid,No,5.3,No,2022-02-21
+47,Female,Chinese,Master,Widowed,Information Technology,Laborer,18,Full-time,6659.92,Satisfied,Yes,No,Yes,54.4,0.57,Retired,Foreigner,English,On-site,No,8.1,Yes,2022-05-13
+25,Male,Others,High School,Widowed,Hospitality,Teacher,25,Self-employed,4345,Satisfied,No,No,No,52.8,0.74,Retired,Foreigner,Others,Hybrid,No,12.2,Yes,2021-03-04
+42,Female,Chinese,High School,Widowed,Construction,Manager,27,Full-time,2729.22,Very Unsatisfied,No,Yes,Yes,43.3,0.82,Unemployed,Permanent Resident,Others,Remote,Yes,6.2,Yes,2021-01-21
+48,Male,Malay,Master,Single,Construction,Teacher,2,Part-time,4026.84,Satisfied,No,Yes,Yes,49.8,1.02,Unemployed,Citizen,Others,Hybrid,Yes,18.3,No,2023-05-20
+40,Female,Chinese,High School,Widowed,Education,Teacher,25,Contract,14300.62,Very Satisfied,Yes,No,Yes,44.3,1.54,Employed,Permanent Resident,English,On-site,Yes,10.4,Yes,2022-02-25
+60,Male,Others,Diploma,Divorced,Hospitality,Technician,6,Full-time,14757.2,Satisfied,Yes,No,No,36.5,1.62,Retired,Foreigner,Malay,Remote,Yes,11.4,No,2023-09-24
+35,Male,Chinese,Diploma,Divorced,Hospitality,Technician,10,Full-time,14995.08,Satisfied,Yes,No,Yes,37.6,0.5,Student,Foreigner,Tamil,Hybrid,No,15.4,No,2022-01-06
+32,Male,Chinese,PhD,Married,Hospitality,Technician,20,Self-employed,2687.5,Satisfied,No,Yes,No,59.9,1.59,Student,Foreigner,Malay,Hybrid,No,18.8,Yes,2021-09-13
+38,Female,Indian,PhD,Widowed,Hospitality,Engineer,8,Full-time,11509.81,Neutral,No,No,No,52.6,1.46,Unemployed,Permanent Resident,Others,On-site,Yes,14.8,No,2023-09-06
+36,Male,Chinese,Master,Divorced,Finance,Technician,26,Contract,12045.31,Satisfied,No,No,Yes,56.5,0.88,Retired,Foreigner,Tamil,On-site,Yes,9.6,Yes,2022-11-10
+21,Male,Chinese,Bachelor,Divorced,Finance,Technician,21,Full-time,2262.41,Satisfied,Yes,Yes,Yes,54.9,1.25,Unemployed,Citizen,Mandarin,On-site,Yes,12.3,No,2023-02-12
+23,Male,Chinese,Diploma,Married,Information Technology,Doctor,14,Full-time,5398.18,Satisfied,Yes,No,No,48.7,1.07,Retired,Citizen,Malay,Hybrid,Yes,15.9,Yes,2023-02-05
+55,Male,Chinese,Bachelor,Single,Information Technology,Technician,7,Part-time,7430.21,Very Unsatisfied,Yes,Yes,Yes,53.1,1.71,Retired,Permanent Resident,Tamil,Hybrid,No,15,Yes,2022-03-25
+64,Female,Malay,Bachelor,Divorced,Construction,Teacher,16,Contract,2018.1,Very Satisfied,Yes,No,No,36.6,0.59,Student,Citizen,English,On-site,Yes,17.5,Yes,2023-02-19
+52,Female,Chinese,Master,Single,Finance,Doctor,14,Contract,10222.12,Satisfied,Yes,Yes,Yes,42,1.02,Employed,Foreigner,Tamil,Hybrid,No,7.8,Yes,2021-05-12
+25,Female,Malay,High School,Widowed,Education,Clerk,3,Full-time,9091.15,Very Unsatisfied,Yes,Yes,Yes,42.8,2,Student,Permanent Resident,English,On-site,Yes,19.8,Yes,2023-11-18
+21,Female,Others,Diploma,Divorced,Education,Clerk,27,Contract,2498.27,Very Unsatisfied,Yes,No,Yes,48.2,0.76,Student,Permanent Resident,Malay,Hybrid,No,9.5,Yes,2023-07-27
+49,Male,Others,Master,Widowed,Education,Engineer,25,Contract,6109.7,Neutral,No,No,Yes,45.2,0.7,Employed,Foreigner,Mandarin,Remote,No,16.6,No,2021-05-06
+37,Female,Indian,Diploma,Widowed,Construction,Teacher,18,Part-time,12847.72,Very Unsatisfied,Yes,No,No,55.3,1.66,Employed,Permanent Resident,Malay,Remote,No,16.3,No,2022-09-03
+59,Female,Chinese,Diploma,Single,Healthcare,Engineer,22,Full-time,13028.55,Unsatisfied,No,Yes,No,50,1.54,Employed,Permanent Resident,English,Hybrid,Yes,10.3,Yes,2023-12-05
+23,Female,Chinese,Bachelor,Divorced,Hospitality,Technician,13,Self-employed,8609.6,Very Unsatisfied,No,Yes,No,37,0.79,Student,Citizen,English,On-site,No,5.3,No,2023-09-12
+62,Male,Others,PhD,Married,Hospitality,Laborer,16,Full-time,10141.86,Very Unsatisfied,Yes,No,Yes,47.3,0.6,Retired,Foreigner,Others,Hybrid,Yes,17.1,Yes,2022-03-12
+27,Female,Chinese,Master,Married,Information Technology,Teacher,10,Self-employed,4515.51,Neutral,Yes,Yes,No,47.9,0.62,Employed,Permanent Resident,Others,On-site,Yes,10.1,Yes,2022-05-10
+49,Female,Chinese,High School,Married,Healthcare,Technician,15,Full-time,3087.45,Neutral,Yes,Yes,No,37.9,0.6,Unemployed,Foreigner,Mandarin,Hybrid,Yes,5.7,No,2023-01-01
+27,Male,Chinese,Diploma,Single,Construction,Teacher,10,Full-time,2575.19,Satisfied,Yes,Yes,No,40.7,1.69,Retired,Permanent Resident,English,Remote,No,9.4,No,2022-08-04
+42,Female,Indian,PhD,Widowed,Information Technology,Engineer,18,Self-employed,7834.22,Very Unsatisfied,No,No,Yes,52.4,0.72,Employed,Foreigner,Malay,On-site,No,14.8,No,2021-11-09
+64,Male,Chinese,Master,Divorced,Information Technology,Teacher,14,Contract,10959.94,Satisfied,No,Yes,Yes,55.8,0.87,Retired,Permanent Resident,Malay,Hybrid,No,9.2,Yes,2023-03-06
+54,Female,Others,Bachelor,Divorced,Information Technology,Teacher,16,Full-time,5293.31,Unsatisfied,No,Yes,Yes,44.5,1.01,Unemployed,Permanent Resident,Tamil,Remote,Yes,7.7,No,2022-12-24
+29,Female,Others,Master,Single,Healthcare,Teacher,24,Contract,12302.25,Very Satisfied,Yes,Yes,No,53.8,0.66,Retired,Permanent Resident,Mandarin,On-site,No,18.7,Yes,2021-11-19
+25,Male,Malay,High School,Divorced,Information Technology,Manager,19,Full-time,7596.57,Satisfied,No,Yes,Yes,37.7,0.63,Employed,Permanent Resident,English,On-site,Yes,13.3,No,2021-07-01
+26,Female,Chinese,PhD,Divorced,Hospitality,Laborer,27,Part-time,8074.48,Neutral,Yes,Yes,No,41.2,0.59,Employed,Foreigner,Mandarin,Remote,Yes,10.6,No,2023-07-11
+27,Male,Others,Master,Divorced,Education,Clerk,8,Self-employed,8956.66,Neutral,Yes,Yes,Yes,43.3,1.86,Unemployed,Citizen,English,Hybrid,No,10.2,No,2022-07-27
+63,Male,Indian,Master,Divorced,Hospitality,Manager,22,Full-time,3450.23,Very Unsatisfied,Yes,No,Yes,45,1.07,Student,Permanent Resident,Tamil,On-site,Yes,7.4,No,2022-01-07
+20,Female,Others,Diploma,Divorced,Healthcare,Laborer,19,Part-time,10014.08,Unsatisfied,Yes,Yes,Yes,50.4,1.03,Student,Permanent Resident,Mandarin,Hybrid,Yes,10.2,No,2021-06-12
+53,Female,Malay,High School,Divorced,Education,Technician,14,Full-time,12712.96,Satisfied,Yes,Yes,Yes,48.9,0.9,Student,Citizen,Others,Hybrid,Yes,10.8,Yes,2023-03-09
+54,Female,Chinese,Master,Divorced,Finance,Engineer,5,Full-time,9501.82,Satisfied,Yes,Yes,No,56.7,1.32,Unemployed,Permanent Resident,Tamil,On-site,No,16.7,No,2022-09-14
+40,Male,Chinese,Bachelor,Married,Construction,Engineer,22,Full-time,5726.84,Unsatisfied,No,No,No,49.7,1.22,Student,Foreigner,Mandarin,Remote,Yes,17.4,Yes,2022-10-10
+55,Female,Indian,Master,Single,Education,Teacher,19,Contract,14650.72,Very Satisfied,Yes,No,Yes,60,1.45,Retired,Citizen,English,On-site,No,10.2,No,2021-08-22
+32,Male,Others,PhD,Married,Education,Doctor,10,Contract,5867.93,Unsatisfied,No,No,No,50,1.13,Employed,Foreigner,Tamil,Remote,No,14.6,Yes,2021-10-03
+55,Female,Others,Diploma,Single,Construction,Manager,10,Full-time,5898.26,Neutral,Yes,Yes,No,47.6,1.96,Employed,Citizen,English,Hybrid,No,19.9,Yes,2023-09-17
+38,Male,Chinese,Bachelor,Widowed,Healthcare,Manager,19,Part-time,14524.38,Neutral,No,No,No,38.7,1.5,Employed,Permanent Resident,Tamil,On-site,Yes,6.3,No,2022-05-22
+42,Female,Others,PhD,Married,Construction,Engineer,17,Full-time,7069.03,Neutral,No,No,Yes,52,0.83,Student,Citizen,Tamil,Remote,No,18.4,Yes,2022-07-17
+21,Female,Malay,Master,Married,Construction,Teacher,21,Contract,7934.85,Satisfied,Yes,No,Yes,41.4,1.09,Unemployed,Foreigner,Others,On-site,No,17.5,Yes,2023-09-15
+30,Male,Indian,Diploma,Married,Education,Manager,24,Full-time,13693.85,Satisfied,No,No,Yes,37,0.81,Unemployed,Citizen,Tamil,Remote,Yes,8.4,Yes,2023-07-21
+43,Female,Chinese,High School,Single,Education,Doctor,8,Contract,7647.83,Unsatisfied,Yes,No,No,48.6,1.2,Unemployed,Permanent Resident,Tamil,Hybrid,Yes,7.9,No,2021-01-19
+21,Male,Indian,PhD,Widowed,Information Technology,Technician,0,Self-employed,6256.82,Satisfied,No,Yes,Yes,51.7,1.31,Retired,Citizen,Malay,On-site,Yes,6.4,No,2023-02-01
+52,Male,Chinese,High School,Single,Construction,Technician,26,Full-time,13770.34,Neutral,Yes,Yes,No,37.6,1.67,Retired,Foreigner,English,Remote,No,11.2,Yes,2022-03-14
+47,Female,Malay,High School,Single,Construction,Laborer,27,Contract,5676.86,Satisfied,Yes,No,Yes,44.7,1.9,Employed,Citizen,Tamil,Remote,Yes,13.7,Yes,2022-09-12
+51,Female,Others,Master,Married,Information Technology,Technician,25,Part-time,4620.29,Unsatisfied,Yes,Yes,No,48.3,0.8,Student,Citizen,Tamil,Hybrid,No,8.3,No,2021-01-25
+20,Male,Chinese,PhD,Single,Construction,Manager,29,Contract,6304.06,Satisfied,Yes,No,No,56.6,0.72,Student,Permanent Resident,English,On-site,No,8.8,No,2022-01-23
+33,Female,Indian,Master,Divorced,Construction,Technician,14,Part-time,7511.61,Very Unsatisfied,No,No,Yes,49.9,1.17,Employed,Citizen,English,Remote,No,7.1,No,2022-08-23
+61,Female,Indian,PhD,Single,Finance,Technician,22,Full-time,3791.1,Very Satisfied,Yes,No,Yes,52.4,0.75,Retired,Foreigner,Others,Remote,Yes,12.1,No,2022-06-13
+27,Female,Others,High School,Single,Healthcare,Laborer,0,Part-time,8744.37,Very Unsatisfied,Yes,No,No,45.1,1.25,Unemployed,Citizen,Tamil,Remote,Yes,7.3,No,2022-06-19
+57,Male,Others,High School,Widowed,Construction,Technician,24,Part-time,11535.33,Very Satisfied,Yes,No,Yes,49.9,1.53,Student,Citizen,Tamil,On-site,No,9.5,No,2021-05-17
+25,Female,Malay,PhD,Single,Finance,Manager,20,Self-employed,6030.02,Neutral,Yes,No,No,57.2,0.85,Student,Permanent Resident,English,Remote,No,9.4,Yes,2023-01-06
+20,Male,Chinese,Master,Single,Construction,Doctor,17,Contract,8616.46,Neutral,No,Yes,No,39.5,1.65,Retired,Citizen,Tamil,Remote,Yes,19.8,Yes,2022-03-23
+53,Female,Indian,Bachelor,Divorced,Finance,Laborer,29,Part-time,11990.05,Unsatisfied,No,No,Yes,41,1.8,Student,Citizen,Tamil,Remote,No,15.6,Yes,2022-11-26
+21,Male,Indian,Bachelor,Divorced,Healthcare,Teacher,17,Part-time,9739.53,Neutral,No,No,Yes,44.8,0.77,Employed,Foreigner,Mandarin,Remote,Yes,15.5,Yes,2021-09-27
+58,Female,Chinese,Master,Single,Hospitality,Manager,20,Full-time,5178.09,Neutral,Yes,Yes,No,50.1,1.06,Student,Foreigner,Others,On-site,No,10.4,No,2023-05-03
+38,Male,Chinese,High School,Single,Hospitality,Teacher,6,Full-time,13562.64,Very Satisfied,No,Yes,Yes,52.5,1.21,Employed,Citizen,Mandarin,On-site,Yes,8.6,No,2023-07-07
+43,Male,Malay,Bachelor,Divorced,Education,Doctor,23,Full-time,10784.06,Unsatisfied,No,No,No,43.1,0.84,Unemployed,Foreigner,English,On-site,No,17.7,Yes,2021-07-17
+63,Female,Malay,PhD,Divorced,Information Technology,Manager,17,Part-time,5946.9,Very Satisfied,No,Yes,Yes,37.8,1.07,Student,Foreigner,English,On-site,No,10.7,Yes,2023-04-02
+54,Male,Others,Diploma,Widowed,Information Technology,Laborer,10,Full-time,8699.33,Unsatisfied,Yes,Yes,Yes,57.8,1.84,Unemployed,Foreigner,Mandarin,Remote,No,15.9,No,2021-12-19
+61,Male,Indian,High School,Divorced,Information Technology,Technician,16,Part-time,6241.12,Satisfied,Yes,Yes,Yes,55.8,1.33,Retired,Citizen,Tamil,On-site,No,15.1,No,2022-12-15
+62,Female,Chinese,High School,Divorced,Construction,Manager,5,Self-employed,3720.17,Very Satisfied,No,Yes,Yes,56.4,0.79,Employed,Permanent Resident,Tamil,On-site,No,17,No,2021-10-14
+28,Male,Indian,PhD,Single,Education,Engineer,21,Self-employed,8762.23,Unsatisfied,No,Yes,No,42.1,1.72,Student,Foreigner,Malay,On-site,Yes,15.1,No,2022-01-01
+50,Female,Malay,High School,Single,Healthcare,Clerk,17,Part-time,2936.73,Very Unsatisfied,Yes,No,No,52.5,1.52,Retired,Foreigner,Tamil,Remote,Yes,19.2,Yes,2023-03-14
+37,Male,Indian,Master,Married,Healthcare,Clerk,21,Self-employed,3347.19,Satisfied,Yes,No,No,53.9,0.65,Employed,Permanent Resident,Others,On-site,No,17.2,No,2022-09-10
+33,Male,Malay,Diploma,Widowed,Education,Technician,21,Self-employed,11351.05,Satisfied,No,No,No,37.6,0.99,Student,Permanent Resident,Mandarin,Remote,Yes,6,No,2021-01-23
+36,Male,Others,PhD,Married,Information Technology,Laborer,8,Self-employed,11690.04,Neutral,No,Yes,Yes,48.4,1.31,Employed,Citizen,Mandarin,Hybrid,No,10,No,2021-03-13
+40,Female,Others,Diploma,Divorced,Healthcare,Laborer,20,Full-time,10312.37,Neutral,No,No,No,36.5,1.6,Employed,Foreigner,English,Remote,Yes,6.4,No,2021-11-17
+54,Female,Others,PhD,Single,Healthcare,Technician,4,Self-employed,11230.24,Satisfied,Yes,No,Yes,59.4,1.25,Unemployed,Permanent Resident,Mandarin,On-site,No,12.5,No,2023-02-18
+45,Male,Malay,Bachelor,Widowed,Education,Engineer,13,Contract,7017.86,Satisfied,Yes,Yes,Yes,49.4,1.67,Unemployed,Permanent Resident,Tamil,Remote,Yes,8.2,Yes,2023-05-07
+60,Male,Chinese,Master,Married,Information Technology,Laborer,3,Contract,9695.44,Very Unsatisfied,Yes,No,No,41.1,0.79,Employed,Foreigner,Others,Remote,Yes,18,Yes,2022-07-28
+36,Female,Chinese,Diploma,Single,Finance,Technician,27,Full-time,5962.28,Unsatisfied,Yes,No,Yes,47.1,0.95,Retired,Permanent Resident,Mandarin,On-site,Yes,18.4,No,2022-02-25
+64,Female,Others,High School,Widowed,Hospitality,Doctor,13,Contract,10248.71,Very Unsatisfied,Yes,No,Yes,42.3,1.85,Employed,Foreigner,English,Remote,Yes,16,No,2023-08-10
+53,Female,Indian,High School,Divorced,Hospitality,Teacher,8,Contract,13194.56,Neutral,No,No,No,44.5,1.47,Unemployed,Citizen,Mandarin,Hybrid,No,5.6,Yes,2023-12-28
+64,Female,Indian,Diploma,Single,Education,Laborer,15,Full-time,8114.81,Satisfied,No,No,Yes,47.8,1.38,Unemployed,Foreigner,Others,On-site,Yes,11.5,No,2021-02-25
+38,Female,Chinese,Master,Divorced,Information Technology,Engineer,0,Part-time,5872.81,Neutral,No,Yes,No,40.3,1.34,Retired,Foreigner,Malay,On-site,No,19.6,Yes,2023-12-18
+30,Male,Chinese,Diploma,Divorced,Construction,Laborer,28,Full-time,6217.43,Very Satisfied,Yes,No,No,46.5,1.12,Unemployed,Foreigner,English,Remote,Yes,11.4,No,2021-06-15
+64,Male,Indian,Bachelor,Single,Construction,Clerk,0,Self-employed,11482.27,Unsatisfied,No,No,No,54.3,1.28,Student,Foreigner,English,Hybrid,Yes,13.6,No,2021-09-02
+33,Male,Indian,PhD,Single,Information Technology,Teacher,1,Full-time,8085.5,Satisfied,No,No,No,42.1,1.67,Student,Foreigner,Others,Hybrid,Yes,11.7,No,2021-04-14
+32,Female,Others,Bachelor,Single,Education,Laborer,2,Self-employed,13835.81,Unsatisfied,Yes,No,Yes,40.4,0.76,Retired,Permanent Resident,Others,Remote,Yes,18.3,No,2022-05-20
+48,Female,Others,Diploma,Married,Information Technology,Engineer,7,Part-time,13159.72,Neutral,Yes,Yes,Yes,49,0.73,Retired,Foreigner,Tamil,On-site,Yes,10.2,No,2021-08-11
+58,Female,Indian,Diploma,Widowed,Healthcare,Doctor,11,Contract,11023.18,Neutral,Yes,Yes,No,48.9,0.52,Student,Foreigner,Malay,Hybrid,Yes,10,Yes,2022-04-11
+47,Male,Others,High School,Single,Healthcare,Engineer,1,Part-time,3090.12,Very Unsatisfied,Yes,Yes,No,42.2,0.56,Employed,Permanent Resident,Mandarin,Hybrid,No,16.6,No,2022-05-22
+57,Male,Indian,PhD,Widowed,Information Technology,Clerk,22,Part-time,14289.33,Neutral,Yes,Yes,Yes,46.8,1.76,Student,Citizen,Tamil,On-site,Yes,17.9,Yes,2023-07-19
+38,Female,Others,Diploma,Single,Construction,Manager,29,Part-time,6005.98,Very Unsatisfied,Yes,No,No,38.4,0.71,Student,Foreigner,Malay,On-site,No,17.8,Yes,2023-03-20
+39,Male,Indian,PhD,Single,Information Technology,Laborer,23,Part-time,13960.28,Very Unsatisfied,Yes,Yes,No,36.6,0.96,Retired,Permanent Resident,Mandarin,Remote,No,5.1,Yes,2022-03-09
+52,Male,Indian,Bachelor,Divorced,Information Technology,Laborer,21,Full-time,10414.64,Very Unsatisfied,Yes,No,Yes,57.2,0.9,Retired,Permanent Resident,Mandarin,Hybrid,No,13.6,Yes,2021-05-22
+60,Female,Indian,Bachelor,Single,Finance,Doctor,27,Part-time,8305.23,Very Unsatisfied,No,Yes,Yes,36.5,0.72,Retired,Citizen,Malay,Remote,No,9.8,Yes,2023-01-22
+33,Male,Indian,Bachelor,Single,Construction,Manager,20,Full-time,12597.92,Very Unsatisfied,Yes,No,Yes,55.6,0.96,Retired,Citizen,Malay,On-site,No,13.1,Yes,2022-07-08
+56,Male,Malay,Diploma,Single,Finance,Engineer,1,Contract,12685.9,Very Satisfied,No,No,No,39,1.76,Student,Foreigner,Others,On-site,Yes,13.7,Yes,2021-03-25
+46,Male,Others,Diploma,Married,Education,Technician,19,Full-time,5278.23,Very Satisfied,No,Yes,No,59.4,1.91,Employed,Citizen,Tamil,On-site,No,19.8,No,2021-12-18
+41,Male,Others,Master,Single,Healthcare,Technician,6,Self-employed,8609.28,Very Satisfied,Yes,No,Yes,41.6,0.85,Retired,Permanent Resident,Others,On-site,Yes,10.1,No,2023-08-08
+53,Male,Indian,High School,Single,Information Technology,Engineer,24,Self-employed,7197.53,Very Unsatisfied,Yes,Yes,Yes,38.1,1.33,Retired,Foreigner,English,Remote,Yes,14.8,Yes,2021-11-12
+43,Male,Indian,Bachelor,Single,Education,Laborer,13,Full-time,5980.39,Very Satisfied,No,Yes,Yes,42.4,0.74,Employed,Foreigner,Tamil,On-site,Yes,16.2,Yes,2023-06-13
+21,Male,Indian,PhD,Married,Finance,Teacher,23,Full-time,12332.57,Very Satisfied,No,Yes,No,39.8,0.66,Retired,Citizen,Others,Hybrid,No,15.1,No,2022-08-26
+51,Female,Chinese,Bachelor,Single,Information Technology,Doctor,2,Contract,11376.18,Very Satisfied,Yes,Yes,No,58,0.7,Employed,Permanent Resident,English,On-site,No,5.5,No,2022-04-14
+53,Female,Indian,High School,Single,Construction,Teacher,21,Full-time,8547.71,Very Unsatisfied,Yes,Yes,Yes,36.9,0.78,Student,Citizen,Others,On-site,No,8.4,No,2022-04-19
+34,Female,Indian,PhD,Single,Construction,Manager,27,Self-employed,11093,Satisfied,Yes,Yes,Yes,58.7,1.05,Unemployed,Permanent Resident,Others,Hybrid,Yes,12.4,Yes,2023-03-13
+27,Male,Others,Diploma,Divorced,Finance,Clerk,26,Self-employed,3428.37,Satisfied,Yes,Yes,No,40.4,0.81,Unemployed,Permanent Resident,English,Hybrid,No,9.2,No,2023-01-15
+33,Female,Malay,Bachelor,Single,Finance,Laborer,21,Part-time,3543.19,Satisfied,Yes,No,Yes,35.4,1.2,Student,Permanent Resident,Malay,Remote,Yes,14,Yes,2023-07-18
+63,Female,Malay,Bachelor,Married,Information Technology,Teacher,4,Self-employed,3293.61,Unsatisfied,Yes,Yes,Yes,36.6,0.75,Unemployed,Permanent Resident,Mandarin,Hybrid,No,6.6,Yes,2023-05-28
+40,Male,Malay,Bachelor,Widowed,Healthcare,Doctor,0,Part-time,7373.63,Very Satisfied,No,Yes,No,43.3,1.93,Retired,Citizen,English,Hybrid,No,9.8,Yes,2023-02-07
+23,Male,Chinese,Bachelor,Married,Healthcare,Manager,22,Part-time,13385,Neutral,Yes,No,No,53.3,1.93,Retired,Permanent Resident,Mandarin,On-site,No,10.8,No,2023-07-07
+37,Male,Others,PhD,Single,Construction,Technician,14,Full-time,3514.09,Neutral,No,Yes,No,35.7,1.81,Retired,Permanent Resident,Others,Hybrid,Yes,13.5,No,2021-05-01
+48,Male,Others,PhD,Single,Education,Teacher,25,Self-employed,13951.77,Unsatisfied,No,No,Yes,51.3,0.77,Unemployed,Citizen,Malay,On-site,No,16.2,No,2023-12-23
+64,Male,Malay,High School,Divorced,Healthcare,Clerk,2,Full-time,10374.89,Neutral,Yes,Yes,No,54.6,1.58,Unemployed,Citizen,English,Hybrid,No,6.7,No,2021-03-08
+42,Female,Others,Bachelor,Widowed,Healthcare,Technician,5,Part-time,8623.45,Satisfied,No,No,No,54.4,0.66,Retired,Foreigner,English,Hybrid,No,8.4,No,2023-06-19
+61,Male,Malay,Diploma,Divorced,Information Technology,Manager,27,Self-employed,13114.12,Unsatisfied,Yes,Yes,Yes,56.9,1.05,Retired,Permanent Resident,Others,Hybrid,Yes,17.4,Yes,2021-10-04
+41,Male,Indian,High School,Divorced,Information Technology,Doctor,13,Part-time,12179.6,Unsatisfied,Yes,No,No,43,1.81,Unemployed,Permanent Resident,Malay,On-site,Yes,12.8,No,2023-06-07
+39,Female,Malay,Bachelor,Divorced,Finance,Teacher,27,Self-employed,13094.73,Very Satisfied,No,No,Yes,37.5,1.75,Unemployed,Foreigner,Mandarin,Hybrid,No,11.5,Yes,2021-03-12
+43,Male,Indian,High School,Widowed,Information Technology,Clerk,3,Full-time,14742.32,Unsatisfied,No,No,No,45.1,1.67,Student,Permanent Resident,Tamil,Remote,Yes,8.3,No,2021-01-08
+53,Male,Indian,PhD,Divorced,Information Technology,Laborer,28,Self-employed,12808.83,Satisfied,Yes,No,No,52,1.91,Unemployed,Foreigner,English,Remote,No,8.7,Yes,2022-10-08
+29,Female,Others,Master,Married,Hospitality,Technician,6,Full-time,5264.9,Neutral,No,Yes,No,52.4,1.88,Unemployed,Foreigner,Tamil,Hybrid,Yes,15.4,Yes,2022-03-25
+28,Male,Others,Master,Married,Information Technology,Manager,15,Part-time,11581.89,Neutral,No,Yes,No,49.1,1.79,Retired,Foreigner,Mandarin,Hybrid,No,10.6,Yes,2023-09-20
+63,Female,Malay,Diploma,Married,Education,Technician,3,Part-time,10732.41,Satisfied,Yes,Yes,Yes,43.3,1.44,Student,Permanent Resident,Malay,Remote,No,17.5,No,2023-11-14
+38,Female,Others,High School,Widowed,Healthcare,Engineer,0,Self-employed,3931.05,Very Unsatisfied,No,No,No,45.9,1.49,Retired,Citizen,Mandarin,Hybrid,No,9.6,Yes,2023-03-12
+34,Male,Indian,High School,Divorced,Construction,Manager,7,Part-time,4496.69,Neutral,No,Yes,No,41.3,1.87,Student,Permanent Resident,Tamil,Hybrid,No,12.7,Yes,2022-02-12
+41,Male,Indian,High School,Married,Education,Teacher,14,Contract,4948.38,Unsatisfied,Yes,No,No,43.3,0.85,Employed,Foreigner,Others,Remote,Yes,6.3,No,2021-08-27
+52,Female,Malay,Master,Single,Hospitality,Manager,12,Part-time,13184.03,Very Satisfied,No,Yes,No,41.8,1.15,Student,Citizen,Others,On-site,No,12.3,No,2023-01-17
+63,Female,Chinese,High School,Married,Construction,Clerk,9,Self-employed,8588.73,Very Satisfied,No,No,Yes,46.2,1.94,Student,Foreigner,Others,Remote,No,5.5,Yes,2022-03-16
+35,Male,Malay,High School,Single,Hospitality,Technician,26,Contract,11054.85,Neutral,No,Yes,No,45.1,1.91,Retired,Citizen,Malay,Remote,Yes,18.8,No,2023-07-08
+33,Male,Malay,High School,Single,Finance,Manager,20,Full-time,7333.68,Unsatisfied,Yes,No,Yes,37.8,1.84,Student,Foreigner,Others,On-site,No,14,No,2023-02-27
+31,Female,Malay,PhD,Widowed,Finance,Engineer,0,Part-time,11042.79,Neutral,Yes,No,No,46.6,0.67,Retired,Citizen,Tamil,On-site,Yes,5.7,Yes,2022-07-06
+37,Female,Malay,High School,Widowed,Healthcare,Technician,28,Self-employed,13306.95,Very Satisfied,No,No,No,44.8,1.4,Employed,Citizen,Tamil,Hybrid,No,19,No,2023-11-02
+27,Female,Others,PhD,Widowed,Construction,Technician,26,Self-employed,10805.82,Unsatisfied,Yes,No,No,52.7,1.82,Unemployed,Foreigner,Malay,Remote,Yes,18.4,No,2022-08-09
+25,Male,Others,Diploma,Single,Information Technology,Engineer,21,Self-employed,11183.37,Unsatisfied,Yes,No,Yes,38.3,0.7,Student,Citizen,Mandarin,Hybrid,Yes,19.5,No,2023-08-09
+64,Male,Others,Bachelor,Single,Education,Manager,12,Full-time,11158.17,Unsatisfied,No,Yes,No,57.5,0.67,Employed,Citizen,Mandarin,Hybrid,No,17.8,Yes,2022-03-01
+58,Female,Chinese,Diploma,Divorced,Information Technology,Laborer,4,Full-time,3160.87,Very Satisfied,Yes,No,No,55.7,1.19,Student,Permanent Resident,Mandarin,On-site,No,6.4,Yes,2022-02-13
+36,Female,Malay,Master,Single,Information Technology,Laborer,25,Full-time,4902.37,Satisfied,Yes,No,Yes,41.5,1.51,Employed,Foreigner,Others,Remote,Yes,9.3,No,2021-12-17
+60,Female,Others,Diploma,Married,Education,Laborer,29,Full-time,13189.97,Very Unsatisfied,No,Yes,No,50.6,1.55,Student,Permanent Resident,Tamil,Remote,Yes,7,Yes,2021-08-03
+24,Female,Indian,Bachelor,Widowed,Education,Teacher,22,Part-time,12708.44,Neutral,Yes,No,No,57,1.45,Unemployed,Foreigner,Mandarin,On-site,Yes,7.7,Yes,2021-03-16
+63,Female,Others,Bachelor,Single,Healthcare,Technician,9,Part-time,5012.32,Very Satisfied,Yes,Yes,No,42.5,1.47,Unemployed,Permanent Resident,English,Hybrid,Yes,17,Yes,2021-08-11
+30,Female,Chinese,Master,Single,Construction,Doctor,13,Part-time,5308.88,Unsatisfied,No,No,Yes,47.7,1.41,Retired,Citizen,Tamil,Remote,No,16.1,No,2022-10-18
+55,Male,Others,Master,Single,Healthcare,Engineer,21,Part-time,12330.49,Very Satisfied,Yes,No,Yes,49.6,1.27,Employed,Citizen,Tamil,Remote,Yes,9.6,No,2023-04-02
+42,Female,Chinese,PhD,Married,Education,Laborer,28,Contract,9666.5,Neutral,No,No,No,54.4,1.72,Student,Permanent Resident,English,On-site,No,12.8,No,2021-07-04
+39,Female,Indian,Bachelor,Divorced,Finance,Laborer,1,Self-employed,2699,Unsatisfied,No,No,Yes,35.8,0.64,Retired,Permanent Resident,Malay,Remote,No,16.3,Yes,2022-11-14
+54,Male,Malay,Master,Single,Healthcare,Manager,10,Part-time,5405.17,Satisfied,No,Yes,Yes,53.6,0.76,Retired,Permanent Resident,Tamil,Hybrid,No,10.5,No,2021-09-07
+38,Male,Malay,Master,Divorced,Information Technology,Manager,4,Contract,12299.23,Very Satisfied,No,Yes,Yes,58.5,1.59,Employed,Foreigner,Malay,Remote,Yes,8,Yes,2022-08-03
+56,Female,Malay,PhD,Widowed,Construction,Doctor,28,Contract,9523.4,Neutral,No,No,No,44.4,1.48,Retired,Foreigner,Others,On-site,Yes,18.1,No,2022-04-26
+61,Female,Malay,Diploma,Married,Finance,Manager,25,Part-time,12075.85,Satisfied,Yes,Yes,No,46.8,0.66,Student,Permanent Resident,Others,On-site,No,6.2,Yes,2023-03-26
+61,Female,Others,PhD,Married,Finance,Technician,9,Part-time,5883.41,Very Unsatisfied,No,Yes,Yes,47.7,1.05,Student,Citizen,Others,Remote,Yes,12,No,2021-08-07
+60,Male,Malay,Diploma,Divorced,Healthcare,Laborer,9,Part-time,3266.94,Very Satisfied,No,Yes,No,56.4,1.35,Student,Citizen,Malay,On-site,Yes,10.1,No,2023-04-05
+35,Male,Chinese,High School,Single,Education,Teacher,20,Part-time,5716.8,Satisfied,No,Yes,No,56.3,0.62,Employed,Citizen,Others,On-site,No,18.5,Yes,2022-05-05
+58,Male,Malay,Bachelor,Divorced,Finance,Doctor,9,Contract,8872.26,Unsatisfied,Yes,No,Yes,57.1,0.52,Student,Citizen,Others,Hybrid,No,14.7,Yes,2022-12-11
+25,Male,Indian,Diploma,Widowed,Hospitality,Laborer,29,Self-employed,10475.99,Satisfied,No,No,No,49.8,1.63,Unemployed,Foreigner,Mandarin,On-site,Yes,19.6,Yes,2023-07-08
+30,Female,Others,Bachelor,Married,Healthcare,Engineer,5,Part-time,3473.14,Neutral,Yes,No,No,37.7,0.65,Student,Permanent Resident,Mandarin,Hybrid,No,19.3,No,2023-05-20
+27,Female,Chinese,PhD,Single,Education,Clerk,24,Part-time,8630.78,Satisfied,Yes,No,No,49.4,1.67,Unemployed,Citizen,Tamil,Remote,No,8.6,Yes,2022-08-07
+22,Male,Others,PhD,Divorced,Healthcare,Engineer,24,Contract,9770.84,Very Satisfied,Yes,No,Yes,52.7,0.71,Retired,Foreigner,Others,On-site,Yes,11.3,Yes,2022-11-10
+24,Male,Malay,High School,Married,Finance,Teacher,13,Part-time,10955.44,Very Unsatisfied,No,Yes,No,46.6,1.57,Unemployed,Permanent Resident,Tamil,Hybrid,Yes,7.6,No,2023-03-23
+37,Female,Malay,PhD,Married,Education,Teacher,9,Part-time,8580.09,Satisfied,No,No,Yes,57.8,1.87,Employed,Citizen,English,Remote,No,8.9,Yes,2022-05-24
+29,Female,Malay,Bachelor,Widowed,Construction,Doctor,27,Part-time,5303.11,Very Unsatisfied,No,Yes,No,55.8,1.66,Unemployed,Permanent Resident,English,Hybrid,Yes,12.3,No,2021-08-04
+56,Female,Indian,PhD,Widowed,Construction,Manager,2,Self-employed,2431.32,Very Satisfied,No,Yes,Yes,40.7,1.2,Unemployed,Foreigner,English,Remote,Yes,7.5,Yes,2023-04-24
+57,Female,Others,Diploma,Widowed,Healthcare,Technician,27,Contract,11458.82,Satisfied,Yes,Yes,Yes,44.1,1.94,Retired,Foreigner,Mandarin,Remote,Yes,14.7,Yes,2022-09-01
+63,Male,Chinese,Diploma,Divorced,Information Technology,Laborer,21,Part-time,6152.23,Unsatisfied,No,No,Yes,40.2,1.89,Retired,Citizen,Others,Hybrid,No,9,No,2022-08-15
+40,Male,Chinese,Bachelor,Widowed,Healthcare,Doctor,17,Full-time,9839.37,Very Unsatisfied,Yes,Yes,No,49.8,0.63,Retired,Citizen,Others,On-site,No,10.3,No,2022-10-18
+64,Male,Malay,PhD,Married,Information Technology,Manager,4,Part-time,8257.58,Very Unsatisfied,Yes,Yes,Yes,43.8,1.2,Employed,Permanent Resident,Malay,On-site,Yes,7,No,2023-04-13
+58,Female,Indian,PhD,Divorced,Education,Laborer,25,Part-time,7053.1,Very Satisfied,Yes,No,Yes,47.7,1.69,Unemployed,Foreigner,English,Remote,No,8.9,Yes,2021-10-02
+38,Male,Malay,High School,Widowed,Information Technology,Engineer,19,Full-time,8073.32,Unsatisfied,Yes,No,Yes,56.8,0.87,Unemployed,Foreigner,Mandarin,On-site,Yes,12.2,Yes,2022-10-05
+31,Male,Malay,High School,Married,Education,Laborer,25,Part-time,5516.72,Satisfied,Yes,No,Yes,58.8,0.66,Unemployed,Citizen,Tamil,On-site,Yes,12.7,No,2021-04-11
+22,Female,Chinese,High School,Single,Healthcare,Clerk,27,Self-employed,2604.69,Very Unsatisfied,Yes,Yes,No,48,1.79,Student,Citizen,Mandarin,Hybrid,Yes,11.5,Yes,2022-05-15
+54,Male,Others,Bachelor,Divorced,Information Technology,Doctor,17,Self-employed,13977.75,Satisfied,No,No,No,37.5,0.79,Unemployed,Permanent Resident,Tamil,On-site,No,11.3,No,2021-01-03
+38,Female,Malay,Bachelor,Widowed,Construction,Laborer,18,Self-employed,7109.07,Satisfied,No,No,Yes,48,1.29,Retired,Citizen,Tamil,Hybrid,No,7.4,Yes,2021-04-09
+61,Male,Malay,Diploma,Married,Construction,Clerk,6,Contract,13647.97,Satisfied,Yes,No,Yes,47.6,0.73,Employed,Citizen,English,On-site,Yes,15.8,Yes,2021-01-07
+62,Female,Indian,Diploma,Divorced,Finance,Clerk,8,Full-time,2738.56,Satisfied,Yes,No,No,45.4,0.84,Student,Foreigner,Malay,On-site,Yes,8,Yes,2023-11-20
+42,Male,Others,PhD,Married,Hospitality,Manager,6,Self-employed,2030.06,Neutral,No,No,No,50.5,1.69,Unemployed,Permanent Resident,Malay,Hybrid,Yes,17.6,No,2022-04-09
+27,Female,Chinese,PhD,Divorced,Construction,Teacher,8,Contract,2584.45,Very Unsatisfied,Yes,Yes,Yes,50.7,1.75,Retired,Citizen,English,Hybrid,No,14.1,Yes,2021-10-23
+44,Female,Chinese,Bachelor,Widowed,Healthcare,Laborer,19,Self-employed,10290.56,Satisfied,No,No,Yes,47.7,0.8,Student,Foreigner,Tamil,On-site,Yes,7.5,Yes,2022-05-24
+58,Female,Malay,High School,Married,Information Technology,Teacher,3,Part-time,14005.33,Very Unsatisfied,Yes,No,Yes,58.5,1.21,Retired,Foreigner,Tamil,Hybrid,Yes,8,Yes,2023-01-15
+51,Female,Malay,Diploma,Single,Hospitality,Doctor,6,Full-time,13566.57,Very Satisfied,Yes,No,Yes,44.9,0.64,Unemployed,Foreigner,English,On-site,Yes,13.7,Yes,2021-09-08
+46,Male,Indian,PhD,Widowed,Information Technology,Teacher,23,Self-employed,8984.15,Very Satisfied,Yes,Yes,No,51.5,0.84,Employed,Permanent Resident,Tamil,Remote,No,11.5,Yes,2023-02-08
+50,Female,Malay,Master,Widowed,Finance,Manager,20,Full-time,4814.63,Neutral,No,Yes,No,40.1,1.21,Unemployed,Permanent Resident,Others,Remote,Yes,9,No,2023-08-17
+48,Female,Indian,PhD,Single,Finance,Doctor,1,Full-time,10918.39,Neutral,No,No,Yes,45.9,1.97,Unemployed,Citizen,Others,On-site,No,9.7,No,2023-04-18

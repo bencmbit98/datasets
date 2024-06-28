@@ -1,0 +1,1001 @@
+﻿Crime_Type,Incident_Date,Location,Report_Time,Weapon_Used,Victim_Age,Victim_Gender,Victim_Nationality,Offender_Age,Offender_Gender,Offender_Nationality,Previous_Offenses,Charges_Filed,Case_Outcome,Crime_Severity,Reported_to_Police,Public_Area,CCTV_Coverage,Community_Watch_Program
+Assault,2021-01-01 00:00:00,South,2021-01-01 00:10:00,Other,34,Male,Indonesian,29,Female,Malaysian,3,Yes,Acquitted,Major,Yes,Yes,Yes,Yes
+Fraud,2021-01-02 02:16:56,South,2021-01-02 03:09:56,None,60,Female,Indian,27,Male,Singaporean,3,No,Acquitted,Major,No,No,Yes,Yes
+Theft,2021-01-03 04:33:52,South,2021-01-03 04:54:52,Firearm,50,Male,Singaporean,38,Female,Indonesian,5,No,Acquitted,Minor,No,Yes,Yes,No
+Theft,2021-01-04 06:50:48,East,2021-01-04 07:30:48,Other,78,Female,Indian,30,Female,Others,8,No,Dismissed,Moderate,Yes,Yes,Yes,Yes
+Assault,2021-01-05 09:07:44,Central,2021-01-05 09:44:44,Other,51,Female,Singaporean,38,Male,Indonesian,0,Yes,Pending,Minor,No,No,Yes,Yes
+Theft,2021-01-06 11:24:41,East,2021-01-06 11:38:41,None,47,Male,Indian,67,Male,Indonesian,0,No,Acquitted,Minor,No,Yes,No,Yes
+Assault,2021-01-07 13:41:37,North,2021-01-07 13:50:37,Knife,57,Female,Singaporean,46,Male,Singaporean,1,No,Pending,Minor,No,Yes,Yes,No
+Assault,2021-01-08 15:58:33,Central,2021-01-08 16:41:33,Knife,45,Male,Indonesian,67,Female,Malaysian,8,No,Pending,Minor,No,Yes,Yes,Yes
+Burglary,2021-01-09 18:15:29,South,2021-01-09 19:00:29,None,71,Male,Singaporean,61,Female,Indonesian,2,Yes,Pending,Moderate,No,Yes,Yes,Yes
+Theft,2021-01-10 20:32:25,South,2021-01-10 21:22:25,Knife,55,Male,Malaysian,49,Female,Indonesian,3,Yes,Pending,Minor,Yes,No,Yes,Yes
+Theft,2021-01-11 22:49:22,West,2021-01-11 23:37:22,None,59,Male,Malaysian,44,Female,Malaysian,0,Yes,Acquitted,Moderate,Yes,No,Yes,Yes
+Fraud,2021-01-13 01:06:18,South,2021-01-13 01:44:18,Other,68,Male,Indonesian,37,Female,Singaporean,9,Yes,Dismissed,Minor,No,Yes,Yes,No
+Vandalism,2021-01-14 03:23:14,North,2021-01-14 03:37:14,None,48,Male,Others,69,Female,Indonesian,2,Yes,Convicted,Moderate,No,Yes,Yes,No
+Vandalism,2021-01-15 05:40:10,East,2021-01-15 05:55:10,Firearm,58,Male,Indian,52,Female,Malaysian,6,No,Acquitted,Minor,Yes,Yes,Yes,Yes
+Vandalism,2021-01-16 07:57:07,Central,2021-01-16 08:47:07,Knife,37,Female,Indonesian,74,Female,Singaporean,3,Yes,Pending,Moderate,Yes,Yes,No,No
+Assault,2021-01-17 10:14:03,Central,2021-01-17 10:47:03,None,32,Female,Malaysian,40,Female,Others,4,Yes,Dismissed,Major,Yes,Yes,Yes,Yes
+Burglary,2021-01-18 12:30:59,Central,2021-01-18 12:53:59,Knife,79,Female,Singaporean,23,Male,Singaporean,3,Yes,Dismissed,Major,Yes,No,Yes,No
+Others,2021-01-19 14:47:55,South,2021-01-19 15:12:55,None,56,Male,Indonesian,47,Male,Singaporean,9,Yes,Convicted,Major,No,No,No,No
+Fraud,2021-01-20 17:04:51,Central,2021-01-20 18:02:51,None,54,Female,Indian,66,Male,Indian,3,No,Pending,Moderate,Yes,Yes,Yes,No
+Burglary,2021-01-21 19:21:48,Central,2021-01-21 19:22:48,Other,26,Female,Singaporean,47,Male,Indian,8,No,Acquitted,Major,No,Yes,No,Yes
+Burglary,2021-01-22 21:38:44,South,2021-01-22 21:46:44,None,28,Female,Singaporean,61,Male,Malaysian,7,Yes,Dismissed,Major,No,Yes,Yes,Yes
+Drug Offense,2021-01-23 23:55:40,South,2021-01-24 00:51:40,Firearm,50,Male,Indian,60,Male,Malaysian,6,No,Pending,Moderate,No,Yes,No,Yes
+Vandalism,2021-01-25 02:12:36,North,2021-01-25 02:49:36,Knife,33,Male,Malaysian,78,Male,Indian,5,Yes,Pending,Moderate,No,Yes,No,No
+Drug Offense,2021-01-26 04:29:32,Central,2021-01-26 04:33:32,Knife,29,Male,Others,20,Male,Malaysian,6,No,Acquitted,Minor,No,Yes,Yes,Yes
+Theft,2021-01-27 06:46:29,Central,2021-01-27 07:11:29,Firearm,54,Male,Indonesian,69,Male,Indian,1,Yes,Pending,Minor,Yes,Yes,No,No
+Vandalism,2021-01-28 09:03:25,North,2021-01-28 09:33:25,Other,44,Male,Others,61,Male,Malaysian,6,No,Pending,Minor,No,Yes,No,Yes
+Burglary,2021-01-29 11:20:21,Central,2021-01-29 11:53:21,Knife,58,Male,Malaysian,78,Male,Malaysian,2,Yes,Acquitted,Moderate,No,Yes,No,No
+Burglary,2021-01-30 13:37:17,South,2021-01-30 13:38:17,None,19,Male,Others,52,Female,Singaporean,6,No,Dismissed,Moderate,No,Yes,No,Yes
+Fraud,2021-01-31 15:54:14,North,2021-01-31 16:20:14,Knife,51,Male,Indonesian,42,Female,Malaysian,9,No,Dismissed,Moderate,Yes,No,Yes,Yes
+Assault,2021-02-01 18:11:10,North,2021-02-01 18:34:10,Other,55,Male,Indian,78,Male,Others,9,Yes,Convicted,Moderate,No,No,Yes,Yes
+Others,2021-02-02 20:28:06,South,2021-02-02 21:00:06,Other,42,Female,Malaysian,71,Male,Others,2,No,Pending,Minor,No,Yes,Yes,Yes
+Burglary,2021-02-03 22:45:02,East,2021-02-03 23:42:02,Other,59,Male,Indian,52,Male,Malaysian,2,Yes,Pending,Moderate,No,Yes,No,Yes
+Fraud,2021-02-05 01:01:58,North,2021-02-05 01:54:58,Other,34,Female,Others,49,Female,Indian,8,No,Pending,Moderate,Yes,Yes,No,Yes
+Assault,2021-02-06 03:18:55,North,2021-02-06 03:26:55,None,43,Male,Malaysian,30,Male,Malaysian,8,Yes,Acquitted,Major,Yes,Yes,No,Yes
+Vandalism,2021-02-07 05:35:51,North,2021-02-07 06:21:51,Knife,54,Male,Indian,79,Male,Indian,4,No,Dismissed,Minor,No,No,No,Yes
+Theft,2021-02-08 07:52:47,East,2021-02-08 08:18:47,Knife,58,Male,Indian,72,Male,Malaysian,6,Yes,Pending,Major,No,Yes,Yes,No
+Assault,2021-02-09 10:09:43,East,2021-02-09 10:55:43,None,60,Male,Others,28,Female,Singaporean,9,No,Dismissed,Major,Yes,No,No,No
+Others,2021-02-10 12:26:40,Central,2021-02-10 13:02:40,Firearm,64,Female,Indonesian,71,Female,Malaysian,1,No,Acquitted,Minor,No,No,No,No
+Theft,2021-02-11 14:43:36,North,2021-02-11 15:03:36,Knife,34,Female,Indonesian,69,Male,Others,5,Yes,Acquitted,Major,No,Yes,Yes,Yes
+Others,2021-02-12 17:00:32,West,2021-02-12 17:11:32,None,75,Male,Singaporean,49,Male,Singaporean,0,Yes,Acquitted,Moderate,No,Yes,Yes,Yes
+Others,2021-02-13 19:17:28,East,2021-02-13 19:58:28,Other,68,Female,Indonesian,22,Male,Others,2,No,Convicted,Minor,No,No,Yes,Yes
+Theft,2021-02-14 21:34:24,Central,2021-02-14 22:03:24,Knife,57,Female,Others,21,Male,Singaporean,5,Yes,Acquitted,Major,Yes,Yes,Yes,Yes
+Assault,2021-02-15 23:51:21,South,2021-02-16 00:20:21,Firearm,31,Female,Indian,79,Male,Indian,7,No,Dismissed,Minor,Yes,No,No,No
+Others,2021-02-17 02:08:17,Central,2021-02-17 02:22:17,None,53,Female,Indonesian,76,Female,Indian,9,No,Acquitted,Minor,No,No,No,Yes
+Theft,2021-02-18 04:25:13,North,2021-02-18 05:11:13,Knife,25,Male,Indian,62,Female,Singaporean,3,No,Acquitted,Major,No,No,Yes,Yes
+Vandalism,2021-02-19 06:42:09,Central,2021-02-19 07:12:09,Firearm,53,Female,Others,25,Female,Others,7,Yes,Dismissed,Minor,No,Yes,Yes,Yes
+Drug Offense,2021-02-20 08:59:05,South,2021-02-20 09:39:05,Other,72,Male,Others,52,Male,Others,9,No,Dismissed,Minor,No,Yes,Yes,No
+Assault,2021-02-21 11:16:02,Central,2021-02-21 11:28:02,Firearm,42,Female,Indonesian,26,Female,Singaporean,9,Yes,Acquitted,Moderate,Yes,Yes,No,Yes
+Burglary,2021-02-22 13:32:58,East,2021-02-22 14:16:58,Other,42,Male,Singaporean,63,Female,Indonesian,1,No,Dismissed,Minor,No,No,No,No
+Assault,2021-02-23 15:49:54,West,2021-02-23 16:12:54,Knife,75,Female,Others,43,Male,Indonesian,5,No,Acquitted,Moderate,Yes,No,Yes,Yes
+Burglary,2021-02-24 18:06:50,East,2021-02-24 18:32:50,Firearm,66,Male,Singaporean,57,Female,Indian,6,No,Dismissed,Major,Yes,Yes,No,Yes
+Vandalism,2021-02-25 20:23:47,Central,2021-02-25 21:13:47,Firearm,47,Male,Indonesian,37,Female,Indonesian,4,No,Convicted,Moderate,No,Yes,Yes,Yes
+Fraud,2021-02-26 22:40:43,East,2021-02-26 22:49:43,Knife,74,Male,Singaporean,22,Female,Others,2,No,Dismissed,Moderate,Yes,Yes,Yes,Yes
+Theft,2021-02-28 00:57:39,South,2021-02-28 01:48:39,Firearm,21,Male,Indian,37,Male,Indian,9,Yes,Dismissed,Moderate,No,No,Yes,No
+Vandalism,2021-03-01 03:14:35,North,2021-03-01 04:02:35,Firearm,40,Female,Malaysian,68,Female,Others,7,No,Pending,Minor,No,Yes,No,Yes
+Others,2021-03-02 05:31:31,South,2021-03-02 05:58:31,None,26,Male,Others,30,Male,Others,4,No,Dismissed,Moderate,No,Yes,No,No
+Fraud,2021-03-03 07:48:28,North,2021-03-03 08:25:28,None,74,Male,Singaporean,45,Female,Indonesian,9,Yes,Convicted,Moderate,Yes,No,No,Yes
+Assault,2021-03-04 10:05:24,West,2021-03-04 10:45:24,Other,66,Female,Others,74,Male,Others,8,Yes,Dismissed,Major,No,No,No,Yes
+Others,2021-03-05 12:22:20,South,2021-03-05 13:03:20,Firearm,39,Male,Indian,26,Male,Others,6,No,Convicted,Major,No,Yes,No,No
+Others,2021-03-06 14:39:16,North,2021-03-06 14:59:16,None,64,Male,Indonesian,31,Male,Others,4,Yes,Convicted,Moderate,No,No,Yes,Yes
+Others,2021-03-07 16:56:12,East,2021-03-07 17:04:12,Firearm,22,Male,Others,18,Female,Others,4,Yes,Convicted,Moderate,No,No,No,No
+Drug Offense,2021-03-08 19:13:09,North,2021-03-08 19:57:09,Knife,53,Female,Malaysian,35,Male,Indian,5,Yes,Convicted,Minor,Yes,Yes,Yes,No
+Drug Offense,2021-03-09 21:30:05,East,2021-03-09 22:19:05,None,77,Female,Singaporean,22,Female,Indonesian,5,No,Acquitted,Major,Yes,Yes,Yes,Yes
+Fraud,2021-03-10 23:47:01,Central,2021-03-11 00:04:01,None,28,Female,Malaysian,36,Female,Indian,5,Yes,Pending,Moderate,No,No,No,No
+Others,2021-03-12 02:03:57,North,2021-03-12 02:40:57,Knife,42,Male,Indonesian,27,Male,Malaysian,2,Yes,Convicted,Minor,Yes,No,Yes,No
+Assault,2021-03-13 04:20:54,South,2021-03-13 05:19:54,None,79,Female,Singaporean,74,Male,Singaporean,2,No,Pending,Moderate,Yes,Yes,Yes,Yes
+Vandalism,2021-03-14 06:37:50,North,2021-03-14 06:42:50,Knife,38,Male,Malaysian,21,Female,Indian,0,No,Acquitted,Moderate,No,No,No,Yes
+Burglary,2021-03-15 08:54:46,East,2021-03-15 09:21:46,Other,64,Male,Others,54,Male,Singaporean,8,No,Convicted,Major,Yes,Yes,No,Yes
+Burglary,2021-03-16 11:11:42,South,2021-03-16 12:02:42,Knife,44,Male,Malaysian,21,Female,Malaysian,8,Yes,Acquitted,Moderate,No,Yes,No,No
+Others,2021-03-17 13:28:38,North,2021-03-17 13:36:38,Other,68,Female,Singaporean,42,Male,Indian,0,Yes,Convicted,Moderate,No,Yes,No,Yes
+Assault,2021-03-18 15:45:35,Central,2021-03-18 16:00:35,Other,42,Female,Singaporean,61,Female,Malaysian,4,No,Pending,Moderate,No,Yes,Yes,Yes
+Vandalism,2021-03-19 18:02:31,Central,2021-03-19 18:49:31,Knife,37,Male,Indian,27,Male,Malaysian,2,No,Acquitted,Minor,Yes,Yes,No,Yes
+Assault,2021-03-20 20:19:27,East,2021-03-20 20:47:27,None,66,Male,Others,35,Female,Others,7,No,Pending,Minor,Yes,No,Yes,Yes
+Vandalism,2021-03-21 22:36:23,North,2021-03-21 23:16:23,None,55,Male,Indian,25,Female,Indian,2,No,Acquitted,Minor,No,Yes,No,No
+Fraud,2021-03-23 00:53:20,North,2021-03-23 01:45:20,Knife,26,Female,Malaysian,47,Female,Indian,5,Yes,Convicted,Minor,Yes,No,No,Yes
+Fraud,2021-03-24 03:10:16,West,2021-03-24 04:07:16,Knife,61,Male,Singaporean,19,Male,Indonesian,7,No,Convicted,Minor,No,No,No,No
+Vandalism,2021-03-25 05:27:12,East,2021-03-25 05:35:12,Knife,57,Male,Singaporean,37,Female,Others,1,Yes,Convicted,Moderate,No,Yes,Yes,Yes
+Assault,2021-03-26 07:44:08,South,2021-03-26 08:22:08,Firearm,68,Male,Others,54,Female,Indian,6,Yes,Dismissed,Major,Yes,No,No,No
+Drug Offense,2021-03-27 10:01:04,West,2021-03-27 10:12:04,Other,51,Female,Singaporean,58,Male,Indian,4,Yes,Convicted,Major,Yes,Yes,Yes,No
+Others,2021-03-28 12:18:01,West,2021-03-28 12:40:01,Other,28,Female,Malaysian,70,Male,Malaysian,3,Yes,Acquitted,Minor,Yes,No,No,Yes
+Burglary,2021-03-29 14:34:57,North,2021-03-29 14:52:57,Firearm,24,Female,Others,34,Female,Malaysian,1,No,Convicted,Minor,Yes,No,Yes,Yes
+Vandalism,2021-03-30 16:51:53,East,2021-03-30 17:38:53,None,27,Female,Malaysian,51,Male,Indonesian,7,Yes,Pending,Moderate,No,Yes,No,No
+Burglary,2021-03-31 19:08:49,East,2021-03-31 19:34:49,Firearm,37,Male,Indonesian,34,Female,Indian,3,No,Convicted,Moderate,Yes,No,Yes,Yes
+Burglary,2021-04-01 21:25:45,West,2021-04-01 21:58:45,Firearm,64,Male,Singaporean,73,Male,Malaysian,2,No,Convicted,Moderate,Yes,Yes,No,Yes
+Burglary,2021-04-02 23:42:42,East,2021-04-02 23:45:42,None,73,Male,Indian,37,Female,Others,7,Yes,Pending,Major,No,Yes,No,No
+Theft,2021-04-04 01:59:38,North,2021-04-04 02:48:38,Knife,54,Female,Singaporean,72,Male,Others,2,Yes,Dismissed,Major,No,Yes,No,No
+Theft,2021-04-05 04:16:34,South,2021-04-05 04:30:34,None,68,Male,Singaporean,40,Female,Others,2,Yes,Acquitted,Minor,Yes,Yes,No,No
+Others,2021-04-06 06:33:30,West,2021-04-06 07:04:30,Other,57,Male,Malaysian,50,Female,Indian,7,Yes,Dismissed,Moderate,Yes,No,Yes,Yes
+Vandalism,2021-04-07 08:50:27,South,2021-04-07 08:58:27,Firearm,75,Male,Indian,46,Male,Indonesian,9,Yes,Convicted,Major,No,Yes,Yes,No
+Others,2021-04-08 11:07:23,Central,2021-04-08 11:33:23,None,71,Female,Indonesian,68,Female,Indian,9,No,Pending,Moderate,No,Yes,No,Yes
+Vandalism,2021-04-09 13:24:19,East,2021-04-09 14:00:19,None,61,Male,Singaporean,25,Male,Indian,9,Yes,Pending,Minor,No,Yes,No,Yes
+Assault,2021-04-10 15:41:15,East,2021-04-10 15:50:15,Knife,23,Female,Indonesian,56,Male,Singaporean,8,Yes,Convicted,Minor,Yes,No,Yes,No
+Burglary,2021-04-11 17:58:11,North,2021-04-11 18:11:11,Knife,18,Male,Indonesian,65,Female,Others,6,No,Pending,Minor,No,Yes,No,No
+Theft,2021-04-12 20:15:08,North,2021-04-12 21:05:08,Firearm,24,Male,Singaporean,43,Male,Indonesian,1,Yes,Dismissed,Major,Yes,Yes,Yes,No
+Others,2021-04-13 22:32:04,West,2021-04-13 23:04:04,Knife,74,Male,Indonesian,40,Male,Indian,2,No,Convicted,Minor,Yes,Yes,No,No
+Vandalism,2021-04-15 00:49:00,Central,2021-04-15 00:54:00,Other,19,Female,Indonesian,50,Female,Indian,8,No,Convicted,Minor,No,No,Yes,Yes
+Theft,2021-04-16 03:05:56,Central,2021-04-16 03:49:56,Other,63,Female,Malaysian,46,Male,Singaporean,2,No,Acquitted,Moderate,Yes,No,Yes,Yes
+Fraud,2021-04-17 05:22:52,East,2021-04-17 06:16:52,Knife,31,Female,Others,42,Male,Indonesian,9,Yes,Acquitted,Moderate,Yes,No,Yes,Yes
+Vandalism,2021-04-18 07:39:49,North,2021-04-18 08:11:49,None,23,Male,Singaporean,44,Male,Malaysian,8,Yes,Dismissed,Minor,Yes,No,No,No
+Assault,2021-04-19 09:56:45,East,2021-04-19 10:29:45,Firearm,73,Male,Indian,57,Male,Malaysian,1,Yes,Dismissed,Major,No,No,Yes,No
+Fraud,2021-04-20 12:13:41,East,2021-04-20 12:58:41,Knife,72,Female,Indonesian,29,Male,Singaporean,8,No,Dismissed,Minor,Yes,No,No,No
+Fraud,2021-04-21 14:30:37,North,2021-04-21 14:35:37,Knife,36,Female,Singaporean,71,Male,Others,7,Yes,Dismissed,Major,Yes,No,No,Yes
+Burglary,2021-04-22 16:47:34,Central,2021-04-22 17:19:34,Other,51,Female,Singaporean,26,Female,Others,8,No,Pending,Major,Yes,No,No,Yes
+Fraud,2021-04-23 19:04:30,Central,2021-04-23 19:36:30,None,74,Male,Others,59,Female,Others,9,Yes,Pending,Moderate,Yes,Yes,Yes,Yes
+Drug Offense,2021-04-24 21:21:26,Central,2021-04-24 21:42:26,Firearm,28,Female,Malaysian,47,Male,Indian,1,No,Dismissed,Minor,Yes,Yes,Yes,No
+Drug Offense,2021-04-25 23:38:22,East,2021-04-26 00:25:22,None,77,Female,Singaporean,33,Female,Malaysian,1,No,Convicted,Major,No,Yes,Yes,Yes
+Theft,2021-04-27 01:55:18,West,2021-04-27 02:11:18,Other,40,Male,Indonesian,73,Male,Others,1,No,Pending,Minor,No,Yes,No,No
+Burglary,2021-04-28 04:12:15,Central,2021-04-28 05:04:15,None,37,Female,Indonesian,48,Male,Indian,8,Yes,Pending,Minor,No,No,No,Yes
+Assault,2021-04-29 06:29:11,South,2021-04-29 07:08:11,Knife,30,Male,Others,54,Male,Indian,5,No,Acquitted,Moderate,Yes,Yes,Yes,Yes
+Others,2021-04-30 08:46:07,West,2021-04-30 09:29:07,Firearm,54,Female,Malaysian,30,Male,Indian,5,Yes,Pending,Major,Yes,No,Yes,Yes
+Drug Offense,2021-05-01 11:03:03,West,2021-05-01 11:19:03,None,73,Male,Indonesian,52,Male,Singaporean,3,Yes,Convicted,Minor,No,Yes,Yes,No
+Vandalism,2021-05-02 13:20:00,Central,2021-05-02 13:35:00,Firearm,35,Male,Others,25,Male,Malaysian,6,No,Acquitted,Moderate,No,Yes,Yes,No
+Theft,2021-05-03 15:36:56,Central,2021-05-03 15:39:56,Other,61,Male,Indian,73,Male,Indian,8,Yes,Pending,Major,Yes,No,Yes,No
+Burglary,2021-05-04 17:53:52,West,2021-05-04 18:17:52,None,21,Female,Malaysian,58,Female,Malaysian,7,No,Pending,Moderate,Yes,No,Yes,Yes
+Vandalism,2021-05-05 20:10:48,East,2021-05-05 20:26:48,Firearm,71,Female,Indonesian,31,Male,Others,7,No,Convicted,Major,Yes,No,No,Yes
+Fraud,2021-05-06 22:27:44,East,2021-05-06 22:54:44,None,45,Female,Indian,41,Male,Singaporean,1,No,Acquitted,Minor,Yes,No,Yes,No
+Drug Offense,2021-05-08 00:44:41,East,2021-05-08 01:06:41,None,28,Male,Indian,45,Male,Others,6,Yes,Acquitted,Moderate,Yes,No,Yes,Yes
+Vandalism,2021-05-09 03:01:37,West,2021-05-09 03:42:37,None,65,Female,Indonesian,50,Female,Others,6,No,Acquitted,Major,Yes,No,Yes,Yes
+Fraud,2021-05-10 05:18:33,South,2021-05-10 05:26:33,Knife,62,Female,Others,20,Male,Malaysian,8,No,Convicted,Major,Yes,Yes,No,No
+Drug Offense,2021-05-11 07:35:29,Central,2021-05-11 07:36:29,None,59,Male,Indonesian,35,Male,Malaysian,5,No,Dismissed,Moderate,No,Yes,Yes,Yes
+Burglary,2021-05-12 09:52:25,East,2021-05-12 10:18:25,None,65,Male,Indonesian,25,Female,Indian,4,No,Dismissed,Major,Yes,Yes,Yes,Yes
+Theft,2021-05-13 12:09:22,Central,2021-05-13 12:34:22,Knife,51,Female,Others,71,Male,Malaysian,1,No,Dismissed,Major,No,No,Yes,No
+Drug Offense,2021-05-14 14:26:18,South,2021-05-14 14:37:18,Knife,20,Male,Others,45,Male,Indian,1,No,Dismissed,Minor,Yes,Yes,Yes,No
+Fraud,2021-05-15 16:43:14,East,2021-05-15 17:42:14,Other,47,Male,Singaporean,45,Female,Singaporean,8,No,Acquitted,Minor,No,Yes,No,Yes
+Fraud,2021-05-16 19:00:10,South,2021-05-16 19:37:10,Knife,40,Male,Indian,26,Female,Indian,1,No,Dismissed,Major,Yes,Yes,Yes,No
+Vandalism,2021-05-17 21:17:07,North,2021-05-17 21:59:07,Knife,63,Male,Indian,62,Male,Others,4,Yes,Pending,Major,No,Yes,Yes,No
+Burglary,2021-05-18 23:34:03,South,2021-05-18 23:49:03,Firearm,41,Male,Malaysian,46,Male,Malaysian,7,No,Convicted,Minor,No,Yes,No,Yes
+Others,2021-05-20 01:50:59,West,2021-05-20 02:08:59,None,66,Female,Malaysian,77,Male,Malaysian,6,No,Dismissed,Moderate,No,Yes,No,No
+Theft,2021-05-21 04:07:55,North,2021-05-21 04:53:55,None,27,Male,Indonesian,28,Female,Indonesian,6,Yes,Acquitted,Major,Yes,No,Yes,No
+Others,2021-05-22 06:24:51,Central,2021-05-22 07:09:51,Other,79,Male,Indian,38,Male,Singaporean,9,No,Convicted,Minor,Yes,No,No,No
+Fraud,2021-05-23 08:41:48,South,2021-05-23 08:55:48,None,26,Male,Singaporean,60,Female,Others,0,No,Acquitted,Minor,Yes,No,Yes,Yes
+Fraud,2021-05-24 10:58:44,Central,2021-05-24 11:52:44,Other,57,Female,Malaysian,77,Female,Others,4,Yes,Pending,Major,No,Yes,No,No
+Burglary,2021-05-25 13:15:40,Central,2021-05-25 14:03:40,Knife,59,Male,Indonesian,67,Male,Indian,8,No,Pending,Moderate,Yes,Yes,No,No
+Vandalism,2021-05-26 15:32:36,South,2021-05-26 15:43:36,Firearm,78,Female,Singaporean,57,Female,Indonesian,5,No,Dismissed,Major,Yes,No,No,No
+Vandalism,2021-05-27 17:49:32,Central,2021-05-27 18:26:32,None,46,Female,Indian,40,Female,Indonesian,8,No,Pending,Minor,Yes,No,No,Yes
+Theft,2021-05-28 20:06:29,Central,2021-05-28 20:52:29,Other,29,Male,Others,38,Male,Malaysian,2,Yes,Pending,Major,Yes,No,No,No
+Others,2021-05-29 22:23:25,North,2021-05-29 22:57:25,Knife,21,Female,Others,32,Male,Indonesian,4,Yes,Pending,Major,Yes,No,No,Yes
+Vandalism,2021-05-31 00:40:21,South,2021-05-31 00:58:21,Other,33,Male,Others,63,Male,Indonesian,3,Yes,Convicted,Major,No,Yes,No,No
+Drug Offense,2021-06-01 02:57:17,North,2021-06-01 03:20:17,Firearm,54,Female,Singaporean,46,Female,Others,2,Yes,Pending,Moderate,Yes,Yes,Yes,No
+Burglary,2021-06-02 05:14:14,South,2021-06-02 05:30:14,Knife,69,Female,Others,47,Male,Singaporean,7,No,Convicted,Moderate,Yes,No,No,Yes
+Fraud,2021-06-03 07:31:10,North,2021-06-03 08:05:10,Knife,70,Female,Singaporean,21,Male,Singaporean,5,No,Dismissed,Minor,No,No,Yes,No
+Others,2021-06-04 09:48:06,South,2021-06-04 10:13:06,Other,61,Female,Indian,23,Female,Others,0,No,Pending,Moderate,Yes,No,Yes,Yes
+Theft,2021-06-05 12:05:02,East,2021-06-05 12:28:02,Knife,57,Female,Indonesian,77,Male,Singaporean,1,No,Convicted,Minor,Yes,No,Yes,Yes
+Fraud,2021-06-06 14:21:58,South,2021-06-06 14:39:58,Other,76,Male,Malaysian,45,Male,Others,6,No,Pending,Minor,Yes,No,No,Yes
+Drug Offense,2021-06-07 16:38:55,Central,2021-06-07 17:31:55,Other,55,Female,Indonesian,24,Female,Singaporean,8,No,Dismissed,Moderate,Yes,No,No,No
+Burglary,2021-06-08 18:55:51,South,2021-06-08 19:27:51,Knife,49,Female,Indian,34,Male,Indonesian,0,No,Pending,Major,Yes,Yes,No,Yes
+Others,2021-06-09 21:12:47,North,2021-06-09 22:03:47,Other,77,Male,Singaporean,32,Male,Malaysian,2,No,Acquitted,Moderate,Yes,Yes,Yes,Yes
+Vandalism,2021-06-10 23:29:43,Central,2021-06-10 23:46:43,Other,59,Female,Indonesian,71,Male,Malaysian,5,Yes,Convicted,Moderate,No,No,No,Yes
+Others,2021-06-12 01:46:40,East,2021-06-12 02:35:40,Other,74,Female,Others,73,Female,Malaysian,5,No,Convicted,Moderate,Yes,No,No,No
+Theft,2021-06-13 04:03:36,Central,2021-06-13 04:55:36,Firearm,54,Male,Others,33,Male,Indian,9,Yes,Convicted,Moderate,Yes,No,Yes,No
+Others,2021-06-14 06:20:32,Central,2021-06-14 07:08:32,None,54,Male,Malaysian,61,Female,Malaysian,6,No,Dismissed,Minor,No,No,No,Yes
+Others,2021-06-15 08:37:28,West,2021-06-15 09:29:28,Other,37,Female,Singaporean,46,Female,Others,3,No,Pending,Minor,No,No,No,Yes
+Fraud,2021-06-16 10:54:24,West,2021-06-16 10:58:24,None,55,Male,Others,37,Female,Malaysian,6,Yes,Acquitted,Major,Yes,Yes,No,No
+Vandalism,2021-06-17 13:11:21,East,2021-06-17 13:29:21,Knife,43,Male,Malaysian,41,Male,Malaysian,2,Yes,Convicted,Minor,Yes,Yes,No,No
+Burglary,2021-06-18 15:28:17,North,2021-06-18 15:46:17,Knife,59,Female,Indonesian,37,Female,Malaysian,2,No,Acquitted,Moderate,Yes,Yes,No,Yes
+Burglary,2021-06-19 17:45:13,South,2021-06-19 18:19:13,Other,39,Female,Indian,73,Male,Indonesian,8,No,Acquitted,Major,Yes,Yes,Yes,No
+Drug Offense,2021-06-20 20:02:09,East,2021-06-20 20:48:09,Firearm,61,Female,Indonesian,39,Male,Indian,3,Yes,Convicted,Moderate,Yes,No,Yes,Yes
+Assault,2021-06-21 22:19:05,South,2021-06-21 23:04:05,None,29,Female,Indian,52,Male,Others,0,No,Dismissed,Major,No,No,No,Yes
+Fraud,2021-06-23 00:36:02,South,2021-06-23 01:04:02,Other,24,Female,Malaysian,22,Female,Others,7,Yes,Acquitted,Minor,No,Yes,Yes,No
+Vandalism,2021-06-24 02:52:58,Central,2021-06-24 03:38:58,Other,73,Male,Malaysian,69,Female,Malaysian,0,Yes,Dismissed,Major,Yes,No,No,Yes
+Theft,2021-06-25 05:09:54,South,2021-06-25 06:06:54,Other,23,Male,Indian,46,Female,Others,8,No,Acquitted,Major,No,No,Yes,Yes
+Vandalism,2021-06-26 07:26:50,Central,2021-06-26 07:32:50,Other,52,Female,Singaporean,70,Female,Indonesian,1,Yes,Dismissed,Major,Yes,No,No,No
+Others,2021-06-27 09:43:47,North,2021-06-27 10:28:47,Knife,51,Male,Indonesian,53,Male,Singaporean,5,Yes,Dismissed,Major,Yes,Yes,No,No
+Fraud,2021-06-28 12:00:43,North,2021-06-28 12:14:43,None,73,Male,Indian,27,Female,Indonesian,2,No,Dismissed,Minor,No,Yes,Yes,Yes
+Assault,2021-06-29 14:17:39,North,2021-06-29 14:46:39,Firearm,39,Female,Singaporean,79,Male,Others,3,No,Convicted,Moderate,Yes,Yes,Yes,No
+Drug Offense,2021-06-30 16:34:35,Central,2021-06-30 17:18:35,Other,33,Male,Others,27,Male,Indonesian,3,Yes,Pending,Major,No,Yes,No,Yes
+Burglary,2021-07-01 18:51:31,West,2021-07-01 19:37:31,None,71,Female,Malaysian,71,Male,Indian,0,No,Convicted,Minor,No,Yes,Yes,Yes
+Fraud,2021-07-02 21:08:28,Central,2021-07-02 21:13:28,None,47,Male,Others,32,Female,Others,4,No,Dismissed,Minor,Yes,No,Yes,Yes
+Assault,2021-07-03 23:25:24,Central,2021-07-03 23:55:24,Firearm,63,Female,Others,19,Female,Indonesian,1,No,Convicted,Moderate,Yes,Yes,Yes,Yes
+Burglary,2021-07-05 01:42:20,Central,2021-07-05 02:22:20,Firearm,71,Male,Singaporean,57,Female,Singaporean,6,Yes,Dismissed,Major,No,No,Yes,Yes
+Theft,2021-07-06 03:59:16,East,2021-07-06 04:48:16,Knife,20,Female,Others,20,Male,Others,6,Yes,Acquitted,Moderate,Yes,Yes,No,Yes
+Theft,2021-07-07 06:16:12,East,2021-07-07 06:29:12,Other,44,Female,Indonesian,68,Female,Singaporean,0,No,Convicted,Moderate,Yes,No,Yes,Yes
+Drug Offense,2021-07-08 08:33:09,East,2021-07-08 09:00:09,Other,28,Male,Singaporean,62,Female,Singaporean,8,Yes,Pending,Minor,No,No,Yes,Yes
+Vandalism,2021-07-09 10:50:05,North,2021-07-09 11:46:05,Firearm,24,Female,Singaporean,31,Male,Others,4,Yes,Pending,Major,No,Yes,No,Yes
+Fraud,2021-07-10 13:07:01,South,2021-07-10 13:42:01,Other,64,Male,Singaporean,46,Male,Singaporean,1,Yes,Pending,Minor,No,Yes,No,Yes
+Assault,2021-07-11 15:23:57,Central,2021-07-11 15:32:57,Knife,57,Male,Singaporean,54,Male,Indonesian,8,No,Dismissed,Moderate,Yes,Yes,No,No
+Fraud,2021-07-12 17:40:54,South,2021-07-12 18:05:54,Firearm,60,Female,Malaysian,35,Female,Singaporean,2,Yes,Acquitted,Minor,No,Yes,No,Yes
+Burglary,2021-07-13 19:57:50,West,2021-07-13 20:04:50,Other,63,Male,Malaysian,57,Male,Indian,6,Yes,Convicted,Major,Yes,Yes,Yes,Yes
+Others,2021-07-14 22:14:46,East,2021-07-14 22:28:46,None,59,Female,Indian,69,Male,Others,7,Yes,Dismissed,Major,No,Yes,No,Yes
+Vandalism,2021-07-16 00:31:42,South,2021-07-16 01:29:42,None,40,Female,Indian,73,Male,Indian,6,Yes,Acquitted,Moderate,No,No,No,Yes
+Fraud,2021-07-17 02:48:38,West,2021-07-17 03:01:38,None,71,Female,Malaysian,42,Male,Singaporean,7,Yes,Convicted,Moderate,No,No,Yes,No
+Assault,2021-07-18 05:05:35,North,2021-07-18 06:02:35,Firearm,60,Male,Indian,71,Male,Singaporean,4,No,Convicted,Moderate,Yes,No,Yes,No
+Burglary,2021-07-19 07:22:31,East,2021-07-19 07:38:31,Firearm,21,Male,Indian,66,Male,Malaysian,3,No,Convicted,Major,Yes,Yes,Yes,No
+Theft,2021-07-20 09:39:27,Central,2021-07-20 09:53:27,Other,78,Female,Others,22,Female,Indian,5,Yes,Dismissed,Minor,Yes,No,Yes,No
+Theft,2021-07-21 11:56:23,South,2021-07-21 12:53:23,Firearm,62,Male,Malaysian,59,Male,Others,3,Yes,Dismissed,Minor,Yes,Yes,Yes,No
+Vandalism,2021-07-22 14:13:20,South,2021-07-22 14:24:20,Firearm,43,Male,Others,30,Female,Others,3,No,Dismissed,Minor,No,No,Yes,No
+Drug Offense,2021-07-23 16:30:16,East,2021-07-23 17:09:16,Firearm,45,Male,Singaporean,50,Male,Singaporean,2,No,Pending,Major,No,No,Yes,Yes
+Theft,2021-07-24 18:47:12,South,2021-07-24 18:49:12,Firearm,72,Male,Others,67,Female,Indonesian,7,Yes,Pending,Major,Yes,No,No,Yes
+Theft,2021-07-25 21:04:08,West,2021-07-25 21:08:08,Firearm,27,Male,Others,21,Male,Malaysian,2,Yes,Acquitted,Minor,Yes,Yes,Yes,Yes
+Burglary,2021-07-26 23:21:04,East,2021-07-26 23:26:04,Knife,66,Male,Others,26,Male,Indian,8,No,Dismissed,Major,Yes,No,Yes,Yes
+Theft,2021-07-28 01:38:01,East,2021-07-28 02:37:01,None,21,Female,Malaysian,18,Female,Malaysian,4,No,Dismissed,Moderate,Yes,No,Yes,Yes
+Vandalism,2021-07-29 03:54:57,East,2021-07-29 04:08:57,Knife,66,Male,Singaporean,69,Male,Others,5,No,Pending,Major,No,Yes,No,No
+Assault,2021-07-30 06:11:53,West,2021-07-30 06:40:53,Knife,32,Male,Indonesian,76,Male,Indian,7,Yes,Acquitted,Moderate,Yes,Yes,No,No
+Fraud,2021-07-31 08:28:49,East,2021-07-31 09:25:49,Knife,62,Male,Others,45,Male,Others,1,Yes,Convicted,Minor,No,Yes,Yes,No
+Others,2021-08-01 10:45:45,East,2021-08-01 11:24:45,Knife,57,Female,Singaporean,29,Male,Singaporean,6,Yes,Dismissed,Major,Yes,No,Yes,No
+Others,2021-08-02 13:02:42,East,2021-08-02 13:52:42,None,57,Male,Others,63,Female,Indian,2,No,Acquitted,Major,Yes,Yes,Yes,Yes
+Assault,2021-08-03 15:19:38,North,2021-08-03 15:56:38,None,19,Female,Singaporean,62,Female,Indian,3,No,Acquitted,Moderate,No,Yes,Yes,No
+Assault,2021-08-04 17:36:34,West,2021-08-04 18:12:34,Firearm,56,Female,Indian,49,Male,Malaysian,8,No,Pending,Moderate,No,No,No,Yes
+Fraud,2021-08-05 19:53:30,Central,2021-08-05 20:06:30,Other,19,Male,Singaporean,61,Female,Others,5,No,Pending,Major,No,No,No,No
+Theft,2021-08-06 22:10:27,South,2021-08-06 22:30:27,Other,42,Male,Others,30,Female,Indonesian,9,Yes,Pending,Major,Yes,Yes,Yes,No
+Drug Offense,2021-08-08 00:27:23,West,2021-08-08 01:17:23,None,78,Male,Indonesian,64,Male,Indian,0,No,Dismissed,Major,No,No,Yes,No
+Assault,2021-08-09 02:44:19,South,2021-08-09 03:41:19,None,59,Male,Others,62,Male,Indian,1,No,Convicted,Moderate,Yes,No,No,Yes
+Others,2021-08-10 05:01:15,North,2021-08-10 05:38:15,Other,41,Female,Indian,74,Female,Indonesian,8,Yes,Dismissed,Moderate,Yes,No,Yes,No
+Drug Offense,2021-08-11 07:18:11,East,2021-08-11 08:14:11,Knife,18,Female,Singaporean,64,Male,Others,1,Yes,Convicted,Major,No,Yes,Yes,No
+Vandalism,2021-08-12 09:35:08,West,2021-08-12 10:07:08,Other,73,Female,Others,69,Male,Malaysian,7,Yes,Pending,Moderate,Yes,No,Yes,Yes
+Drug Offense,2021-08-13 11:52:04,North,2021-08-13 11:54:04,Knife,19,Female,Others,41,Female,Singaporean,5,No,Pending,Major,No,Yes,No,No
+Assault,2021-08-14 14:09:00,East,2021-08-14 14:20:00,Knife,51,Female,Others,28,Male,Singaporean,0,No,Pending,Major,No,No,No,No
+Assault,2021-08-15 16:25:56,Central,2021-08-15 16:46:56,Firearm,62,Male,Indonesian,19,Female,Others,2,Yes,Dismissed,Major,No,Yes,No,No
+Others,2021-08-16 18:42:52,South,2021-08-16 19:29:52,Firearm,78,Female,Others,20,Male,Singaporean,2,Yes,Dismissed,Minor,Yes,No,No,Yes
+Theft,2021-08-17 20:59:49,South,2021-08-17 21:12:49,Firearm,18,Male,Others,47,Male,Singaporean,8,No,Pending,Moderate,No,Yes,No,No
+Theft,2021-08-18 23:16:45,North,2021-08-18 23:30:45,None,26,Male,Indonesian,65,Female,Indonesian,3,No,Dismissed,Minor,Yes,No,Yes,No
+Vandalism,2021-08-20 01:33:41,West,2021-08-20 02:06:41,Other,58,Female,Others,48,Male,Indian,7,Yes,Convicted,Minor,No,No,Yes,No
+Fraud,2021-08-21 03:50:37,East,2021-08-21 04:25:37,None,44,Male,Others,52,Female,Indian,8,No,Pending,Minor,No,No,No,No
+Fraud,2021-08-22 06:07:34,North,2021-08-22 06:45:34,None,46,Male,Others,42,Female,Singaporean,4,Yes,Acquitted,Minor,Yes,Yes,Yes,Yes
+Vandalism,2021-08-23 08:24:30,West,2021-08-23 09:23:30,Knife,67,Female,Indonesian,55,Male,Indonesian,4,Yes,Acquitted,Minor,Yes,Yes,Yes,Yes
+Others,2021-08-24 10:41:26,South,2021-08-24 11:06:26,Firearm,70,Male,Singaporean,55,Male,Malaysian,2,Yes,Convicted,Major,Yes,No,Yes,No
+Vandalism,2021-08-25 12:58:22,West,2021-08-25 13:15:22,Firearm,20,Female,Indian,55,Male,Singaporean,1,Yes,Convicted,Major,No,No,Yes,No
+Drug Offense,2021-08-26 15:15:18,West,2021-08-26 15:55:18,Other,76,Female,Others,59,Female,Singaporean,6,Yes,Acquitted,Minor,Yes,Yes,No,Yes
+Assault,2021-08-27 17:32:15,South,2021-08-27 18:06:15,Knife,32,Female,Indian,77,Male,Indian,4,Yes,Dismissed,Major,No,Yes,No,Yes
+Assault,2021-08-28 19:49:11,South,2021-08-28 20:11:11,Firearm,39,Male,Singaporean,65,Male,Malaysian,1,No,Pending,Moderate,No,Yes,No,No
+Others,2021-08-29 22:06:07,East,2021-08-29 22:52:07,None,38,Male,Indian,35,Female,Others,5,Yes,Pending,Moderate,Yes,No,Yes,No
+Vandalism,2021-08-31 00:23:03,North,2021-08-31 00:32:03,Other,50,Male,Others,55,Male,Indian,7,No,Convicted,Major,Yes,No,Yes,No
+Drug Offense,2021-09-01 02:40:00,North,2021-09-01 03:23:00,Firearm,53,Female,Singaporean,40,Male,Singaporean,6,No,Acquitted,Minor,Yes,No,No,No
+Others,2021-09-02 04:56:56,East,2021-09-02 05:54:56,None,36,Female,Others,52,Female,Indonesian,1,No,Convicted,Minor,Yes,Yes,Yes,Yes
+Fraud,2021-09-03 07:13:52,East,2021-09-03 07:36:52,Firearm,57,Male,Singaporean,61,Female,Singaporean,2,No,Pending,Moderate,Yes,Yes,Yes,Yes
+Fraud,2021-09-04 09:30:48,Central,2021-09-04 09:45:48,Knife,52,Female,Others,21,Male,Malaysian,2,No,Acquitted,Major,No,Yes,Yes,Yes
+Fraud,2021-09-05 11:47:44,East,2021-09-05 12:33:44,Other,71,Female,Singaporean,28,Female,Singaporean,0,Yes,Pending,Minor,No,No,No,Yes
+Vandalism,2021-09-06 14:04:41,East,2021-09-06 14:23:41,None,60,Female,Malaysian,60,Male,Indonesian,7,No,Acquitted,Minor,Yes,No,No,No
+Burglary,2021-09-07 16:21:37,Central,2021-09-07 16:49:37,Other,64,Male,Indonesian,25,Male,Others,5,No,Convicted,Minor,Yes,Yes,Yes,Yes
+Drug Offense,2021-09-08 18:38:33,Central,2021-09-08 19:36:33,Other,57,Male,Malaysian,18,Male,Singaporean,8,No,Convicted,Major,No,No,No,No
+Burglary,2021-09-09 20:55:29,South,2021-09-09 21:14:29,Firearm,78,Female,Indian,27,Female,Singaporean,9,No,Acquitted,Major,No,Yes,Yes,No
+Drug Offense,2021-09-10 23:12:25,East,2021-09-10 23:54:25,Other,28,Male,Others,28,Female,Indian,9,Yes,Acquitted,Minor,No,No,Yes,No
+Drug Offense,2021-09-12 01:29:22,North,2021-09-12 01:54:22,Knife,77,Male,Indonesian,34,Male,Singaporean,0,Yes,Pending,Minor,Yes,Yes,Yes,No
+Burglary,2021-09-13 03:46:18,South,2021-09-13 04:26:18,Firearm,22,Female,Singaporean,69,Female,Indonesian,4,Yes,Dismissed,Minor,No,No,Yes,No
+Drug Offense,2021-09-14 06:03:14,South,2021-09-14 06:07:14,Other,72,Female,Singaporean,52,Male,Malaysian,0,No,Pending,Moderate,No,No,Yes,No
+Others,2021-09-15 08:20:10,South,2021-09-15 08:37:10,Knife,38,Female,Others,21,Male,Others,0,Yes,Acquitted,Major,No,No,Yes,Yes
+Others,2021-09-16 10:37:07,East,2021-09-16 10:38:07,None,56,Female,Indonesian,65,Male,Indian,7,Yes,Convicted,Major,Yes,No,No,No
+Burglary,2021-09-17 12:54:03,West,2021-09-17 13:33:03,Other,74,Male,Singaporean,74,Male,Indian,7,Yes,Acquitted,Moderate,No,No,No,Yes
+Drug Offense,2021-09-18 15:10:59,South,2021-09-18 15:42:59,Knife,22,Male,Others,22,Male,Malaysian,3,No,Acquitted,Major,Yes,Yes,Yes,No
+Assault,2021-09-19 17:27:55,North,2021-09-19 17:36:55,Firearm,39,Male,Singaporean,72,Female,Others,0,Yes,Dismissed,Minor,Yes,Yes,No,No
+Assault,2021-09-20 19:44:51,North,2021-09-20 20:17:51,Other,79,Female,Others,60,Female,Malaysian,9,No,Convicted,Major,No,No,Yes,Yes
+Assault,2021-09-21 22:01:48,South,2021-09-21 22:38:48,Firearm,68,Female,Indian,67,Male,Singaporean,1,Yes,Convicted,Moderate,Yes,Yes,Yes,Yes
+Burglary,2021-09-23 00:18:44,West,2021-09-23 01:12:44,Knife,50,Female,Indonesian,21,Female,Indonesian,1,Yes,Pending,Moderate,Yes,No,No,Yes
+Theft,2021-09-24 02:35:40,West,2021-09-24 03:22:40,Knife,62,Female,Malaysian,67,Female,Malaysian,2,No,Convicted,Moderate,Yes,No,No,No
+Theft,2021-09-25 04:52:36,North,2021-09-25 05:29:36,Other,42,Female,Indonesian,65,Male,Indonesian,1,No,Convicted,Major,Yes,No,Yes,Yes
+Assault,2021-09-26 07:09:32,Central,2021-09-26 07:33:32,Other,23,Female,Malaysian,24,Male,Indonesian,7,Yes,Acquitted,Moderate,Yes,Yes,Yes,No
+Others,2021-09-27 09:26:29,East,2021-09-27 09:44:29,Other,56,Male,Singaporean,70,Male,Indonesian,8,No,Dismissed,Moderate,Yes,No,Yes,Yes
+Burglary,2021-09-28 11:43:25,South,2021-09-28 12:30:25,Knife,79,Female,Indian,66,Female,Indonesian,3,Yes,Dismissed,Moderate,Yes,Yes,No,No
+Fraud,2021-09-29 14:00:21,West,2021-09-29 14:29:21,None,63,Male,Indian,39,Female,Indian,9,No,Dismissed,Minor,Yes,No,Yes,No
+Drug Offense,2021-09-30 16:17:17,South,2021-09-30 16:26:17,Firearm,69,Male,Indonesian,31,Female,Malaysian,9,Yes,Convicted,Moderate,Yes,Yes,No,No
+Theft,2021-10-01 18:34:14,East,2021-10-01 18:39:14,Firearm,27,Male,Indonesian,39,Female,Indian,3,No,Dismissed,Major,No,No,No,No
+Drug Offense,2021-10-02 20:51:10,Central,2021-10-02 20:57:10,Other,64,Female,Indian,44,Male,Singaporean,0,Yes,Dismissed,Minor,No,Yes,Yes,Yes
+Burglary,2021-10-03 23:08:06,East,2021-10-04 00:02:06,Firearm,79,Female,Malaysian,28,Female,Indonesian,0,Yes,Pending,Major,No,Yes,Yes,No
+Assault,2021-10-05 01:25:02,Central,2021-10-05 02:17:02,None,58,Female,Malaysian,46,Female,Singaporean,3,No,Acquitted,Moderate,Yes,No,Yes,Yes
+Assault,2021-10-06 03:41:58,East,2021-10-06 04:19:58,Other,78,Female,Indian,51,Male,Indonesian,1,No,Pending,Moderate,Yes,No,Yes,No
+Drug Offense,2021-10-07 05:58:55,East,2021-10-07 06:26:55,Other,37,Female,Others,68,Female,Others,8,Yes,Acquitted,Minor,No,No,Yes,Yes
+Fraud,2021-10-08 08:15:51,North,2021-10-08 09:05:51,Firearm,54,Female,Malaysian,56,Female,Indian,6,Yes,Acquitted,Moderate,Yes,Yes,No,Yes
+Burglary,2021-10-09 10:32:47,West,2021-10-09 11:27:47,None,73,Female,Indian,39,Male,Others,8,Yes,Pending,Minor,No,No,Yes,Yes
+Vandalism,2021-10-10 12:49:43,West,2021-10-10 13:29:43,None,77,Male,Indonesian,47,Male,Malaysian,4,No,Dismissed,Moderate,Yes,No,Yes,No
+Drug Offense,2021-10-11 15:06:40,North,2021-10-11 15:35:40,Firearm,35,Male,Malaysian,24,Female,Indonesian,5,Yes,Acquitted,Major,Yes,Yes,No,No
+Fraud,2021-10-12 17:23:36,Central,2021-10-12 17:35:36,None,18,Male,Indonesian,71,Female,Malaysian,2,Yes,Dismissed,Moderate,No,Yes,No,No
+Fraud,2021-10-13 19:40:32,South,2021-10-13 20:16:32,Firearm,51,Female,Malaysian,40,Female,Indonesian,4,No,Dismissed,Minor,No,Yes,Yes,No
+Others,2021-10-14 21:57:28,North,2021-10-14 22:55:28,Knife,56,Female,Singaporean,23,Male,Indian,3,No,Convicted,Major,No,No,No,No
+Vandalism,2021-10-16 00:14:24,East,2021-10-16 00:19:24,Knife,63,Male,Singaporean,62,Male,Malaysian,0,Yes,Convicted,Moderate,No,Yes,Yes,Yes
+Others,2021-10-17 02:31:21,West,2021-10-17 02:54:21,Firearm,30,Female,Indian,60,Male,Indian,9,No,Convicted,Moderate,Yes,Yes,Yes,No
+Theft,2021-10-18 04:48:17,South,2021-10-18 05:33:17,Other,19,Female,Others,21,Female,Indian,1,Yes,Dismissed,Moderate,Yes,Yes,Yes,Yes
+Vandalism,2021-10-19 07:05:13,North,2021-10-19 07:41:13,Knife,43,Male,Malaysian,64,Male,Indonesian,8,No,Dismissed,Moderate,No,No,No,Yes
+Vandalism,2021-10-20 09:22:09,West,2021-10-20 09:23:09,None,69,Female,Singaporean,42,Male,Indian,8,No,Convicted,Minor,No,No,No,Yes
+Vandalism,2021-10-21 11:39:05,East,2021-10-21 12:19:05,Firearm,65,Female,Malaysian,19,Male,Others,1,Yes,Acquitted,Moderate,Yes,Yes,Yes,No
+Drug Offense,2021-10-22 13:56:02,East,2021-10-22 14:43:02,Knife,71,Male,Indian,44,Male,Indian,8,No,Acquitted,Minor,Yes,Yes,No,No
+Others,2021-10-23 16:12:58,East,2021-10-23 16:42:58,None,53,Female,Singaporean,57,Female,Malaysian,6,No,Dismissed,Moderate,No,Yes,Yes,Yes
+Drug Offense,2021-10-24 18:29:54,Central,2021-10-24 18:58:54,Other,71,Male,Indian,26,Male,Singaporean,6,No,Convicted,Major,Yes,Yes,Yes,No
+Fraud,2021-10-25 20:46:50,North,2021-10-25 21:29:50,Knife,68,Female,Malaysian,57,Female,Malaysian,1,No,Acquitted,Moderate,No,Yes,Yes,No
+Assault,2021-10-26 23:03:47,Central,2021-10-26 23:17:47,None,22,Male,Others,72,Female,Malaysian,4,No,Convicted,Moderate,No,No,Yes,Yes
+Burglary,2021-10-28 01:20:43,West,2021-10-28 01:41:43,Firearm,21,Female,Malaysian,44,Female,Singaporean,7,Yes,Pending,Major,Yes,Yes,Yes,Yes
+Vandalism,2021-10-29 03:37:39,West,2021-10-29 04:20:39,None,54,Female,Indian,49,Male,Malaysian,1,Yes,Dismissed,Moderate,Yes,No,Yes,No
+Others,2021-10-30 05:54:35,East,2021-10-30 06:34:35,Knife,32,Male,Malaysian,26,Female,Singaporean,3,Yes,Acquitted,Minor,Yes,Yes,Yes,No
+Fraud,2021-10-31 08:11:31,North,2021-10-31 08:26:31,None,71,Female,Malaysian,46,Male,Others,7,No,Acquitted,Minor,Yes,Yes,No,No
+Burglary,2021-11-01 10:28:28,West,2021-11-01 11:01:28,Firearm,22,Male,Others,50,Male,Malaysian,1,No,Dismissed,Minor,Yes,No,No,Yes
+Vandalism,2021-11-02 12:45:24,Central,2021-11-02 13:15:24,Knife,78,Female,Others,49,Male,Malaysian,0,No,Dismissed,Minor,No,Yes,Yes,Yes
+Burglary,2021-11-03 15:02:20,Central,2021-11-03 15:51:20,None,65,Male,Indian,78,Female,Indian,0,Yes,Convicted,Major,Yes,Yes,Yes,Yes
+Drug Offense,2021-11-04 17:19:16,North,2021-11-04 18:01:16,Firearm,40,Female,Indonesian,53,Female,Others,8,No,Acquitted,Minor,No,No,No,No
+Fraud,2021-11-05 19:36:12,West,2021-11-05 20:29:12,Knife,35,Male,Indonesian,73,Male,Malaysian,5,No,Acquitted,Minor,No,Yes,Yes,No
+Others,2021-11-06 21:53:09,South,2021-11-06 22:19:09,None,52,Male,Indian,55,Male,Indian,3,No,Pending,Major,Yes,No,No,Yes
+Vandalism,2021-11-08 00:10:05,West,2021-11-08 00:36:05,None,54,Female,Singaporean,70,Female,Singaporean,7,Yes,Convicted,Major,Yes,No,No,Yes
+Theft,2021-11-09 02:27:01,Central,2021-11-09 02:48:01,Other,61,Female,Others,45,Female,Singaporean,0,No,Acquitted,Major,Yes,No,No,No
+Vandalism,2021-11-10 04:43:57,South,2021-11-10 05:11:57,None,61,Male,Indian,44,Female,Malaysian,2,No,Dismissed,Major,Yes,No,Yes,Yes
+Theft,2021-11-11 07:00:54,East,2021-11-11 07:32:54,Firearm,73,Female,Indian,34,Male,Indian,2,No,Convicted,Major,No,No,Yes,Yes
+Assault,2021-11-12 09:17:50,East,2021-11-12 09:38:50,None,49,Female,Indonesian,37,Male,Indian,5,No,Pending,Minor,Yes,No,Yes,No
+Theft,2021-11-13 11:34:46,Central,2021-11-13 12:12:46,Firearm,75,Male,Others,45,Female,Malaysian,3,No,Pending,Moderate,No,No,Yes,No
+Fraud,2021-11-14 13:51:42,North,2021-11-14 13:57:42,None,57,Female,Singaporean,56,Male,Others,3,Yes,Pending,Moderate,Yes,No,No,No
+Theft,2021-11-15 16:08:38,West,2021-11-15 16:18:38,Firearm,54,Male,Others,57,Female,Malaysian,2,No,Convicted,Minor,Yes,Yes,No,No
+Others,2021-11-16 18:25:35,North,2021-11-16 19:22:35,Firearm,67,Male,Indonesian,61,Male,Indonesian,9,No,Dismissed,Minor,No,No,Yes,No
+Assault,2021-11-17 20:42:31,South,2021-11-17 21:12:31,Knife,31,Male,Singaporean,54,Female,Indonesian,4,Yes,Pending,Moderate,No,No,No,No
+Burglary,2021-11-18 22:59:27,Central,2021-11-18 23:07:27,Other,26,Female,Others,25,Female,Others,4,Yes,Acquitted,Moderate,No,Yes,No,No
+Assault,2021-11-20 01:16:23,Central,2021-11-20 02:12:23,Firearm,64,Female,Others,20,Male,Malaysian,2,No,Acquitted,Major,No,Yes,No,No
+Vandalism,2021-11-21 03:33:20,East,2021-11-21 04:10:20,None,51,Female,Others,42,Female,Indonesian,1,Yes,Convicted,Major,Yes,No,No,Yes
+Fraud,2021-11-22 05:50:16,East,2021-11-22 06:45:16,Firearm,41,Male,Malaysian,27,Male,Indian,5,No,Dismissed,Major,No,No,No,No
+Vandalism,2021-11-23 08:07:12,South,2021-11-23 08:49:12,Firearm,38,Female,Singaporean,74,Female,Indian,5,No,Pending,Major,No,No,No,No
+Others,2021-11-24 10:24:08,East,2021-11-24 11:09:08,Knife,54,Female,Indonesian,34,Male,Malaysian,0,Yes,Convicted,Moderate,Yes,No,No,Yes
+Fraud,2021-11-25 12:41:04,South,2021-11-25 13:28:04,Firearm,29,Male,Others,76,Male,Indian,0,No,Acquitted,Moderate,No,No,Yes,Yes
+Drug Offense,2021-11-26 14:58:01,Central,2021-11-26 15:09:01,None,51,Male,Others,34,Female,Singaporean,5,No,Dismissed,Minor,No,Yes,No,No
+Others,2021-11-27 17:14:57,West,2021-11-27 17:19:57,Other,22,Male,Indonesian,60,Male,Indian,0,No,Pending,Major,Yes,No,No,No
+Others,2021-11-28 19:31:53,South,2021-11-28 20:11:53,Other,24,Female,Others,70,Male,Singaporean,3,No,Dismissed,Moderate,Yes,No,Yes,Yes
+Theft,2021-11-29 21:48:49,North,2021-11-29 22:27:49,Firearm,65,Female,Singaporean,25,Female,Others,8,Yes,Dismissed,Minor,No,Yes,Yes,No
+Theft,2021-12-01 00:05:45,West,2021-12-01 00:19:45,Other,53,Male,Singaporean,26,Male,Indian,1,No,Acquitted,Moderate,No,Yes,No,No
+Assault,2021-12-02 02:22:42,East,2021-12-02 03:05:42,Firearm,64,Male,Malaysian,24,Male,Malaysian,8,Yes,Dismissed,Minor,Yes,Yes,No,No
+Theft,2021-12-03 04:39:38,South,2021-12-03 05:08:38,Knife,34,Male,Malaysian,79,Female,Singaporean,7,Yes,Convicted,Major,No,No,Yes,No
+Drug Offense,2021-12-04 06:56:34,Central,2021-12-04 07:55:34,None,30,Male,Singaporean,51,Male,Malaysian,8,No,Convicted,Major,No,Yes,Yes,Yes
+Theft,2021-12-05 09:13:30,West,2021-12-05 09:18:30,Other,45,Female,Indian,37,Male,Singaporean,8,Yes,Pending,Major,No,No,Yes,Yes
+Drug Offense,2021-12-06 11:30:27,South,2021-12-06 12:09:27,None,52,Male,Singaporean,40,Female,Indian,4,No,Dismissed,Major,No,No,Yes,No
+Theft,2021-12-07 13:47:23,West,2021-12-07 14:02:23,Knife,57,Male,Singaporean,70,Female,Singaporean,0,No,Pending,Moderate,Yes,No,Yes,No
+Burglary,2021-12-08 16:04:19,North,2021-12-08 16:30:19,None,32,Male,Indian,44,Male,Singaporean,2,No,Dismissed,Minor,Yes,Yes,No,Yes
+Burglary,2021-12-09 18:21:15,East,2021-12-09 18:57:15,None,42,Male,Indian,54,Male,Indonesian,8,Yes,Convicted,Major,Yes,No,Yes,No
+Burglary,2021-12-10 20:38:11,South,2021-12-10 21:12:11,None,79,Male,Singaporean,57,Female,Indonesian,7,Yes,Acquitted,Minor,Yes,No,No,Yes
+Vandalism,2021-12-11 22:55:08,East,2021-12-11 23:41:08,None,23,Female,Indian,60,Female,Malaysian,1,Yes,Dismissed,Moderate,Yes,No,No,No
+Theft,2021-12-13 01:12:04,East,2021-12-13 01:42:04,Knife,30,Female,Indian,73,Female,Indian,2,No,Acquitted,Moderate,No,No,No,No
+Assault,2021-12-14 03:29:00,Central,2021-12-14 03:46:00,Other,76,Female,Singaporean,18,Male,Singaporean,9,No,Pending,Major,No,No,Yes,Yes
+Others,2021-12-15 05:45:56,South,2021-12-15 06:26:56,Firearm,59,Female,Indian,23,Female,Indonesian,9,No,Pending,Minor,Yes,No,Yes,Yes
+Fraud,2021-12-16 08:02:52,Central,2021-12-16 08:13:52,Firearm,44,Male,Indonesian,64,Male,Malaysian,7,Yes,Acquitted,Major,Yes,No,No,No
+Burglary,2021-12-17 10:19:49,East,2021-12-17 10:33:49,Knife,25,Male,Indian,61,Male,Indian,5,Yes,Pending,Major,No,Yes,No,No
+Burglary,2021-12-18 12:36:45,East,2021-12-18 13:32:45,Other,48,Male,Others,28,Female,Others,6,Yes,Convicted,Minor,Yes,No,No,No
+Assault,2021-12-19 14:53:41,North,2021-12-19 15:11:41,Other,77,Female,Others,70,Female,Indian,6,Yes,Dismissed,Moderate,Yes,No,No,No
+Burglary,2021-12-20 17:10:37,Central,2021-12-20 17:44:37,Other,74,Female,Singaporean,34,Male,Singaporean,9,Yes,Pending,Minor,No,No,Yes,Yes
+Others,2021-12-21 19:27:34,West,2021-12-21 19:28:34,Other,78,Female,Singaporean,51,Female,Singaporean,4,No,Dismissed,Minor,Yes,No,Yes,Yes
+Theft,2021-12-22 21:44:30,Central,2021-12-22 21:54:30,None,19,Male,Others,35,Female,Others,2,Yes,Dismissed,Major,No,No,No,Yes
+Theft,2021-12-24 00:01:26,North,2021-12-24 00:05:26,Firearm,19,Female,Singaporean,62,Male,Others,5,No,Convicted,Major,Yes,No,Yes,No
+Burglary,2021-12-25 02:18:22,West,2021-12-25 02:51:22,Other,42,Female,Malaysian,48,Male,Singaporean,2,No,Dismissed,Minor,No,Yes,Yes,Yes
+Burglary,2021-12-26 04:35:18,South,2021-12-26 05:12:18,Firearm,25,Male,Others,27,Female,Others,6,Yes,Acquitted,Major,No,No,Yes,No
+Burglary,2021-12-27 06:52:15,South,2021-12-27 07:29:15,Firearm,75,Male,Indonesian,46,Female,Indian,9,No,Pending,Moderate,No,No,No,Yes
+Others,2021-12-28 09:09:11,East,2021-12-28 10:01:11,None,37,Female,Singaporean,42,Female,Others,1,No,Acquitted,Minor,No,Yes,Yes,No
+Drug Offense,2021-12-29 11:26:07,South,2021-12-29 11:36:07,Firearm,29,Male,Singaporean,70,Male,Indonesian,8,Yes,Pending,Major,Yes,No,Yes,No
+Burglary,2021-12-30 13:43:03,South,2021-12-30 14:26:03,Firearm,49,Male,Malaysian,45,Male,Singaporean,4,No,Convicted,Major,No,No,No,No
+Burglary,2021-12-31 16:00:00,West,2021-12-31 16:46:00,None,39,Male,Indian,34,Male,Others,3,Yes,Dismissed,Moderate,No,No,Yes,No
+Vandalism,2022-01-01 18:16:56,South,2022-01-01 18:35:56,Other,47,Male,Others,21,Male,Malaysian,5,Yes,Convicted,Moderate,Yes,Yes,No,No
+Others,2022-01-02 20:33:52,North,2022-01-02 20:45:52,Knife,40,Male,Indian,63,Male,Others,4,No,Dismissed,Major,No,Yes,No,Yes
+Others,2022-01-03 22:50:48,North,2022-01-03 23:31:48,Firearm,67,Male,Malaysian,50,Female,Indonesian,9,No,Convicted,Moderate,No,Yes,No,No
+Fraud,2022-01-05 01:07:44,South,2022-01-05 01:16:44,None,34,Male,Others,66,Male,Others,5,No,Acquitted,Major,Yes,No,No,No
+Drug Offense,2022-01-06 03:24:41,North,2022-01-06 03:35:41,None,38,Male,Others,66,Female,Indonesian,6,Yes,Pending,Moderate,No,No,Yes,No
+Burglary,2022-01-07 05:41:37,West,2022-01-07 06:37:37,None,38,Female,Indian,20,Female,Indonesian,9,No,Pending,Moderate,Yes,Yes,Yes,No
+Vandalism,2022-01-08 07:58:33,North,2022-01-08 08:05:33,Knife,55,Female,Indonesian,25,Male,Indian,9,No,Pending,Minor,Yes,Yes,Yes,Yes
+Vandalism,2022-01-09 10:15:29,North,2022-01-09 11:09:29,Firearm,27,Female,Indian,65,Male,Singaporean,3,No,Dismissed,Moderate,Yes,No,Yes,Yes
+Theft,2022-01-10 12:32:25,North,2022-01-10 13:30:25,Firearm,35,Female,Indian,37,Male,Singaporean,8,Yes,Pending,Moderate,Yes,Yes,Yes,Yes
+Others,2022-01-11 14:49:22,West,2022-01-11 15:18:22,Knife,47,Male,Others,20,Female,Others,3,No,Acquitted,Moderate,Yes,Yes,Yes,No
+Vandalism,2022-01-12 17:06:18,East,2022-01-12 17:49:18,Other,49,Male,Indian,18,Female,Malaysian,3,Yes,Pending,Minor,No,No,Yes,No
+Fraud,2022-01-13 19:23:14,South,2022-01-13 20:07:14,Other,71,Female,Indian,36,Male,Indonesian,0,Yes,Acquitted,Major,Yes,No,Yes,Yes
+Theft,2022-01-14 21:40:10,West,2022-01-14 22:04:10,None,23,Female,Others,57,Male,Others,4,No,Convicted,Major,Yes,Yes,Yes,Yes
+Fraud,2022-01-15 23:57:07,South,2022-01-16 00:55:07,Other,24,Male,Indonesian,70,Male,Malaysian,9,No,Pending,Moderate,No,Yes,No,No
+Assault,2022-01-17 02:14:03,North,2022-01-17 02:33:03,None,57,Female,Others,64,Male,Malaysian,9,No,Dismissed,Moderate,Yes,Yes,No,No
+Fraud,2022-01-18 04:30:59,North,2022-01-18 05:04:59,None,73,Female,Indonesian,51,Male,Singaporean,7,Yes,Pending,Minor,No,No,Yes,No
+Burglary,2022-01-19 06:47:55,West,2022-01-19 07:44:55,None,48,Female,Indian,31,Female,Malaysian,3,No,Acquitted,Minor,No,Yes,Yes,No
+Fraud,2022-01-20 09:04:51,West,2022-01-20 09:18:51,None,42,Female,Malaysian,23,Female,Indian,9,No,Dismissed,Major,Yes,No,No,No
+Assault,2022-01-21 11:21:48,East,2022-01-21 11:30:48,Firearm,46,Male,Malaysian,59,Female,Indonesian,9,No,Convicted,Minor,Yes,No,No,Yes
+Theft,2022-01-22 13:38:44,East,2022-01-22 14:17:44,Firearm,74,Female,Indian,60,Female,Others,6,No,Acquitted,Major,No,Yes,Yes,Yes
+Assault,2022-01-23 15:55:40,East,2022-01-23 16:36:40,Other,22,Female,Indian,75,Female,Indonesian,1,No,Dismissed,Moderate,Yes,No,No,No
+Others,2022-01-24 18:12:36,South,2022-01-24 19:02:36,Firearm,20,Male,Singaporean,47,Female,Indonesian,9,Yes,Pending,Major,Yes,Yes,Yes,Yes
+Burglary,2022-01-25 20:29:32,North,2022-01-25 21:28:32,None,79,Female,Others,59,Female,Others,6,No,Pending,Major,Yes,No,Yes,Yes
+Vandalism,2022-01-26 22:46:29,East,2022-01-26 23:00:29,Firearm,70,Female,Indian,23,Male,Malaysian,3,Yes,Acquitted,Moderate,No,No,Yes,Yes
+Drug Offense,2022-01-28 01:03:25,West,2022-01-28 01:24:25,None,78,Male,Others,74,Male,Others,7,No,Pending,Minor,No,Yes,Yes,Yes
+Fraud,2022-01-29 03:20:21,East,2022-01-29 03:30:21,Knife,62,Male,Indian,39,Female,Others,3,No,Convicted,Major,Yes,No,No,No
+Burglary,2022-01-30 05:37:17,South,2022-01-30 06:18:17,Firearm,74,Male,Indian,55,Female,Indian,0,Yes,Dismissed,Minor,Yes,No,Yes,Yes
+Drug Offense,2022-01-31 07:54:14,North,2022-01-31 08:12:14,Knife,37,Female,Singaporean,62,Female,Singaporean,7,No,Convicted,Minor,No,No,Yes,Yes
+Drug Offense,2022-02-01 10:11:10,East,2022-02-01 11:00:10,Firearm,28,Female,Malaysian,61,Female,Singaporean,1,Yes,Acquitted,Minor,No,Yes,Yes,No
+Drug Offense,2022-02-02 12:28:06,South,2022-02-02 12:47:06,Other,64,Male,Indian,52,Male,Indonesian,7,Yes,Pending,Moderate,Yes,Yes,Yes,Yes
+Drug Offense,2022-02-03 14:45:02,West,2022-02-03 15:03:02,Firearm,72,Male,Others,35,Female,Indian,9,Yes,Convicted,Major,Yes,No,No,Yes
+Fraud,2022-02-04 17:01:58,East,2022-02-04 17:12:58,None,38,Female,Indian,64,Male,Malaysian,5,Yes,Pending,Moderate,No,No,No,No
+Fraud,2022-02-05 19:18:55,West,2022-02-05 20:15:55,Firearm,36,Female,Indian,26,Female,Singaporean,1,No,Pending,Moderate,Yes,Yes,No,Yes
+Others,2022-02-06 21:35:51,Central,2022-02-06 22:12:51,Knife,34,Female,Indonesian,19,Male,Indian,5,Yes,Acquitted,Moderate,Yes,Yes,Yes,No
+Fraud,2022-02-07 23:52:47,South,2022-02-08 00:30:47,Firearm,70,Male,Indonesian,40,Male,Others,2,No,Convicted,Major,Yes,No,Yes,No
+Vandalism,2022-02-09 02:09:43,North,2022-02-09 02:57:43,None,34,Male,Singaporean,79,Male,Indonesian,6,No,Convicted,Major,No,No,No,No
+Burglary,2022-02-10 04:26:40,South,2022-02-10 04:35:40,Firearm,38,Male,Singaporean,34,Female,Others,4,Yes,Pending,Moderate,Yes,No,No,No
+Theft,2022-02-11 06:43:36,Central,2022-02-11 07:32:36,Knife,28,Female,Singaporean,20,Female,Others,6,No,Dismissed,Major,Yes,Yes,No,Yes
+Assault,2022-02-12 09:00:32,South,2022-02-12 09:22:32,Other,45,Female,Malaysian,21,Female,Malaysian,4,No,Dismissed,Moderate,No,No,Yes,No
+Assault,2022-02-13 11:17:28,East,2022-02-13 11:55:28,None,40,Male,Singaporean,30,Female,Indian,1,No,Acquitted,Major,Yes,No,Yes,No
+Burglary,2022-02-14 13:34:24,South,2022-02-14 14:24:24,Firearm,42,Female,Indonesian,36,Male,Singaporean,5,Yes,Dismissed,Minor,No,Yes,Yes,Yes
+Fraud,2022-02-15 15:51:21,East,2022-02-15 16:25:21,Other,52,Female,Others,61,Female,Indonesian,7,No,Convicted,Moderate,Yes,No,Yes,Yes
+Drug Offense,2022-02-16 18:08:17,Central,2022-02-16 18:47:17,Other,58,Female,Malaysian,42,Male,Indonesian,9,Yes,Acquitted,Major,No,No,Yes,Yes
+Vandalism,2022-02-17 20:25:13,North,2022-02-17 21:04:13,Firearm,27,Female,Indian,38,Male,Indian,9,Yes,Acquitted,Moderate,Yes,No,No,Yes
+Fraud,2022-02-18 22:42:09,East,2022-02-18 22:53:09,None,75,Male,Malaysian,62,Male,Indonesian,6,Yes,Dismissed,Minor,Yes,Yes,No,No
+Fraud,2022-02-20 00:59:05,West,2022-02-20 01:34:05,Knife,38,Female,Others,60,Female,Indian,9,No,Pending,Major,Yes,Yes,No,Yes
+Theft,2022-02-21 03:16:02,East,2022-02-21 03:58:02,None,30,Female,Malaysian,57,Female,Singaporean,1,No,Dismissed,Moderate,No,Yes,Yes,Yes
+Assault,2022-02-22 05:32:58,Central,2022-02-22 06:18:58,Knife,60,Female,Indian,60,Male,Others,2,Yes,Pending,Minor,No,Yes,Yes,Yes
+Theft,2022-02-23 07:49:54,North,2022-02-23 08:48:54,Other,24,Male,Malaysian,45,Male,Others,0,Yes,Dismissed,Moderate,Yes,Yes,No,Yes
+Vandalism,2022-02-24 10:06:50,North,2022-02-24 10:47:50,Firearm,35,Female,Malaysian,44,Female,Indian,7,Yes,Pending,Minor,Yes,No,No,Yes
+Drug Offense,2022-02-25 12:23:47,West,2022-02-25 12:34:47,None,76,Male,Malaysian,61,Female,Singaporean,3,Yes,Acquitted,Minor,Yes,No,Yes,Yes
+Burglary,2022-02-26 14:40:43,Central,2022-02-26 15:14:43,Other,69,Female,Singaporean,72,Female,Singaporean,8,No,Acquitted,Moderate,Yes,Yes,Yes,Yes
+Burglary,2022-02-27 16:57:39,South,2022-02-27 17:12:39,Firearm,38,Male,Indonesian,73,Male,Singaporean,2,Yes,Acquitted,Minor,No,No,Yes,No
+Fraud,2022-02-28 19:14:35,East,2022-02-28 20:10:35,Knife,62,Male,Indonesian,20,Male,Indian,4,No,Pending,Minor,Yes,No,Yes,Yes
+Vandalism,2022-03-01 21:31:31,Central,2022-03-01 21:38:31,Firearm,40,Male,Indonesian,66,Female,Indonesian,7,No,Dismissed,Major,No,Yes,No,Yes
+Fraud,2022-03-02 23:48:28,East,2022-03-03 00:36:28,Knife,40,Male,Singaporean,51,Male,Singaporean,0,No,Acquitted,Moderate,Yes,Yes,No,No
+Theft,2022-03-04 02:05:24,North,2022-03-04 03:04:24,Knife,37,Male,Others,77,Female,Indonesian,0,No,Dismissed,Major,Yes,Yes,Yes,Yes
+Burglary,2022-03-05 04:22:20,South,2022-03-05 05:08:20,Knife,25,Male,Indian,79,Female,Malaysian,2,No,Pending,Minor,No,Yes,No,No
+Fraud,2022-03-06 06:39:16,South,2022-03-06 07:10:16,None,23,Female,Indonesian,32,Male,Malaysian,9,No,Dismissed,Major,Yes,Yes,No,Yes
+Drug Offense,2022-03-07 08:56:12,West,2022-03-07 09:47:12,None,56,Female,Indian,66,Female,Others,5,Yes,Pending,Moderate,No,No,No,Yes
+Drug Offense,2022-03-08 11:13:09,Central,2022-03-08 11:24:09,Knife,57,Female,Indian,32,Male,Indonesian,5,Yes,Acquitted,Major,No,Yes,No,No
+Assault,2022-03-09 13:30:05,East,2022-03-09 13:33:05,Other,34,Male,Indian,61,Female,Indian,3,No,Acquitted,Minor,Yes,Yes,No,No
+Vandalism,2022-03-10 15:47:01,Central,2022-03-10 16:41:01,None,63,Male,Singaporean,42,Female,Malaysian,3,No,Acquitted,Moderate,Yes,Yes,Yes,Yes
+Theft,2022-03-11 18:03:57,North,2022-03-11 18:07:57,Firearm,78,Male,Malaysian,62,Female,Indian,1,Yes,Pending,Minor,Yes,No,Yes,Yes
+Others,2022-03-12 20:20:54,Central,2022-03-12 20:34:54,None,52,Male,Singaporean,51,Female,Indonesian,3,No,Convicted,Moderate,No,No,No,Yes
+Assault,2022-03-13 22:37:50,South,2022-03-13 22:42:50,Firearm,23,Male,Indian,42,Female,Malaysian,2,Yes,Dismissed,Moderate,No,Yes,No,Yes
+Theft,2022-03-15 00:54:46,East,2022-03-15 01:37:46,Firearm,73,Female,Indian,77,Male,Malaysian,4,Yes,Dismissed,Minor,No,Yes,Yes,No
+Burglary,2022-03-16 03:11:42,West,2022-03-16 03:50:42,None,24,Male,Others,29,Male,Malaysian,2,No,Pending,Minor,No,No,No,No
+Drug Offense,2022-03-17 05:28:38,East,2022-03-17 05:34:38,None,57,Male,Indonesian,26,Male,Others,8,Yes,Dismissed,Minor,No,No,Yes,Yes
+Vandalism,2022-03-18 07:45:35,West,2022-03-18 08:35:35,Knife,48,Male,Malaysian,28,Male,Malaysian,0,No,Dismissed,Moderate,Yes,No,Yes,No
+Others,2022-03-19 10:02:31,East,2022-03-19 10:39:31,Knife,66,Male,Indian,45,Male,Singaporean,4,Yes,Acquitted,Major,No,Yes,Yes,Yes
+Drug Offense,2022-03-20 12:19:27,North,2022-03-20 12:31:27,Knife,55,Female,Indian,68,Female,Indonesian,0,No,Pending,Major,No,No,Yes,Yes
+Assault,2022-03-21 14:36:23,South,2022-03-21 15:34:23,Other,79,Female,Others,50,Female,Indian,9,No,Dismissed,Moderate,Yes,No,No,Yes
+Fraud,2022-03-22 16:53:20,Central,2022-03-22 17:39:20,Other,27,Male,Singaporean,67,Female,Indian,1,Yes,Pending,Major,No,Yes,No,Yes
+Theft,2022-03-23 19:10:16,South,2022-03-23 20:00:16,None,61,Male,Indian,65,Female,Indian,3,No,Pending,Major,No,Yes,No,Yes
+Vandalism,2022-03-24 21:27:12,South,2022-03-24 22:22:12,Firearm,74,Female,Indonesian,45,Male,Others,2,No,Dismissed,Major,Yes,No,Yes,No
+Theft,2022-03-25 23:44:08,Central,2022-03-26 00:02:08,Other,41,Male,Singaporean,40,Female,Others,1,No,Acquitted,Moderate,Yes,No,No,No
+Fraud,2022-03-27 02:01:04,North,2022-03-27 02:19:04,None,44,Male,Indonesian,24,Male,Malaysian,8,No,Convicted,Minor,No,No,Yes,No
+Others,2022-03-28 04:18:01,Central,2022-03-28 05:09:01,Other,77,Female,Malaysian,48,Female,Indian,6,Yes,Dismissed,Major,Yes,Yes,Yes,Yes
+Fraud,2022-03-29 06:34:57,South,2022-03-29 06:38:57,None,20,Female,Malaysian,25,Male,Indian,4,Yes,Pending,Minor,No,No,Yes,No
+Fraud,2022-03-30 08:51:53,East,2022-03-30 09:46:53,Other,34,Male,Others,20,Female,Indonesian,3,Yes,Pending,Major,No,Yes,No,Yes
+Assault,2022-03-31 11:08:49,North,2022-03-31 11:36:49,Knife,26,Male,Singaporean,54,Male,Indian,3,Yes,Dismissed,Moderate,Yes,No,Yes,Yes
+Burglary,2022-04-01 13:25:45,Central,2022-04-01 14:12:45,Other,50,Male,Indian,21,Female,Indian,5,Yes,Convicted,Minor,Yes,No,Yes,Yes
+Fraud,2022-04-02 15:42:42,East,2022-04-02 15:43:42,None,31,Female,Singaporean,48,Female,Indonesian,7,Yes,Acquitted,Moderate,No,Yes,Yes,No
+Assault,2022-04-03 17:59:38,South,2022-04-03 18:51:38,Firearm,40,Female,Malaysian,44,Female,Malaysian,4,Yes,Dismissed,Minor,No,No,Yes,No
+Burglary,2022-04-04 20:16:34,West,2022-04-04 20:46:34,Knife,20,Male,Malaysian,63,Male,Indonesian,8,No,Acquitted,Moderate,No,No,Yes,Yes
+Burglary,2022-04-05 22:33:30,North,2022-04-05 22:44:30,Other,51,Male,Others,58,Male,Indonesian,7,Yes,Acquitted,Minor,No,No,Yes,Yes
+Vandalism,2022-04-07 00:50:27,South,2022-04-07 01:18:27,Other,77,Female,Others,63,Male,Malaysian,8,Yes,Convicted,Major,No,Yes,Yes,No
+Vandalism,2022-04-08 03:07:23,East,2022-04-08 03:54:23,None,79,Female,Indian,56,Male,Others,4,No,Acquitted,Moderate,No,Yes,Yes,No
+Drug Offense,2022-04-09 05:24:19,North,2022-04-09 06:02:19,Firearm,19,Male,Indian,29,Female,Singaporean,0,Yes,Acquitted,Minor,Yes,No,No,Yes
+Vandalism,2022-04-10 07:41:15,East,2022-04-10 08:13:15,Knife,26,Male,Indian,33,Female,Others,7,Yes,Acquitted,Minor,No,No,Yes,No
+Vandalism,2022-04-11 09:58:11,South,2022-04-11 10:12:11,Firearm,44,Male,Singaporean,48,Female,Others,6,No,Pending,Moderate,Yes,No,Yes,No
+Others,2022-04-12 12:15:08,West,2022-04-12 12:38:08,Knife,22,Male,Singaporean,78,Female,Indonesian,1,Yes,Dismissed,Minor,No,Yes,Yes,No
+Vandalism,2022-04-13 14:32:04,South,2022-04-13 14:59:04,Other,24,Female,Malaysian,36,Male,Singaporean,8,Yes,Convicted,Minor,No,Yes,No,No
+Others,2022-04-14 16:49:00,Central,2022-04-14 17:17:00,None,70,Female,Malaysian,52,Male,Malaysian,9,No,Acquitted,Moderate,No,Yes,No,Yes
+Fraud,2022-04-15 19:05:56,South,2022-04-15 19:55:56,Knife,69,Male,Indian,37,Female,Indian,1,No,Convicted,Moderate,Yes,No,No,Yes
+Assault,2022-04-16 21:22:52,East,2022-04-16 22:02:52,Other,51,Female,Malaysian,67,Female,Singaporean,2,Yes,Acquitted,Major,Yes,No,Yes,Yes
+Theft,2022-04-17 23:39:49,Central,2022-04-18 00:13:49,Other,33,Male,Indian,34,Female,Singaporean,5,Yes,Acquitted,Major,No,Yes,Yes,No
+Vandalism,2022-04-19 01:56:45,East,2022-04-19 02:43:45,None,71,Male,Singaporean,45,Female,Indian,2,Yes,Pending,Moderate,Yes,Yes,Yes,No
+Others,2022-04-20 04:13:41,East,2022-04-20 04:28:41,Other,74,Female,Singaporean,18,Female,Indonesian,6,No,Pending,Moderate,Yes,Yes,No,No
+Vandalism,2022-04-21 06:30:37,North,2022-04-21 06:32:37,None,53,Male,Singaporean,48,Male,Others,7,No,Pending,Moderate,No,No,Yes,Yes
+Vandalism,2022-04-22 08:47:34,South,2022-04-22 08:48:34,None,32,Male,Malaysian,28,Female,Others,7,Yes,Dismissed,Moderate,No,No,Yes,Yes
+Others,2022-04-23 11:04:30,East,2022-04-23 11:43:30,None,40,Male,Indian,51,Female,Others,2,Yes,Dismissed,Major,Yes,Yes,No,Yes
+Fraud,2022-04-24 13:21:26,East,2022-04-24 14:18:26,None,25,Female,Malaysian,35,Female,Others,2,No,Pending,Moderate,No,Yes,No,No
+Drug Offense,2022-04-25 15:38:22,East,2022-04-25 16:05:22,Other,24,Male,Others,51,Male,Malaysian,8,No,Convicted,Major,No,No,Yes,Yes
+Fraud,2022-04-26 17:55:18,West,2022-04-26 18:02:18,Knife,34,Female,Indonesian,24,Female,Others,2,Yes,Convicted,Moderate,No,Yes,No,Yes
+Vandalism,2022-04-27 20:12:15,Central,2022-04-27 20:41:15,Knife,72,Male,Singaporean,39,Male,Indonesian,7,No,Dismissed,Moderate,Yes,No,Yes,Yes
+Theft,2022-04-28 22:29:11,South,2022-04-28 23:19:11,Firearm,42,Male,Indonesian,46,Female,Indian,3,No,Acquitted,Minor,No,Yes,Yes,No
+Theft,2022-04-30 00:46:07,East,2022-04-30 01:08:07,None,55,Female,Others,60,Male,Malaysian,7,No,Pending,Minor,Yes,Yes,Yes,No
+Theft,2022-05-01 03:03:03,East,2022-05-01 03:49:03,None,55,Female,Indian,20,Female,Malaysian,4,No,Acquitted,Major,Yes,No,Yes,Yes
+Burglary,2022-05-02 05:20:00,Central,2022-05-02 05:43:00,Firearm,60,Female,Indian,74,Female,Malaysian,6,Yes,Dismissed,Moderate,No,Yes,Yes,No
+Burglary,2022-05-03 07:36:56,Central,2022-05-03 08:16:56,None,51,Female,Malaysian,21,Female,Indian,1,Yes,Convicted,Moderate,Yes,Yes,Yes,No
+Drug Offense,2022-05-04 09:53:52,South,2022-05-04 10:02:52,Knife,52,Female,Indonesian,71,Female,Malaysian,1,Yes,Pending,Minor,No,No,No,Yes
+Drug Offense,2022-05-05 12:10:48,Central,2022-05-05 12:16:48,None,28,Female,Indian,34,Male,Indian,2,No,Pending,Major,Yes,No,No,Yes
+Theft,2022-05-06 14:27:44,East,2022-05-06 15:22:44,None,37,Female,Malaysian,33,Male,Others,5,Yes,Dismissed,Major,Yes,No,No,Yes
+Assault,2022-05-07 16:44:41,Central,2022-05-07 17:14:41,Other,42,Female,Indian,25,Male,Malaysian,0,Yes,Pending,Minor,No,Yes,No,No
+Burglary,2022-05-08 19:01:37,South,2022-05-08 19:04:37,None,32,Female,Others,50,Female,Singaporean,3,Yes,Pending,Major,Yes,No,No,No
+Assault,2022-05-09 21:18:33,North,2022-05-09 21:21:33,Firearm,79,Female,Indonesian,67,Male,Malaysian,4,Yes,Dismissed,Minor,Yes,No,No,No
+Theft,2022-05-10 23:35:29,South,2022-05-11 00:11:29,Firearm,40,Female,Singaporean,69,Female,Others,3,Yes,Pending,Minor,No,Yes,No,No
+Vandalism,2022-05-12 01:52:25,North,2022-05-12 02:02:25,Other,49,Male,Malaysian,61,Female,Indian,9,No,Dismissed,Minor,No,Yes,No,Yes
+Fraud,2022-05-13 04:09:22,East,2022-05-13 04:52:22,Other,50,Female,Indian,67,Female,Indian,5,Yes,Dismissed,Moderate,No,No,Yes,No
+Vandalism,2022-05-14 06:26:18,East,2022-05-14 06:44:18,Other,54,Female,Malaysian,51,Female,Indonesian,2,No,Convicted,Major,Yes,Yes,No,Yes
+Assault,2022-05-15 08:43:14,South,2022-05-15 09:28:14,Firearm,44,Male,Indonesian,31,Female,Indonesian,4,No,Acquitted,Major,No,Yes,No,No
+Assault,2022-05-16 11:00:10,North,2022-05-16 11:34:10,Other,30,Female,Indonesian,47,Male,Malaysian,4,Yes,Dismissed,Major,Yes,Yes,Yes,Yes
+Drug Offense,2022-05-17 13:17:07,Central,2022-05-17 13:53:07,Firearm,51,Male,Singaporean,71,Male,Indonesian,6,No,Convicted,Moderate,Yes,No,Yes,No
+Assault,2022-05-18 15:34:03,East,2022-05-18 15:44:03,Knife,27,Female,Singaporean,58,Female,Others,3,Yes,Acquitted,Minor,No,Yes,No,Yes
+Theft,2022-05-19 17:50:59,South,2022-05-19 18:40:59,Firearm,49,Female,Singaporean,42,Female,Singaporean,4,Yes,Acquitted,Minor,Yes,No,Yes,No
+Burglary,2022-05-20 20:07:55,South,2022-05-20 20:16:55,None,48,Female,Indonesian,58,Female,Others,5,No,Dismissed,Moderate,No,No,Yes,Yes
+Assault,2022-05-21 22:24:51,South,2022-05-21 23:03:51,None,26,Female,Malaysian,67,Female,Indonesian,5,No,Dismissed,Minor,Yes,No,Yes,Yes
+Assault,2022-05-23 00:41:48,Central,2022-05-23 01:03:48,Other,23,Female,Indian,64,Male,Others,4,Yes,Convicted,Moderate,Yes,No,Yes,Yes
+Fraud,2022-05-24 02:58:44,East,2022-05-24 03:34:44,Other,74,Male,Indian,52,Female,Indonesian,4,Yes,Convicted,Major,Yes,Yes,No,Yes
+Drug Offense,2022-05-25 05:15:40,East,2022-05-25 06:14:40,Firearm,20,Female,Singaporean,36,Female,Singaporean,8,Yes,Dismissed,Major,No,Yes,No,No
+Vandalism,2022-05-26 07:32:36,Central,2022-05-26 08:17:36,None,22,Female,Others,25,Female,Indonesian,8,Yes,Pending,Major,No,Yes,No,Yes
+Assault,2022-05-27 09:49:32,North,2022-05-27 10:33:32,None,46,Male,Others,19,Female,Others,6,No,Dismissed,Major,No,No,No,No
+Fraud,2022-05-28 12:06:29,East,2022-05-28 12:55:29,Firearm,22,Male,Singaporean,57,Female,Indonesian,7,No,Dismissed,Major,Yes,No,No,Yes
+Fraud,2022-05-29 14:23:25,West,2022-05-29 14:45:25,Knife,72,Male,Singaporean,76,Female,Indian,1,Yes,Dismissed,Minor,Yes,No,Yes,Yes
+Assault,2022-05-30 16:40:21,North,2022-05-30 17:22:21,Knife,41,Male,Indian,46,Female,Indian,5,Yes,Convicted,Major,Yes,No,No,No
+Burglary,2022-05-31 18:57:17,South,2022-05-31 19:21:17,Firearm,28,Male,Singaporean,43,Female,Indonesian,9,No,Dismissed,Moderate,No,No,Yes,No
+Assault,2022-06-01 21:14:14,West,2022-06-01 21:31:14,Knife,56,Female,Malaysian,73,Male,Others,0,Yes,Convicted,Minor,Yes,Yes,Yes,No
+Assault,2022-06-02 23:31:10,North,2022-06-02 23:37:10,Firearm,66,Male,Others,29,Male,Others,5,Yes,Acquitted,Minor,Yes,Yes,No,Yes
+Fraud,2022-06-04 01:48:06,North,2022-06-04 02:29:06,Other,60,Male,Singaporean,25,Female,Indonesian,0,Yes,Convicted,Minor,Yes,No,Yes,No
+Assault,2022-06-05 04:05:02,East,2022-06-05 04:32:02,Firearm,47,Male,Malaysian,43,Male,Singaporean,8,Yes,Dismissed,Moderate,Yes,Yes,No,Yes
+Fraud,2022-06-06 06:21:58,North,2022-06-06 07:18:58,None,32,Female,Malaysian,69,Female,Indian,6,Yes,Acquitted,Moderate,No,Yes,Yes,Yes
+Burglary,2022-06-07 08:38:55,North,2022-06-07 09:00:55,None,75,Male,Indonesian,44,Male,Singaporean,7,Yes,Acquitted,Moderate,Yes,Yes,Yes,No
+Assault,2022-06-08 10:55:51,West,2022-06-08 10:58:51,None,77,Male,Malaysian,36,Female,Indonesian,6,No,Pending,Major,No,No,Yes,Yes
+Fraud,2022-06-09 13:12:47,South,2022-06-09 13:43:47,None,54,Male,Indonesian,67,Female,Others,8,No,Convicted,Minor,Yes,No,Yes,Yes
+Others,2022-06-10 15:29:43,East,2022-06-10 15:58:43,Other,20,Male,Singaporean,51,Male,Indonesian,1,Yes,Dismissed,Minor,No,Yes,Yes,No
+Drug Offense,2022-06-11 17:46:40,South,2022-06-11 18:20:40,Firearm,76,Female,Indonesian,55,Male,Indonesian,4,No,Dismissed,Moderate,No,Yes,Yes,No
+Assault,2022-06-12 20:03:36,Central,2022-06-12 20:10:36,Firearm,43,Male,Indian,21,Male,Singaporean,3,No,Convicted,Minor,Yes,Yes,Yes,Yes
+Drug Offense,2022-06-13 22:20:32,West,2022-06-13 22:40:32,Firearm,29,Male,Singaporean,45,Female,Indian,2,No,Acquitted,Moderate,Yes,Yes,No,Yes
+Assault,2022-06-15 00:37:28,Central,2022-06-15 01:21:28,Other,30,Male,Indonesian,26,Male,Others,0,Yes,Dismissed,Moderate,No,No,Yes,No
+Fraud,2022-06-16 02:54:24,North,2022-06-16 03:47:24,Knife,56,Male,Indian,61,Female,Malaysian,1,Yes,Convicted,Moderate,No,Yes,No,No
+Assault,2022-06-17 05:11:21,North,2022-06-17 05:30:21,None,42,Female,Indian,41,Female,Malaysian,6,No,Pending,Major,No,Yes,Yes,Yes
+Others,2022-06-18 07:28:17,Central,2022-06-18 07:57:17,Knife,61,Female,Indonesian,74,Female,Indian,9,No,Convicted,Major,No,Yes,Yes,Yes
+Drug Offense,2022-06-19 09:45:13,North,2022-06-19 09:49:13,Knife,31,Female,Indian,73,Male,Others,7,No,Convicted,Moderate,Yes,No,Yes,No
+Drug Offense,2022-06-20 12:02:09,North,2022-06-20 12:52:09,Other,21,Male,Singaporean,76,Female,Indonesian,7,Yes,Convicted,Major,Yes,Yes,No,Yes
+Vandalism,2022-06-21 14:19:05,East,2022-06-21 14:32:05,Other,47,Male,Indonesian,19,Male,Malaysian,4,Yes,Acquitted,Minor,Yes,Yes,Yes,No
+Drug Offense,2022-06-22 16:36:02,South,2022-06-22 16:55:02,Other,45,Female,Singaporean,24,Female,Indonesian,9,No,Dismissed,Moderate,No,No,Yes,Yes
+Assault,2022-06-23 18:52:58,West,2022-06-23 19:36:58,None,46,Female,Indian,68,Female,Indian,5,Yes,Pending,Major,Yes,Yes,No,Yes
+Assault,2022-06-24 21:09:54,West,2022-06-24 21:16:54,Knife,24,Male,Singaporean,33,Female,Others,2,Yes,Convicted,Minor,Yes,Yes,No,No
+Theft,2022-06-25 23:26:50,Central,2022-06-25 23:56:50,Other,29,Male,Others,50,Male,Singaporean,3,No,Dismissed,Moderate,No,No,No,Yes
+Burglary,2022-06-27 01:43:47,Central,2022-06-27 02:28:47,Other,30,Female,Indonesian,26,Female,Indian,9,Yes,Acquitted,Minor,Yes,No,Yes,No
+Vandalism,2022-06-28 04:00:43,South,2022-06-28 04:34:43,Knife,76,Male,Singaporean,38,Male,Malaysian,7,Yes,Dismissed,Minor,No,Yes,Yes,No
+Others,2022-06-29 06:17:39,West,2022-06-29 06:46:39,Other,68,Female,Others,63,Female,Malaysian,4,Yes,Convicted,Minor,Yes,No,Yes,Yes
+Assault,2022-06-30 08:34:35,North,2022-06-30 09:31:35,Knife,48,Male,Malaysian,25,Male,Indonesian,1,Yes,Pending,Minor,Yes,No,No,Yes
+Drug Offense,2022-07-01 10:51:31,Central,2022-07-01 11:26:31,Firearm,47,Female,Indonesian,62,Male,Others,5,No,Pending,Minor,No,No,No,Yes
+Others,2022-07-02 13:08:28,Central,2022-07-02 14:00:28,None,50,Male,Others,49,Male,Malaysian,5,Yes,Dismissed,Major,No,No,Yes,Yes
+Burglary,2022-07-03 15:25:24,Central,2022-07-03 16:01:24,Other,56,Male,Malaysian,38,Female,Malaysian,5,No,Pending,Major,No,No,Yes,Yes
+Drug Offense,2022-07-04 17:42:20,Central,2022-07-04 17:58:20,Firearm,23,Male,Others,55,Female,Others,7,Yes,Convicted,Minor,Yes,Yes,No,No
+Others,2022-07-05 19:59:16,South,2022-07-05 20:52:16,Firearm,29,Female,Singaporean,47,Female,Others,0,No,Acquitted,Moderate,No,No,No,Yes
+Vandalism,2022-07-06 22:16:12,South,2022-07-06 23:00:12,Other,58,Female,Indonesian,64,Female,Malaysian,6,Yes,Dismissed,Minor,Yes,Yes,Yes,Yes
+Vandalism,2022-07-08 00:33:09,South,2022-07-08 00:51:09,Knife,46,Female,Others,37,Female,Indian,5,No,Convicted,Major,Yes,No,Yes,Yes
+Fraud,2022-07-09 02:50:05,North,2022-07-09 03:15:05,None,54,Female,Singaporean,52,Female,Singaporean,0,No,Pending,Minor,No,No,Yes,Yes
+Drug Offense,2022-07-10 05:07:01,East,2022-07-10 05:25:01,Firearm,62,Female,Singaporean,61,Female,Singaporean,6,Yes,Pending,Major,Yes,No,No,Yes
+Others,2022-07-11 07:23:57,East,2022-07-11 07:54:57,Knife,34,Male,Others,44,Male,Singaporean,2,No,Convicted,Moderate,No,Yes,Yes,No
+Fraud,2022-07-12 09:40:54,East,2022-07-12 09:55:54,None,59,Female,Indian,29,Female,Indonesian,3,No,Dismissed,Minor,Yes,Yes,Yes,No
+Vandalism,2022-07-13 11:57:50,South,2022-07-13 12:36:50,Other,24,Male,Malaysian,57,Male,Malaysian,9,Yes,Pending,Moderate,Yes,No,Yes,Yes
+Drug Offense,2022-07-14 14:14:46,Central,2022-07-14 14:28:46,Knife,19,Male,Indian,22,Female,Malaysian,7,No,Acquitted,Moderate,Yes,No,No,No
+Vandalism,2022-07-15 16:31:42,East,2022-07-15 17:27:42,Knife,77,Male,Indian,71,Male,Indian,1,Yes,Convicted,Moderate,Yes,No,Yes,Yes
+Burglary,2022-07-16 18:48:38,Central,2022-07-16 19:11:38,None,66,Male,Malaysian,45,Female,Malaysian,8,Yes,Dismissed,Minor,No,No,Yes,No
+Fraud,2022-07-17 21:05:35,West,2022-07-17 21:16:35,Knife,28,Male,Malaysian,20,Male,Indian,3,No,Acquitted,Minor,Yes,No,No,Yes
+Vandalism,2022-07-18 23:22:31,East,2022-07-18 23:35:31,Other,24,Female,Indonesian,45,Male,Indonesian,8,Yes,Pending,Minor,Yes,No,No,No
+Burglary,2022-07-20 01:39:27,South,2022-07-20 01:43:27,Other,75,Male,Malaysian,61,Female,Malaysian,2,Yes,Acquitted,Moderate,Yes,No,Yes,Yes
+Burglary,2022-07-21 03:56:23,West,2022-07-21 04:46:23,None,47,Male,Indian,33,Female,Indian,6,No,Pending,Major,Yes,Yes,Yes,No
+Burglary,2022-07-22 06:13:20,Central,2022-07-22 06:22:20,None,25,Female,Others,27,Male,Malaysian,2,No,Convicted,Moderate,Yes,No,Yes,Yes
+Assault,2022-07-23 08:30:16,Central,2022-07-23 08:46:16,Firearm,26,Female,Malaysian,54,Male,Singaporean,8,No,Dismissed,Minor,No,No,No,Yes
+Others,2022-07-24 10:47:12,North,2022-07-24 10:59:12,Other,51,Female,Indian,51,Male,Singaporean,1,No,Pending,Minor,Yes,No,Yes,Yes
+Others,2022-07-25 13:04:08,West,2022-07-25 13:38:08,Other,20,Female,Malaysian,63,Male,Others,6,No,Convicted,Moderate,Yes,No,Yes,Yes
+Others,2022-07-26 15:21:04,North,2022-07-26 15:46:04,Other,51,Female,Indian,35,Male,Others,4,No,Convicted,Major,Yes,Yes,Yes,Yes
+Assault,2022-07-27 17:38:01,South,2022-07-27 17:54:01,Other,63,Female,Indian,45,Female,Indian,4,No,Convicted,Major,No,No,No,Yes
+Fraud,2022-07-28 19:54:57,North,2022-07-28 20:01:57,Other,28,Male,Indonesian,60,Male,Singaporean,1,Yes,Pending,Major,No,No,Yes,No
+Assault,2022-07-29 22:11:53,South,2022-07-29 22:46:53,Firearm,33,Male,Malaysian,77,Female,Others,0,No,Convicted,Minor,Yes,Yes,No,Yes
+Assault,2022-07-31 00:28:49,South,2022-07-31 00:49:49,Firearm,48,Male,Indian,70,Male,Indian,5,Yes,Convicted,Minor,No,No,Yes,No
+Theft,2022-08-01 02:45:45,Central,2022-08-01 03:22:45,Firearm,50,Female,Others,21,Male,Others,9,Yes,Pending,Moderate,No,Yes,No,Yes
+Fraud,2022-08-02 05:02:42,East,2022-08-02 05:44:42,Knife,73,Female,Malaysian,50,Male,Malaysian,0,Yes,Convicted,Minor,Yes,No,No,No
+Drug Offense,2022-08-03 07:19:38,Central,2022-08-03 08:06:38,Other,51,Female,Others,76,Male,Indonesian,0,No,Acquitted,Minor,No,Yes,Yes,No
+Drug Offense,2022-08-04 09:36:34,East,2022-08-04 09:40:34,Firearm,76,Female,Malaysian,53,Female,Indonesian,4,No,Convicted,Major,Yes,Yes,Yes,Yes
+Others,2022-08-05 11:53:30,East,2022-08-05 11:58:30,Knife,22,Female,Singaporean,40,Male,Indonesian,1,No,Dismissed,Minor,No,Yes,No,No
+Others,2022-08-06 14:10:27,West,2022-08-06 14:38:27,Knife,40,Male,Singaporean,63,Male,Malaysian,9,No,Pending,Major,Yes,Yes,No,Yes
+Fraud,2022-08-07 16:27:23,Central,2022-08-07 16:53:23,Knife,76,Female,Singaporean,46,Male,Indonesian,9,No,Dismissed,Major,No,No,Yes,No
+Fraud,2022-08-08 18:44:19,West,2022-08-08 18:59:19,Knife,50,Female,Others,62,Female,Singaporean,0,No,Pending,Minor,No,No,Yes,No
+Theft,2022-08-09 21:01:15,East,2022-08-09 21:24:15,Other,49,Female,Others,51,Female,Singaporean,2,No,Dismissed,Minor,No,Yes,Yes,No
+Others,2022-08-10 23:18:11,West,2022-08-10 23:36:11,None,53,Male,Singaporean,58,Female,Indonesian,1,Yes,Pending,Moderate,No,No,No,No
+Burglary,2022-08-12 01:35:08,Central,2022-08-12 01:36:08,Firearm,73,Male,Singaporean,66,Female,Malaysian,7,Yes,Convicted,Minor,Yes,Yes,Yes,No
+Theft,2022-08-13 03:52:04,South,2022-08-13 04:37:04,Other,71,Female,Singaporean,55,Male,Indian,1,Yes,Dismissed,Minor,Yes,No,Yes,Yes
+Vandalism,2022-08-14 06:09:00,South,2022-08-14 06:54:00,None,23,Male,Malaysian,39,Female,Others,3,No,Convicted,Major,Yes,No,No,Yes
+Others,2022-08-15 08:25:56,South,2022-08-15 08:54:56,Knife,49,Male,Indian,47,Female,Indonesian,6,Yes,Acquitted,Moderate,Yes,No,Yes,Yes
+Drug Offense,2022-08-16 10:42:52,North,2022-08-16 10:44:52,Knife,57,Male,Indonesian,29,Male,Malaysian,9,No,Convicted,Major,Yes,Yes,No,No
+Assault,2022-08-17 12:59:49,South,2022-08-17 13:43:49,None,19,Female,Malaysian,50,Male,Singaporean,7,No,Dismissed,Moderate,No,Yes,Yes,No
+Fraud,2022-08-18 15:16:45,South,2022-08-18 15:46:45,None,40,Female,Singaporean,28,Female,Others,1,No,Convicted,Moderate,No,Yes,Yes,No
+Vandalism,2022-08-19 17:33:41,Central,2022-08-19 17:39:41,Other,62,Female,Others,39,Male,Others,6,No,Convicted,Moderate,No,Yes,No,Yes
+Assault,2022-08-20 19:50:37,Central,2022-08-20 20:46:37,None,54,Male,Malaysian,69,Male,Indonesian,2,No,Dismissed,Major,No,Yes,Yes,Yes
+Fraud,2022-08-21 22:07:34,West,2022-08-21 22:28:34,Other,34,Male,Indonesian,59,Female,Others,6,No,Acquitted,Minor,No,Yes,No,No
+Fraud,2022-08-23 00:24:30,North,2022-08-23 01:01:30,Knife,55,Female,Others,20,Male,Singaporean,3,No,Convicted,Moderate,Yes,No,No,Yes
+Others,2022-08-24 02:41:26,West,2022-08-24 02:56:26,None,37,Male,Indonesian,30,Female,Indian,0,No,Dismissed,Major,No,Yes,No,Yes
+Burglary,2022-08-25 04:58:22,East,2022-08-25 05:44:22,Firearm,27,Female,Singaporean,19,Female,Singaporean,8,No,Convicted,Minor,Yes,Yes,No,Yes
+Fraud,2022-08-26 07:15:18,South,2022-08-26 07:17:18,Knife,39,Female,Indonesian,78,Female,Indonesian,0,No,Convicted,Moderate,No,No,Yes,Yes
+Fraud,2022-08-27 09:32:15,Central,2022-08-27 10:22:15,Other,22,Male,Malaysian,32,Male,Indian,7,Yes,Dismissed,Major,Yes,No,Yes,Yes
+Theft,2022-08-28 11:49:11,Central,2022-08-28 12:38:11,None,18,Male,Singaporean,33,Male,Indonesian,5,No,Acquitted,Moderate,Yes,No,No,No
+Vandalism,2022-08-29 14:06:07,North,2022-08-29 14:37:07,None,64,Female,Indian,70,Male,Indian,0,No,Convicted,Moderate,No,No,No,Yes
+Fraud,2022-08-30 16:23:03,Central,2022-08-30 17:09:03,Other,48,Female,Indonesian,61,Male,Others,3,Yes,Convicted,Moderate,Yes,Yes,No,No
+Theft,2022-08-31 18:40:00,West,2022-08-31 19:34:00,None,18,Male,Indonesian,70,Male,Others,1,Yes,Acquitted,Minor,No,Yes,No,No
+Fraud,2022-09-01 20:56:56,North,2022-09-01 21:16:56,Knife,79,Female,Indian,79,Female,Indonesian,8,No,Pending,Moderate,No,No,Yes,Yes
+Others,2022-09-02 23:13:52,North,2022-09-03 00:11:52,Firearm,27,Female,Others,66,Female,Singaporean,3,Yes,Pending,Moderate,No,No,Yes,No
+Drug Offense,2022-09-04 01:30:48,West,2022-09-04 02:06:48,Firearm,70,Male,Indian,46,Male,Singaporean,3,Yes,Convicted,Minor,No,Yes,No,No
+Burglary,2022-09-05 03:47:44,West,2022-09-05 03:54:44,Other,67,Female,Indian,30,Female,Indonesian,5,No,Convicted,Minor,Yes,No,No,No
+Assault,2022-09-06 06:04:41,Central,2022-09-06 06:55:41,Other,18,Male,Malaysian,50,Female,Singaporean,2,Yes,Convicted,Major,Yes,Yes,No,No
+Drug Offense,2022-09-07 08:21:37,West,2022-09-07 08:58:37,Firearm,76,Male,Others,19,Male,Singaporean,9,Yes,Dismissed,Moderate,Yes,Yes,Yes,Yes
+Theft,2022-09-08 10:38:33,North,2022-09-08 11:35:33,Firearm,67,Female,Indian,61,Female,Indian,4,No,Convicted,Minor,No,No,No,No
+Vandalism,2022-09-09 12:55:29,East,2022-09-09 13:20:29,Firearm,37,Male,Singaporean,67,Female,Indonesian,1,No,Acquitted,Minor,Yes,No,No,Yes
+Fraud,2022-09-10 15:12:25,East,2022-09-10 15:28:25,None,78,Female,Indian,21,Female,Others,7,No,Acquitted,Minor,Yes,No,Yes,No
+Others,2022-09-11 17:29:22,East,2022-09-11 17:53:22,None,62,Male,Indonesian,62,Male,Malaysian,8,Yes,Pending,Moderate,No,Yes,No,No
+Fraud,2022-09-12 19:46:18,South,2022-09-12 20:43:18,Firearm,36,Female,Others,71,Male,Others,9,No,Acquitted,Major,Yes,No,Yes,Yes
+Fraud,2022-09-13 22:03:14,West,2022-09-13 22:48:14,Other,72,Female,Others,43,Male,Indian,0,Yes,Convicted,Moderate,Yes,Yes,Yes,No
+Others,2022-09-15 00:20:10,West,2022-09-15 01:13:10,Firearm,73,Female,Singaporean,65,Female,Indonesian,9,No,Acquitted,Minor,Yes,No,No,Yes
+Theft,2022-09-16 02:37:07,East,2022-09-16 02:40:07,None,50,Male,Others,47,Male,Malaysian,4,Yes,Acquitted,Moderate,No,Yes,Yes,Yes
+Assault,2022-09-17 04:54:03,South,2022-09-17 05:09:03,Firearm,63,Male,Indonesian,75,Female,Others,0,Yes,Acquitted,Moderate,Yes,Yes,Yes,Yes
+Theft,2022-09-18 07:10:59,Central,2022-09-18 07:22:59,Other,61,Female,Indonesian,59,Male,Singaporean,3,No,Dismissed,Moderate,No,No,Yes,No
+Burglary,2022-09-19 09:27:55,South,2022-09-19 10:02:55,None,56,Male,Malaysian,27,Female,Others,2,Yes,Dismissed,Minor,Yes,Yes,Yes,Yes
+Theft,2022-09-20 11:44:51,West,2022-09-20 11:56:51,Other,45,Male,Indonesian,69,Male,Indonesian,6,No,Pending,Major,Yes,Yes,Yes,No
+Vandalism,2022-09-21 14:01:48,South,2022-09-21 14:41:48,Firearm,56,Male,Others,21,Female,Indian,5,Yes,Dismissed,Minor,Yes,No,No,No
+Assault,2022-09-22 16:18:44,North,2022-09-22 16:43:44,Knife,72,Female,Malaysian,46,Male,Others,6,No,Convicted,Major,Yes,Yes,No,Yes
+Burglary,2022-09-23 18:35:40,West,2022-09-23 19:28:40,Firearm,59,Male,Indian,58,Female,Malaysian,5,Yes,Pending,Moderate,No,No,No,Yes
+Burglary,2022-09-24 20:52:36,Central,2022-09-24 20:58:36,Knife,39,Female,Malaysian,63,Male,Others,1,No,Acquitted,Moderate,No,Yes,No,No
+Assault,2022-09-25 23:09:32,West,2022-09-25 23:46:32,Other,77,Male,Indonesian,61,Female,Malaysian,5,Yes,Acquitted,Major,No,No,Yes,No
+Theft,2022-09-27 01:26:29,East,2022-09-27 01:43:29,Other,22,Female,Indonesian,35,Male,Singaporean,6,Yes,Acquitted,Moderate,Yes,No,Yes,Yes
+Vandalism,2022-09-28 03:43:25,Central,2022-09-28 03:46:25,None,37,Female,Malaysian,72,Male,Indian,2,Yes,Dismissed,Minor,No,No,No,Yes
+Assault,2022-09-29 06:00:21,East,2022-09-29 06:01:21,Other,61,Female,Malaysian,79,Female,Singaporean,7,Yes,Pending,Major,No,No,Yes,Yes
+Fraud,2022-09-30 08:17:17,East,2022-09-30 08:57:17,Knife,43,Male,Malaysian,70,Male,Indonesian,9,No,Pending,Major,No,No,Yes,Yes
+Burglary,2022-10-01 10:34:14,West,2022-10-01 10:35:14,None,50,Female,Others,70,Female,Indian,4,No,Acquitted,Major,No,No,No,No
+Vandalism,2022-10-02 12:51:10,West,2022-10-02 13:37:10,Other,44,Female,Malaysian,34,Male,Malaysian,1,No,Dismissed,Minor,Yes,No,No,No
+Fraud,2022-10-03 15:08:06,Central,2022-10-03 15:12:06,Knife,56,Female,Singaporean,78,Female,Indonesian,2,No,Pending,Moderate,No,Yes,Yes,No
+Vandalism,2022-10-04 17:25:02,North,2022-10-04 17:51:02,Knife,27,Female,Others,44,Female,Malaysian,5,No,Dismissed,Minor,No,No,No,Yes
+Vandalism,2022-10-05 19:41:58,West,2022-10-05 19:50:58,None,75,Male,Indonesian,35,Female,Indian,5,Yes,Acquitted,Minor,No,No,Yes,No
+Assault,2022-10-06 21:58:55,Central,2022-10-06 22:07:55,Other,25,Male,Singaporean,62,Female,Indian,8,Yes,Dismissed,Minor,Yes,No,No,No
+Vandalism,2022-10-08 00:15:51,Central,2022-10-08 01:14:51,None,65,Male,Others,43,Female,Indian,0,Yes,Dismissed,Minor,Yes,Yes,No,Yes
+Assault,2022-10-09 02:32:47,West,2022-10-09 02:44:47,Firearm,29,Male,Singaporean,61,Female,Malaysian,8,Yes,Pending,Minor,No,No,No,No
+Drug Offense,2022-10-10 04:49:43,West,2022-10-10 05:21:43,Knife,78,Male,Indian,69,Male,Others,2,Yes,Acquitted,Major,No,No,Yes,Yes
+Fraud,2022-10-11 07:06:40,Central,2022-10-11 07:14:40,Other,74,Female,Others,67,Female,Indian,5,No,Pending,Moderate,No,Yes,No,Yes
+Theft,2022-10-12 09:23:36,West,2022-10-12 10:05:36,Firearm,40,Female,Indian,23,Male,Others,2,No,Dismissed,Minor,Yes,Yes,No,No
+Vandalism,2022-10-13 11:40:32,South,2022-10-13 12:01:32,None,30,Male,Indian,47,Female,Malaysian,3,No,Dismissed,Moderate,Yes,Yes,Yes,No
+Assault,2022-10-14 13:57:28,North,2022-10-14 13:58:28,None,71,Female,Indonesian,42,Female,Malaysian,9,No,Acquitted,Minor,Yes,No,No,No
+Assault,2022-10-15 16:14:24,Central,2022-10-15 16:46:24,Knife,23,Female,Others,70,Female,Indian,9,Yes,Pending,Major,Yes,No,Yes,Yes
+Assault,2022-10-16 18:31:21,Central,2022-10-16 18:45:21,None,45,Male,Malaysian,27,Male,Malaysian,9,Yes,Dismissed,Moderate,Yes,Yes,No,No
+Assault,2022-10-17 20:48:17,Central,2022-10-17 21:05:17,None,28,Male,Indian,28,Female,Indian,5,Yes,Convicted,Major,No,Yes,No,No
+Vandalism,2022-10-18 23:05:13,East,2022-10-18 23:18:13,Firearm,28,Female,Others,66,Male,Indian,6,Yes,Acquitted,Major,Yes,Yes,No,Yes
+Vandalism,2022-10-20 01:22:09,Central,2022-10-20 02:18:09,None,48,Female,Indian,23,Female,Malaysian,1,Yes,Convicted,Major,No,Yes,No,No
+Others,2022-10-21 03:39:05,East,2022-10-21 04:21:05,Firearm,27,Male,Indian,77,Male,Indonesian,6,No,Acquitted,Major,Yes,Yes,Yes,No
+Burglary,2022-10-22 05:56:02,North,2022-10-22 06:14:02,Other,35,Male,Indian,53,Female,Malaysian,5,Yes,Dismissed,Minor,Yes,No,Yes,No
+Burglary,2022-10-23 08:12:58,West,2022-10-23 09:11:58,Firearm,41,Female,Malaysian,43,Female,Others,9,No,Acquitted,Moderate,Yes,No,No,Yes
+Assault,2022-10-24 10:29:54,South,2022-10-24 10:44:54,None,56,Male,Others,44,Male,Malaysian,5,Yes,Acquitted,Moderate,Yes,No,No,No
+Burglary,2022-10-25 12:46:50,West,2022-10-25 12:47:50,Other,29,Female,Malaysian,69,Male,Indian,5,Yes,Convicted,Major,Yes,Yes,Yes,No
+Others,2022-10-26 15:03:47,North,2022-10-26 15:51:47,Knife,32,Female,Others,41,Male,Indonesian,1,No,Acquitted,Moderate,No,No,No,No
+Assault,2022-10-27 17:20:43,Central,2022-10-27 18:18:43,None,79,Female,Others,46,Female,Indian,3,No,Dismissed,Moderate,Yes,Yes,No,No
+Fraud,2022-10-28 19:37:39,Central,2022-10-28 20:22:39,None,35,Female,Others,64,Female,Indian,1,Yes,Convicted,Moderate,Yes,Yes,No,No
+Drug Offense,2022-10-29 21:54:35,North,2022-10-29 22:32:35,Firearm,42,Male,Indian,59,Female,Indonesian,9,Yes,Dismissed,Minor,No,No,No,Yes
+Others,2022-10-31 00:11:31,Central,2022-10-31 00:24:31,Knife,52,Female,Singaporean,27,Female,Singaporean,3,No,Acquitted,Minor,No,No,Yes,Yes
+Others,2022-11-01 02:28:28,East,2022-11-01 03:03:28,Knife,73,Male,Malaysian,18,Female,Others,7,No,Pending,Moderate,No,No,No,No
+Burglary,2022-11-02 04:45:24,Central,2022-11-02 04:54:24,Knife,52,Male,Indonesian,67,Female,Malaysian,4,No,Acquitted,Minor,No,No,No,Yes
+Theft,2022-11-03 07:02:20,West,2022-11-03 07:31:20,Knife,61,Female,Others,27,Female,Indonesian,7,No,Pending,Major,Yes,Yes,No,Yes
+Fraud,2022-11-04 09:19:16,North,2022-11-04 10:09:16,Other,25,Male,Others,43,Female,Indonesian,2,Yes,Dismissed,Minor,Yes,Yes,Yes,No
+Vandalism,2022-11-05 11:36:12,Central,2022-11-05 12:20:12,Other,50,Male,Singaporean,51,Male,Malaysian,4,Yes,Pending,Major,No,Yes,Yes,No
+Vandalism,2022-11-06 13:53:09,South,2022-11-06 14:07:09,Knife,23,Male,Indonesian,69,Female,Indian,9,Yes,Dismissed,Major,No,Yes,No,Yes
+Fraud,2022-11-07 16:10:05,South,2022-11-07 16:39:05,Knife,67,Male,Indian,34,Male,Singaporean,5,Yes,Pending,Minor,Yes,Yes,No,Yes
+Theft,2022-11-08 18:27:01,South,2022-11-08 19:18:01,Other,19,Male,Malaysian,57,Male,Indian,8,No,Dismissed,Major,No,No,Yes,Yes
+Others,2022-11-09 20:43:57,North,2022-11-09 21:06:57,Other,41,Male,Indonesian,38,Male,Others,8,Yes,Acquitted,Minor,No,Yes,Yes,Yes
+Vandalism,2022-11-10 23:00:54,West,2022-11-10 23:02:54,Knife,71,Female,Malaysian,39,Female,Malaysian,1,Yes,Dismissed,Moderate,No,No,Yes,No
+Vandalism,2022-11-12 01:17:50,Central,2022-11-12 01:53:50,Knife,31,Female,Singaporean,48,Female,Indian,2,No,Pending,Minor,Yes,Yes,Yes,Yes
+Drug Offense,2022-11-13 03:34:46,West,2022-11-13 04:03:46,Knife,51,Male,Indonesian,71,Female,Singaporean,9,Yes,Acquitted,Major,No,No,Yes,No
+Burglary,2022-11-14 05:51:42,Central,2022-11-14 06:45:42,Other,59,Female,Malaysian,58,Male,Indian,2,No,Dismissed,Moderate,No,Yes,Yes,Yes
+Others,2022-11-15 08:08:38,East,2022-11-15 08:53:38,Firearm,62,Male,Indonesian,79,Male,Indonesian,0,Yes,Dismissed,Minor,Yes,Yes,No,No
+Drug Offense,2022-11-16 10:25:35,East,2022-11-16 10:41:35,Knife,32,Male,Indonesian,19,Female,Indonesian,2,No,Acquitted,Moderate,No,No,Yes,No
+Drug Offense,2022-11-17 12:42:31,West,2022-11-17 13:30:31,Firearm,37,Male,Others,62,Female,Singaporean,8,Yes,Acquitted,Major,Yes,No,No,Yes
+Fraud,2022-11-18 14:59:27,North,2022-11-18 15:09:27,Knife,71,Female,Singaporean,79,Female,Indonesian,2,Yes,Acquitted,Moderate,Yes,No,Yes,No
+Burglary,2022-11-19 17:16:23,Central,2022-11-19 17:30:23,Knife,78,Female,Indian,37,Male,Singaporean,0,No,Acquitted,Moderate,Yes,No,Yes,No
+Drug Offense,2022-11-20 19:33:20,East,2022-11-20 19:36:20,None,56,Male,Indian,25,Female,Indonesian,9,Yes,Convicted,Moderate,No,No,No,Yes
+Vandalism,2022-11-21 21:50:16,South,2022-11-21 22:23:16,Knife,57,Female,Singaporean,32,Female,Malaysian,5,Yes,Pending,Moderate,Yes,No,No,Yes
+Theft,2022-11-23 00:07:12,East,2022-11-23 00:15:12,Firearm,28,Female,Singaporean,25,Female,Malaysian,6,No,Acquitted,Moderate,Yes,Yes,Yes,Yes
+Fraud,2022-11-24 02:24:08,East,2022-11-24 03:20:08,Firearm,36,Female,Singaporean,54,Female,Others,2,Yes,Pending,Minor,No,Yes,Yes,No
+Vandalism,2022-11-25 04:41:04,North,2022-11-25 05:27:04,Knife,60,Female,Singaporean,28,Female,Malaysian,6,No,Convicted,Major,No,Yes,Yes,Yes
+Vandalism,2022-11-26 06:58:01,North,2022-11-26 07:00:01,None,36,Male,Indonesian,66,Female,Indonesian,9,No,Pending,Major,Yes,No,Yes,No
+Vandalism,2022-11-27 09:14:57,Central,2022-11-27 09:49:57,Knife,79,Female,Indian,38,Male,Singaporean,7,Yes,Pending,Moderate,Yes,Yes,Yes,Yes
+Drug Offense,2022-11-28 11:31:53,Central,2022-11-28 12:30:53,Other,66,Female,Malaysian,53,Male,Others,6,Yes,Acquitted,Major,No,Yes,Yes,Yes
+Burglary,2022-11-29 13:48:49,East,2022-11-29 14:20:49,Firearm,46,Female,Malaysian,54,Male,Others,1,No,Acquitted,Moderate,Yes,No,Yes,Yes
+Theft,2022-11-30 16:05:45,Central,2022-11-30 16:39:45,None,73,Female,Malaysian,30,Male,Others,5,No,Convicted,Moderate,Yes,Yes,No,Yes
+Assault,2022-12-01 18:22:42,Central,2022-12-01 18:48:42,Other,54,Female,Malaysian,65,Male,Singaporean,9,Yes,Convicted,Minor,No,Yes,Yes,No
+Fraud,2022-12-02 20:39:38,North,2022-12-02 21:07:38,None,29,Male,Malaysian,23,Male,Indian,7,No,Convicted,Moderate,No,No,No,No
+Vandalism,2022-12-03 22:56:34,East,2022-12-03 23:48:34,Other,37,Male,Indonesian,37,Female,Others,4,Yes,Acquitted,Moderate,No,No,No,No
+Drug Offense,2022-12-05 01:13:30,South,2022-12-05 01:20:30,Firearm,43,Male,Malaysian,58,Female,Others,5,Yes,Convicted,Major,No,No,No,Yes
+Others,2022-12-06 03:30:27,West,2022-12-06 03:31:27,Other,19,Male,Malaysian,74,Female,Indian,3,Yes,Dismissed,Minor,No,No,No,Yes
+Others,2022-12-07 05:47:23,Central,2022-12-07 06:41:23,None,54,Male,Others,59,Female,Indonesian,3,Yes,Dismissed,Minor,No,Yes,No,No
+Burglary,2022-12-08 08:04:19,Central,2022-12-08 08:06:19,Firearm,42,Male,Malaysian,56,Male,Singaporean,3,No,Dismissed,Major,No,Yes,Yes,No
+Drug Offense,2022-12-09 10:21:15,North,2022-12-09 11:07:15,Knife,42,Female,Indonesian,50,Male,Singaporean,5,No,Dismissed,Minor,Yes,No,No,Yes
+Fraud,2022-12-10 12:38:11,East,2022-12-10 13:15:11,Knife,63,Female,Others,59,Male,Singaporean,4,Yes,Convicted,Moderate,No,Yes,No,No
+Fraud,2022-12-11 14:55:08,West,2022-12-11 15:26:08,None,76,Female,Singaporean,34,Female,Indian,4,No,Dismissed,Major,No,Yes,Yes,Yes
+Vandalism,2022-12-12 17:12:04,West,2022-12-12 17:50:04,Firearm,49,Male,Indian,27,Male,Malaysian,2,Yes,Acquitted,Major,No,No,Yes,Yes
+Vandalism,2022-12-13 19:29:00,West,2022-12-13 19:58:00,Knife,47,Female,Indonesian,40,Female,Others,6,Yes,Convicted,Moderate,No,Yes,Yes,No
+Theft,2022-12-14 21:45:56,Central,2022-12-14 22:26:56,Firearm,21,Female,Singaporean,36,Male,Indonesian,2,No,Convicted,Major,No,No,No,No
+Vandalism,2022-12-16 00:02:52,South,2022-12-16 00:44:52,Firearm,61,Male,Indonesian,77,Female,Malaysian,6,No,Dismissed,Moderate,No,Yes,No,No
+Assault,2022-12-17 02:19:49,East,2022-12-17 02:44:49,Other,25,Female,Indonesian,19,Female,Malaysian,5,Yes,Acquitted,Minor,No,Yes,No,No
+Drug Offense,2022-12-18 04:36:45,East,2022-12-18 05:15:45,Knife,21,Male,Indonesian,74,Male,Indonesian,6,No,Acquitted,Moderate,Yes,No,Yes,Yes
+Drug Offense,2022-12-19 06:53:41,East,2022-12-19 07:06:41,Firearm,63,Male,Indonesian,43,Female,Others,0,Yes,Pending,Moderate,Yes,No,No,Yes
+Burglary,2022-12-20 09:10:37,South,2022-12-20 09:21:37,Knife,28,Female,Malaysian,70,Male,Malaysian,1,Yes,Pending,Major,No,No,No,No
+Fraud,2022-12-21 11:27:34,North,2022-12-21 11:43:34,None,42,Male,Indonesian,30,Female,Others,2,No,Convicted,Minor,No,Yes,No,No
+Burglary,2022-12-22 13:44:30,West,2022-12-22 14:08:30,Firearm,22,Female,Others,57,Female,Indonesian,2,Yes,Acquitted,Minor,No,No,Yes,No
+Fraud,2022-12-23 16:01:26,Central,2022-12-23 16:26:26,Firearm,21,Female,Indian,28,Female,Malaysian,3,Yes,Acquitted,Minor,Yes,Yes,Yes,No
+Theft,2022-12-24 18:18:22,West,2022-12-24 18:46:22,Knife,46,Male,Indonesian,54,Male,Indonesian,4,No,Dismissed,Major,Yes,Yes,Yes,Yes
+Theft,2022-12-25 20:35:18,South,2022-12-25 21:11:18,Firearm,57,Male,Indonesian,39,Male,Others,2,Yes,Convicted,Minor,Yes,No,No,Yes
+Others,2022-12-26 22:52:15,East,2022-12-26 23:10:15,Other,40,Female,Others,53,Male,Others,8,Yes,Convicted,Moderate,No,Yes,Yes,No
+Assault,2022-12-28 01:09:11,East,2022-12-28 01:16:11,Knife,26,Female,Singaporean,36,Female,Indonesian,2,No,Acquitted,Minor,No,Yes,Yes,Yes
+Vandalism,2022-12-29 03:26:07,East,2022-12-29 03:51:07,Firearm,25,Male,Singaporean,69,Female,Indian,8,Yes,Convicted,Moderate,Yes,No,No,No
+Others,2022-12-30 05:43:03,South,2022-12-30 05:49:03,Other,56,Male,Indian,41,Female,Others,4,Yes,Pending,Moderate,No,No,Yes,No
+Fraud,2022-12-31 08:00:00,West,2022-12-31 08:17:00,None,69,Female,Malaysian,29,Female,Others,4,Yes,Pending,Major,Yes,Yes,Yes,No
+Burglary,2023-01-01 10:16:56,East,2023-01-01 10:19:56,None,55,Female,Indonesian,39,Female,Malaysian,5,Yes,Dismissed,Major,Yes,Yes,No,Yes
+Drug Offense,2023-01-02 12:33:52,West,2023-01-02 12:39:52,None,35,Female,Malaysian,50,Female,Singaporean,2,Yes,Convicted,Moderate,No,No,Yes,No
+Drug Offense,2023-01-03 14:50:48,East,2023-01-03 15:48:48,Other,28,Female,Singaporean,72,Male,Indonesian,2,Yes,Dismissed,Minor,Yes,No,No,Yes
+Drug Offense,2023-01-04 17:07:44,North,2023-01-04 17:21:44,Knife,63,Male,Singaporean,75,Male,Singaporean,8,No,Acquitted,Minor,No,No,No,No
+Assault,2023-01-05 19:24:41,East,2023-01-05 19:58:41,Knife,19,Male,Singaporean,68,Female,Indonesian,5,Yes,Dismissed,Moderate,Yes,No,Yes,No
+Burglary,2023-01-06 21:41:37,North,2023-01-06 21:49:37,Knife,79,Male,Indian,54,Female,Singaporean,8,Yes,Acquitted,Minor,No,Yes,Yes,No
+Vandalism,2023-01-07 23:58:33,West,2023-01-08 00:29:33,Other,65,Male,Indonesian,56,Female,Indonesian,1,No,Dismissed,Major,No,Yes,No,No
+Vandalism,2023-01-09 02:15:29,North,2023-01-09 03:00:29,None,57,Female,Others,60,Male,Others,1,Yes,Pending,Moderate,No,No,No,Yes
+Burglary,2023-01-10 04:32:25,West,2023-01-10 05:10:25,None,30,Male,Malaysian,18,Female,Indian,6,No,Acquitted,Minor,No,Yes,Yes,No
+Vandalism,2023-01-11 06:49:22,East,2023-01-11 07:28:22,Knife,57,Female,Malaysian,72,Male,Singaporean,7,No,Dismissed,Minor,Yes,Yes,No,Yes
+Fraud,2023-01-12 09:06:18,North,2023-01-12 09:19:18,Other,34,Male,Malaysian,47,Male,Singaporean,7,Yes,Acquitted,Major,No,Yes,No,No
+Drug Offense,2023-01-13 11:23:14,Central,2023-01-13 11:58:14,Other,42,Male,Others,23,Female,Malaysian,6,Yes,Acquitted,Major,No,Yes,Yes,Yes
+Assault,2023-01-14 13:40:10,South,2023-01-14 14:27:10,Knife,63,Male,Indonesian,75,Female,Singaporean,4,No,Convicted,Major,No,No,Yes,Yes
+Burglary,2023-01-15 15:57:07,South,2023-01-15 16:20:07,Other,76,Male,Others,26,Male,Malaysian,9,No,Convicted,Moderate,No,No,Yes,Yes
+Assault,2023-01-16 18:14:03,South,2023-01-16 18:44:03,None,78,Female,Malaysian,41,Female,Indonesian,9,Yes,Pending,Moderate,Yes,No,No,Yes
+Vandalism,2023-01-17 20:30:59,North,2023-01-17 20:43:59,Firearm,32,Female,Indian,76,Female,Singaporean,8,No,Convicted,Minor,No,No,Yes,No
+Drug Offense,2023-01-18 22:47:55,North,2023-01-18 23:32:55,Firearm,79,Male,Singaporean,44,Male,Indonesian,2,Yes,Dismissed,Minor,Yes,No,No,Yes
+Drug Offense,2023-01-20 01:04:51,North,2023-01-20 01:25:51,Knife,21,Male,Indonesian,46,Female,Indonesian,3,No,Convicted,Major,No,No,Yes,Yes
+Vandalism,2023-01-21 03:21:48,West,2023-01-21 03:55:48,None,32,Male,Indian,59,Male,Indian,1,No,Convicted,Major,Yes,No,No,Yes
+Fraud,2023-01-22 05:38:44,West,2023-01-22 06:35:44,Other,26,Male,Singaporean,48,Male,Singaporean,9,No,Dismissed,Moderate,Yes,Yes,Yes,Yes
+Assault,2023-01-23 07:55:40,Central,2023-01-23 08:48:40,Knife,23,Female,Indonesian,60,Male,Singaporean,3,No,Dismissed,Minor,No,Yes,Yes,No
+Drug Offense,2023-01-24 10:12:36,South,2023-01-24 10:45:36,Firearm,47,Male,Indian,48,Male,Others,3,Yes,Acquitted,Minor,Yes,No,No,Yes
+Burglary,2023-01-25 12:29:32,South,2023-01-25 13:00:32,Knife,42,Female,Indonesian,64,Male,Malaysian,6,No,Dismissed,Minor,Yes,Yes,Yes,Yes
+Burglary,2023-01-26 14:46:29,West,2023-01-26 14:59:29,Other,42,Female,Malaysian,41,Female,Others,1,Yes,Dismissed,Major,No,Yes,Yes,No
+Burglary,2023-01-27 17:03:25,Central,2023-01-27 17:25:25,Other,24,Male,Singaporean,41,Female,Singaporean,4,No,Dismissed,Moderate,Yes,No,Yes,Yes
+Burglary,2023-01-28 19:20:21,Central,2023-01-28 19:42:21,Other,74,Female,Indonesian,59,Male,Others,9,No,Acquitted,Major,No,No,No,Yes
+Theft,2023-01-29 21:37:17,West,2023-01-29 22:19:17,Knife,53,Male,Indonesian,41,Male,Singaporean,9,No,Acquitted,Moderate,No,Yes,Yes,No
+Theft,2023-01-30 23:54:14,East,2023-01-31 00:20:14,Knife,61,Male,Indonesian,64,Female,Malaysian,2,No,Dismissed,Major,No,Yes,No,No
+Burglary,2023-02-01 02:11:10,South,2023-02-01 02:52:10,Knife,76,Male,Indian,35,Male,Malaysian,5,Yes,Pending,Minor,No,No,Yes,Yes
+Fraud,2023-02-02 04:28:06,Central,2023-02-02 04:55:06,Knife,28,Female,Indian,34,Female,Others,3,Yes,Convicted,Minor,Yes,Yes,Yes,No
+Drug Offense,2023-02-03 06:45:02,North,2023-02-03 06:54:02,Other,27,Female,Indian,42,Female,Indian,9,Yes,Convicted,Minor,No,No,No,No
+Fraud,2023-02-04 09:01:58,North,2023-02-04 09:16:58,Knife,20,Male,Others,19,Female,Malaysian,1,Yes,Pending,Moderate,No,No,No,Yes
+Fraud,2023-02-05 11:18:55,East,2023-02-05 11:26:55,Firearm,52,Female,Malaysian,45,Male,Indian,0,No,Dismissed,Major,Yes,No,No,Yes
+Others,2023-02-06 13:35:51,Central,2023-02-06 13:39:51,None,54,Male,Indian,40,Female,Indian,1,Yes,Dismissed,Major,Yes,Yes,No,No
+Burglary,2023-02-07 15:52:47,West,2023-02-07 16:37:47,None,35,Male,Indonesian,65,Male,Indian,1,Yes,Acquitted,Major,No,No,Yes,No
+Vandalism,2023-02-08 18:09:43,West,2023-02-08 18:46:43,Firearm,57,Male,Indian,58,Female,Malaysian,5,Yes,Pending,Major,Yes,Yes,Yes,No
+Drug Offense,2023-02-09 20:26:40,West,2023-02-09 21:12:40,Other,28,Male,Singaporean,60,Female,Singaporean,7,Yes,Convicted,Minor,Yes,No,No,No
+Fraud,2023-02-10 22:43:36,North,2023-02-10 23:28:36,Other,36,Male,Indonesian,60,Female,Singaporean,9,Yes,Acquitted,Moderate,No,No,Yes,No
+Fraud,2023-02-12 01:00:32,North,2023-02-12 01:45:32,Other,44,Male,Indonesian,29,Female,Malaysian,2,No,Convicted,Minor,No,Yes,Yes,No
+Fraud,2023-02-13 03:17:28,East,2023-02-13 03:43:28,Firearm,51,Male,Others,38,Male,Singaporean,6,Yes,Convicted,Minor,Yes,Yes,No,No
+Burglary,2023-02-14 05:34:24,North,2023-02-14 06:23:24,Other,22,Female,Others,18,Male,Indonesian,6,Yes,Acquitted,Moderate,Yes,No,Yes,No
+Drug Offense,2023-02-15 07:51:21,Central,2023-02-15 08:47:21,Other,19,Male,Indian,46,Female,Indonesian,8,No,Pending,Major,No,Yes,Yes,No
+Others,2023-02-16 10:08:17,East,2023-02-16 11:03:17,None,46,Female,Indonesian,63,Female,Singaporean,2,Yes,Convicted,Minor,No,Yes,No,Yes
+Fraud,2023-02-17 12:25:13,West,2023-02-17 12:32:13,Knife,50,Male,Malaysian,68,Male,Indonesian,8,No,Pending,Minor,Yes,No,Yes,Yes
+Burglary,2023-02-18 14:42:09,West,2023-02-18 15:05:09,Firearm,76,Male,Indonesian,73,Female,Others,0,No,Acquitted,Minor,Yes,No,No,No
+Others,2023-02-19 16:59:05,North,2023-02-19 17:03:05,Knife,60,Male,Indian,34,Female,Indian,8,No,Dismissed,Moderate,No,No,No,Yes
+Vandalism,2023-02-20 19:16:02,East,2023-02-20 19:49:02,Knife,46,Female,Others,36,Male,Singaporean,4,No,Dismissed,Moderate,Yes,No,No,Yes
+Burglary,2023-02-21 21:32:58,West,2023-02-21 21:55:58,Other,31,Female,Malaysian,36,Male,Indian,3,No,Acquitted,Major,No,Yes,Yes,No
+Burglary,2023-02-22 23:49:54,South,2023-02-23 00:01:54,Other,42,Female,Others,34,Male,Indonesian,6,No,Dismissed,Moderate,Yes,No,No,No
+Others,2023-02-24 02:06:50,Central,2023-02-24 02:12:50,None,61,Male,Singaporean,19,Female,Indonesian,2,No,Convicted,Major,No,Yes,No,No
+Vandalism,2023-02-25 04:23:47,West,2023-02-25 04:28:47,Other,49,Male,Indian,63,Male,Indonesian,4,No,Dismissed,Major,Yes,No,No,Yes
+Others,2023-02-26 06:40:43,West,2023-02-26 07:12:43,Knife,27,Female,Others,26,Male,Indian,6,Yes,Dismissed,Minor,Yes,No,No,No
+Fraud,2023-02-27 08:57:39,North,2023-02-27 09:18:39,Firearm,35,Female,Malaysian,77,Female,Indian,6,Yes,Convicted,Major,Yes,Yes,No,Yes
+Vandalism,2023-02-28 11:14:35,West,2023-02-28 11:44:35,Firearm,22,Female,Malaysian,39,Male,Indian,9,Yes,Convicted,Major,No,No,No,No
+Theft,2023-03-01 13:31:31,South,2023-03-01 14:21:31,Knife,33,Male,Indian,21,Female,Malaysian,4,No,Pending,Moderate,Yes,No,No,No
+Vandalism,2023-03-02 15:48:28,East,2023-03-02 15:56:28,None,36,Male,Indian,44,Male,Indian,1,No,Dismissed,Moderate,Yes,Yes,Yes,Yes
+Burglary,2023-03-03 18:05:24,East,2023-03-03 19:04:24,None,55,Male,Indian,33,Male,Malaysian,1,Yes,Pending,Moderate,No,Yes,Yes,Yes
+Drug Offense,2023-03-04 20:22:20,East,2023-03-04 21:08:20,None,42,Female,Others,69,Female,Indonesian,1,No,Acquitted,Moderate,Yes,No,Yes,Yes
+Others,2023-03-05 22:39:16,Central,2023-03-05 23:24:16,Knife,54,Female,Singaporean,48,Male,Others,5,Yes,Dismissed,Moderate,No,Yes,No,Yes
+Assault,2023-03-07 00:56:12,East,2023-03-07 00:58:12,Firearm,67,Female,Malaysian,73,Female,Others,3,Yes,Pending,Minor,Yes,No,No,Yes
+Assault,2023-03-08 03:13:09,South,2023-03-08 03:28:09,None,74,Female,Malaysian,32,Male,Others,5,No,Acquitted,Minor,No,Yes,No,Yes
+Fraud,2023-03-09 05:30:05,West,2023-03-09 05:34:05,None,43,Female,Malaysian,79,Female,Indonesian,2,No,Pending,Major,Yes,Yes,Yes,Yes
+Burglary,2023-03-10 07:47:01,Central,2023-03-10 08:46:01,Firearm,52,Female,Indian,66,Male,Others,1,No,Pending,Moderate,Yes,Yes,No,Yes
+Fraud,2023-03-11 10:03:57,North,2023-03-11 10:47:57,Knife,59,Female,Indonesian,78,Female,Malaysian,2,Yes,Convicted,Major,No,Yes,Yes,No
+Assault,2023-03-12 12:20:54,North,2023-03-12 12:30:54,Firearm,23,Male,Indonesian,35,Male,Indonesian,4,No,Acquitted,Minor,Yes,Yes,Yes,Yes
+Others,2023-03-13 14:37:50,East,2023-03-13 15:15:50,None,72,Male,Singaporean,30,Male,Indian,0,No,Acquitted,Major,No,No,No,Yes
+Fraud,2023-03-14 16:54:46,West,2023-03-14 17:13:46,Firearm,48,Female,Others,31,Male,Indonesian,3,No,Acquitted,Minor,Yes,Yes,No,No
+Others,2023-03-15 19:11:42,East,2023-03-15 19:21:42,Knife,66,Female,Indian,58,Male,Others,9,Yes,Acquitted,Major,No,Yes,Yes,No
+Assault,2023-03-16 21:28:38,East,2023-03-16 22:27:38,Knife,59,Female,Indian,31,Male,Indian,0,No,Dismissed,Minor,No,No,Yes,No
+Others,2023-03-17 23:45:35,Central,2023-03-18 00:11:35,Firearm,42,Female,Indian,65,Female,Indian,8,Yes,Convicted,Minor,No,Yes,Yes,Yes
+Drug Offense,2023-03-19 02:02:31,Central,2023-03-19 02:55:31,None,29,Female,Singaporean,56,Female,Others,0,No,Convicted,Moderate,Yes,Yes,Yes,Yes
+Vandalism,2023-03-20 04:19:27,North,2023-03-20 04:40:27,None,28,Female,Indonesian,54,Female,Others,5,Yes,Acquitted,Minor,Yes,Yes,Yes,Yes
+Drug Offense,2023-03-21 06:36:23,Central,2023-03-21 07:22:23,Knife,49,Female,Indian,52,Male,Malaysian,5,Yes,Convicted,Moderate,No,No,No,No
+Others,2023-03-22 08:53:20,Central,2023-03-22 09:15:20,Knife,55,Female,Indian,47,Female,Indian,7,No,Pending,Major,No,No,No,No
+Drug Offense,2023-03-23 11:10:16,East,2023-03-23 11:11:16,Knife,42,Female,Malaysian,36,Female,Singaporean,7,No,Acquitted,Minor,Yes,No,Yes,No
+Assault,2023-03-24 13:27:12,West,2023-03-24 14:17:12,Knife,45,Male,Indonesian,62,Female,Malaysian,8,No,Convicted,Moderate,Yes,Yes,Yes,Yes
+Others,2023-03-25 15:44:08,West,2023-03-25 16:00:08,Knife,68,Male,Indonesian,63,Male,Others,6,Yes,Pending,Minor,No,No,Yes,No
+Assault,2023-03-26 18:01:04,West,2023-03-26 18:08:04,Other,25,Female,Others,34,Female,Indian,9,Yes,Dismissed,Moderate,No,Yes,Yes,Yes
+Theft,2023-03-27 20:18:01,East,2023-03-27 21:17:01,Other,70,Female,Singaporean,57,Female,Others,6,No,Pending,Minor,No,No,Yes,Yes
+Burglary,2023-03-28 22:34:57,North,2023-03-28 22:43:57,Firearm,72,Male,Indonesian,71,Male,Others,3,Yes,Acquitted,Minor,Yes,Yes,No,Yes
+Assault,2023-03-30 00:51:53,East,2023-03-30 01:12:53,Knife,42,Male,Singaporean,59,Female,Indian,0,Yes,Acquitted,Moderate,No,Yes,No,No
+Drug Offense,2023-03-31 03:08:49,West,2023-03-31 03:24:49,Other,72,Female,Others,57,Male,Malaysian,1,Yes,Pending,Major,No,No,No,Yes
+Burglary,2023-04-01 05:25:45,Central,2023-04-01 06:14:45,Knife,56,Female,Indian,21,Female,Malaysian,0,No,Convicted,Moderate,Yes,No,Yes,Yes
+Assault,2023-04-02 07:42:42,Central,2023-04-02 08:34:42,Firearm,50,Male,Indonesian,67,Female,Others,5,Yes,Pending,Minor,No,No,Yes,Yes
+Vandalism,2023-04-03 09:59:38,West,2023-04-03 10:06:38,None,59,Male,Others,76,Female,Indian,7,Yes,Acquitted,Minor,No,Yes,No,Yes
+Drug Offense,2023-04-04 12:16:34,Central,2023-04-04 12:35:34,Knife,43,Male,Indian,42,Male,Malaysian,7,Yes,Dismissed,Major,Yes,Yes,Yes,No
+Assault,2023-04-05 14:33:30,South,2023-04-05 14:56:30,None,55,Female,Singaporean,62,Male,Indonesian,5,No,Acquitted,Minor,No,No,No,No
+Theft,2023-04-06 16:50:27,South,2023-04-06 17:01:27,Knife,65,Male,Indian,40,Male,Indonesian,0,Yes,Pending,Moderate,No,Yes,No,No
+Drug Offense,2023-04-07 19:07:23,South,2023-04-07 19:28:23,Knife,41,Female,Singaporean,58,Female,Malaysian,8,No,Acquitted,Minor,No,Yes,Yes,Yes
+Fraud,2023-04-08 21:24:19,East,2023-04-08 21:30:19,Firearm,72,Male,Malaysian,77,Female,Malaysian,8,Yes,Acquitted,Minor,Yes,No,Yes,Yes
+Drug Offense,2023-04-09 23:41:15,East,2023-04-09 23:47:15,Other,72,Female,Malaysian,37,Female,Indian,5,Yes,Acquitted,Major,Yes,Yes,Yes,No
+Drug Offense,2023-04-11 01:58:11,South,2023-04-11 02:24:11,None,78,Male,Indonesian,32,Male,Singaporean,3,No,Acquitted,Moderate,No,Yes,No,No
+Drug Offense,2023-04-12 04:15:08,Central,2023-04-12 05:11:08,Firearm,67,Male,Indian,68,Female,Indian,2,No,Convicted,Minor,No,Yes,Yes,No
+Burglary,2023-04-13 06:32:04,West,2023-04-13 06:44:04,Knife,78,Female,Malaysian,28,Female,Indonesian,6,No,Acquitted,Major,Yes,No,No,Yes
+Others,2023-04-14 08:49:00,Central,2023-04-14 09:07:00,Knife,26,Male,Malaysian,73,Female,Singaporean,6,No,Pending,Minor,Yes,No,No,Yes
+Burglary,2023-04-15 11:05:56,West,2023-04-15 11:28:56,None,52,Male,Indonesian,73,Female,Indonesian,1,Yes,Dismissed,Minor,Yes,No,Yes,No
+Fraud,2023-04-16 13:22:52,Central,2023-04-16 14:18:52,Firearm,22,Female,Others,44,Female,Indian,0,No,Dismissed,Moderate,No,No,Yes,No
+Vandalism,2023-04-17 15:39:49,North,2023-04-17 16:12:49,Other,22,Male,Indonesian,46,Female,Singaporean,1,Yes,Acquitted,Major,No,Yes,Yes,No
+Others,2023-04-18 17:56:45,Central,2023-04-18 18:35:45,Other,30,Female,Indian,42,Male,Singaporean,1,No,Dismissed,Moderate,No,No,No,Yes
+Theft,2023-04-19 20:13:41,South,2023-04-19 20:50:41,Knife,48,Female,Malaysian,32,Female,Others,5,Yes,Pending,Minor,Yes,Yes,No,No
+Fraud,2023-04-20 22:30:37,East,2023-04-20 22:37:37,Firearm,22,Male,Singaporean,70,Male,Malaysian,2,Yes,Convicted,Major,No,Yes,Yes,Yes
+Assault,2023-04-22 00:47:34,North,2023-04-22 01:27:34,None,40,Male,Indonesian,56,Female,Indian,4,No,Convicted,Minor,No,No,No,Yes
+Others,2023-04-23 03:04:30,East,2023-04-23 03:10:30,Other,54,Male,Singaporean,67,Female,Indian,2,No,Pending,Minor,No,No,Yes,Yes
+Vandalism,2023-04-24 05:21:26,West,2023-04-24 05:28:26,Other,55,Male,Others,64,Female,Indian,1,No,Acquitted,Major,No,Yes,Yes,Yes
+Drug Offense,2023-04-25 07:38:22,North,2023-04-25 07:48:22,None,38,Male,Indonesian,27,Male,Indonesian,7,Yes,Pending,Major,Yes,No,No,Yes
+Vandalism,2023-04-26 09:55:18,South,2023-04-26 10:02:18,Knife,70,Male,Malaysian,71,Female,Others,8,Yes,Convicted,Moderate,Yes,Yes,No,Yes
+Others,2023-04-27 12:12:15,South,2023-04-27 12:32:15,Other,74,Female,Others,25,Male,Indonesian,1,No,Dismissed,Moderate,No,No,Yes,No
+Drug Offense,2023-04-28 14:29:11,North,2023-04-28 15:08:11,Knife,44,Female,Malaysian,26,Male,Indian,2,No,Pending,Moderate,Yes,Yes,Yes,Yes
+Fraud,2023-04-29 16:46:07,South,2023-04-29 17:23:07,Other,25,Female,Singaporean,76,Female,Indonesian,6,Yes,Dismissed,Moderate,Yes,Yes,No,Yes
+Assault,2023-04-30 19:03:03,East,2023-04-30 19:28:03,Knife,56,Male,Others,62,Male,Malaysian,3,Yes,Acquitted,Moderate,Yes,Yes,No,Yes
+Drug Offense,2023-05-01 21:20:00,South,2023-05-01 21:22:00,Firearm,61,Female,Indonesian,46,Female,Indian,4,No,Acquitted,Minor,No,Yes,Yes,No
+Assault,2023-05-02 23:36:56,East,2023-05-02 23:58:56,Other,73,Female,Malaysian,60,Male,Indian,1,No,Convicted,Moderate,Yes,No,Yes,Yes
+Vandalism,2023-05-04 01:53:52,South,2023-05-04 02:22:52,None,66,Female,Indonesian,27,Female,Indian,0,Yes,Pending,Moderate,Yes,No,No,No
+Fraud,2023-05-05 04:10:48,South,2023-05-05 04:49:48,Firearm,49,Female,Singaporean,55,Female,Indian,4,Yes,Dismissed,Major,Yes,Yes,Yes,Yes
+Others,2023-05-06 06:27:44,Central,2023-05-06 06:53:44,Firearm,69,Female,Singaporean,53,Female,Indonesian,1,Yes,Dismissed,Moderate,No,No,No,No
+Theft,2023-05-07 08:44:41,East,2023-05-07 09:43:41,None,29,Female,Indian,77,Male,Singaporean,8,Yes,Dismissed,Major,Yes,Yes,No,No
+Burglary,2023-05-08 11:01:37,East,2023-05-08 11:50:37,Other,36,Male,Singaporean,35,Female,Indonesian,1,Yes,Dismissed,Moderate,No,No,No,Yes
+Vandalism,2023-05-09 13:18:33,West,2023-05-09 14:04:33,Knife,21,Male,Indian,46,Female,Indonesian,8,Yes,Dismissed,Major,Yes,Yes,Yes,No
+Others,2023-05-10 15:35:29,South,2023-05-10 16:01:29,Firearm,78,Female,Indonesian,70,Male,Indonesian,2,No,Convicted,Moderate,No,No,Yes,Yes
+Fraud,2023-05-11 17:52:25,Central,2023-05-11 18:08:25,Knife,69,Female,Others,69,Female,Others,3,Yes,Acquitted,Moderate,No,Yes,No,No
+Fraud,2023-05-12 20:09:22,East,2023-05-12 20:59:22,None,41,Male,Indonesian,50,Male,Singaporean,9,Yes,Pending,Moderate,Yes,No,No,Yes
+Burglary,2023-05-13 22:26:18,North,2023-05-13 23:20:18,Firearm,33,Male,Others,71,Female,Indian,7,Yes,Dismissed,Minor,No,Yes,No,No
+Theft,2023-05-15 00:43:14,West,2023-05-15 01:26:14,None,18,Female,Indian,34,Female,Others,8,Yes,Pending,Minor,No,No,Yes,Yes
+Others,2023-05-16 03:00:10,East,2023-05-16 03:24:10,Knife,74,Male,Malaysian,25,Male,Indian,4,No,Dismissed,Moderate,Yes,No,Yes,No
+Vandalism,2023-05-17 05:17:07,East,2023-05-17 05:24:07,Knife,45,Male,Indian,37,Female,Singaporean,4,No,Dismissed,Moderate,Yes,Yes,No,No
+Theft,2023-05-18 07:34:03,West,2023-05-18 07:41:03,None,71,Female,Indonesian,70,Female,Malaysian,6,No,Acquitted,Major,Yes,No,Yes,Yes
+Fraud,2023-05-19 09:50:59,North,2023-05-19 10:06:59,None,25,Female,Malaysian,59,Female,Malaysian,5,Yes,Acquitted,Moderate,No,No,Yes,No
+Theft,2023-05-20 12:07:55,West,2023-05-20 12:08:55,Firearm,56,Female,Indonesian,31,Male,Indonesian,4,No,Dismissed,Major,No,Yes,No,Yes
+Drug Offense,2023-05-21 14:24:51,Central,2023-05-21 14:25:51,Knife,40,Male,Malaysian,29,Female,Indonesian,8,Yes,Dismissed,Moderate,Yes,No,Yes,Yes
+Vandalism,2023-05-22 16:41:48,West,2023-05-22 17:17:48,Other,54,Female,Singaporean,52,Male,Indonesian,8,No,Dismissed,Moderate,Yes,No,Yes,Yes
+Vandalism,2023-05-23 18:58:44,East,2023-05-23 19:18:44,Other,46,Female,Malaysian,52,Male,Singaporean,4,Yes,Dismissed,Moderate,Yes,Yes,No,Yes
+Fraud,2023-05-24 21:15:40,West,2023-05-24 21:38:40,Firearm,42,Male,Indonesian,34,Female,Singaporean,6,Yes,Convicted,Major,No,No,Yes,No
+Others,2023-05-25 23:32:36,East,2023-05-25 23:57:36,Knife,32,Female,Others,30,Female,Indonesian,1,Yes,Acquitted,Minor,Yes,Yes,Yes,Yes
+Vandalism,2023-05-27 01:49:32,South,2023-05-27 02:05:32,Other,30,Male,Others,19,Female,Malaysian,9,No,Convicted,Minor,No,Yes,No,Yes
+Fraud,2023-05-28 04:06:29,North,2023-05-28 04:12:29,Firearm,26,Male,Malaysian,72,Male,Others,1,No,Pending,Moderate,No,No,No,Yes
+Fraud,2023-05-29 06:23:25,East,2023-05-29 06:35:25,Other,39,Female,Others,77,Male,Others,1,Yes,Acquitted,Minor,Yes,No,No,Yes
+Others,2023-05-30 08:40:21,South,2023-05-30 09:24:21,Other,31,Female,Indian,58,Male,Indonesian,9,No,Acquitted,Major,Yes,Yes,No,No
+Burglary,2023-05-31 10:57:17,North,2023-05-31 11:19:17,Knife,71,Female,Singaporean,72,Male,Others,6,Yes,Convicted,Major,Yes,Yes,Yes,No
+Assault,2023-06-01 13:14:14,East,2023-06-01 13:22:14,None,73,Male,Singaporean,63,Female,Malaysian,1,Yes,Dismissed,Major,Yes,No,No,Yes
+Burglary,2023-06-02 15:31:10,Central,2023-06-02 15:55:10,None,18,Female,Singaporean,52,Male,Indonesian,0,Yes,Acquitted,Moderate,No,Yes,No,Yes
+Vandalism,2023-06-03 17:48:06,Central,2023-06-03 18:36:06,None,41,Male,Singaporean,45,Female,Malaysian,2,Yes,Acquitted,Major,Yes,No,Yes,Yes
+Others,2023-06-04 20:05:02,North,2023-06-04 20:57:02,None,62,Male,Others,78,Male,Singaporean,4,Yes,Pending,Major,No,No,No,No
+Burglary,2023-06-05 22:21:58,South,2023-06-05 22:40:58,Other,56,Female,Singaporean,76,Male,Others,5,No,Dismissed,Moderate,Yes,Yes,No,Yes
+Vandalism,2023-06-07 00:38:55,East,2023-06-07 01:31:55,Other,26,Male,Indian,33,Male,Indonesian,1,Yes,Pending,Moderate,Yes,Yes,No,Yes
+Burglary,2023-06-08 02:55:51,North,2023-06-08 03:12:51,Knife,29,Female,Indonesian,74,Female,Malaysian,1,No,Convicted,Minor,No,Yes,No,No
+Assault,2023-06-09 05:12:47,North,2023-06-09 05:35:47,None,18,Male,Malaysian,51,Female,Others,1,No,Convicted,Major,No,Yes,Yes,Yes
+Burglary,2023-06-10 07:29:43,East,2023-06-10 08:03:43,Firearm,33,Male,Indian,77,Female,Others,3,Yes,Convicted,Minor,Yes,Yes,No,No
+Assault,2023-06-11 09:46:40,West,2023-06-11 10:03:40,None,61,Female,Indian,36,Male,Malaysian,6,Yes,Convicted,Major,Yes,No,No,No
+Drug Offense,2023-06-12 12:03:36,North,2023-06-12 12:16:36,Knife,54,Female,Malaysian,54,Female,Others,9,No,Pending,Major,Yes,Yes,Yes,Yes
+Vandalism,2023-06-13 14:20:32,East,2023-06-13 14:25:32,Firearm,70,Female,Malaysian,18,Male,Others,4,Yes,Dismissed,Minor,No,No,Yes,Yes
+Fraud,2023-06-14 16:37:28,Central,2023-06-14 17:26:28,None,54,Female,Indian,40,Male,Malaysian,4,Yes,Pending,Minor,Yes,No,Yes,Yes
+Drug Offense,2023-06-15 18:54:24,West,2023-06-15 19:46:24,Other,79,Male,Indonesian,38,Male,Malaysian,5,No,Acquitted,Moderate,Yes,Yes,No,No
+Drug Offense,2023-06-16 21:11:21,West,2023-06-16 21:44:21,Other,49,Female,Malaysian,25,Female,Singaporean,6,Yes,Dismissed,Major,Yes,Yes,Yes,No
+Vandalism,2023-06-17 23:28:17,East,2023-06-17 23:53:17,None,18,Male,Indian,65,Female,Indian,7,Yes,Dismissed,Major,Yes,No,No,Yes
+Theft,2023-06-19 01:45:13,North,2023-06-19 02:10:13,Firearm,70,Female,Indian,21,Female,Singaporean,6,No,Dismissed,Moderate,No,No,Yes,No
+Theft,2023-06-20 04:02:09,South,2023-06-20 04:03:09,Knife,48,Female,Indian,57,Female,Others,9,Yes,Acquitted,Minor,No,No,No,Yes
+Others,2023-06-21 06:19:05,East,2023-06-21 07:09:05,Knife,28,Female,Others,78,Female,Malaysian,9,Yes,Pending,Minor,No,No,No,Yes
+Theft,2023-06-22 08:36:02,Central,2023-06-22 09:11:02,Other,21,Female,Indian,30,Male,Others,6,Yes,Convicted,Minor,No,Yes,Yes,Yes
+Burglary,2023-06-23 10:52:58,Central,2023-06-23 11:04:58,Knife,51,Female,Others,58,Female,Others,6,Yes,Pending,Major,No,No,Yes,Yes
+Assault,2023-06-24 13:09:54,Central,2023-06-24 13:20:54,Knife,32,Male,Others,28,Male,Malaysian,1,No,Dismissed,Moderate,Yes,No,No,Yes
+Theft,2023-06-25 15:26:50,West,2023-06-25 15:39:50,None,29,Female,Indonesian,65,Male,Others,6,No,Acquitted,Moderate,Yes,Yes,Yes,Yes
+Burglary,2023-06-26 17:43:47,South,2023-06-26 18:28:47,None,40,Female,Singaporean,63,Male,Indian,4,No,Pending,Major,No,Yes,No,No
+Fraud,2023-06-27 20:00:43,South,2023-06-27 20:25:43,Knife,65,Female,Others,47,Female,Malaysian,3,Yes,Convicted,Moderate,Yes,Yes,Yes,No
+Others,2023-06-28 22:17:39,East,2023-06-28 22:54:39,Firearm,57,Male,Others,18,Male,Others,4,Yes,Acquitted,Major,No,No,Yes,No
+Vandalism,2023-06-30 00:34:35,Central,2023-06-30 01:20:35,None,23,Female,Indian,76,Female,Indian,9,No,Acquitted,Major,No,No,No,Yes
+Assault,2023-07-01 02:51:31,East,2023-07-01 03:26:31,Firearm,53,Female,Indonesian,70,Male,Singaporean,0,Yes,Dismissed,Major,Yes,Yes,No,No
+Fraud,2023-07-02 05:08:28,South,2023-07-02 05:56:28,Knife,29,Male,Others,26,Male,Singaporean,2,Yes,Dismissed,Minor,No,Yes,No,Yes
+Others,2023-07-03 07:25:24,East,2023-07-03 07:48:24,Other,56,Female,Indian,72,Male,Indonesian,5,Yes,Convicted,Moderate,No,No,No,Yes
+Drug Offense,2023-07-04 09:42:20,South,2023-07-04 09:57:20,Other,45,Male,Singaporean,44,Female,Malaysian,1,Yes,Dismissed,Minor,Yes,Yes,Yes,No
+Theft,2023-07-05 11:59:16,East,2023-07-05 12:57:16,None,61,Female,Indian,72,Female,Indian,0,Yes,Dismissed,Major,Yes,No,No,Yes
+Assault,2023-07-06 14:16:12,Central,2023-07-06 14:17:12,Firearm,36,Female,Malaysian,33,Male,Malaysian,2,No,Acquitted,Major,Yes,Yes,No,Yes
+Drug Offense,2023-07-07 16:33:09,North,2023-07-07 16:58:09,Other,58,Female,Malaysian,41,Male,Singaporean,9,Yes,Dismissed,Major,Yes,Yes,No,No
+Assault,2023-07-08 18:50:05,East,2023-07-08 19:15:05,None,39,Male,Singaporean,75,Female,Indonesian,8,Yes,Acquitted,Major,Yes,No,No,Yes
+Drug Offense,2023-07-09 21:07:01,North,2023-07-09 21:47:01,Firearm,49,Male,Indian,37,Female,Others,6,Yes,Pending,Moderate,Yes,No,Yes,No
+Burglary,2023-07-10 23:23:57,West,2023-07-11 00:07:57,None,40,Male,Singaporean,71,Male,Singaporean,7,Yes,Convicted,Minor,Yes,Yes,No,Yes
+Fraud,2023-07-12 01:40:54,South,2023-07-12 02:27:54,Firearm,35,Male,Indian,53,Male,Indian,7,No,Convicted,Major,No,No,Yes,Yes
+Vandalism,2023-07-13 03:57:50,West,2023-07-13 04:50:50,Knife,42,Male,Indonesian,70,Male,Malaysian,1,No,Pending,Major,No,Yes,Yes,No
+Theft,2023-07-14 06:14:46,North,2023-07-14 06:22:46,Other,74,Male,Others,59,Female,Singaporean,3,Yes,Convicted,Minor,Yes,Yes,Yes,Yes
+Burglary,2023-07-15 08:31:42,East,2023-07-15 08:56:42,Firearm,38,Female,Malaysian,61,Male,Indian,8,Yes,Pending,Moderate,Yes,No,No,Yes
+Drug Offense,2023-07-16 10:48:38,East,2023-07-16 10:59:38,Knife,44,Male,Indian,25,Female,Indian,9,No,Dismissed,Minor,Yes,Yes,Yes,No
+Fraud,2023-07-17 13:05:35,West,2023-07-17 13:58:35,Firearm,45,Female,Indonesian,74,Male,Singaporean,4,Yes,Acquitted,Minor,Yes,Yes,Yes,Yes
+Theft,2023-07-18 15:22:31,South,2023-07-18 15:55:31,None,34,Male,Indonesian,22,Female,Indonesian,6,Yes,Dismissed,Minor,Yes,Yes,No,Yes
+Drug Offense,2023-07-19 17:39:27,West,2023-07-19 18:04:27,Firearm,78,Female,Indonesian,27,Female,Singaporean,1,Yes,Dismissed,Minor,Yes,Yes,No,Yes
+Fraud,2023-07-20 19:56:23,North,2023-07-20 20:07:23,Other,62,Male,Malaysian,28,Female,Others,9,No,Pending,Major,Yes,Yes,Yes,Yes
+Assault,2023-07-21 22:13:20,Central,2023-07-21 23:06:20,None,74,Female,Others,68,Female,Indian,6,No,Dismissed,Major,Yes,No,Yes,Yes
+Vandalism,2023-07-23 00:30:16,West,2023-07-23 01:06:16,None,31,Male,Others,50,Male,Malaysian,7,No,Acquitted,Moderate,No,No,Yes,No
+Others,2023-07-24 02:47:12,East,2023-07-24 03:15:12,Firearm,47,Male,Singaporean,67,Female,Others,9,Yes,Pending,Moderate,Yes,Yes,No,Yes
+Theft,2023-07-25 05:04:08,South,2023-07-25 05:55:08,None,62,Female,Indonesian,75,Male,Indonesian,3,Yes,Dismissed,Minor,No,No,Yes,Yes
+Drug Offense,2023-07-26 07:21:04,West,2023-07-26 08:12:04,Other,70,Female,Indonesian,73,Female,Indian,0,Yes,Pending,Moderate,Yes,Yes,Yes,No
+Assault,2023-07-27 09:38:01,West,2023-07-27 09:55:01,Knife,74,Female,Singaporean,48,Male,Singaporean,2,Yes,Convicted,Major,No,No,Yes,No
+Fraud,2023-07-28 11:54:57,West,2023-07-28 12:05:57,None,75,Male,Others,19,Female,Indonesian,4,Yes,Pending,Minor,No,Yes,Yes,No
+Burglary,2023-07-29 14:11:53,North,2023-07-29 14:14:53,Other,32,Female,Singaporean,48,Female,Indian,3,Yes,Dismissed,Moderate,No,No,Yes,No
+Fraud,2023-07-30 16:28:49,South,2023-07-30 17:01:49,None,48,Female,Singaporean,74,Male,Indonesian,8,No,Dismissed,Minor,No,Yes,No,No
+Others,2023-07-31 18:45:45,South,2023-07-31 19:38:45,None,74,Male,Indonesian,67,Female,Malaysian,7,Yes,Acquitted,Moderate,Yes,Yes,No,No
+Assault,2023-08-01 21:02:42,South,2023-08-01 21:21:42,Other,22,Female,Indonesian,66,Male,Malaysian,7,No,Acquitted,Moderate,Yes,Yes,Yes,No
+Drug Offense,2023-08-02 23:19:38,South,2023-08-02 23:55:38,Firearm,54,Male,Singaporean,44,Female,Others,1,Yes,Dismissed,Moderate,Yes,Yes,Yes,Yes
+Assault,2023-08-04 01:36:34,East,2023-08-04 01:45:34,None,18,Male,Singaporean,43,Male,Indonesian,2,No,Convicted,Moderate,No,Yes,No,Yes
+Theft,2023-08-05 03:53:30,West,2023-08-05 04:35:30,Other,39,Male,Indian,53,Female,Singaporean,7,No,Acquitted,Major,No,Yes,Yes,No
+Drug Offense,2023-08-06 06:10:27,East,2023-08-06 06:27:27,Firearm,24,Female,Singaporean,75,Male,Others,7,Yes,Pending,Moderate,Yes,No,No,No
+Burglary,2023-08-07 08:27:23,East,2023-08-07 08:44:23,Firearm,42,Male,Singaporean,54,Female,Indian,2,No,Dismissed,Moderate,Yes,Yes,No,No
+Assault,2023-08-08 10:44:19,West,2023-08-08 11:38:19,Firearm,24,Female,Malaysian,54,Female,Others,7,No,Acquitted,Minor,No,No,No,Yes
+Assault,2023-08-09 13:01:15,West,2023-08-09 13:07:15,Other,78,Female,Indonesian,65,Female,Others,5,No,Pending,Major,No,Yes,No,No
+Drug Offense,2023-08-10 15:18:11,North,2023-08-10 15:28:11,Knife,33,Male,Others,78,Male,Indian,7,Yes,Convicted,Moderate,No,Yes,No,Yes
+Fraud,2023-08-11 17:35:08,South,2023-08-11 17:41:08,Firearm,72,Male,Singaporean,50,Male,Singaporean,3,No,Pending,Major,No,No,Yes,Yes
+Others,2023-08-12 19:52:04,East,2023-08-12 20:20:04,Knife,67,Male,Malaysian,33,Female,Singaporean,5,No,Dismissed,Major,No,No,No,No
+Theft,2023-08-13 22:09:00,East,2023-08-13 22:50:00,Other,71,Male,Singaporean,49,Female,Others,9,No,Acquitted,Major,No,Yes,Yes,Yes
+Assault,2023-08-15 00:25:56,Central,2023-08-15 00:40:56,None,33,Male,Indian,22,Female,Singaporean,2,No,Acquitted,Major,No,Yes,Yes,No
+Drug Offense,2023-08-16 02:42:52,East,2023-08-16 03:03:52,Knife,29,Male,Indian,40,Female,Singaporean,2,Yes,Pending,Minor,Yes,Yes,Yes,Yes
+Theft,2023-08-17 04:59:49,South,2023-08-17 05:28:49,Other,61,Male,Singaporean,51,Female,Malaysian,5,Yes,Acquitted,Moderate,No,No,Yes,Yes
+Fraud,2023-08-18 07:16:45,Central,2023-08-18 08:05:45,None,65,Male,Indonesian,63,Male,Others,6,Yes,Acquitted,Major,No,Yes,Yes,No
+Drug Offense,2023-08-19 09:33:41,East,2023-08-19 09:55:41,Other,23,Female,Singaporean,50,Female,Malaysian,2,Yes,Dismissed,Minor,Yes,Yes,No,Yes
+Fraud,2023-08-20 11:50:37,North,2023-08-20 12:37:37,None,31,Female,Singaporean,20,Female,Others,7,No,Convicted,Major,No,Yes,No,Yes
+Burglary,2023-08-21 14:07:34,South,2023-08-21 14:49:34,None,51,Male,Indonesian,79,Female,Indian,6,Yes,Convicted,Moderate,No,Yes,No,Yes
+Others,2023-08-22 16:24:30,East,2023-08-22 17:00:30,None,61,Male,Others,63,Female,Indian,4,No,Pending,Minor,No,Yes,Yes,No
+Drug Offense,2023-08-23 18:41:26,South,2023-08-23 19:21:26,Other,38,Female,Others,36,Male,Indian,4,Yes,Acquitted,Moderate,No,No,Yes,No
+Assault,2023-08-24 20:58:22,Central,2023-08-24 21:44:22,Other,40,Male,Singaporean,47,Male,Malaysian,8,No,Dismissed,Minor,Yes,Yes,Yes,Yes
+Theft,2023-08-25 23:15:18,South,2023-08-25 23:56:18,None,64,Male,Indonesian,72,Male,Others,9,Yes,Pending,Minor,Yes,Yes,Yes,No
+Others,2023-08-27 01:32:15,West,2023-08-27 02:19:15,Firearm,68,Female,Indian,30,Female,Indonesian,7,Yes,Convicted,Major,Yes,No,Yes,No
+Burglary,2023-08-28 03:49:11,Central,2023-08-28 03:54:11,Other,69,Female,Indonesian,76,Male,Malaysian,8,No,Acquitted,Minor,Yes,No,No,No
+Burglary,2023-08-29 06:06:07,South,2023-08-29 06:39:07,Other,46,Female,Indian,30,Male,Indian,1,No,Acquitted,Minor,Yes,No,Yes,Yes
+Fraud,2023-08-30 08:23:03,North,2023-08-30 08:56:03,None,36,Female,Indian,32,Male,Malaysian,9,No,Convicted,Minor,No,Yes,No,No
+Drug Offense,2023-08-31 10:40:00,South,2023-08-31 11:36:00,Other,79,Male,Indian,45,Male,Indian,1,No,Convicted,Major,Yes,Yes,Yes,No
+Theft,2023-09-01 12:56:56,South,2023-09-01 13:50:56,None,65,Female,Malaysian,29,Female,Indonesian,2,Yes,Acquitted,Major,No,Yes,No,No
+Drug Offense,2023-09-02 15:13:52,North,2023-09-02 15:57:52,None,77,Female,Indonesian,40,Male,Indian,4,Yes,Acquitted,Major,No,No,No,Yes
+Burglary,2023-09-03 17:30:48,North,2023-09-03 17:38:48,None,27,Male,Others,24,Female,Indian,8,Yes,Pending,Minor,Yes,Yes,Yes,No
+Fraud,2023-09-04 19:47:44,East,2023-09-04 20:06:44,Other,71,Female,Malaysian,24,Male,Singaporean,8,Yes,Acquitted,Minor,No,No,Yes,No
+Fraud,2023-09-05 22:04:41,North,2023-09-05 22:08:41,Firearm,20,Female,Indonesian,79,Male,Others,4,Yes,Acquitted,Major,No,No,Yes,No
+Fraud,2023-09-07 00:21:37,Central,2023-09-07 00:59:37,Knife,21,Female,Indonesian,40,Male,Indonesian,2,Yes,Pending,Major,Yes,No,Yes,No
+Vandalism,2023-09-08 02:38:33,Central,2023-09-08 03:16:33,Firearm,65,Male,Indonesian,64,Male,Singaporean,8,No,Dismissed,Major,Yes,No,No,Yes
+Drug Offense,2023-09-09 04:55:29,West,2023-09-09 05:06:29,Knife,39,Male,Others,56,Male,Indonesian,7,No,Convicted,Minor,Yes,No,No,No
+Others,2023-09-10 07:12:25,Central,2023-09-10 07:58:25,Other,78,Female,Others,35,Male,Indonesian,7,No,Pending,Major,No,No,No,Yes
+Fraud,2023-09-11 09:29:22,North,2023-09-11 09:44:22,Other,50,Female,Others,60,Female,Singaporean,8,Yes,Pending,Major,Yes,Yes,No,Yes
+Assault,2023-09-12 11:46:18,East,2023-09-12 12:03:18,None,19,Female,Others,70,Male,Singaporean,2,Yes,Pending,Moderate,Yes,Yes,Yes,Yes
+Theft,2023-09-13 14:03:14,East,2023-09-13 14:20:14,Other,55,Male,Singaporean,26,Male,Others,8,No,Acquitted,Moderate,No,No,Yes,Yes
+Fraud,2023-09-14 16:20:10,South,2023-09-14 16:48:10,Other,66,Female,Singaporean,52,Male,Indian,8,No,Acquitted,Major,Yes,No,Yes,Yes
+Drug Offense,2023-09-15 18:37:07,East,2023-09-15 19:06:07,None,49,Male,Singaporean,38,Male,Others,0,No,Dismissed,Moderate,Yes,Yes,Yes,No
+Others,2023-09-16 20:54:03,South,2023-09-16 21:17:03,Other,74,Male,Indonesian,19,Male,Others,5,Yes,Pending,Minor,No,Yes,Yes,Yes
+Others,2023-09-17 23:10:59,North,2023-09-17 23:47:59,Knife,20,Male,Singaporean,30,Female,Malaysian,9,Yes,Acquitted,Moderate,No,No,Yes,Yes
+Assault,2023-09-19 01:27:55,East,2023-09-19 02:00:55,None,26,Male,Others,68,Female,Indian,6,Yes,Acquitted,Minor,No,Yes,No,No
+Burglary,2023-09-20 03:44:51,West,2023-09-20 04:42:51,Other,22,Female,Others,54,Male,Malaysian,1,Yes,Dismissed,Moderate,Yes,Yes,Yes,Yes
+Assault,2023-09-21 06:01:48,South,2023-09-21 07:00:48,Knife,38,Male,Malaysian,39,Male,Indonesian,8,No,Acquitted,Minor,Yes,No,No,Yes
+Others,2023-09-22 08:18:44,North,2023-09-22 08:41:44,None,34,Female,Others,67,Female,Singaporean,0,Yes,Dismissed,Minor,No,No,Yes,Yes
+Fraud,2023-09-23 10:35:40,South,2023-09-23 11:00:40,Other,43,Male,Indonesian,29,Female,Singaporean,2,Yes,Convicted,Major,No,No,No,No
+Assault,2023-09-24 12:52:36,West,2023-09-24 13:19:36,Firearm,56,Female,Indonesian,38,Female,Singaporean,1,Yes,Dismissed,Moderate,Yes,Yes,No,Yes
+Drug Offense,2023-09-25 15:09:32,East,2023-09-25 15:22:32,Knife,52,Male,Singaporean,20,Male,Others,7,Yes,Pending,Moderate,No,No,Yes,No
+Vandalism,2023-09-26 17:26:29,North,2023-09-26 17:53:29,Other,29,Female,Singaporean,32,Female,Others,7,Yes,Dismissed,Major,Yes,No,Yes,Yes
+Theft,2023-09-27 19:43:25,Central,2023-09-27 20:42:25,Firearm,37,Female,Indonesian,76,Female,Indonesian,6,No,Acquitted,Major,Yes,No,Yes,Yes
+Others,2023-09-28 22:00:21,South,2023-09-28 22:15:21,None,63,Female,Indian,34,Female,Malaysian,1,No,Convicted,Minor,No,No,No,Yes
+Fraud,2023-09-30 00:17:17,North,2023-09-30 00:25:17,None,71,Female,Indian,66,Female,Others,9,No,Dismissed,Major,No,Yes,No,No
+Others,2023-10-01 02:34:14,North,2023-10-01 03:22:14,Knife,24,Male,Indonesian,65,Female,Indonesian,2,Yes,Acquitted,Moderate,No,Yes,No,Yes
+Fraud,2023-10-02 04:51:10,East,2023-10-02 05:02:10,Knife,77,Male,Indonesian,72,Female,Others,0,Yes,Pending,Moderate,Yes,No,No,No
+Burglary,2023-10-03 07:08:06,Central,2023-10-03 07:14:06,Other,55,Male,Indian,40,Male,Others,2,No,Acquitted,Moderate,Yes,Yes,No,No
+Drug Offense,2023-10-04 09:25:02,South,2023-10-04 10:13:02,Other,70,Male,Indonesian,56,Female,Others,4,Yes,Acquitted,Moderate,Yes,Yes,No,Yes
+Assault,2023-10-05 11:41:58,East,2023-10-05 11:43:58,Other,31,Female,Indonesian,52,Male,Singaporean,7,No,Pending,Moderate,Yes,Yes,No,Yes
+Drug Offense,2023-10-06 13:58:55,North,2023-10-06 14:26:55,Knife,59,Female,Malaysian,75,Male,Indian,9,No,Pending,Major,No,No,No,Yes
+Vandalism,2023-10-07 16:15:51,South,2023-10-07 16:42:51,Other,28,Male,Others,18,Female,Malaysian,3,No,Pending,Moderate,Yes,Yes,Yes,No
+Vandalism,2023-10-08 18:32:47,East,2023-10-08 19:10:47,None,72,Female,Others,77,Male,Indian,7,No,Dismissed,Minor,No,No,Yes,Yes
+Fraud,2023-10-09 20:49:43,North,2023-10-09 21:43:43,Knife,36,Male,Indonesian,62,Male,Indonesian,3,No,Dismissed,Minor,No,Yes,Yes,Yes
+Fraud,2023-10-10 23:06:40,North,2023-10-10 23:41:40,Other,74,Female,Malaysian,18,Female,Indonesian,9,No,Dismissed,Minor,No,No,No,Yes
+Others,2023-10-12 01:23:36,Central,2023-10-12 02:04:36,Knife,34,Male,Indian,72,Male,Others,2,No,Pending,Moderate,Yes,No,No,No
+Drug Offense,2023-10-13 03:40:32,South,2023-10-13 04:04:32,Firearm,24,Male,Indonesian,33,Female,Malaysian,7,Yes,Convicted,Minor,Yes,Yes,No,No
+Fraud,2023-10-14 05:57:28,North,2023-10-14 06:44:28,Firearm,72,Female,Indonesian,25,Female,Indonesian,9,No,Convicted,Moderate,No,Yes,No,No
+Vandalism,2023-10-15 08:14:24,East,2023-10-15 08:20:24,Other,65,Female,Indonesian,67,Male,Singaporean,6,Yes,Convicted,Moderate,No,Yes,No,Yes
+Vandalism,2023-10-16 10:31:21,South,2023-10-16 11:14:21,None,36,Female,Others,59,Female,Singaporean,2,No,Convicted,Moderate,No,Yes,Yes,Yes
+Fraud,2023-10-17 12:48:17,North,2023-10-17 13:21:17,None,55,Female,Malaysian,19,Female,Others,1,No,Pending,Minor,Yes,No,No,No
+Others,2023-10-18 15:05:13,West,2023-10-18 15:31:13,Firearm,58,Female,Indonesian,79,Male,Malaysian,1,Yes,Dismissed,Moderate,Yes,Yes,Yes,Yes
+Burglary,2023-10-19 17:22:09,Central,2023-10-19 17:41:09,Other,62,Female,Malaysian,45,Female,Singaporean,1,No,Dismissed,Major,No,Yes,No,Yes
+Others,2023-10-20 19:39:05,Central,2023-10-20 20:01:05,Other,58,Male,Indian,23,Female,Indian,2,No,Convicted,Moderate,Yes,Yes,Yes,No
+Assault,2023-10-21 21:56:02,North,2023-10-21 22:45:02,Other,28,Female,Indonesian,19,Female,Others,5,Yes,Dismissed,Minor,Yes,No,No,No
+Theft,2023-10-23 00:12:58,South,2023-10-23 00:26:58,Firearm,74,Male,Indonesian,31,Male,Others,0,Yes,Dismissed,Moderate,Yes,Yes,No,Yes
+Fraud,2023-10-24 02:29:54,West,2023-10-24 03:26:54,Other,38,Female,Indian,45,Male,Indian,4,No,Acquitted,Major,No,Yes,Yes,No
+Theft,2023-10-25 04:46:50,Central,2023-10-25 04:58:50,None,79,Male,Indonesian,72,Male,Others,3,No,Dismissed,Minor,No,No,Yes,No
+Drug Offense,2023-10-26 07:03:47,Central,2023-10-26 07:51:47,Other,50,Male,Indian,76,Male,Malaysian,8,No,Dismissed,Moderate,Yes,Yes,No,No
+Assault,2023-10-27 09:20:43,West,2023-10-27 09:23:43,None,56,Female,Malaysian,60,Female,Others,2,No,Dismissed,Minor,Yes,No,No,No
+Assault,2023-10-28 11:37:39,Central,2023-10-28 12:10:39,None,74,Female,Malaysian,52,Female,Singaporean,4,Yes,Dismissed,Moderate,No,No,Yes,Yes
+Drug Offense,2023-10-29 13:54:35,South,2023-10-29 14:30:35,Other,41,Male,Singaporean,77,Male,Singaporean,1,Yes,Acquitted,Minor,Yes,Yes,Yes,No
+Others,2023-10-30 16:11:31,Central,2023-10-30 16:44:31,Other,60,Female,Singaporean,27,Male,Indian,2,Yes,Acquitted,Moderate,No,Yes,Yes,No
+Burglary,2023-10-31 18:28:28,Central,2023-10-31 19:21:28,Knife,78,Female,Malaysian,52,Female,Indonesian,7,No,Convicted,Major,Yes,No,Yes,Yes
+Drug Offense,2023-11-01 20:45:24,West,2023-11-01 21:36:24,Other,65,Male,Others,58,Male,Malaysian,9,No,Pending,Moderate,No,Yes,Yes,No
+Assault,2023-11-02 23:02:20,East,2023-11-02 23:32:20,None,54,Female,Singaporean,45,Male,Malaysian,9,Yes,Acquitted,Moderate,Yes,Yes,Yes,No
+Drug Offense,2023-11-04 01:19:16,South,2023-11-04 01:23:16,None,77,Female,Malaysian,59,Female,Others,7,No,Convicted,Major,No,No,Yes,No
+Vandalism,2023-11-05 03:36:12,South,2023-11-05 04:32:12,Knife,47,Male,Indonesian,29,Female,Malaysian,6,No,Acquitted,Minor,Yes,Yes,No,No
+Others,2023-11-06 05:53:09,Central,2023-11-06 05:56:09,Knife,57,Male,Singaporean,61,Female,Indian,7,No,Acquitted,Moderate,Yes,Yes,No,Yes
+Others,2023-11-07 08:10:05,West,2023-11-07 08:40:05,Knife,43,Male,Others,29,Male,Singaporean,6,No,Pending,Moderate,No,No,Yes,No
+Assault,2023-11-08 10:27:01,East,2023-11-08 11:15:01,None,47,Female,Indonesian,60,Female,Malaysian,6,No,Acquitted,Minor,No,No,No,No
+Others,2023-11-09 12:43:57,West,2023-11-09 13:30:57,Knife,49,Female,Malaysian,61,Male,Singaporean,2,Yes,Dismissed,Minor,No,Yes,No,Yes
+Burglary,2023-11-10 15:00:54,Central,2023-11-10 15:01:54,Other,18,Female,Indonesian,33,Male,Indian,1,Yes,Convicted,Minor,No,Yes,Yes,No
+Others,2023-11-11 17:17:50,East,2023-11-11 18:02:50,Firearm,57,Female,Others,60,Female,Singaporean,5,Yes,Acquitted,Minor,Yes,Yes,No,No
+Drug Offense,2023-11-12 19:34:46,South,2023-11-12 20:12:46,Other,56,Male,Indonesian,76,Male,Singaporean,1,Yes,Pending,Major,No,Yes,Yes,No
+Assault,2023-11-13 21:51:42,West,2023-11-13 22:15:42,Other,26,Female,Others,22,Male,Others,7,No,Acquitted,Moderate,No,No,Yes,No
+Theft,2023-11-15 00:08:38,East,2023-11-15 00:16:38,Other,74,Female,Others,71,Male,Indonesian,3,Yes,Pending,Moderate,No,No,Yes,No
+Fraud,2023-11-16 02:25:35,East,2023-11-16 03:21:35,None,21,Female,Singaporean,68,Male,Malaysian,5,Yes,Convicted,Moderate,No,No,Yes,No
+Others,2023-11-17 04:42:31,West,2023-11-17 05:41:31,Firearm,77,Male,Indonesian,66,Male,Indian,4,Yes,Dismissed,Minor,Yes,Yes,Yes,Yes
+Fraud,2023-11-18 06:59:27,East,2023-11-18 07:05:27,Firearm,21,Female,Malaysian,77,Male,Indonesian,6,Yes,Pending,Moderate,No,Yes,No,Yes
+Drug Offense,2023-11-19 09:16:23,East,2023-11-19 10:15:23,Other,19,Female,Others,27,Male,Malaysian,3,No,Dismissed,Moderate,Yes,Yes,No,No
+Others,2023-11-20 11:33:20,Central,2023-11-20 12:22:20,None,60,Male,Indonesian,31,Male,Singaporean,4,Yes,Pending,Moderate,No,No,No,No
+Others,2023-11-21 13:50:16,East,2023-11-21 14:42:16,Other,77,Female,Malaysian,68,Female,Indian,2,Yes,Convicted,Minor,No,Yes,No,Yes
+Burglary,2023-11-22 16:07:12,South,2023-11-22 16:53:12,None,44,Female,Indian,76,Male,Indian,4,Yes,Pending,Moderate,No,No,No,Yes
+Theft,2023-11-23 18:24:08,East,2023-11-23 18:43:08,Knife,35,Female,Singaporean,69,Female,Indian,2,Yes,Pending,Major,Yes,No,No,Yes
+Assault,2023-11-24 20:41:04,South,2023-11-24 21:16:04,Other,30,Female,Singaporean,44,Female,Singaporean,3,No,Pending,Minor,Yes,No,Yes,No
+Assault,2023-11-25 22:58:01,East,2023-11-25 23:35:01,Knife,38,Female,Indonesian,23,Female,Others,0,Yes,Acquitted,Moderate,Yes,No,No,Yes
+Assault,2023-11-27 01:14:57,East,2023-11-27 01:18:57,Other,58,Male,Singaporean,74,Female,Singaporean,7,Yes,Acquitted,Minor,Yes,No,No,Yes
+Drug Offense,2023-11-28 03:31:53,East,2023-11-28 03:50:53,Firearm,60,Female,Others,70,Female,Indonesian,1,No,Dismissed,Major,No,Yes,Yes,Yes
+Drug Offense,2023-11-29 05:48:49,East,2023-11-29 06:44:49,Knife,67,Female,Indian,70,Female,Indian,8,No,Dismissed,Minor,No,Yes,No,Yes
+Drug Offense,2023-11-30 08:05:45,West,2023-11-30 08:51:45,Knife,51,Female,Singaporean,41,Female,Indonesian,9,Yes,Convicted,Major,Yes,No,Yes,Yes
+Burglary,2023-12-01 10:22:42,West,2023-12-01 10:51:42,Other,35,Male,Indonesian,78,Male,Indian,6,Yes,Acquitted,Minor,No,Yes,No,No
+Drug Offense,2023-12-02 12:39:38,Central,2023-12-02 13:19:38,Other,23,Male,Indian,62,Male,Malaysian,7,Yes,Pending,Minor,No,No,Yes,Yes
+Vandalism,2023-12-03 14:56:34,West,2023-12-03 14:58:34,Other,44,Male,Indian,28,Male,Malaysian,8,No,Dismissed,Minor,No,Yes,Yes,No
+Others,2023-12-04 17:13:30,Central,2023-12-04 18:01:30,Firearm,38,Female,Malaysian,21,Female,Malaysian,6,No,Dismissed,Moderate,Yes,Yes,Yes,No
+Drug Offense,2023-12-05 19:30:27,Central,2023-12-05 20:22:27,Firearm,32,Female,Malaysian,47,Male,Malaysian,7,No,Convicted,Moderate,Yes,No,Yes,No
+Burglary,2023-12-06 21:47:23,West,2023-12-06 22:43:23,Firearm,18,Female,Indian,60,Female,Singaporean,3,No,Pending,Minor,No,Yes,No,Yes
+Others,2023-12-08 00:04:19,South,2023-12-08 00:08:19,Other,54,Male,Indian,25,Male,Others,3,No,Acquitted,Moderate,No,Yes,No,No
+Fraud,2023-12-09 02:21:15,West,2023-12-09 03:04:15,Firearm,78,Female,Singaporean,31,Female,Indian,6,Yes,Pending,Moderate,No,Yes,No,Yes
+Assault,2023-12-10 04:38:11,North,2023-12-10 05:14:11,Other,48,Female,Others,40,Female,Malaysian,9,Yes,Dismissed,Major,Yes,Yes,Yes,No
+Burglary,2023-12-11 06:55:08,West,2023-12-11 07:21:08,Firearm,21,Female,Malaysian,35,Female,Indian,1,No,Dismissed,Moderate,Yes,No,No,Yes
+Assault,2023-12-12 09:12:04,Central,2023-12-12 09:13:04,None,19,Male,Indian,23,Male,Others,5,Yes,Convicted,Moderate,No,No,Yes,Yes
+Drug Offense,2023-12-13 11:29:00,Central,2023-12-13 12:06:00,None,52,Female,Singaporean,77,Female,Indonesian,4,No,Convicted,Minor,Yes,Yes,No,Yes
+Drug Offense,2023-12-14 13:45:56,West,2023-12-14 13:58:56,Other,68,Female,Singaporean,34,Female,Others,9,No,Convicted,Major,No,Yes,No,No
+Theft,2023-12-15 16:02:52,North,2023-12-15 16:28:52,Firearm,45,Female,Malaysian,70,Female,Others,5,Yes,Pending,Moderate,No,Yes,No,No
+Theft,2023-12-16 18:19:49,Central,2023-12-16 18:45:49,Knife,64,Female,Others,70,Female,Singaporean,2,No,Acquitted,Major,No,No,Yes,Yes
+Theft,2023-12-17 20:36:45,Central,2023-12-17 20:40:45,Other,65,Male,Malaysian,65,Female,Indonesian,8,No,Dismissed,Moderate,No,Yes,No,No
+Assault,2023-12-18 22:53:41,Central,2023-12-18 23:49:41,Firearm,18,Male,Indian,47,Female,Others,8,Yes,Convicted,Major,No,Yes,Yes,Yes
+Vandalism,2023-12-20 01:10:37,North,2023-12-20 01:48:37,Knife,64,Female,Malaysian,19,Female,Malaysian,4,Yes,Acquitted,Minor,Yes,Yes,Yes,Yes
+Fraud,2023-12-21 03:27:34,Central,2023-12-21 04:09:34,Knife,74,Male,Singaporean,39,Male,Indonesian,3,No,Pending,Major,No,No,Yes,No
+Assault,2023-12-22 05:44:30,South,2023-12-22 06:32:30,Firearm,36,Male,Malaysian,30,Female,Singaporean,6,Yes,Dismissed,Moderate,Yes,Yes,No,Yes
+Fraud,2023-12-23 08:01:26,East,2023-12-23 08:45:26,Other,46,Female,Others,65,Female,Singaporean,4,Yes,Dismissed,Major,No,No,Yes,Yes
+Theft,2023-12-24 10:18:22,East,2023-12-24 10:55:22,Knife,68,Male,Singaporean,65,Male,Others,2,Yes,Acquitted,Moderate,Yes,No,No,No
+Vandalism,2023-12-25 12:35:18,South,2023-12-25 12:55:18,Firearm,63,Female,Malaysian,45,Male,Others,6,Yes,Convicted,Major,Yes,Yes,Yes,Yes
+Assault,2023-12-26 14:52:15,East,2023-12-26 15:04:15,Firearm,74,Male,Malaysian,27,Male,Others,9,No,Acquitted,Minor,No,Yes,No,No
+Theft,2023-12-27 17:09:11,West,2023-12-27 17:48:11,None,24,Female,Indonesian,32,Female,Others,0,No,Pending,Minor,No,Yes,No,Yes
+Vandalism,2023-12-28 19:26:07,East,2023-12-28 20:05:07,Firearm,20,Male,Malaysian,29,Female,Others,1,No,Convicted,Moderate,Yes,Yes,Yes,No
+Theft,2023-12-29 21:43:03,East,2023-12-29 22:07:03,Other,50,Female,Others,50,Male,Others,1,Yes,Acquitted,Moderate,No,No,No,Yes
+Fraud,2023-12-31 00:00:00,North,2023-12-31 00:42:00,Other,31,Male,Singaporean,76,Male,Singaporean,4,No,Acquitted,Moderate,No,Yes,No,Yes

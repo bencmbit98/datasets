@@ -1,0 +1,1001 @@
+﻿Age,Gender,Major,GPA,Enrollment_Status,Year_in_Program,Extracurricular_Activity,Nationality,Language_Spoken,Study_Abroad_Interest,Scholarship_Status,Dormitory_Resident,Visa_Status,Previous_Education,Parental_Occupation,Financial_Aid,Interview_Date
+23,Male,Service Training,2.27,Full-time,2,Volunteering,Indonesian,Others,No,Non-Recipient,Yes,Student Visa,Home Schooling,Healthcare,Yes,2023-08-22
+24,Female,FinTech,2.37,Part-time,3,Sports,Singaporean,Tamil,Yes,Non-Recipient,Yes,Permanent Resident,Local School,Healthcare,No,2023-01-02
+20,Female,Machine Learning,3.45,Part-time,2,Volunteering,Singaporean,Malay,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Others,No,2022-02-22
+22,Male,Information Technology,3.28,Part-time,3,None,Malaysian,Malay,Yes,Non-Recipient,Yes,Student Visa,International School,Others,Yes,2023-01-11
+20,Male,Business,2.59,Part-time,4,Volunteering,Indonesian,Malay,Yes,Non-Recipient,Yes,Citizen,Home Schooling,Healthcare,No,2023-03-16
+21,Female,Information Technology,2.12,Full-time,4,Arts,Indian,Tamil,Yes,Recipient,Yes,Permanent Resident,International School,Service,No,2023-08-16
+20,Female,Service Training,2.85,Full-time,3,Sports,Indonesian,Tamil,Yes,Recipient,Yes,Permanent Resident,International School,Education,Yes,2022-10-13
+20,Female,Service Training,2.38,Part-time,4,None,Indonesian,Others,Yes,Recipient,No,Others,Local School,Service,Yes,2023-12-18
+20,Male,Hospitality Management,3.45,Full-time,1,Sports,Malaysian,Tamil,No,Non-Recipient,Yes,Citizen,International School,Service,Yes,2021-02-21
+19,Female,Information Technology,2.67,Full-time,3,Arts,Indonesian,Mandarin,No,Non-Recipient,No,Citizen,Local School,Education,No,2021-10-26
+24,Female,Machine Learning,3.65,Full-time,1,Volunteering,Malaysian,Malay,Yes,Recipient,Yes,Student Visa,International School,Healthcare,Yes,2023-05-26
+18,Female,Business,2.91,Full-time,1,Arts,Others,Malay,No,Recipient,No,Citizen,Home Schooling,Others,Yes,2021-10-12
+18,Female,Information Technology,2.37,Full-time,4,Arts,Malaysian,Tamil,No,Recipient,No,Permanent Resident,International School,Education,No,2021-04-24
+18,Male,Service Training,2.47,Part-time,2,Sports,Malaysian,Others,Yes,Non-Recipient,Yes,Citizen,International School,Service,No,2022-06-11
+20,Female,Business,2.64,Full-time,1,Sports,Indian,Tamil,Yes,Recipient,No,Permanent Resident,Local School,Business,Yes,2021-10-03
+18,Female,Service Training,3.72,Part-time,3,None,Indian,Tamil,No,Recipient,Yes,Others,International School,Education,No,2022-09-24
+20,Male,FinTech,3.88,Part-time,1,Volunteering,Indian,Malay,No,Recipient,No,Others,International School,Service,Yes,2023-11-19
+21,Female,AI,2.84,Full-time,4,Arts,Singaporean,English,Yes,Recipient,Yes,Permanent Resident,Others,Education,Yes,2023-06-21
+19,Male,Business,3.92,Part-time,4,Sports,Singaporean,Mandarin,Yes,Recipient,Yes,Citizen,Others,Education,No,2023-12-18
+20,Female,Business,3.85,Full-time,4,None,Indonesian,Tamil,Yes,Non-Recipient,Yes,Student Visa,Home Schooling,Healthcare,No,2023-10-07
+22,Male,Hospitality Management,3.81,Full-time,3,Volunteering,Singaporean,Malay,No,Non-Recipient,No,Permanent Resident,International School,Others,No,2021-12-25
+20,Female,Business,3.1,Part-time,1,Arts,Others,Tamil,Yes,Non-Recipient,Yes,Citizen,International School,Healthcare,No,2021-05-08
+19,Female,Machine Learning,3.18,Part-time,1,Arts,Indonesian,Mandarin,No,Recipient,Yes,Permanent Resident,International School,Business,No,2021-07-22
+24,Female,FinTech,3.52,Full-time,1,Arts,Malaysian,Others,Yes,Recipient,No,Permanent Resident,Others,Others,No,2023-08-11
+22,Female,Machine Learning,2.71,Full-time,1,Volunteering,Malaysian,Others,No,Recipient,No,Permanent Resident,Home Schooling,Education,No,2023-05-04
+23,Female,Hospitality Management,3.72,Part-time,3,Arts,Indonesian,Others,No,Non-Recipient,No,Permanent Resident,Local School,Others,Yes,2021-10-28
+19,Male,Business,3.54,Full-time,3,Sports,Indonesian,English,Yes,Non-Recipient,Yes,Others,International School,Business,Yes,2021-11-11
+21,Female,Machine Learning,3.64,Full-time,4,Sports,Malaysian,Mandarin,Yes,Recipient,Yes,Citizen,Others,Business,Yes,2022-08-02
+23,Female,FinTech,3.37,Part-time,3,Sports,Malaysian,English,Yes,Recipient,Yes,Others,Others,Education,No,2022-01-27
+24,Female,FinTech,2.08,Full-time,2,Arts,Indian,Others,No,Non-Recipient,No,Citizen,International School,Service,Yes,2021-10-02
+19,Female,AI,3.88,Part-time,3,Sports,Indonesian,Others,No,Non-Recipient,No,Others,Local School,Others,No,2023-11-13
+24,Female,Machine Learning,3.06,Part-time,3,Sports,Others,Others,No,Recipient,Yes,Others,International School,Others,No,2022-01-16
+23,Male,Hospitality Management,2.88,Full-time,2,None,Indonesian,Mandarin,No,Recipient,Yes,Student Visa,Home Schooling,Education,Yes,2021-02-09
+20,Male,Information Technology,2.26,Part-time,1,Volunteering,Indonesian,Others,Yes,Recipient,Yes,Permanent Resident,International School,Others,No,2021-09-24
+23,Female,Service Training,2.38,Full-time,1,Volunteering,Indonesian,Others,No,Recipient,Yes,Student Visa,Local School,Business,Yes,2023-07-08
+20,Female,Business,2.14,Full-time,3,Arts,Malaysian,Others,No,Recipient,Yes,Student Visa,Home Schooling,Healthcare,Yes,2023-07-22
+22,Female,Hospitality Management,2.89,Full-time,4,Arts,Singaporean,Mandarin,No,Recipient,No,Others,Local School,Service,No,2023-06-14
+20,Male,Business,2.6,Part-time,4,Sports,Singaporean,Tamil,Yes,Recipient,Yes,Others,Home Schooling,Healthcare,Yes,2021-10-10
+20,Male,Information Technology,3.44,Full-time,1,Arts,Others,Mandarin,Yes,Recipient,Yes,Others,Others,Business,Yes,2021-07-01
+18,Female,Service Training,3.31,Full-time,4,None,Malaysian,English,No,Non-Recipient,Yes,Student Visa,Others,Business,No,2022-09-26
+23,Male,Hospitality Management,3.66,Full-time,4,Sports,Malaysian,Others,No,Non-Recipient,Yes,Others,Home Schooling,Others,Yes,2022-03-26
+19,Male,AI,2.42,Full-time,3,Arts,Indian,English,Yes,Recipient,Yes,Citizen,Local School,Education,Yes,2021-04-15
+23,Male,Business,3.81,Part-time,1,Volunteering,Malaysian,Others,Yes,Recipient,Yes,Citizen,Local School,Others,Yes,2021-04-01
+21,Female,Information Technology,3.5,Full-time,4,Volunteering,Singaporean,Others,No,Recipient,No,Student Visa,Others,Service,Yes,2022-05-18
+20,Female,Business,2.22,Full-time,2,Arts,Indonesian,English,Yes,Recipient,Yes,Permanent Resident,Others,Others,Yes,2023-02-13
+19,Female,Business,2.4,Full-time,1,Sports,Indonesian,Mandarin,Yes,Recipient,Yes,Permanent Resident,Local School,Healthcare,Yes,2023-09-04
+20,Male,FinTech,3.26,Full-time,2,None,Indonesian,Others,No,Recipient,Yes,Citizen,Local School,Healthcare,No,2022-01-23
+20,Male,Hospitality Management,2.18,Full-time,3,Sports,Singaporean,Mandarin,Yes,Recipient,No,Citizen,Others,Others,Yes,2022-09-01
+23,Female,Business,3.34,Part-time,1,None,Indian,Tamil,No,Recipient,Yes,Citizen,Others,Education,Yes,2022-01-09
+18,Male,AI,2.65,Part-time,2,None,Malaysian,English,Yes,Recipient,No,Citizen,International School,Education,No,2022-12-22
+21,Female,AI,3.13,Part-time,4,Sports,Malaysian,Malay,No,Recipient,Yes,Citizen,Home Schooling,Others,Yes,2023-04-27
+20,Female,FinTech,3.41,Part-time,2,None,Indian,Mandarin,No,Non-Recipient,No,Permanent Resident,Home Schooling,Others,Yes,2023-10-13
+23,Male,Hospitality Management,3.95,Full-time,1,None,Indonesian,Tamil,No,Non-Recipient,Yes,Citizen,Local School,Education,No,2021-07-17
+23,Male,Hospitality Management,2.54,Full-time,3,Arts,Singaporean,Malay,No,Recipient,No,Permanent Resident,Local School,Education,No,2023-05-27
+21,Female,AI,3.93,Full-time,3,Volunteering,Indian,Mandarin,Yes,Non-Recipient,No,Permanent Resident,Local School,Healthcare,No,2021-09-03
+18,Male,FinTech,3.14,Full-time,4,None,Singaporean,English,No,Non-Recipient,No,Others,Others,Others,No,2023-10-07
+19,Male,Information Technology,2.28,Full-time,2,None,Indonesian,English,Yes,Non-Recipient,Yes,Student Visa,International School,Service,Yes,2021-04-13
+20,Female,Information Technology,2.16,Part-time,4,Volunteering,Singaporean,Tamil,Yes,Recipient,Yes,Student Visa,International School,Business,No,2021-10-21
+24,Female,Information Technology,3.4,Part-time,1,None,Malaysian,English,No,Recipient,Yes,Citizen,Local School,Business,Yes,2023-06-18
+18,Female,Business,3.15,Part-time,4,Arts,Others,Tamil,No,Recipient,Yes,Others,Local School,Service,No,2023-03-07
+24,Male,FinTech,3.9,Part-time,3,Volunteering,Singaporean,English,No,Recipient,No,Permanent Resident,International School,Others,Yes,2022-01-02
+18,Male,Information Technology,3.22,Part-time,4,None,Indian,Tamil,No,Recipient,No,Permanent Resident,Local School,Others,Yes,2021-05-07
+18,Male,Information Technology,3.1,Full-time,2,Arts,Singaporean,English,No,Non-Recipient,Yes,Permanent Resident,Home Schooling,Healthcare,No,2023-05-25
+21,Female,Machine Learning,2.5,Full-time,1,Sports,Malaysian,Tamil,Yes,Non-Recipient,No,Citizen,Others,Others,Yes,2023-08-28
+23,Female,Hospitality Management,2.94,Part-time,2,Sports,Others,Tamil,Yes,Recipient,No,Citizen,Home Schooling,Business,Yes,2023-06-04
+20,Male,Business,3.58,Full-time,4,Sports,Singaporean,Others,Yes,Recipient,No,Others,Local School,Education,Yes,2021-02-01
+23,Female,AI,2.65,Full-time,2,Sports,Singaporean,Others,Yes,Non-Recipient,No,Permanent Resident,Others,Education,No,2022-02-28
+20,Male,Hospitality Management,2.8,Full-time,3,Arts,Indian,Tamil,Yes,Recipient,Yes,Permanent Resident,Local School,Others,No,2023-01-14
+24,Female,FinTech,2.05,Full-time,1,Sports,Indonesian,Tamil,No,Non-Recipient,No,Citizen,Others,Others,Yes,2023-09-15
+19,Female,Hospitality Management,2.95,Part-time,3,Volunteering,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Citizen,Home Schooling,Others,Yes,2021-08-19
+18,Female,Information Technology,2.33,Part-time,1,Sports,Singaporean,Malay,Yes,Recipient,No,Permanent Resident,Local School,Healthcare,No,2021-07-05
+23,Male,Hospitality Management,2.31,Full-time,2,Volunteering,Singaporean,Tamil,No,Recipient,Yes,Others,Local School,Business,No,2023-03-15
+18,Male,Business,3.36,Full-time,3,Sports,Malaysian,Tamil,No,Non-Recipient,Yes,Permanent Resident,Others,Others,No,2021-11-22
+21,Male,Machine Learning,3.12,Part-time,4,Arts,Indian,English,No,Non-Recipient,Yes,Others,Others,Healthcare,No,2021-08-09
+22,Male,Machine Learning,2.36,Full-time,1,None,Singaporean,Others,No,Recipient,No,Student Visa,Others,Healthcare,No,2021-09-05
+19,Male,Hospitality Management,2.07,Part-time,3,Sports,Indian,Mandarin,No,Non-Recipient,No,Others,Local School,Business,No,2021-01-03
+19,Female,Information Technology,3.95,Part-time,4,Arts,Singaporean,Malay,No,Non-Recipient,No,Student Visa,Others,Healthcare,No,2022-09-16
+23,Female,FinTech,3.07,Part-time,1,Sports,Others,English,No,Non-Recipient,No,Others,International School,Service,Yes,2023-06-28
+20,Male,Business,3.28,Full-time,1,Volunteering,Indian,Others,Yes,Recipient,Yes,Student Visa,Others,Education,Yes,2022-05-15
+22,Female,Hospitality Management,2.82,Full-time,2,Volunteering,Malaysian,Others,Yes,Recipient,No,Permanent Resident,Others,Others,Yes,2022-03-07
+21,Male,Machine Learning,3.35,Full-time,3,None,Singaporean,Malay,No,Non-Recipient,Yes,Permanent Resident,International School,Business,Yes,2023-05-02
+23,Male,Machine Learning,2.2,Full-time,3,Volunteering,Malaysian,Malay,No,Non-Recipient,No,Others,International School,Business,Yes,2022-07-04
+21,Female,AI,2.38,Full-time,4,Volunteering,Singaporean,Tamil,Yes,Recipient,No,Others,Home Schooling,Service,Yes,2021-06-21
+20,Male,Business,3.61,Part-time,3,None,Singaporean,Others,No,Non-Recipient,No,Permanent Resident,Local School,Business,No,2021-08-17
+22,Male,Business,3.45,Part-time,2,None,Others,Others,No,Recipient,Yes,Citizen,Others,Business,Yes,2023-03-12
+20,Female,FinTech,2.69,Part-time,2,Arts,Indonesian,Tamil,No,Recipient,No,Permanent Resident,International School,Others,No,2021-04-08
+20,Male,Machine Learning,2.95,Full-time,1,Arts,Others,Others,Yes,Non-Recipient,No,Citizen,Local School,Business,No,2021-09-05
+21,Male,AI,3.85,Full-time,4,Arts,Singaporean,Mandarin,Yes,Recipient,No,Others,International School,Business,Yes,2022-02-04
+20,Female,Information Technology,2.62,Part-time,2,None,Others,Tamil,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Healthcare,No,2021-03-22
+19,Male,Business,3.27,Part-time,1,Arts,Indonesian,Tamil,No,Recipient,Yes,Permanent Resident,International School,Others,No,2021-10-25
+19,Male,FinTech,2.09,Full-time,1,None,Malaysian,Mandarin,No,Non-Recipient,Yes,Permanent Resident,Others,Service,Yes,2022-11-23
+23,Female,Machine Learning,2.13,Part-time,1,None,Indian,English,Yes,Recipient,No,Others,International School,Service,No,2022-06-10
+21,Male,FinTech,2.9,Full-time,4,Sports,Others,Mandarin,Yes,Recipient,Yes,Others,Local School,Business,No,2022-10-24
+20,Female,Service Training,3.76,Part-time,4,None,Indonesian,Mandarin,No,Non-Recipient,No,Permanent Resident,International School,Business,Yes,2023-12-06
+23,Female,Business,2.54,Part-time,1,None,Others,Tamil,No,Recipient,No,Citizen,Others,Education,No,2023-11-07
+24,Female,AI,2.8,Part-time,4,None,Others,Mandarin,Yes,Non-Recipient,No,Permanent Resident,Local School,Others,No,2021-03-14
+23,Female,AI,3.21,Full-time,3,None,Malaysian,English,No,Recipient,Yes,Citizen,Local School,Others,No,2021-02-27
+22,Male,Information Technology,2.69,Part-time,1,Volunteering,Indonesian,Malay,No,Non-Recipient,No,Citizen,Others,Others,Yes,2021-01-15
+24,Female,Machine Learning,2.08,Full-time,4,Arts,Singaporean,Malay,Yes,Non-Recipient,Yes,Others,Home Schooling,Business,No,2022-09-24
+23,Male,Information Technology,2.52,Part-time,1,Arts,Indian,Malay,Yes,Recipient,Yes,Others,Others,Education,Yes,2023-12-07
+23,Male,FinTech,3.52,Part-time,1,Sports,Indian,Tamil,Yes,Non-Recipient,Yes,Student Visa,International School,Business,No,2022-08-16
+20,Male,Hospitality Management,3.81,Full-time,1,Sports,Malaysian,Malay,Yes,Non-Recipient,No,Student Visa,Others,Business,Yes,2021-07-03
+24,Female,Machine Learning,3.6,Full-time,1,Arts,Malaysian,English,No,Non-Recipient,Yes,Others,Others,Others,No,2022-01-05
+22,Male,Hospitality Management,3.6,Full-time,2,None,Malaysian,Tamil,Yes,Non-Recipient,Yes,Student Visa,International School,Business,Yes,2022-03-01
+20,Male,FinTech,2.12,Full-time,4,Sports,Others,English,Yes,Non-Recipient,No,Permanent Resident,Local School,Education,No,2021-08-14
+18,Male,Business,2.8,Part-time,4,None,Indian,Tamil,No,Non-Recipient,Yes,Citizen,Local School,Education,No,2022-02-08
+18,Female,Information Technology,2.48,Full-time,3,None,Malaysian,Others,Yes,Recipient,No,Others,Local School,Service,Yes,2021-05-01
+24,Male,AI,2.11,Full-time,4,Volunteering,Singaporean,Mandarin,No,Recipient,Yes,Citizen,Local School,Business,No,2022-09-21
+18,Male,Machine Learning,3.08,Part-time,4,None,Indonesian,English,No,Recipient,Yes,Permanent Resident,Local School,Others,Yes,2021-03-14
+20,Female,Machine Learning,3.14,Full-time,2,Arts,Indonesian,English,No,Recipient,No,Permanent Resident,Local School,Healthcare,No,2023-04-06
+22,Female,Machine Learning,3.88,Full-time,4,Volunteering,Others,Malay,No,Recipient,No,Permanent Resident,Local School,Education,No,2022-10-04
+23,Female,Service Training,2.7,Full-time,4,Volunteering,Indonesian,Mandarin,Yes,Recipient,Yes,Student Visa,Local School,Service,No,2021-10-12
+22,Female,AI,3.91,Part-time,3,None,Singaporean,Malay,No,Non-Recipient,Yes,Student Visa,Others,Others,No,2021-01-09
+19,Male,Service Training,3.5,Part-time,2,Sports,Indian,English,Yes,Recipient,Yes,Student Visa,International School,Business,Yes,2021-05-17
+24,Female,Information Technology,3.49,Full-time,3,Volunteering,Indonesian,Mandarin,No,Non-Recipient,Yes,Permanent Resident,Home Schooling,Business,Yes,2023-03-26
+22,Female,Hospitality Management,3.69,Full-time,4,Sports,Malaysian,Tamil,Yes,Non-Recipient,Yes,Others,Home Schooling,Others,No,2022-06-02
+23,Male,Information Technology,3.68,Full-time,3,Arts,Others,Malay,Yes,Non-Recipient,Yes,Permanent Resident,International School,Others,Yes,2022-09-07
+19,Female,FinTech,3.76,Part-time,3,None,Singaporean,Others,Yes,Recipient,Yes,Student Visa,Others,Business,Yes,2022-02-22
+20,Female,FinTech,2.2,Full-time,3,None,Singaporean,Others,No,Recipient,Yes,Permanent Resident,Local School,Education,Yes,2023-10-21
+24,Male,AI,2.63,Full-time,4,Sports,Malaysian,Malay,Yes,Recipient,Yes,Permanent Resident,Local School,Others,No,2022-08-09
+18,Female,AI,2.11,Full-time,4,Arts,Indian,Tamil,Yes,Recipient,No,Student Visa,International School,Others,No,2021-03-14
+20,Male,Machine Learning,2.91,Full-time,1,Sports,Indonesian,English,Yes,Non-Recipient,Yes,Others,International School,Education,Yes,2021-11-14
+24,Male,Information Technology,3.31,Part-time,4,Volunteering,Singaporean,Malay,No,Non-Recipient,No,Permanent Resident,Others,Business,Yes,2022-09-16
+24,Male,Machine Learning,2.31,Full-time,1,None,Others,Tamil,Yes,Non-Recipient,Yes,Permanent Resident,Local School,Others,Yes,2022-07-10
+20,Male,Service Training,3.34,Full-time,1,None,Indonesian,English,Yes,Recipient,No,Others,International School,Others,No,2023-09-08
+19,Male,Information Technology,3.25,Part-time,3,Sports,Malaysian,Tamil,No,Recipient,Yes,Permanent Resident,International School,Business,No,2021-09-21
+21,Female,AI,3.09,Full-time,1,Arts,Others,Others,Yes,Non-Recipient,No,Others,Local School,Healthcare,Yes,2021-01-25
+22,Male,Service Training,2.65,Full-time,4,None,Indian,Tamil,No,Non-Recipient,Yes,Others,Others,Business,Yes,2023-12-24
+19,Female,Business,3.74,Full-time,1,Arts,Others,Tamil,Yes,Non-Recipient,No,Permanent Resident,International School,Education,No,2022-08-01
+24,Female,FinTech,2.92,Full-time,4,Volunteering,Indonesian,Mandarin,No,Non-Recipient,Yes,Permanent Resident,International School,Service,Yes,2022-04-04
+23,Male,Machine Learning,2.42,Part-time,1,None,Singaporean,Others,No,Non-Recipient,Yes,Student Visa,International School,Business,No,2021-10-22
+24,Male,AI,2.87,Full-time,1,Volunteering,Indonesian,Mandarin,Yes,Non-Recipient,Yes,Others,International School,Business,Yes,2023-04-24
+21,Female,Information Technology,2.2,Part-time,2,Volunteering,Singaporean,English,No,Recipient,Yes,Others,Home Schooling,Service,Yes,2023-05-04
+21,Female,Machine Learning,2.04,Full-time,2,Arts,Singaporean,Mandarin,No,Recipient,No,Citizen,International School,Education,Yes,2022-10-21
+24,Male,Information Technology,2.92,Full-time,3,None,Others,English,Yes,Non-Recipient,No,Permanent Resident,Local School,Healthcare,Yes,2023-06-10
+19,Female,AI,2.96,Part-time,1,Arts,Indonesian,Tamil,No,Non-Recipient,Yes,Others,International School,Healthcare,Yes,2022-04-24
+19,Male,Information Technology,2.2,Part-time,1,Sports,Indian,Others,No,Non-Recipient,No,Permanent Resident,Home Schooling,Healthcare,No,2023-09-25
+22,Female,Business,3.84,Part-time,3,Arts,Indian,Tamil,Yes,Recipient,Yes,Citizen,Home Schooling,Education,No,2022-03-08
+22,Female,Information Technology,3.09,Part-time,2,Volunteering,Others,Malay,Yes,Recipient,Yes,Others,Home Schooling,Education,No,2021-04-14
+24,Female,FinTech,3.54,Full-time,3,None,Indian,Malay,Yes,Recipient,Yes,Citizen,Home Schooling,Business,No,2023-11-02
+20,Female,Service Training,3.99,Part-time,3,Volunteering,Others,Others,No,Non-Recipient,No,Others,Others,Education,Yes,2023-11-16
+19,Male,Service Training,2.23,Full-time,3,Volunteering,Others,Mandarin,Yes,Recipient,No,Student Visa,Others,Others,No,2021-11-26
+22,Female,AI,3.59,Full-time,3,None,Indian,Tamil,No,Recipient,No,Citizen,Others,Education,Yes,2022-02-17
+19,Female,AI,2.01,Part-time,3,None,Indian,Malay,Yes,Recipient,Yes,Student Visa,Home Schooling,Business,No,2022-09-10
+24,Male,FinTech,2.58,Full-time,4,Arts,Others,Malay,No,Non-Recipient,Yes,Others,Local School,Business,No,2023-08-22
+20,Female,Hospitality Management,2.21,Part-time,2,None,Malaysian,Malay,No,Non-Recipient,No,Permanent Resident,Local School,Education,No,2021-05-12
+21,Female,Hospitality Management,2.82,Part-time,4,Sports,Malaysian,Others,No,Non-Recipient,No,Permanent Resident,Home Schooling,Service,Yes,2022-08-05
+19,Male,Information Technology,3.44,Part-time,1,Sports,Singaporean,Mandarin,No,Recipient,No,Permanent Resident,International School,Business,No,2022-06-02
+20,Female,Business,3.73,Full-time,1,None,Singaporean,Malay,Yes,Non-Recipient,No,Student Visa,Local School,Healthcare,Yes,2021-12-24
+20,Male,Business,3.75,Full-time,2,Volunteering,Malaysian,Others,Yes,Non-Recipient,Yes,Citizen,Others,Healthcare,No,2023-01-09
+19,Male,Business,2.48,Full-time,2,Arts,Singaporean,English,Yes,Non-Recipient,No,Permanent Resident,Others,Business,Yes,2022-12-04
+24,Female,Machine Learning,2.38,Full-time,2,Sports,Indian,Mandarin,Yes,Recipient,No,Others,Home Schooling,Business,Yes,2023-02-24
+21,Female,Information Technology,3.81,Part-time,4,Sports,Singaporean,Tamil,Yes,Non-Recipient,No,Citizen,Local School,Business,No,2021-05-27
+19,Male,Hospitality Management,2.16,Full-time,3,Volunteering,Indian,English,Yes,Recipient,Yes,Permanent Resident,Home Schooling,Business,No,2022-02-21
+24,Male,Business,3.42,Part-time,2,Sports,Malaysian,Malay,Yes,Recipient,Yes,Citizen,Others,Healthcare,No,2023-11-11
+23,Female,Hospitality Management,3.79,Full-time,3,Volunteering,Indonesian,Mandarin,No,Non-Recipient,No,Permanent Resident,Others,Service,No,2023-01-16
+18,Female,AI,2.63,Part-time,3,Volunteering,Singaporean,English,No,Recipient,Yes,Permanent Resident,International School,Education,Yes,2023-02-18
+19,Male,Business,2.69,Part-time,3,Sports,Singaporean,Others,Yes,Non-Recipient,Yes,Permanent Resident,International School,Others,Yes,2021-03-13
+21,Female,Information Technology,3.65,Full-time,4,Arts,Malaysian,Others,No,Non-Recipient,Yes,Permanent Resident,Others,Business,Yes,2021-01-14
+19,Male,AI,3.5,Part-time,4,Sports,Singaporean,Others,No,Non-Recipient,No,Citizen,International School,Service,No,2021-08-16
+20,Male,Machine Learning,3.41,Full-time,1,Sports,Indian,Others,No,Non-Recipient,No,Others,Local School,Business,Yes,2023-03-05
+20,Female,AI,3.29,Part-time,3,Volunteering,Malaysian,Mandarin,No,Recipient,Yes,Others,Home Schooling,Healthcare,Yes,2021-05-18
+22,Male,Machine Learning,2.58,Full-time,2,Volunteering,Singaporean,Others,No,Non-Recipient,No,Others,Home Schooling,Education,No,2022-08-24
+24,Female,AI,2.84,Part-time,3,Volunteering,Indonesian,Others,Yes,Recipient,No,Student Visa,International School,Business,Yes,2022-01-27
+21,Female,Machine Learning,3.07,Part-time,1,None,Singaporean,Malay,Yes,Recipient,Yes,Others,Others,Business,No,2023-05-24
+23,Female,Hospitality Management,2.99,Part-time,2,Arts,Indonesian,Mandarin,Yes,Non-Recipient,No,Others,Home Schooling,Business,Yes,2021-12-25
+23,Male,Information Technology,2.21,Full-time,2,Arts,Others,English,Yes,Recipient,Yes,Citizen,Others,Healthcare,No,2022-12-07
+22,Female,Hospitality Management,3.62,Part-time,4,None,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Citizen,International School,Service,No,2023-06-28
+21,Male,Business,3.3,Part-time,1,Volunteering,Others,English,Yes,Recipient,Yes,Permanent Resident,Others,Healthcare,Yes,2022-02-23
+23,Male,Machine Learning,3.07,Part-time,1,None,Singaporean,English,No,Recipient,No,Others,Others,Service,Yes,2022-07-25
+22,Male,Service Training,3.19,Part-time,2,Volunteering,Indonesian,Others,No,Recipient,Yes,Student Visa,Local School,Education,No,2021-01-14
+19,Male,FinTech,3.02,Full-time,2,None,Indonesian,English,No,Recipient,Yes,Student Visa,Home Schooling,Service,No,2022-08-02
+18,Male,FinTech,2.04,Part-time,2,None,Indonesian,Others,Yes,Recipient,Yes,Citizen,Local School,Business,No,2023-10-23
+20,Female,FinTech,2.94,Full-time,1,Sports,Malaysian,Others,No,Recipient,No,Citizen,Local School,Service,Yes,2021-09-20
+22,Female,AI,3.63,Full-time,4,Volunteering,Indian,Tamil,No,Non-Recipient,No,Citizen,Others,Others,Yes,2021-02-25
+24,Male,AI,3.74,Full-time,3,None,Indian,Mandarin,No,Non-Recipient,No,Student Visa,Others,Healthcare,No,2023-01-24
+23,Male,Machine Learning,3.65,Part-time,3,None,Singaporean,Malay,Yes,Non-Recipient,Yes,Permanent Resident,International School,Healthcare,No,2023-09-13
+24,Male,Service Training,3.65,Full-time,2,Volunteering,Indonesian,Malay,Yes,Non-Recipient,Yes,Permanent Resident,International School,Others,No,2023-05-25
+21,Male,AI,3.17,Full-time,1,Sports,Singaporean,Others,Yes,Non-Recipient,No,Student Visa,International School,Service,No,2022-12-16
+21,Male,Service Training,2.8,Full-time,2,Volunteering,Indian,Tamil,No,Recipient,No,Permanent Resident,Local School,Business,No,2021-08-08
+22,Male,AI,3.35,Full-time,4,None,Singaporean,English,No,Non-Recipient,No,Student Visa,Local School,Others,Yes,2023-03-05
+21,Male,Hospitality Management,3.69,Part-time,3,Arts,Others,Malay,No,Recipient,No,Citizen,International School,Others,No,2022-02-21
+18,Female,Business,2.43,Part-time,1,Volunteering,Indian,Others,Yes,Non-Recipient,Yes,Permanent Resident,Others,Others,Yes,2022-11-11
+24,Female,Business,3.4,Part-time,2,None,Singaporean,English,No,Non-Recipient,No,Permanent Resident,Home Schooling,Education,Yes,2021-01-27
+23,Female,Business,3.81,Full-time,2,Volunteering,Malaysian,English,Yes,Non-Recipient,No,Citizen,Home Schooling,Others,Yes,2021-07-05
+19,Male,Information Technology,3.26,Full-time,2,Volunteering,Others,Others,Yes,Recipient,No,Citizen,Local School,Others,Yes,2022-02-01
+23,Female,FinTech,3.82,Part-time,2,Arts,Malaysian,Mandarin,No,Non-Recipient,Yes,Others,Home Schooling,Business,No,2022-05-03
+21,Female,Hospitality Management,2.32,Part-time,4,Sports,Indian,Mandarin,Yes,Recipient,No,Citizen,Home Schooling,Others,Yes,2022-05-09
+20,Male,Service Training,3.87,Part-time,2,Sports,Singaporean,English,Yes,Recipient,No,Student Visa,Local School,Education,Yes,2021-08-17
+19,Female,AI,2.88,Full-time,3,Sports,Indonesian,Malay,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Healthcare,Yes,2023-07-25
+22,Male,Service Training,2.19,Part-time,1,Arts,Indian,English,No,Non-Recipient,No,Student Visa,Others,Healthcare,Yes,2021-03-22
+23,Female,Business,3.1,Part-time,2,None,Malaysian,English,Yes,Recipient,No,Citizen,International School,Healthcare,Yes,2021-07-02
+21,Male,AI,2.57,Full-time,4,None,Indonesian,Malay,Yes,Recipient,Yes,Citizen,International School,Healthcare,No,2022-09-21
+22,Male,Hospitality Management,3.9,Part-time,4,None,Others,Malay,Yes,Recipient,No,Student Visa,Home Schooling,Service,Yes,2023-12-09
+22,Female,Machine Learning,2.68,Full-time,1,Sports,Singaporean,Malay,Yes,Non-Recipient,No,Others,Home Schooling,Service,No,2022-06-07
+19,Male,Hospitality Management,3.74,Part-time,2,Arts,Others,Others,Yes,Recipient,Yes,Permanent Resident,Local School,Education,No,2021-04-05
+22,Female,Business,3.17,Part-time,2,Volunteering,Malaysian,English,Yes,Non-Recipient,Yes,Others,Others,Education,Yes,2023-12-02
+18,Male,Machine Learning,3.6,Full-time,3,Arts,Malaysian,Tamil,Yes,Non-Recipient,No,Others,Local School,Business,Yes,2022-11-13
+19,Male,FinTech,3.9,Full-time,2,Volunteering,Indonesian,Others,Yes,Non-Recipient,No,Student Visa,Local School,Business,Yes,2022-07-14
+23,Male,Business,3.78,Full-time,2,Sports,Indian,Others,No,Recipient,Yes,Permanent Resident,Others,Business,Yes,2022-05-28
+23,Male,Hospitality Management,3.28,Full-time,3,Arts,Indonesian,Others,No,Non-Recipient,No,Citizen,Home Schooling,Service,No,2023-09-19
+19,Female,Business,2.59,Part-time,2,Volunteering,Malaysian,Others,No,Non-Recipient,Yes,Student Visa,Home Schooling,Others,No,2022-11-03
+24,Male,Hospitality Management,3.26,Full-time,1,Volunteering,Indonesian,English,Yes,Recipient,Yes,Others,International School,Education,No,2022-12-03
+21,Female,Business,2.62,Part-time,3,None,Singaporean,Tamil,No,Recipient,No,Student Visa,Local School,Business,No,2023-01-27
+22,Male,FinTech,2.16,Full-time,3,None,Singaporean,Malay,No,Recipient,No,Others,Local School,Service,Yes,2021-08-21
+21,Female,Business,2.21,Part-time,1,None,Others,Tamil,Yes,Recipient,No,Student Visa,International School,Service,No,2023-11-20
+22,Female,Machine Learning,2.88,Full-time,2,Volunteering,Indian,English,Yes,Recipient,No,Citizen,Others,Education,No,2023-10-13
+20,Male,AI,3.23,Part-time,4,Volunteering,Singaporean,Malay,No,Recipient,No,Others,Local School,Others,No,2022-06-05
+21,Female,Business,2.42,Full-time,4,None,Indonesian,English,No,Non-Recipient,Yes,Others,Others,Service,No,2021-03-10
+18,Male,Information Technology,3.48,Part-time,1,Sports,Indian,English,No,Non-Recipient,Yes,Others,Local School,Education,Yes,2021-08-24
+21,Female,FinTech,3.75,Full-time,1,Volunteering,Indonesian,Tamil,Yes,Non-Recipient,No,Permanent Resident,International School,Healthcare,No,2023-01-04
+23,Male,Service Training,2.42,Full-time,3,Volunteering,Others,Others,No,Recipient,Yes,Student Visa,International School,Others,Yes,2022-03-24
+21,Female,Machine Learning,2.21,Full-time,4,Volunteering,Singaporean,Malay,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Business,Yes,2022-11-21
+20,Female,Service Training,2.11,Full-time,3,Volunteering,Indonesian,Others,No,Non-Recipient,Yes,Permanent Resident,Home Schooling,Service,No,2022-02-19
+19,Female,Business,3.34,Full-time,3,Arts,Singaporean,Tamil,No,Recipient,No,Others,International School,Education,Yes,2021-07-18
+18,Female,Service Training,3.21,Part-time,2,Sports,Others,Tamil,Yes,Non-Recipient,Yes,Permanent Resident,Local School,Education,Yes,2021-03-04
+20,Female,FinTech,3.68,Full-time,1,Volunteering,Indian,Mandarin,Yes,Non-Recipient,No,Permanent Resident,Others,Education,No,2022-06-14
+18,Male,Service Training,3.42,Part-time,3,Volunteering,Singaporean,Mandarin,Yes,Non-Recipient,No,Permanent Resident,International School,Healthcare,No,2022-03-10
+21,Male,Machine Learning,3.8,Part-time,1,Sports,Others,Tamil,No,Recipient,No,Permanent Resident,Local School,Education,No,2023-11-04
+24,Female,AI,3.66,Part-time,3,Arts,Malaysian,Tamil,Yes,Non-Recipient,No,Citizen,Others,Education,No,2023-12-21
+18,Male,Service Training,2.48,Part-time,1,Arts,Others,Malay,Yes,Non-Recipient,No,Permanent Resident,Local School,Business,No,2022-09-06
+19,Female,Information Technology,2.84,Part-time,3,Arts,Malaysian,Others,Yes,Recipient,No,Citizen,Local School,Service,Yes,2023-01-06
+19,Male,Information Technology,2.31,Part-time,1,Volunteering,Indian,Mandarin,Yes,Recipient,No,Student Visa,International School,Healthcare,Yes,2023-05-16
+18,Female,Machine Learning,3.66,Full-time,3,None,Singaporean,Mandarin,No,Non-Recipient,No,Citizen,Home Schooling,Service,Yes,2023-06-10
+21,Female,FinTech,3.25,Full-time,4,Arts,Indian,Malay,Yes,Recipient,Yes,Others,International School,Education,Yes,2023-01-15
+24,Male,Hospitality Management,3.26,Full-time,3,Arts,Malaysian,Others,Yes,Non-Recipient,Yes,Student Visa,Local School,Business,No,2021-05-27
+23,Male,Service Training,2.76,Part-time,3,Arts,Others,Mandarin,No,Recipient,No,Citizen,International School,Healthcare,Yes,2022-04-23
+21,Male,AI,3.13,Part-time,2,None,Singaporean,Others,Yes,Non-Recipient,No,Permanent Resident,Local School,Business,Yes,2021-08-13
+24,Male,FinTech,2.36,Full-time,1,Arts,Malaysian,Others,Yes,Non-Recipient,Yes,Student Visa,International School,Others,Yes,2023-10-24
+18,Female,Service Training,2.66,Full-time,2,Volunteering,Indonesian,Tamil,No,Non-Recipient,No,Student Visa,Local School,Business,Yes,2021-02-22
+24,Female,AI,3.63,Full-time,2,Arts,Indonesian,Malay,Yes,Non-Recipient,No,Others,International School,Healthcare,Yes,2023-03-25
+22,Male,Information Technology,2.86,Full-time,4,None,Indonesian,English,Yes,Recipient,Yes,Student Visa,Others,Service,Yes,2021-05-05
+20,Male,AI,2.25,Full-time,2,None,Indian,Malay,No,Non-Recipient,No,Citizen,Local School,Education,Yes,2022-07-09
+22,Male,Business,2.82,Part-time,4,Arts,Indian,Malay,No,Non-Recipient,Yes,Permanent Resident,Local School,Service,No,2023-04-13
+20,Male,Business,2.03,Part-time,4,None,Malaysian,Mandarin,No,Non-Recipient,No,Permanent Resident,Home Schooling,Education,No,2023-10-28
+21,Female,Hospitality Management,3.5,Full-time,1,Sports,Indonesian,Malay,Yes,Recipient,Yes,Permanent Resident,Local School,Service,Yes,2022-07-24
+19,Male,Business,2.17,Full-time,3,Volunteering,Singaporean,Mandarin,Yes,Recipient,No,Permanent Resident,Others,Education,Yes,2022-08-28
+20,Female,Hospitality Management,2.15,Full-time,4,Volunteering,Others,Malay,Yes,Non-Recipient,No,Student Visa,International School,Business,Yes,2022-09-27
+18,Female,Information Technology,3.22,Part-time,4,Arts,Others,Tamil,Yes,Recipient,Yes,Others,Others,Education,No,2023-11-16
+20,Female,Machine Learning,3.35,Part-time,3,Arts,Singaporean,Malay,Yes,Recipient,Yes,Student Visa,Others,Business,Yes,2022-05-04
+20,Male,Information Technology,3.18,Full-time,3,Arts,Malaysian,Tamil,Yes,Recipient,No,Permanent Resident,Local School,Business,No,2021-11-10
+19,Male,Hospitality Management,3.16,Full-time,3,Sports,Malaysian,Tamil,Yes,Recipient,Yes,Others,Home Schooling,Others,No,2021-12-26
+24,Female,Hospitality Management,3.76,Full-time,2,None,Malaysian,Tamil,Yes,Non-Recipient,No,Others,Local School,Others,Yes,2021-11-26
+19,Male,Hospitality Management,2.72,Part-time,1,None,Singaporean,Tamil,No,Recipient,Yes,Permanent Resident,Local School,Others,No,2023-03-18
+20,Male,Information Technology,3,Full-time,3,None,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Permanent Resident,Others,Education,Yes,2022-07-23
+21,Male,Information Technology,3.6,Full-time,2,Volunteering,Indonesian,Others,Yes,Recipient,No,Permanent Resident,Local School,Others,Yes,2023-08-17
+20,Male,Service Training,3.7,Part-time,4,Sports,Indian,English,No,Non-Recipient,No,Others,Local School,Healthcare,No,2023-10-06
+18,Male,Machine Learning,3.01,Part-time,2,Sports,Singaporean,Mandarin,No,Non-Recipient,Yes,Citizen,Others,Others,No,2021-11-28
+23,Male,AI,3.78,Part-time,1,Volunteering,Singaporean,Mandarin,Yes,Recipient,No,Permanent Resident,Others,Service,No,2021-07-02
+21,Male,Information Technology,3.74,Full-time,2,Volunteering,Singaporean,Others,Yes,Non-Recipient,Yes,Others,Others,Education,No,2022-07-21
+24,Male,Machine Learning,2.99,Part-time,2,Volunteering,Singaporean,Others,Yes,Recipient,Yes,Student Visa,Local School,Service,No,2021-03-15
+22,Female,AI,3.37,Full-time,1,Arts,Indian,Tamil,Yes,Recipient,Yes,Others,Others,Service,No,2022-07-22
+23,Female,Information Technology,3.15,Full-time,3,Sports,Indonesian,English,No,Non-Recipient,No,Permanent Resident,Others,Service,No,2023-08-26
+21,Female,Business,2.79,Part-time,2,None,Indian,Others,Yes,Recipient,Yes,Others,Home Schooling,Healthcare,Yes,2022-07-08
+20,Male,Hospitality Management,2.04,Full-time,4,Arts,Singaporean,Others,No,Recipient,Yes,Others,Local School,Healthcare,Yes,2023-02-11
+24,Female,Service Training,3.05,Part-time,1,Volunteering,Indonesian,Tamil,No,Recipient,Yes,Citizen,International School,Service,Yes,2021-05-05
+22,Male,AI,2.37,Full-time,1,None,Indonesian,Others,Yes,Recipient,Yes,Student Visa,Home Schooling,Healthcare,Yes,2022-11-21
+19,Female,Machine Learning,2.64,Part-time,2,Volunteering,Indonesian,Tamil,No,Recipient,No,Permanent Resident,International School,Others,Yes,2022-11-01
+21,Male,Information Technology,3.67,Part-time,1,Sports,Singaporean,Mandarin,Yes,Non-Recipient,No,Student Visa,International School,Education,No,2022-04-02
+21,Male,Machine Learning,2.16,Full-time,4,Sports,Others,Mandarin,No,Recipient,Yes,Student Visa,International School,Healthcare,Yes,2023-10-19
+20,Male,Information Technology,2.66,Part-time,3,Arts,Indian,Tamil,Yes,Non-Recipient,No,Others,International School,Healthcare,Yes,2022-11-08
+21,Male,Business,3.7,Full-time,1,None,Malaysian,Malay,No,Non-Recipient,Yes,Student Visa,Local School,Education,Yes,2021-11-21
+21,Male,Business,3.37,Full-time,4,Sports,Indian,English,Yes,Non-Recipient,No,Citizen,International School,Education,No,2022-02-06
+22,Female,Information Technology,2.66,Part-time,3,Sports,Indonesian,English,No,Non-Recipient,No,Others,Others,Business,No,2022-01-11
+21,Male,Hospitality Management,2.32,Full-time,3,None,Others,Malay,Yes,Non-Recipient,No,Citizen,Home Schooling,Healthcare,No,2021-03-12
+21,Male,Service Training,3.66,Full-time,4,Arts,Indonesian,English,No,Recipient,No,Permanent Resident,Home Schooling,Healthcare,No,2022-12-19
+18,Female,Machine Learning,3.83,Part-time,1,Volunteering,Others,Malay,No,Non-Recipient,No,Permanent Resident,Home Schooling,Healthcare,No,2021-04-07
+18,Female,Service Training,2.78,Full-time,4,None,Others,English,No,Recipient,Yes,Others,International School,Healthcare,Yes,2022-04-04
+21,Male,Machine Learning,3.8,Full-time,3,None,Others,Mandarin,No,Non-Recipient,No,Student Visa,Others,Education,Yes,2022-12-04
+22,Female,AI,3.03,Full-time,4,None,Indian,English,Yes,Non-Recipient,Yes,Student Visa,Home Schooling,Education,Yes,2021-04-02
+23,Male,Machine Learning,3.76,Full-time,1,None,Malaysian,Mandarin,Yes,Non-Recipient,Yes,Student Visa,Others,Service,Yes,2021-07-03
+18,Female,FinTech,3.6,Full-time,4,Sports,Indian,Malay,No,Recipient,No,Citizen,Local School,Healthcare,No,2021-09-06
+23,Male,Business,2.15,Part-time,4,Arts,Malaysian,Others,No,Non-Recipient,Yes,Others,Home Schooling,Service,Yes,2022-11-13
+20,Female,Hospitality Management,2.71,Full-time,2,Sports,Others,Tamil,Yes,Recipient,Yes,Citizen,Local School,Service,No,2022-01-03
+19,Female,Information Technology,3.24,Part-time,3,None,Malaysian,English,No,Non-Recipient,No,Citizen,Home Schooling,Education,No,2022-07-07
+18,Female,FinTech,3.62,Part-time,4,None,Singaporean,Others,No,Non-Recipient,Yes,Others,Others,Business,Yes,2021-01-20
+18,Male,Machine Learning,2.31,Full-time,1,Arts,Indian,Tamil,Yes,Recipient,Yes,Others,Others,Education,Yes,2023-01-08
+18,Female,Information Technology,3.08,Full-time,4,None,Singaporean,Malay,Yes,Non-Recipient,Yes,Student Visa,Home Schooling,Others,No,2021-03-27
+22,Female,Information Technology,3.52,Part-time,3,Arts,Indian,English,No,Non-Recipient,No,Permanent Resident,Home Schooling,Business,Yes,2022-02-15
+23,Female,Hospitality Management,3.34,Full-time,4,Sports,Malaysian,Tamil,No,Recipient,No,Permanent Resident,Local School,Healthcare,Yes,2023-07-07
+23,Female,Hospitality Management,2.1,Part-time,3,None,Indonesian,Tamil,Yes,Recipient,No,Permanent Resident,International School,Others,Yes,2022-02-21
+18,Female,Business,2.85,Full-time,3,Arts,Malaysian,English,No,Non-Recipient,Yes,Citizen,International School,Business,No,2023-01-07
+19,Male,Business,2.85,Part-time,3,Volunteering,Indian,Malay,No,Non-Recipient,Yes,Others,Local School,Healthcare,Yes,2022-04-24
+19,Male,Machine Learning,3.4,Part-time,3,Arts,Singaporean,Malay,No,Recipient,Yes,Citizen,Others,Business,Yes,2021-04-06
+19,Female,Service Training,2.67,Full-time,2,Volunteering,Malaysian,English,Yes,Recipient,No,Student Visa,International School,Business,No,2023-07-24
+19,Female,Information Technology,3.94,Part-time,3,Volunteering,Malaysian,Tamil,Yes,Recipient,Yes,Others,Home Schooling,Education,Yes,2023-01-13
+19,Female,AI,3.49,Full-time,2,None,Others,Mandarin,No,Non-Recipient,Yes,Student Visa,Others,Service,Yes,2021-11-01
+24,Male,Information Technology,2.35,Part-time,1,Volunteering,Malaysian,Tamil,No,Recipient,Yes,Permanent Resident,Home Schooling,Business,Yes,2023-08-06
+21,Female,Hospitality Management,3.43,Full-time,4,Sports,Indonesian,Mandarin,Yes,Recipient,No,Citizen,Home Schooling,Service,Yes,2022-10-04
+21,Male,Service Training,2.7,Full-time,3,Sports,Indonesian,Malay,Yes,Recipient,No,Citizen,Others,Education,Yes,2022-06-06
+22,Male,Hospitality Management,3.72,Part-time,1,Arts,Indian,Tamil,No,Non-Recipient,No,Student Visa,Others,Business,No,2023-09-23
+22,Male,Business,3.22,Full-time,3,Arts,Singaporean,Others,No,Recipient,Yes,Permanent Resident,International School,Service,Yes,2023-01-23
+20,Male,AI,2.23,Full-time,4,Volunteering,Indian,Tamil,Yes,Recipient,Yes,Student Visa,Home Schooling,Service,No,2022-06-26
+18,Male,AI,2.9,Part-time,3,Arts,Indonesian,Malay,No,Recipient,No,Others,International School,Education,Yes,2023-03-27
+18,Male,Hospitality Management,2.47,Full-time,1,Volunteering,Malaysian,Others,Yes,Non-Recipient,No,Student Visa,Home Schooling,Healthcare,No,2023-11-05
+20,Male,Information Technology,2.69,Part-time,3,None,Indonesian,Tamil,No,Recipient,Yes,Others,International School,Service,No,2023-08-21
+18,Male,Hospitality Management,3.05,Part-time,4,Arts,Indonesian,Mandarin,Yes,Non-Recipient,Yes,Citizen,Home Schooling,Healthcare,Yes,2023-11-22
+19,Female,Hospitality Management,2.43,Full-time,3,None,Indonesian,English,Yes,Recipient,No,Citizen,International School,Business,Yes,2021-04-01
+20,Female,Information Technology,2.05,Full-time,2,Arts,Indian,Malay,No,Non-Recipient,Yes,Citizen,Local School,Education,No,2021-05-22
+20,Female,Machine Learning,2.57,Full-time,2,None,Malaysian,Tamil,Yes,Non-Recipient,Yes,Student Visa,Home Schooling,Education,Yes,2021-05-04
+23,Female,Hospitality Management,3.09,Part-time,1,None,Singaporean,Tamil,Yes,Non-Recipient,Yes,Student Visa,International School,Healthcare,Yes,2022-03-10
+21,Male,Service Training,3.58,Full-time,2,Sports,Singaporean,Mandarin,No,Non-Recipient,No,Others,Local School,Healthcare,Yes,2023-10-27
+18,Female,Machine Learning,2.99,Full-time,2,Volunteering,Others,English,No,Recipient,Yes,Others,Local School,Service,No,2021-09-21
+22,Female,FinTech,2.99,Full-time,4,Sports,Indian,English,Yes,Non-Recipient,Yes,Student Visa,Others,Others,Yes,2021-11-04
+22,Female,Hospitality Management,2.82,Part-time,2,Arts,Malaysian,Mandarin,No,Recipient,No,Permanent Resident,Local School,Business,No,2021-01-24
+22,Female,FinTech,2.36,Full-time,3,Arts,Singaporean,Mandarin,Yes,Recipient,Yes,Permanent Resident,International School,Education,No,2021-02-14
+21,Male,AI,3,Full-time,4,Volunteering,Malaysian,Malay,No,Non-Recipient,No,Permanent Resident,International School,Business,No,2023-08-07
+19,Female,Information Technology,2.19,Part-time,2,None,Others,Others,Yes,Recipient,No,Permanent Resident,Local School,Healthcare,No,2021-05-12
+20,Female,Hospitality Management,3.79,Part-time,3,None,Others,English,Yes,Non-Recipient,Yes,Others,Others,Education,No,2021-12-11
+21,Female,Service Training,2.01,Part-time,4,Volunteering,Indonesian,Malay,No,Recipient,Yes,Student Visa,Local School,Business,No,2021-06-16
+18,Male,Information Technology,3.01,Part-time,2,None,Indian,Malay,No,Non-Recipient,No,Permanent Resident,Local School,Service,No,2023-08-16
+20,Male,Information Technology,3.86,Part-time,2,None,Singaporean,Malay,No,Recipient,Yes,Permanent Resident,International School,Healthcare,Yes,2023-06-11
+19,Male,Hospitality Management,2.83,Part-time,4,Sports,Singaporean,Tamil,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Business,No,2021-11-05
+19,Female,AI,3.28,Full-time,3,Volunteering,Singaporean,Others,Yes,Recipient,No,Others,International School,Education,Yes,2022-05-15
+24,Female,Machine Learning,2.7,Part-time,1,Sports,Indian,Malay,Yes,Recipient,No,Student Visa,Home Schooling,Others,Yes,2022-07-14
+19,Male,Business,2.78,Full-time,2,Sports,Singaporean,Malay,No,Recipient,No,Student Visa,Home Schooling,Education,No,2022-06-27
+18,Female,Machine Learning,2.89,Part-time,3,Volunteering,Indonesian,Malay,Yes,Recipient,No,Permanent Resident,Local School,Others,No,2022-07-16
+18,Female,Hospitality Management,2.01,Part-time,3,Sports,Singaporean,Mandarin,Yes,Recipient,No,Citizen,Home Schooling,Others,Yes,2023-05-24
+24,Male,Hospitality Management,2.08,Full-time,4,Volunteering,Indian,Tamil,Yes,Recipient,No,Student Visa,Local School,Others,Yes,2022-04-09
+19,Female,Hospitality Management,3.25,Full-time,1,Volunteering,Malaysian,Tamil,Yes,Non-Recipient,No,Student Visa,Local School,Others,Yes,2022-04-21
+24,Male,Business,3.53,Full-time,4,Arts,Indian,Mandarin,No,Non-Recipient,No,Citizen,Others,Education,No,2023-05-11
+18,Male,Machine Learning,3.72,Part-time,3,None,Others,Malay,No,Non-Recipient,No,Permanent Resident,Home Schooling,Others,No,2021-04-03
+24,Female,Business,3.48,Part-time,1,None,Others,Malay,No,Non-Recipient,Yes,Permanent Resident,Others,Healthcare,Yes,2021-03-23
+20,Male,Information Technology,3.62,Part-time,1,Arts,Singaporean,Mandarin,No,Non-Recipient,Yes,Student Visa,Home Schooling,Business,No,2021-01-18
+19,Female,Information Technology,2.83,Part-time,2,None,Singaporean,English,Yes,Recipient,No,Citizen,International School,Healthcare,Yes,2023-06-13
+23,Female,Hospitality Management,2.06,Part-time,2,Arts,Indonesian,Mandarin,Yes,Non-Recipient,Yes,Others,International School,Others,No,2022-03-13
+21,Male,Service Training,3.4,Full-time,1,None,Singaporean,English,No,Recipient,Yes,Permanent Resident,Home Schooling,Business,No,2023-04-28
+20,Male,FinTech,2.91,Full-time,1,Arts,Indian,Mandarin,No,Recipient,Yes,Citizen,Others,Others,No,2023-05-07
+19,Male,AI,2.21,Part-time,2,Arts,Indian,Malay,No,Non-Recipient,No,Student Visa,International School,Business,No,2023-10-11
+24,Male,Service Training,3.12,Full-time,3,Arts,Indonesian,Tamil,Yes,Non-Recipient,Yes,Others,Others,Healthcare,Yes,2023-07-21
+20,Female,FinTech,2.9,Part-time,1,Sports,Singaporean,Tamil,Yes,Recipient,No,Permanent Resident,Home Schooling,Service,No,2023-09-06
+20,Male,FinTech,3.02,Part-time,2,Volunteering,Others,Mandarin,No,Non-Recipient,Yes,Citizen,International School,Service,Yes,2021-01-07
+21,Male,Business,2.31,Full-time,2,Volunteering,Malaysian,Malay,Yes,Non-Recipient,No,Citizen,International School,Others,No,2021-12-07
+20,Female,Machine Learning,2.89,Part-time,2,Arts,Indonesian,Others,Yes,Recipient,Yes,Others,Local School,Others,No,2023-12-22
+18,Female,Information Technology,3.37,Full-time,2,None,Indonesian,Malay,No,Non-Recipient,No,Permanent Resident,Home Schooling,Service,No,2022-05-01
+18,Male,AI,3.51,Part-time,4,Arts,Singaporean,Mandarin,No,Non-Recipient,No,Others,International School,Service,Yes,2022-09-12
+20,Female,Service Training,3.99,Full-time,3,Sports,Singaporean,Others,No,Recipient,No,Citizen,International School,Healthcare,Yes,2021-11-16
+21,Female,Hospitality Management,3.42,Full-time,4,None,Others,Tamil,Yes,Recipient,No,Citizen,Home Schooling,Healthcare,No,2023-09-06
+24,Male,AI,2.59,Part-time,2,Volunteering,Malaysian,Tamil,No,Recipient,Yes,Permanent Resident,Local School,Others,No,2022-08-06
+20,Female,AI,3.4,Part-time,2,Arts,Malaysian,Tamil,Yes,Non-Recipient,No,Permanent Resident,International School,Business,No,2021-02-21
+19,Female,Business,3.77,Part-time,3,Sports,Malaysian,English,Yes,Recipient,No,Citizen,Others,Healthcare,No,2022-03-09
+20,Male,Business,3.76,Part-time,3,Sports,Others,Others,No,Recipient,Yes,Citizen,Home Schooling,Healthcare,Yes,2023-12-08
+22,Female,AI,3.85,Part-time,1,Volunteering,Indian,Malay,Yes,Recipient,No,Citizen,International School,Healthcare,No,2023-05-28
+22,Male,FinTech,3.48,Full-time,3,Volunteering,Malaysian,Malay,No,Non-Recipient,Yes,Permanent Resident,International School,Education,No,2021-11-23
+20,Male,AI,3.53,Full-time,4,None,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Others,International School,Healthcare,No,2022-09-15
+23,Male,Machine Learning,2.04,Full-time,2,Volunteering,Malaysian,English,Yes,Non-Recipient,No,Permanent Resident,International School,Business,Yes,2023-05-17
+19,Female,Business,3.3,Full-time,1,Arts,Indian,Malay,Yes,Non-Recipient,Yes,Student Visa,Others,Others,Yes,2021-12-03
+22,Female,Business,3.72,Full-time,4,Sports,Indian,English,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Service,No,2022-11-03
+20,Female,AI,2.18,Part-time,3,Arts,Indonesian,Others,No,Recipient,Yes,Student Visa,Others,Others,No,2022-02-20
+22,Male,AI,3.18,Part-time,2,Volunteering,Others,Malay,No,Non-Recipient,Yes,Student Visa,Local School,Service,No,2021-05-01
+22,Female,Service Training,2.23,Full-time,2,Sports,Singaporean,Mandarin,Yes,Recipient,Yes,Others,Home Schooling,Education,Yes,2022-11-27
+19,Female,AI,2.92,Full-time,4,None,Malaysian,Tamil,Yes,Recipient,No,Permanent Resident,International School,Service,Yes,2023-11-03
+20,Female,Hospitality Management,3.98,Full-time,3,None,Indian,Malay,Yes,Recipient,No,Citizen,Local School,Business,Yes,2023-08-15
+20,Male,Service Training,2.97,Part-time,1,Arts,Singaporean,Malay,No,Recipient,No,Student Visa,Local School,Education,Yes,2023-04-23
+23,Female,Information Technology,3.57,Part-time,3,None,Indian,Malay,Yes,Non-Recipient,No,Citizen,Local School,Service,No,2022-02-01
+22,Male,Business,3.29,Part-time,2,None,Others,Others,Yes,Non-Recipient,Yes,Citizen,Local School,Service,No,2022-08-13
+22,Male,Information Technology,2.28,Full-time,2,Sports,Others,English,No,Non-Recipient,Yes,Others,Others,Others,Yes,2021-03-06
+20,Female,Information Technology,2.71,Full-time,2,Volunteering,Indian,Others,No,Recipient,No,Others,Others,Service,Yes,2023-05-07
+19,Male,AI,3.64,Part-time,3,Volunteering,Malaysian,English,No,Non-Recipient,No,Student Visa,Local School,Business,Yes,2023-10-03
+21,Male,AI,3.34,Full-time,4,Sports,Indonesian,Tamil,Yes,Recipient,No,Student Visa,Local School,Others,No,2023-09-12
+21,Female,AI,2.23,Part-time,1,Sports,Others,Malay,Yes,Non-Recipient,No,Student Visa,Others,Business,No,2021-08-22
+22,Female,Business,2.28,Full-time,4,Sports,Indian,Malay,No,Non-Recipient,Yes,Permanent Resident,Home Schooling,Service,Yes,2021-07-02
+20,Male,Information Technology,3.25,Full-time,4,Arts,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Citizen,Home Schooling,Healthcare,Yes,2021-04-04
+20,Female,Machine Learning,2.61,Part-time,4,Volunteering,Singaporean,Malay,No,Recipient,No,Permanent Resident,Local School,Service,No,2022-05-03
+18,Female,FinTech,3.57,Part-time,4,None,Malaysian,Tamil,Yes,Recipient,No,Others,Home Schooling,Healthcare,No,2023-03-26
+20,Female,Information Technology,3.72,Part-time,2,Arts,Others,Malay,No,Recipient,Yes,Others,Home Schooling,Education,No,2021-08-04
+20,Male,Information Technology,2.79,Part-time,2,None,Indonesian,Malay,No,Non-Recipient,Yes,Others,Others,Education,No,2022-08-12
+23,Male,Information Technology,3.27,Full-time,4,None,Malaysian,Malay,No,Recipient,No,Student Visa,Local School,Business,Yes,2021-02-02
+20,Male,FinTech,2.06,Full-time,4,None,Indonesian,Malay,Yes,Non-Recipient,Yes,Permanent Resident,International School,Business,Yes,2022-12-04
+18,Female,AI,3.05,Part-time,3,Sports,Indonesian,Others,Yes,Recipient,No,Citizen,International School,Others,No,2022-02-11
+20,Male,AI,3.17,Full-time,3,None,Indonesian,Others,No,Non-Recipient,Yes,Student Visa,Others,Others,No,2022-10-25
+21,Female,Information Technology,3.07,Full-time,4,None,Indian,Others,No,Recipient,No,Permanent Resident,Home Schooling,Healthcare,No,2021-07-01
+18,Female,Hospitality Management,2.97,Full-time,2,Arts,Indonesian,English,Yes,Non-Recipient,Yes,Student Visa,Local School,Healthcare,Yes,2021-04-11
+21,Male,Machine Learning,2.19,Part-time,2,Sports,Indian,Tamil,Yes,Recipient,Yes,Permanent Resident,International School,Business,No,2021-12-24
+20,Male,Business,2.97,Full-time,3,Sports,Indian,English,Yes,Recipient,No,Others,International School,Business,Yes,2022-02-12
+20,Female,Service Training,2.39,Full-time,4,Volunteering,Singaporean,Others,Yes,Non-Recipient,Yes,Permanent Resident,International School,Business,Yes,2022-05-07
+21,Male,Business,3.24,Part-time,4,Volunteering,Malaysian,Mandarin,No,Non-Recipient,No,Student Visa,Local School,Service,No,2022-08-23
+21,Female,Hospitality Management,3.71,Full-time,4,Volunteering,Indonesian,Malay,Yes,Recipient,No,Student Visa,Home Schooling,Others,No,2021-11-26
+20,Male,Hospitality Management,3.29,Part-time,2,Sports,Malaysian,Mandarin,Yes,Recipient,Yes,Others,Others,Education,No,2021-10-21
+20,Female,FinTech,3.65,Full-time,2,Arts,Singaporean,English,No,Non-Recipient,No,Permanent Resident,Local School,Others,No,2023-05-11
+24,Female,Information Technology,3.99,Full-time,1,None,Singaporean,Tamil,Yes,Recipient,Yes,Student Visa,International School,Education,Yes,2022-02-16
+18,Female,Service Training,2.59,Full-time,2,None,Singaporean,Tamil,No,Recipient,Yes,Others,Others,Education,No,2023-10-16
+23,Male,Business,2.75,Part-time,3,Arts,Singaporean,English,Yes,Non-Recipient,Yes,Citizen,Local School,Education,Yes,2023-03-07
+24,Female,FinTech,3.01,Full-time,3,Arts,Malaysian,Tamil,No,Non-Recipient,No,Permanent Resident,Local School,Others,No,2022-08-09
+18,Male,Information Technology,3.1,Part-time,2,Sports,Singaporean,Mandarin,No,Recipient,No,Citizen,Home Schooling,Healthcare,Yes,2021-05-21
+21,Female,Hospitality Management,3,Part-time,2,None,Indonesian,Tamil,No,Recipient,No,Others,Home Schooling,Service,No,2021-08-26
+24,Female,Business,2.03,Part-time,4,Arts,Singaporean,Others,Yes,Recipient,Yes,Others,International School,Education,No,2021-12-09
+19,Female,Information Technology,3.27,Full-time,1,Sports,Indian,Tamil,No,Non-Recipient,No,Citizen,Others,Business,Yes,2023-02-22
+23,Female,Service Training,2.22,Full-time,2,Arts,Indonesian,Others,No,Recipient,No,Others,Local School,Others,Yes,2022-08-08
+24,Female,FinTech,3.82,Part-time,1,Volunteering,Others,English,Yes,Recipient,Yes,Permanent Resident,Others,Education,Yes,2023-05-15
+22,Female,Machine Learning,2.67,Part-time,1,None,Indonesian,Malay,Yes,Non-Recipient,No,Citizen,International School,Service,No,2022-02-01
+24,Male,AI,3.67,Full-time,1,Sports,Indonesian,Others,Yes,Non-Recipient,Yes,Permanent Resident,Local School,Others,Yes,2021-06-01
+24,Male,Business,2.2,Full-time,3,Sports,Malaysian,Malay,Yes,Recipient,Yes,Others,International School,Education,Yes,2023-08-12
+22,Male,Service Training,3.1,Full-time,3,Sports,Others,Others,No,Recipient,Yes,Permanent Resident,International School,Business,No,2023-10-19
+19,Female,Business,3.2,Part-time,4,Sports,Indonesian,Tamil,Yes,Non-Recipient,Yes,Others,International School,Business,No,2021-05-04
+21,Female,Information Technology,3.51,Full-time,3,Volunteering,Singaporean,Malay,Yes,Non-Recipient,Yes,Others,International School,Others,Yes,2021-10-09
+23,Male,Business,3.41,Full-time,1,Volunteering,Indian,Malay,No,Non-Recipient,No,Citizen,International School,Service,Yes,2022-09-12
+19,Male,Information Technology,2.5,Full-time,1,Sports,Malaysian,Tamil,Yes,Recipient,No,Others,Local School,Others,Yes,2022-08-12
+19,Female,FinTech,3.08,Part-time,3,Volunteering,Singaporean,Tamil,Yes,Non-Recipient,Yes,Others,Others,Education,No,2023-07-01
+18,Male,Machine Learning,3.39,Part-time,3,None,Indonesian,Mandarin,Yes,Recipient,Yes,Citizen,International School,Others,Yes,2023-06-20
+24,Female,FinTech,2.37,Full-time,2,Sports,Indonesian,Tamil,No,Recipient,Yes,Others,International School,Service,Yes,2021-11-04
+21,Female,Business,3.57,Full-time,1,Sports,Singaporean,Tamil,Yes,Recipient,Yes,Student Visa,International School,Healthcare,Yes,2023-10-07
+24,Female,Information Technology,3.7,Full-time,1,Arts,Singaporean,English,No,Non-Recipient,Yes,Others,Others,Others,No,2021-12-21
+23,Female,Hospitality Management,3.87,Full-time,1,None,Malaysian,Others,Yes,Non-Recipient,No,Citizen,Others,Service,No,2023-01-02
+22,Female,AI,2.44,Full-time,1,Arts,Indonesian,Malay,No,Recipient,Yes,Others,Home Schooling,Business,No,2023-12-16
+21,Female,Machine Learning,2.82,Part-time,3,None,Indonesian,Malay,Yes,Recipient,No,Others,Local School,Others,Yes,2021-07-11
+23,Female,AI,3.88,Full-time,3,Arts,Singaporean,Mandarin,No,Non-Recipient,No,Permanent Resident,Local School,Service,Yes,2021-09-20
+18,Female,Machine Learning,2.36,Full-time,1,Sports,Indonesian,Others,No,Recipient,Yes,Others,Home Schooling,Others,No,2022-04-27
+24,Female,FinTech,3.66,Part-time,3,Arts,Malaysian,Others,No,Non-Recipient,Yes,Student Visa,Local School,Education,Yes,2022-10-02
+18,Male,Service Training,2.97,Part-time,3,None,Indonesian,Mandarin,No,Non-Recipient,Yes,Permanent Resident,Home Schooling,Education,Yes,2022-11-02
+23,Female,AI,2.4,Full-time,3,Sports,Singaporean,Malay,Yes,Non-Recipient,No,Others,Home Schooling,Education,No,2021-03-10
+23,Male,Service Training,3.6,Part-time,2,Volunteering,Indonesian,Tamil,Yes,Recipient,Yes,Permanent Resident,Others,Business,No,2023-03-10
+20,Male,Service Training,2.31,Part-time,2,Sports,Indian,Others,No,Recipient,Yes,Permanent Resident,Local School,Service,No,2021-03-12
+23,Female,FinTech,3.38,Part-time,2,Arts,Singaporean,Tamil,Yes,Recipient,No,Permanent Resident,Local School,Education,Yes,2021-10-13
+20,Male,Business,2.76,Full-time,4,Volunteering,Malaysian,English,Yes,Non-Recipient,No,Student Visa,Home Schooling,Healthcare,No,2021-06-09
+19,Female,Hospitality Management,3.05,Full-time,2,Volunteering,Singaporean,Tamil,Yes,Recipient,No,Student Visa,Home Schooling,Education,Yes,2023-03-03
+23,Female,FinTech,3.35,Full-time,3,Sports,Others,Malay,Yes,Recipient,No,Citizen,Others,Service,No,2022-10-05
+21,Female,Hospitality Management,3.02,Part-time,2,Volunteering,Indonesian,Others,Yes,Recipient,Yes,Student Visa,Home Schooling,Business,Yes,2023-05-21
+19,Female,Information Technology,2.51,Part-time,1,Arts,Indonesian,Mandarin,No,Recipient,No,Citizen,International School,Education,No,2022-04-15
+23,Male,Machine Learning,2.36,Part-time,4,Volunteering,Singaporean,English,No,Recipient,No,Others,Local School,Education,Yes,2021-01-15
+24,Female,Hospitality Management,3.18,Part-time,3,Volunteering,Singaporean,Malay,Yes,Non-Recipient,Yes,Student Visa,Others,Education,Yes,2022-09-24
+24,Male,Hospitality Management,2.32,Part-time,3,None,Malaysian,Malay,Yes,Recipient,No,Citizen,Home Schooling,Education,Yes,2021-11-26
+19,Female,Service Training,3.09,Full-time,2,Sports,Singaporean,Others,No,Non-Recipient,Yes,Permanent Resident,Others,Education,No,2022-03-11
+19,Female,Information Technology,3.06,Part-time,2,None,Others,English,No,Recipient,No,Student Visa,Local School,Healthcare,No,2022-01-27
+24,Male,Machine Learning,3.35,Part-time,1,Sports,Others,English,Yes,Recipient,Yes,Others,Home Schooling,Healthcare,Yes,2021-09-05
+23,Female,Information Technology,3.87,Part-time,4,Arts,Others,Mandarin,No,Non-Recipient,No,Citizen,Others,Service,No,2021-12-08
+24,Female,Service Training,3.44,Part-time,3,None,Singaporean,Malay,Yes,Recipient,Yes,Permanent Resident,Local School,Healthcare,No,2022-01-02
+20,Female,Business,3.82,Part-time,2,Arts,Singaporean,English,Yes,Recipient,Yes,Others,International School,Healthcare,Yes,2023-09-07
+19,Male,Machine Learning,2.07,Full-time,1,Arts,Indonesian,Mandarin,Yes,Non-Recipient,No,Others,Local School,Others,Yes,2023-11-15
+24,Male,Machine Learning,3.05,Full-time,4,Volunteering,Singaporean,Others,No,Recipient,No,Others,International School,Healthcare,No,2021-06-21
+19,Male,Information Technology,3.49,Part-time,2,Sports,Others,Mandarin,No,Non-Recipient,Yes,Others,Others,Education,No,2023-07-19
+21,Female,Hospitality Management,3.21,Full-time,1,Arts,Indian,Others,Yes,Non-Recipient,Yes,Student Visa,Home Schooling,Business,Yes,2021-04-28
+18,Female,FinTech,3.34,Full-time,3,None,Indonesian,English,No,Recipient,Yes,Student Visa,Local School,Business,No,2022-12-26
+21,Female,Service Training,2.36,Part-time,2,None,Indonesian,Tamil,Yes,Recipient,Yes,Student Visa,Local School,Healthcare,Yes,2021-01-10
+18,Male,FinTech,2.58,Part-time,3,Volunteering,Malaysian,Mandarin,No,Recipient,No,Others,Home Schooling,Others,No,2021-02-09
+19,Male,Information Technology,2.14,Part-time,1,None,Indonesian,Mandarin,Yes,Recipient,No,Permanent Resident,Home Schooling,Business,Yes,2021-02-11
+21,Female,AI,3.16,Part-time,2,Sports,Singaporean,Others,Yes,Recipient,Yes,Permanent Resident,Others,Healthcare,Yes,2021-12-22
+23,Female,Information Technology,2.42,Part-time,4,None,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Student Visa,Others,Healthcare,No,2022-11-24
+22,Male,Information Technology,2.85,Full-time,3,Sports,Others,Others,No,Recipient,No,Permanent Resident,Others,Service,No,2021-06-05
+19,Male,Information Technology,3.44,Part-time,1,Sports,Singaporean,Malay,Yes,Recipient,No,Permanent Resident,International School,Healthcare,No,2023-07-06
+24,Male,Business,3.95,Full-time,1,None,Indonesian,Tamil,No,Non-Recipient,Yes,Others,Home Schooling,Education,Yes,2022-12-18
+21,Female,Business,2.54,Full-time,1,Sports,Indonesian,Mandarin,Yes,Non-Recipient,Yes,Others,International School,Healthcare,No,2021-03-23
+23,Female,Machine Learning,2.04,Part-time,4,Arts,Singaporean,Tamil,No,Non-Recipient,No,Citizen,International School,Healthcare,Yes,2022-09-03
+24,Male,FinTech,2.99,Full-time,4,Sports,Singaporean,Mandarin,No,Non-Recipient,Yes,Citizen,International School,Education,No,2023-04-19
+21,Male,Business,3.69,Part-time,1,None,Others,Malay,Yes,Recipient,Yes,Others,Home Schooling,Service,Yes,2022-02-05
+20,Male,Hospitality Management,2.45,Part-time,4,Arts,Singaporean,Tamil,No,Non-Recipient,Yes,Permanent Resident,Others,Service,Yes,2023-03-17
+20,Female,Business,3.71,Part-time,1,Sports,Singaporean,Tamil,Yes,Non-Recipient,Yes,Others,International School,Business,No,2023-03-16
+20,Male,Business,2.98,Full-time,4,None,Indonesian,Others,No,Recipient,Yes,Student Visa,International School,Education,Yes,2022-12-05
+18,Male,Information Technology,3.51,Full-time,4,Volunteering,Indonesian,Others,Yes,Recipient,No,Student Visa,Home Schooling,Healthcare,Yes,2023-04-19
+21,Male,Information Technology,2.68,Part-time,3,Arts,Malaysian,Tamil,No,Non-Recipient,No,Student Visa,Home Schooling,Service,No,2022-09-14
+20,Female,Hospitality Management,3.23,Part-time,1,Volunteering,Singaporean,Tamil,No,Non-Recipient,No,Others,International School,Education,Yes,2021-12-09
+20,Male,AI,3.06,Full-time,2,None,Singaporean,English,No,Non-Recipient,Yes,Permanent Resident,International School,Business,Yes,2021-03-04
+21,Male,Business,3.53,Part-time,1,Volunteering,Malaysian,Others,No,Recipient,No,Others,Local School,Healthcare,Yes,2023-10-08
+24,Female,Business,2.05,Full-time,4,Sports,Others,Others,Yes,Non-Recipient,No,Citizen,Local School,Healthcare,No,2023-03-22
+20,Female,Hospitality Management,3.74,Part-time,2,Arts,Indian,Others,Yes,Non-Recipient,No,Student Visa,Local School,Healthcare,No,2023-12-09
+22,Male,AI,2.99,Full-time,2,None,Indonesian,Tamil,Yes,Recipient,No,Permanent Resident,International School,Healthcare,No,2021-09-04
+18,Male,FinTech,2.68,Part-time,2,Sports,Others,English,No,Recipient,No,Permanent Resident,Others,Healthcare,Yes,2021-02-15
+21,Male,FinTech,2.75,Full-time,3,Arts,Indian,Malay,No,Recipient,Yes,Citizen,Home Schooling,Healthcare,Yes,2022-01-27
+21,Female,Service Training,3.56,Full-time,4,Arts,Malaysian,Malay,No,Recipient,Yes,Student Visa,Home Schooling,Business,Yes,2022-11-15
+21,Female,FinTech,3.23,Part-time,1,Arts,Indonesian,Tamil,No,Non-Recipient,Yes,Citizen,Home Schooling,Healthcare,No,2022-07-17
+21,Male,Machine Learning,2.3,Part-time,2,Volunteering,Others,Malay,No,Non-Recipient,Yes,Citizen,Local School,Education,Yes,2023-10-02
+21,Female,Machine Learning,2.01,Full-time,1,Sports,Singaporean,Mandarin,Yes,Non-Recipient,No,Others,Home Schooling,Healthcare,No,2023-08-11
+19,Male,Machine Learning,3.83,Part-time,4,Sports,Indian,Mandarin,No,Recipient,No,Permanent Resident,International School,Others,No,2023-04-25
+21,Male,Service Training,2.61,Full-time,3,Sports,Singaporean,Malay,Yes,Non-Recipient,Yes,Others,International School,Others,No,2021-01-25
+20,Female,Information Technology,3.72,Full-time,3,None,Singaporean,Mandarin,No,Non-Recipient,No,Others,International School,Healthcare,No,2023-09-03
+18,Female,Information Technology,3.8,Part-time,1,Arts,Indian,Others,Yes,Non-Recipient,Yes,Permanent Resident,Others,Service,Yes,2021-07-19
+21,Female,FinTech,3.07,Full-time,3,None,Indonesian,Others,No,Recipient,No,Student Visa,International School,Healthcare,Yes,2021-01-13
+19,Male,Service Training,2.73,Part-time,2,Volunteering,Indian,Mandarin,No,Non-Recipient,No,Student Visa,Home Schooling,Service,No,2022-12-22
+22,Male,AI,2.53,Full-time,4,Volunteering,Indian,Malay,No,Recipient,No,Citizen,Home Schooling,Business,No,2021-05-02
+22,Female,FinTech,2.7,Full-time,3,None,Others,Tamil,Yes,Non-Recipient,No,Citizen,Others,Education,Yes,2021-02-03
+23,Male,Machine Learning,2.05,Part-time,3,None,Malaysian,Malay,No,Recipient,No,Student Visa,Home Schooling,Others,No,2023-05-18
+24,Male,Service Training,2.95,Part-time,2,Sports,Singaporean,Mandarin,No,Non-Recipient,Yes,Citizen,Home Schooling,Business,Yes,2023-01-16
+19,Female,AI,2.6,Full-time,3,None,Singaporean,Malay,Yes,Non-Recipient,No,Student Visa,Home Schooling,Service,Yes,2022-12-02
+22,Female,AI,2.19,Part-time,4,Sports,Indian,Tamil,No,Recipient,No,Citizen,Local School,Business,Yes,2023-05-13
+22,Male,Service Training,2.22,Full-time,3,Sports,Indonesian,Mandarin,No,Recipient,Yes,Student Visa,Local School,Others,Yes,2023-01-22
+21,Female,Service Training,3.53,Part-time,4,Volunteering,Indonesian,Mandarin,No,Recipient,Yes,Others,Others,Healthcare,No,2021-02-28
+21,Female,Machine Learning,2.03,Full-time,3,None,Singaporean,Mandarin,Yes,Recipient,Yes,Citizen,International School,Education,Yes,2021-01-14
+19,Male,Information Technology,3.27,Part-time,4,Sports,Singaporean,Malay,No,Recipient,Yes,Student Visa,Home Schooling,Education,Yes,2022-11-14
+21,Male,Business,2.74,Part-time,2,Arts,Indonesian,Malay,No,Non-Recipient,Yes,Permanent Resident,Others,Healthcare,No,2023-03-10
+23,Female,Hospitality Management,2.96,Full-time,3,Arts,Malaysian,Mandarin,No,Non-Recipient,Yes,Citizen,Others,Others,Yes,2022-03-16
+19,Female,Information Technology,2.7,Full-time,2,Arts,Indonesian,Tamil,Yes,Non-Recipient,No,Student Visa,Local School,Service,No,2022-07-08
+18,Female,Information Technology,2.17,Full-time,1,Arts,Others,Mandarin,No,Non-Recipient,Yes,Others,Local School,Healthcare,No,2023-11-25
+21,Male,Service Training,2.97,Part-time,1,None,Singaporean,Tamil,Yes,Recipient,No,Permanent Resident,International School,Education,No,2023-02-09
+18,Male,Business,3.95,Part-time,2,Volunteering,Indonesian,Tamil,No,Recipient,Yes,Citizen,Home Schooling,Education,No,2022-03-27
+23,Female,AI,2.51,Full-time,1,None,Indian,Tamil,Yes,Non-Recipient,Yes,Permanent Resident,Local School,Business,Yes,2022-03-15
+24,Male,Machine Learning,3.09,Full-time,2,Volunteering,Indian,Mandarin,No,Non-Recipient,Yes,Citizen,International School,Service,No,2023-03-19
+22,Female,FinTech,2.31,Part-time,2,Arts,Singaporean,English,No,Recipient,Yes,Permanent Resident,Home Schooling,Service,Yes,2021-05-07
+19,Female,Machine Learning,3.12,Full-time,3,Sports,Others,Others,Yes,Recipient,Yes,Citizen,Local School,Healthcare,No,2022-01-28
+23,Female,Service Training,2.7,Part-time,4,Sports,Malaysian,Malay,No,Non-Recipient,Yes,Permanent Resident,Others,Healthcare,Yes,2023-03-21
+18,Male,FinTech,3.88,Part-time,3,None,Indonesian,Mandarin,No,Non-Recipient,Yes,Others,International School,Healthcare,No,2022-05-19
+18,Male,Machine Learning,2.01,Part-time,1,None,Malaysian,English,Yes,Non-Recipient,Yes,Others,Local School,Service,No,2021-11-25
+21,Male,Service Training,2.06,Part-time,2,Arts,Singaporean,Malay,No,Recipient,No,Citizen,Others,Others,Yes,2022-05-05
+20,Female,Hospitality Management,3.2,Part-time,2,Arts,Malaysian,Malay,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Service,No,2022-12-06
+21,Male,AI,2.16,Full-time,3,Arts,Indonesian,Others,Yes,Recipient,Yes,Others,Local School,Healthcare,Yes,2023-09-24
+22,Female,Service Training,2.86,Part-time,4,None,Indonesian,Others,No,Non-Recipient,Yes,Others,Home Schooling,Education,No,2023-05-22
+23,Male,Service Training,2.07,Full-time,2,Volunteering,Indian,Malay,No,Non-Recipient,No,Citizen,Others,Others,Yes,2022-05-12
+22,Female,Business,2.05,Full-time,3,Volunteering,Singaporean,Malay,Yes,Recipient,Yes,Student Visa,Others,Business,No,2021-03-24
+18,Female,Hospitality Management,2.47,Full-time,1,None,Malaysian,Others,Yes,Recipient,Yes,Others,Others,Others,Yes,2022-12-07
+19,Female,Service Training,2.82,Full-time,3,Volunteering,Malaysian,English,No,Non-Recipient,No,Citizen,International School,Service,Yes,2022-01-27
+20,Male,Information Technology,3.79,Full-time,1,Sports,Indonesian,English,Yes,Non-Recipient,No,Permanent Resident,Local School,Healthcare,No,2022-06-23
+24,Male,Business,3.61,Part-time,3,None,Others,Tamil,No,Recipient,No,Citizen,Home Schooling,Business,No,2023-04-27
+18,Male,Hospitality Management,2.09,Full-time,2,Arts,Malaysian,Others,Yes,Non-Recipient,Yes,Permanent Resident,Others,Education,Yes,2023-08-09
+20,Female,Machine Learning,3.25,Part-time,4,Arts,Singaporean,Mandarin,No,Recipient,No,Student Visa,Local School,Others,No,2022-06-25
+21,Female,FinTech,2.29,Part-time,3,Volunteering,Singaporean,Tamil,Yes,Non-Recipient,Yes,Citizen,International School,Others,Yes,2023-12-17
+18,Female,AI,3.54,Part-time,1,Volunteering,Malaysian,Mandarin,No,Non-Recipient,Yes,Citizen,Local School,Healthcare,No,2021-01-12
+23,Male,Service Training,2.7,Full-time,2,None,Others,Mandarin,No,Non-Recipient,No,Others,International School,Education,Yes,2023-12-08
+23,Male,Business,2.24,Full-time,4,Arts,Malaysian,Mandarin,Yes,Non-Recipient,Yes,Others,International School,Business,No,2023-04-14
+18,Female,Machine Learning,3.57,Part-time,2,Arts,Others,Malay,No,Recipient,No,Others,Others,Business,No,2022-07-06
+20,Female,Business,3.09,Full-time,3,Sports,Indonesian,English,Yes,Non-Recipient,No,Others,International School,Others,Yes,2023-08-06
+19,Male,Information Technology,2.3,Full-time,2,None,Singaporean,Mandarin,No,Non-Recipient,No,Citizen,Local School,Healthcare,No,2021-02-05
+20,Male,FinTech,2.89,Full-time,4,Volunteering,Malaysian,Mandarin,Yes,Recipient,No,Permanent Resident,International School,Education,No,2023-08-17
+21,Male,Business,2.51,Part-time,2,None,Indian,Tamil,Yes,Non-Recipient,Yes,Others,Home Schooling,Education,Yes,2023-01-12
+20,Female,FinTech,3.02,Part-time,3,None,Malaysian,Tamil,Yes,Non-Recipient,No,Student Visa,Local School,Business,No,2023-06-09
+19,Female,FinTech,3.34,Full-time,4,Arts,Singaporean,Mandarin,No,Recipient,Yes,Citizen,Home Schooling,Healthcare,No,2022-12-19
+20,Male,Hospitality Management,3.04,Part-time,3,Arts,Singaporean,Tamil,Yes,Non-Recipient,Yes,Permanent Resident,Local School,Others,No,2023-08-22
+23,Female,Hospitality Management,3.36,Part-time,1,Sports,Malaysian,Malay,No,Recipient,Yes,Permanent Resident,Local School,Business,No,2023-11-05
+21,Male,AI,2.63,Full-time,1,None,Singaporean,Tamil,No,Non-Recipient,Yes,Others,Local School,Healthcare,Yes,2021-11-21
+19,Male,Hospitality Management,3.94,Full-time,2,Sports,Malaysian,Tamil,Yes,Recipient,No,Others,Local School,Others,Yes,2023-01-19
+19,Male,FinTech,2.61,Part-time,2,Arts,Singaporean,English,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Business,Yes,2023-08-20
+24,Female,AI,2.06,Part-time,4,Volunteering,Malaysian,Mandarin,Yes,Non-Recipient,No,Student Visa,Local School,Healthcare,No,2021-09-04
+23,Male,Information Technology,2.6,Full-time,3,None,Indian,Others,Yes,Recipient,No,Citizen,Others,Service,Yes,2023-07-02
+20,Female,Machine Learning,2.27,Part-time,1,None,Singaporean,English,No,Recipient,No,Citizen,Local School,Business,No,2023-04-09
+19,Male,Hospitality Management,2.35,Part-time,2,None,Singaporean,Mandarin,Yes,Recipient,No,Others,Others,Others,Yes,2021-06-08
+19,Female,Service Training,2.32,Part-time,4,None,Others,Malay,No,Non-Recipient,No,Permanent Resident,Home Schooling,Service,Yes,2021-01-24
+19,Female,Machine Learning,3.02,Part-time,2,Arts,Singaporean,Malay,Yes,Recipient,Yes,Citizen,Local School,Healthcare,Yes,2021-05-28
+21,Male,Information Technology,3.48,Part-time,4,Arts,Singaporean,English,No,Recipient,No,Others,Local School,Education,No,2023-06-15
+22,Female,Information Technology,3.06,Part-time,4,Sports,Indonesian,Malay,No,Recipient,Yes,Others,Others,Education,No,2022-11-25
+18,Female,Business,3.76,Part-time,3,Arts,Indonesian,Malay,Yes,Non-Recipient,No,Citizen,International School,Healthcare,Yes,2022-08-23
+22,Male,AI,2.2,Full-time,2,Sports,Singaporean,Others,Yes,Recipient,Yes,Citizen,Local School,Education,Yes,2022-10-20
+20,Female,AI,2.4,Part-time,3,Sports,Singaporean,English,Yes,Recipient,Yes,Citizen,Others,Healthcare,No,2022-02-21
+23,Female,AI,3.4,Full-time,4,Sports,Singaporean,Malay,No,Recipient,No,Permanent Resident,International School,Others,No,2023-02-28
+24,Female,FinTech,3.66,Part-time,1,Sports,Singaporean,English,No,Non-Recipient,No,Others,Home Schooling,Business,No,2021-03-16
+23,Male,Machine Learning,3.19,Part-time,3,Arts,Indian,Mandarin,No,Recipient,Yes,Others,Local School,Others,No,2022-06-10
+21,Male,Information Technology,2.23,Part-time,3,Arts,Singaporean,English,Yes,Non-Recipient,No,Others,International School,Education,Yes,2022-08-17
+21,Female,Machine Learning,2.98,Part-time,2,Arts,Indian,Tamil,Yes,Non-Recipient,Yes,Permanent Resident,Others,Others,Yes,2022-05-28
+22,Female,Service Training,2.43,Full-time,3,None,Indonesian,English,Yes,Non-Recipient,No,Permanent Resident,International School,Others,No,2021-11-28
+22,Female,AI,2.25,Full-time,4,Sports,Malaysian,Mandarin,No,Recipient,Yes,Student Visa,Local School,Service,Yes,2021-06-15
+20,Male,Service Training,2.36,Full-time,2,Arts,Malaysian,Malay,No,Recipient,Yes,Student Visa,Home Schooling,Others,Yes,2021-04-17
+23,Female,Service Training,2.89,Full-time,2,None,Others,Malay,Yes,Recipient,Yes,Permanent Resident,International School,Education,Yes,2021-07-10
+21,Female,Business,3.16,Full-time,1,Volunteering,Indian,Malay,No,Non-Recipient,Yes,Others,International School,Others,Yes,2022-07-28
+19,Female,Business,3.03,Part-time,2,Sports,Malaysian,Mandarin,No,Non-Recipient,No,Student Visa,International School,Business,Yes,2023-02-12
+19,Male,FinTech,2.36,Full-time,2,Volunteering,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Citizen,International School,Business,Yes,2021-02-02
+21,Male,Business,2.03,Full-time,3,None,Singaporean,Malay,Yes,Recipient,No,Citizen,Home Schooling,Service,No,2022-02-23
+21,Male,Service Training,2.53,Part-time,1,None,Singaporean,Malay,Yes,Non-Recipient,Yes,Student Visa,Home Schooling,Healthcare,No,2021-10-17
+19,Male,Hospitality Management,3.92,Full-time,2,Volunteering,Others,Malay,Yes,Non-Recipient,No,Citizen,Home Schooling,Service,Yes,2021-01-12
+19,Female,AI,2.58,Full-time,1,Arts,Singaporean,Mandarin,No,Recipient,No,Others,Local School,Healthcare,Yes,2022-11-01
+24,Female,FinTech,2.9,Full-time,4,Sports,Indian,Others,No,Non-Recipient,Yes,Permanent Resident,International School,Service,Yes,2023-03-25
+20,Female,Machine Learning,2.81,Part-time,2,Sports,Indonesian,Tamil,No,Non-Recipient,No,Citizen,Local School,Others,Yes,2021-09-22
+23,Male,Hospitality Management,2.04,Part-time,1,Arts,Others,Mandarin,No,Non-Recipient,Yes,Citizen,Others,Education,No,2021-10-08
+21,Female,AI,2.44,Full-time,4,None,Others,Tamil,Yes,Recipient,Yes,Citizen,Home Schooling,Others,No,2022-07-21
+24,Female,AI,3.92,Full-time,1,Arts,Indonesian,Mandarin,No,Recipient,Yes,Student Visa,Others,Healthcare,Yes,2021-03-15
+23,Male,Service Training,2.95,Full-time,3,Volunteering,Indonesian,Others,Yes,Recipient,No,Permanent Resident,Local School,Others,Yes,2023-03-28
+22,Male,Machine Learning,3.85,Part-time,4,Sports,Singaporean,Mandarin,Yes,Recipient,Yes,Student Visa,Others,Others,No,2023-02-25
+20,Female,Information Technology,3.65,Part-time,1,Sports,Malaysian,Mandarin,Yes,Non-Recipient,Yes,Permanent Resident,Others,Business,Yes,2022-10-17
+19,Female,Hospitality Management,3.09,Full-time,3,None,Indian,Malay,Yes,Non-Recipient,No,Citizen,Local School,Business,No,2023-01-16
+20,Female,Hospitality Management,2.03,Part-time,2,Arts,Others,Malay,Yes,Non-Recipient,Yes,Citizen,Home Schooling,Business,No,2023-02-10
+19,Female,Business,3.13,Full-time,1,Arts,Singaporean,Others,Yes,Non-Recipient,Yes,Others,Others,Service,Yes,2021-12-17
+22,Female,AI,2.94,Part-time,3,Arts,Singaporean,English,Yes,Non-Recipient,No,Student Visa,International School,Service,Yes,2021-11-02
+24,Female,FinTech,2.81,Part-time,2,None,Malaysian,Malay,Yes,Non-Recipient,Yes,Permanent Resident,Others,Business,No,2023-02-12
+24,Male,AI,3.11,Full-time,3,Arts,Malaysian,English,No,Non-Recipient,No,Citizen,Others,Service,No,2021-07-10
+19,Female,AI,2.35,Full-time,1,Volunteering,Singaporean,Mandarin,Yes,Recipient,Yes,Student Visa,Others,Business,No,2022-04-18
+22,Male,Service Training,3.49,Full-time,4,Sports,Singaporean,English,Yes,Recipient,No,Student Visa,Local School,Others,No,2023-05-06
+23,Female,AI,3.48,Part-time,1,Arts,Malaysian,Mandarin,Yes,Recipient,Yes,Citizen,Local School,Business,Yes,2023-09-25
+24,Male,Business,3.55,Full-time,3,Arts,Malaysian,English,No,Non-Recipient,No,Citizen,International School,Others,Yes,2021-06-28
+20,Female,FinTech,3.07,Part-time,1,Sports,Singaporean,Mandarin,No,Non-Recipient,Yes,Student Visa,Local School,Healthcare,Yes,2021-08-22
+18,Female,Information Technology,3.25,Full-time,3,Arts,Singaporean,Malay,Yes,Recipient,Yes,Permanent Resident,Others,Healthcare,No,2023-10-11
+24,Female,Information Technology,3.63,Part-time,4,Arts,Singaporean,Malay,No,Recipient,No,Student Visa,Home Schooling,Healthcare,Yes,2022-02-27
+21,Female,Business,3,Full-time,4,None,Indonesian,Others,Yes,Non-Recipient,No,Others,Local School,Others,No,2021-09-06
+21,Female,Machine Learning,2.31,Full-time,3,Sports,Others,English,No,Non-Recipient,Yes,Others,Home Schooling,Business,No,2023-08-07
+23,Female,AI,3.09,Part-time,1,Arts,Malaysian,Others,No,Non-Recipient,Yes,Citizen,Home Schooling,Service,No,2021-12-18
+19,Female,AI,2.56,Part-time,4,Sports,Singaporean,Malay,No,Recipient,No,Permanent Resident,International School,Service,No,2022-04-02
+22,Female,Service Training,2.43,Full-time,3,Volunteering,Malaysian,Mandarin,No,Non-Recipient,No,Student Visa,Local School,Others,No,2021-04-20
+18,Male,Hospitality Management,3.89,Part-time,4,Sports,Indonesian,English,Yes,Non-Recipient,Yes,Student Visa,Local School,Education,No,2022-03-05
+19,Male,Service Training,2.75,Part-time,2,Sports,Singaporean,Malay,Yes,Non-Recipient,Yes,Student Visa,International School,Healthcare,No,2023-05-05
+24,Male,Machine Learning,2.11,Part-time,3,Volunteering,Indian,Others,No,Recipient,No,Student Visa,Local School,Education,Yes,2023-04-27
+21,Female,FinTech,2.95,Part-time,4,Arts,Indian,Tamil,No,Recipient,Yes,Citizen,Home Schooling,Healthcare,No,2022-01-20
+21,Female,AI,3.97,Part-time,3,None,Malaysian,Others,Yes,Non-Recipient,Yes,Student Visa,Others,Healthcare,No,2021-08-12
+22,Female,FinTech,2.99,Part-time,4,Sports,Indian,Malay,Yes,Non-Recipient,Yes,Others,Home Schooling,Business,No,2023-07-18
+20,Male,FinTech,2.32,Part-time,4,Volunteering,Indonesian,Others,No,Recipient,No,Permanent Resident,Local School,Healthcare,No,2023-07-08
+21,Female,Hospitality Management,3.15,Full-time,3,Volunteering,Indian,Tamil,Yes,Recipient,Yes,Citizen,International School,Others,Yes,2021-04-16
+21,Male,AI,2.59,Full-time,3,Volunteering,Others,English,Yes,Non-Recipient,Yes,Permanent Resident,International School,Others,Yes,2022-09-24
+22,Female,AI,2.43,Full-time,2,Arts,Indonesian,English,Yes,Non-Recipient,Yes,Others,Home Schooling,Education,No,2021-05-26
+19,Female,Business,3.83,Part-time,1,Arts,Singaporean,Others,No,Recipient,Yes,Others,Home Schooling,Healthcare,No,2023-01-27
+21,Female,Service Training,3.82,Part-time,2,Volunteering,Indian,Mandarin,Yes,Recipient,Yes,Citizen,Others,Business,Yes,2023-05-24
+24,Female,Information Technology,3.51,Full-time,3,Volunteering,Malaysian,Tamil,Yes,Non-Recipient,No,Others,Others,Healthcare,Yes,2023-01-09
+23,Female,Business,3.88,Part-time,3,Sports,Others,Malay,No,Non-Recipient,No,Student Visa,Others,Others,Yes,2021-03-18
+22,Male,Service Training,2.7,Full-time,1,Sports,Singaporean,Mandarin,No,Non-Recipient,Yes,Others,Local School,Healthcare,Yes,2022-04-15
+19,Female,Information Technology,2.99,Part-time,3,Sports,Indonesian,Mandarin,No,Non-Recipient,No,Permanent Resident,Others,Education,No,2022-02-05
+18,Female,Machine Learning,3.46,Full-time,3,None,Others,English,No,Non-Recipient,No,Permanent Resident,International School,Business,No,2021-11-01
+19,Female,AI,2.84,Part-time,4,Arts,Singaporean,Tamil,Yes,Recipient,Yes,Citizen,Local School,Business,No,2021-08-16
+22,Male,AI,3.02,Full-time,2,Volunteering,Singaporean,Tamil,No,Recipient,No,Citizen,Others,Healthcare,No,2021-08-28
+23,Female,Business,3.71,Full-time,4,None,Singaporean,Others,No,Recipient,Yes,Citizen,Local School,Service,No,2023-10-08
+18,Female,Service Training,3.92,Part-time,1,Volunteering,Malaysian,Malay,Yes,Non-Recipient,Yes,Student Visa,Others,Education,No,2022-09-19
+24,Male,Business,3.2,Part-time,3,Volunteering,Malaysian,Others,No,Non-Recipient,Yes,Permanent Resident,International School,Education,Yes,2022-10-02
+23,Male,Machine Learning,3.19,Part-time,3,None,Indonesian,Malay,Yes,Recipient,No,Citizen,Others,Others,No,2022-11-04
+24,Female,Machine Learning,2.43,Full-time,3,Sports,Singaporean,Mandarin,Yes,Non-Recipient,No,Others,Home Schooling,Business,No,2022-10-21
+20,Male,Information Technology,3.21,Full-time,3,None,Indian,English,No,Recipient,Yes,Others,Others,Healthcare,Yes,2022-08-17
+19,Female,Information Technology,2.83,Part-time,2,None,Malaysian,Malay,Yes,Non-Recipient,Yes,Others,Local School,Others,No,2023-02-10
+23,Female,Service Training,3.6,Part-time,4,Arts,Malaysian,Others,Yes,Recipient,No,Permanent Resident,Home Schooling,Others,Yes,2022-04-07
+20,Female,Business,3.87,Full-time,1,Volunteering,Singaporean,Others,No,Non-Recipient,No,Permanent Resident,Others,Education,Yes,2023-03-11
+20,Male,Hospitality Management,3.25,Part-time,1,Sports,Malaysian,Mandarin,No,Non-Recipient,Yes,Citizen,Home Schooling,Business,Yes,2023-06-19
+20,Female,Hospitality Management,2.19,Part-time,1,Sports,Others,Others,Yes,Non-Recipient,Yes,Others,International School,Others,No,2023-05-20
+21,Male,Business,2.33,Part-time,3,Sports,Malaysian,Tamil,No,Non-Recipient,Yes,Citizen,Others,Others,Yes,2023-08-25
+18,Male,FinTech,2.37,Full-time,2,Arts,Singaporean,Mandarin,No,Non-Recipient,Yes,Student Visa,International School,Healthcare,No,2022-06-23
+21,Male,Information Technology,3.53,Part-time,4,Sports,Singaporean,Others,No,Non-Recipient,No,Permanent Resident,Home Schooling,Service,No,2023-03-25
+23,Female,Hospitality Management,2.21,Full-time,3,Arts,Singaporean,Malay,No,Recipient,Yes,Citizen,Others,Education,Yes,2021-06-02
+23,Female,Information Technology,3.57,Part-time,3,Arts,Indian,Others,No,Recipient,No,Citizen,Others,Service,Yes,2022-03-21
+24,Female,Information Technology,3.94,Part-time,4,Volunteering,Indonesian,Others,No,Non-Recipient,Yes,Citizen,Others,Education,No,2021-06-20
+19,Female,Information Technology,3.9,Full-time,2,None,Indonesian,Mandarin,Yes,Non-Recipient,Yes,Others,Local School,Business,Yes,2021-11-22
+19,Female,Machine Learning,2.29,Part-time,3,Sports,Others,Malay,No,Recipient,No,Others,International School,Others,No,2022-08-16
+18,Female,Business,3.52,Part-time,3,Volunteering,Singaporean,English,No,Recipient,Yes,Others,Home Schooling,Healthcare,Yes,2021-02-23
+21,Male,Business,3.03,Part-time,3,Volunteering,Singaporean,Mandarin,Yes,Non-Recipient,No,Permanent Resident,Others,Service,Yes,2021-08-19
+20,Female,AI,3.01,Full-time,4,None,Malaysian,Malay,Yes,Non-Recipient,Yes,Others,Home Schooling,Service,No,2023-08-16
+22,Female,Information Technology,2.07,Part-time,4,None,Others,Mandarin,Yes,Non-Recipient,No,Citizen,Home Schooling,Healthcare,No,2023-01-03
+24,Female,FinTech,3.33,Full-time,2,Volunteering,Singaporean,Mandarin,No,Recipient,No,Permanent Resident,Others,Education,No,2021-06-02
+22,Female,Business,3.97,Full-time,1,Arts,Indonesian,English,No,Recipient,Yes,Citizen,International School,Others,No,2022-08-09
+18,Male,AI,2.18,Full-time,3,Volunteering,Others,Others,No,Non-Recipient,Yes,Student Visa,Others,Service,Yes,2023-03-05
+21,Female,Service Training,2.21,Full-time,3,Sports,Malaysian,Tamil,No,Recipient,No,Permanent Resident,Home Schooling,Others,Yes,2022-11-20
+20,Male,FinTech,2.99,Part-time,3,Volunteering,Others,Tamil,Yes,Non-Recipient,No,Others,International School,Business,No,2022-05-11
+19,Female,Hospitality Management,3.57,Part-time,3,None,Indian,English,No,Non-Recipient,No,Student Visa,Others,Healthcare,No,2022-02-07
+23,Male,Machine Learning,2.93,Full-time,3,None,Malaysian,Mandarin,No,Recipient,Yes,Student Visa,International School,Others,Yes,2023-12-02
+23,Male,Information Technology,2.2,Full-time,2,None,Indian,Others,Yes,Recipient,No,Student Visa,International School,Others,No,2021-04-27
+24,Female,Hospitality Management,3.15,Part-time,2,None,Others,Malay,Yes,Non-Recipient,Yes,Others,Others,Education,No,2023-06-28
+21,Male,Hospitality Management,2.38,Part-time,1,Volunteering,Singaporean,English,Yes,Non-Recipient,No,Others,Local School,Healthcare,No,2022-07-03
+23,Female,Service Training,3.2,Full-time,1,Sports,Malaysian,Tamil,No,Recipient,No,Others,Home Schooling,Service,No,2023-12-07
+23,Male,Machine Learning,3.75,Full-time,2,None,Singaporean,Mandarin,No,Non-Recipient,Yes,Permanent Resident,Others,Healthcare,Yes,2022-09-27
+19,Female,Machine Learning,2.84,Full-time,1,None,Malaysian,Others,No,Non-Recipient,No,Others,Others,Business,No,2022-07-06
+24,Female,Information Technology,3.5,Full-time,2,None,Singaporean,Malay,No,Non-Recipient,Yes,Others,International School,Business,Yes,2021-11-03
+24,Male,Service Training,2.85,Part-time,1,Arts,Indian,Others,Yes,Recipient,Yes,Permanent Resident,Home Schooling,Service,Yes,2022-02-22
+19,Female,Machine Learning,3.56,Part-time,1,Arts,Singaporean,Others,No,Recipient,No,Student Visa,Home Schooling,Business,Yes,2023-08-20
+23,Female,Information Technology,2.27,Part-time,1,None,Indian,Mandarin,No,Non-Recipient,Yes,Student Visa,Others,Education,No,2022-12-20
+21,Male,Machine Learning,2.44,Full-time,4,Volunteering,Indonesian,Others,Yes,Recipient,No,Student Visa,Local School,Service,Yes,2022-03-11
+21,Female,Service Training,2.18,Full-time,3,Volunteering,Indonesian,Tamil,No,Non-Recipient,No,Permanent Resident,Home Schooling,Service,No,2021-06-20
+19,Male,Machine Learning,2.65,Full-time,4,Arts,Others,Others,Yes,Non-Recipient,Yes,Others,International School,Healthcare,Yes,2023-08-02
+21,Female,Business,3.7,Part-time,3,Arts,Indian,Others,Yes,Recipient,No,Permanent Resident,Local School,Education,No,2021-09-19
+18,Female,Business,2.33,Full-time,1,None,Singaporean,Others,Yes,Non-Recipient,Yes,Citizen,Home Schooling,Education,No,2021-03-13
+20,Male,Hospitality Management,2.03,Part-time,4,Volunteering,Indian,English,Yes,Non-Recipient,Yes,Others,Local School,Service,Yes,2021-06-04
+22,Female,FinTech,2.86,Full-time,1,Sports,Malaysian,Tamil,Yes,Recipient,Yes,Permanent Resident,Home Schooling,Education,No,2021-04-11
+20,Male,Hospitality Management,2.27,Part-time,1,Sports,Others,Malay,Yes,Recipient,Yes,Permanent Resident,Others,Service,Yes,2022-02-07
+19,Female,Machine Learning,2.16,Full-time,4,Sports,Singaporean,Others,No,Recipient,No,Citizen,Others,Education,No,2023-11-10
+18,Male,Machine Learning,2.9,Part-time,1,Sports,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Citizen,International School,Healthcare,No,2023-10-28
+20,Female,FinTech,3.77,Part-time,2,Volunteering,Indonesian,Malay,No,Non-Recipient,No,Others,Home Schooling,Service,Yes,2023-08-21
+20,Female,Machine Learning,3.25,Full-time,4,Sports,Singaporean,Mandarin,No,Recipient,No,Others,Home Schooling,Others,Yes,2023-02-09
+22,Female,Hospitality Management,3.02,Part-time,3,Arts,Indian,Mandarin,No,Recipient,No,Others,Local School,Service,Yes,2022-05-07
+23,Female,Service Training,2.35,Full-time,1,Volunteering,Malaysian,Others,No,Recipient,Yes,Student Visa,Others,Others,No,2021-06-17
+22,Male,FinTech,3.16,Part-time,2,Volunteering,Singaporean,Tamil,Yes,Recipient,No,Others,Home Schooling,Business,No,2022-12-14
+23,Male,FinTech,3.07,Full-time,2,Volunteering,Others,Malay,Yes,Recipient,No,Student Visa,Home Schooling,Others,Yes,2023-02-25
+22,Male,FinTech,2.42,Full-time,1,Volunteering,Indian,Mandarin,Yes,Non-Recipient,Yes,Permanent Resident,Local School,Education,No,2021-11-26
+24,Male,Information Technology,2.39,Part-time,2,Volunteering,Indonesian,English,Yes,Recipient,Yes,Student Visa,International School,Business,No,2021-01-15
+18,Male,Business,3,Full-time,1,None,Malaysian,Malay,Yes,Recipient,Yes,Permanent Resident,International School,Education,No,2021-06-03
+18,Male,Hospitality Management,3.23,Full-time,2,Arts,Indonesian,English,No,Recipient,No,Citizen,International School,Service,Yes,2023-02-13
+18,Male,AI,2.19,Full-time,3,Volunteering,Others,English,No,Recipient,No,Citizen,International School,Education,Yes,2021-08-08
+19,Male,Machine Learning,3.87,Full-time,3,Arts,Singaporean,Mandarin,No,Non-Recipient,Yes,Citizen,Others,Business,Yes,2021-02-17
+23,Male,FinTech,3.3,Part-time,3,None,Indian,Others,Yes,Non-Recipient,Yes,Permanent Resident,Home Schooling,Service,Yes,2023-05-02
+24,Female,Business,2.05,Full-time,1,None,Indian,Tamil,Yes,Non-Recipient,Yes,Others,Local School,Education,Yes,2023-08-07
+23,Female,Machine Learning,3.83,Part-time,2,Volunteering,Malaysian,Mandarin,Yes,Non-Recipient,No,Student Visa,Local School,Service,Yes,2021-02-09
+21,Male,AI,3.84,Part-time,3,Volunteering,Indian,Malay,No,Non-Recipient,Yes,Citizen,Home Schooling,Others,Yes,2023-12-07
+23,Female,Hospitality Management,2.28,Part-time,4,Arts,Malaysian,Mandarin,Yes,Non-Recipient,No,Permanent Resident,Others,Healthcare,Yes,2023-01-23
+24,Male,Business,3.15,Part-time,4,Volunteering,Indian,Others,Yes,Non-Recipient,Yes,Permanent Resident,Local School,Business,Yes,2021-12-23
+21,Male,FinTech,3.43,Full-time,3,Volunteering,Indonesian,English,No,Recipient,Yes,Permanent Resident,Others,Business,Yes,2022-04-07
+20,Female,AI,2.16,Part-time,3,Sports,Singaporean,Mandarin,Yes,Recipient,Yes,Permanent Resident,Home Schooling,Education,Yes,2021-01-25
+23,Male,Machine Learning,2.2,Full-time,4,Sports,Indian,Tamil,No,Recipient,No,Citizen,Home Schooling,Others,No,2023-01-04
+21,Female,AI,2.92,Full-time,1,Sports,Singaporean,Mandarin,No,Non-Recipient,No,Student Visa,Home Schooling,Others,Yes,2022-11-16
+19,Female,FinTech,2.55,Part-time,1,Volunteering,Singaporean,English,No,Non-Recipient,Yes,Permanent Resident,Home Schooling,Education,Yes,2021-04-25
+19,Female,FinTech,2.88,Part-time,1,None,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Citizen,Others,Business,Yes,2022-02-05
+21,Male,FinTech,3.43,Part-time,3,Volunteering,Singaporean,Mandarin,Yes,Non-Recipient,No,Others,Home Schooling,Education,Yes,2022-11-26
+22,Female,AI,2.71,Part-time,3,Arts,Malaysian,Tamil,No,Recipient,No,Others,International School,Business,Yes,2021-02-08
+18,Female,Machine Learning,2.99,Part-time,2,None,Malaysian,Others,Yes,Non-Recipient,Yes,Citizen,International School,Education,No,2021-11-28
+21,Male,Business,3.53,Full-time,3,Arts,Indonesian,English,Yes,Recipient,Yes,Student Visa,Others,Others,Yes,2023-08-25
+20,Male,Service Training,2.76,Full-time,2,None,Indonesian,Tamil,No,Non-Recipient,No,Others,Local School,Others,No,2021-07-01
+23,Female,AI,3.17,Full-time,1,None,Others,English,Yes,Non-Recipient,No,Permanent Resident,International School,Others,No,2022-05-12
+21,Male,AI,3.54,Full-time,1,Arts,Indonesian,Others,No,Non-Recipient,Yes,Citizen,Home Schooling,Others,Yes,2023-06-15
+21,Male,Machine Learning,3.97,Part-time,1,Arts,Indonesian,Malay,No,Non-Recipient,No,Permanent Resident,Local School,Others,No,2021-08-22
+22,Male,Service Training,2.84,Full-time,4,Volunteering,Indonesian,English,No,Recipient,Yes,Citizen,Home Schooling,Education,No,2021-06-04
+20,Female,Hospitality Management,3.58,Full-time,3,Volunteering,Singaporean,Mandarin,No,Non-Recipient,No,Permanent Resident,Local School,Service,Yes,2022-10-11
+18,Female,FinTech,3.42,Full-time,3,None,Indonesian,English,Yes,Recipient,No,Citizen,Home Schooling,Business,Yes,2021-06-23
+19,Male,FinTech,2.9,Part-time,3,None,Singaporean,Malay,Yes,Non-Recipient,No,Student Visa,Local School,Others,Yes,2022-08-25
+20,Female,AI,3.42,Full-time,4,Sports,Malaysian,Tamil,No,Recipient,Yes,Student Visa,Home Schooling,Healthcare,No,2023-09-11
+21,Female,AI,2.05,Full-time,2,Volunteering,Malaysian,English,Yes,Recipient,Yes,Citizen,Local School,Others,Yes,2021-09-14
+23,Male,Information Technology,2.78,Full-time,4,Sports,Indian,Others,No,Recipient,Yes,Others,International School,Business,No,2021-02-23
+18,Female,Business,2.46,Full-time,3,None,Malaysian,Malay,Yes,Non-Recipient,Yes,Permanent Resident,Others,Business,No,2023-06-01
+19,Female,Information Technology,3.23,Part-time,3,Arts,Indian,English,Yes,Recipient,Yes,Others,Others,Healthcare,No,2023-02-15
+22,Female,FinTech,3.11,Full-time,3,Volunteering,Singaporean,English,No,Non-Recipient,Yes,Student Visa,International School,Service,Yes,2021-09-27
+22,Male,Business,3.81,Part-time,1,Arts,Malaysian,Mandarin,Yes,Recipient,No,Others,Home Schooling,Others,No,2021-01-20
+24,Female,AI,3.14,Part-time,3,None,Singaporean,Mandarin,No,Recipient,Yes,Citizen,Others,Business,No,2022-10-27
+23,Female,AI,2.93,Full-time,4,Sports,Others,English,No,Non-Recipient,No,Permanent Resident,Home Schooling,Business,No,2023-10-05
+19,Female,Hospitality Management,3.12,Full-time,2,Volunteering,Malaysian,English,No,Recipient,No,Student Visa,Home Schooling,Others,No,2022-07-16
+22,Female,Information Technology,2.41,Part-time,1,None,Singaporean,Malay,No,Non-Recipient,Yes,Others,Home Schooling,Education,Yes,2021-03-25
+21,Female,Machine Learning,3.96,Full-time,3,Arts,Indian,Malay,No,Non-Recipient,No,Student Visa,International School,Others,Yes,2021-12-06
+23,Female,Hospitality Management,2.41,Full-time,1,Volunteering,Singaporean,Tamil,Yes,Recipient,Yes,Citizen,Home Schooling,Education,No,2021-06-26
+21,Female,Business,3.38,Part-time,1,Arts,Indonesian,Mandarin,Yes,Non-Recipient,No,Citizen,Local School,Others,Yes,2022-03-22
+21,Female,AI,3.64,Part-time,1,Sports,Singaporean,Tamil,Yes,Recipient,No,Student Visa,International School,Education,No,2022-08-27
+19,Male,FinTech,2.41,Part-time,4,Arts,Singaporean,Malay,No,Non-Recipient,No,Citizen,Local School,Healthcare,Yes,2021-12-14
+21,Male,Business,3.48,Full-time,2,Volunteering,Singaporean,Tamil,Yes,Non-Recipient,No,Others,Local School,Others,No,2022-01-24
+24,Female,Business,2.68,Part-time,3,Sports,Singaporean,English,No,Recipient,Yes,Student Visa,International School,Others,No,2021-07-22
+24,Male,Machine Learning,3.62,Part-time,2,Arts,Singaporean,English,No,Recipient,No,Student Visa,International School,Education,No,2021-02-28
+19,Female,FinTech,3.98,Part-time,4,Sports,Indonesian,Tamil,Yes,Recipient,Yes,Others,International School,Service,Yes,2021-02-19
+24,Female,Business,2.52,Part-time,4,None,Singaporean,Mandarin,Yes,Recipient,No,Others,Others,Others,Yes,2023-02-27
+21,Male,Information Technology,3.59,Part-time,1,Arts,Indonesian,Tamil,Yes,Recipient,Yes,Permanent Resident,Local School,Others,Yes,2023-02-13
+21,Male,FinTech,3.71,Part-time,4,Arts,Malaysian,Mandarin,No,Non-Recipient,No,Others,International School,Service,No,2021-11-17
+19,Female,Machine Learning,2.54,Full-time,3,Volunteering,Malaysian,Others,Yes,Non-Recipient,No,Student Visa,Others,Education,No,2023-10-02
+18,Female,FinTech,2.54,Part-time,3,Arts,Singaporean,Malay,Yes,Recipient,No,Student Visa,Local School,Others,Yes,2023-05-08
+22,Male,Machine Learning,2.72,Part-time,1,Sports,Others,Tamil,Yes,Recipient,Yes,Citizen,Local School,Others,No,2022-02-14
+18,Female,Service Training,2.61,Full-time,4,None,Indian,English,Yes,Recipient,No,Others,Home Schooling,Others,No,2022-02-24
+23,Female,Service Training,3.73,Full-time,2,Arts,Malaysian,Malay,Yes,Non-Recipient,No,Others,International School,Service,No,2023-09-18
+24,Male,Information Technology,2.51,Part-time,4,Arts,Singaporean,Others,No,Non-Recipient,Yes,Others,International School,Healthcare,No,2023-04-28
+20,Female,Information Technology,2.1,Full-time,1,Volunteering,Malaysian,Others,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Education,Yes,2023-12-17
+21,Female,Machine Learning,3.26,Part-time,2,Volunteering,Singaporean,English,No,Non-Recipient,No,Others,Local School,Business,No,2021-07-24
+23,Female,Hospitality Management,3.96,Part-time,3,Arts,Indian,Tamil,No,Non-Recipient,Yes,Permanent Resident,International School,Healthcare,Yes,2022-10-21
+19,Male,Service Training,2.87,Full-time,3,None,Indonesian,Mandarin,Yes,Recipient,No,Student Visa,Others,Service,Yes,2022-02-20
+22,Male,FinTech,3.39,Part-time,3,None,Singaporean,English,Yes,Non-Recipient,Yes,Student Visa,Others,Education,No,2021-09-13
+20,Female,Information Technology,3.81,Part-time,3,None,Others,Others,No,Non-Recipient,Yes,Others,Others,Healthcare,Yes,2022-12-18
+21,Female,Machine Learning,2.23,Full-time,3,None,Singaporean,Mandarin,No,Recipient,Yes,Others,International School,Service,Yes,2023-06-10
+22,Female,Machine Learning,3.97,Part-time,1,Volunteering,Singaporean,Mandarin,Yes,Recipient,No,Student Visa,Others,Education,Yes,2023-04-20
+20,Male,Hospitality Management,3.98,Part-time,1,Arts,Indonesian,Tamil,No,Non-Recipient,No,Citizen,International School,Others,No,2023-05-06
+22,Female,Business,2.69,Full-time,2,Volunteering,Indonesian,English,Yes,Recipient,No,Citizen,International School,Healthcare,No,2021-01-24
+24,Male,Hospitality Management,2.01,Part-time,1,Arts,Others,Tamil,No,Non-Recipient,No,Student Visa,Home Schooling,Others,Yes,2022-03-09
+18,Male,Hospitality Management,3.1,Full-time,4,None,Malaysian,Tamil,No,Recipient,No,Citizen,Local School,Service,No,2022-03-20
+24,Female,FinTech,3.35,Full-time,4,Sports,Indonesian,Malay,No,Non-Recipient,No,Others,Home Schooling,Healthcare,No,2023-03-02
+19,Female,Business,2.29,Part-time,2,Volunteering,Indian,English,No,Non-Recipient,Yes,Permanent Resident,International School,Healthcare,Yes,2021-10-11
+20,Male,Business,2.31,Full-time,2,None,Malaysian,Others,No,Non-Recipient,Yes,Others,Others,Healthcare,Yes,2022-12-11
+22,Male,Machine Learning,2.16,Full-time,2,Arts,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Citizen,Local School,Business,Yes,2022-08-18
+19,Male,Business,3.38,Full-time,2,Arts,Singaporean,Others,No,Non-Recipient,No,Student Visa,Home Schooling,Business,Yes,2022-01-11
+21,Male,FinTech,3.47,Full-time,4,Sports,Indonesian,Mandarin,No,Recipient,Yes,Others,International School,Service,No,2021-12-23
+19,Female,AI,3.83,Part-time,1,Arts,Malaysian,English,No,Non-Recipient,No,Citizen,International School,Others,No,2021-02-01
+20,Female,Business,2.55,Part-time,4,Sports,Indian,Others,No,Non-Recipient,No,Student Visa,Home Schooling,Service,No,2023-12-16
+21,Female,Business,2.38,Full-time,2,None,Malaysian,Others,No,Non-Recipient,No,Student Visa,Local School,Healthcare,No,2023-02-22
+19,Male,Machine Learning,3.53,Part-time,1,Arts,Singaporean,Mandarin,No,Recipient,Yes,Others,Others,Others,No,2022-07-27
+18,Male,FinTech,2.16,Part-time,3,Sports,Others,Malay,No,Recipient,No,Permanent Resident,Home Schooling,Business,Yes,2022-07-09
+23,Female,Information Technology,3.89,Part-time,4,Volunteering,Others,Mandarin,No,Recipient,No,Others,Local School,Business,Yes,2021-06-19
+23,Male,FinTech,2.04,Full-time,1,Arts,Indian,Malay,Yes,Recipient,No,Citizen,International School,Business,No,2023-01-01
+23,Male,Business,3.09,Full-time,4,Arts,Singaporean,Others,No,Non-Recipient,No,Citizen,Others,Education,Yes,2022-05-20
+20,Female,AI,2.53,Full-time,1,Arts,Malaysian,Others,Yes,Non-Recipient,No,Student Visa,International School,Education,Yes,2021-11-20
+23,Male,Service Training,2.18,Part-time,1,Sports,Others,Malay,No,Non-Recipient,Yes,Citizen,International School,Others,No,2021-04-27
+22,Male,Information Technology,2.25,Full-time,1,None,Indian,Malay,Yes,Recipient,No,Citizen,Home Schooling,Service,Yes,2021-01-18
+24,Female,Information Technology,2.31,Part-time,4,None,Malaysian,Malay,No,Non-Recipient,Yes,Permanent Resident,Others,Education,Yes,2023-01-25
+19,Male,Business,2.41,Part-time,3,Arts,Malaysian,Others,Yes,Non-Recipient,No,Others,Others,Healthcare,Yes,2021-04-06
+24,Male,Hospitality Management,2.77,Full-time,2,Sports,Indian,Mandarin,No,Recipient,No,Permanent Resident,International School,Others,No,2022-11-28
+20,Female,Information Technology,2.36,Full-time,3,Arts,Malaysian,Malay,Yes,Non-Recipient,No,Citizen,Others,Education,Yes,2021-11-25
+21,Female,Service Training,3.73,Part-time,1,Sports,Indonesian,Others,Yes,Non-Recipient,Yes,Student Visa,Local School,Business,No,2022-11-21
+23,Male,FinTech,2.29,Part-time,2,Arts,Indonesian,Others,Yes,Non-Recipient,No,Permanent Resident,International School,Business,No,2022-08-27
+19,Female,Information Technology,3.12,Full-time,2,Volunteering,Singaporean,Tamil,No,Recipient,No,Student Visa,Home Schooling,Business,No,2021-04-27
+21,Female,Business,3.31,Full-time,4,Arts,Malaysian,Mandarin,No,Non-Recipient,Yes,Others,Local School,Others,No,2022-06-05
+21,Female,Service Training,3.3,Part-time,1,None,Indonesian,English,No,Recipient,Yes,Student Visa,Others,Others,No,2022-09-21
+20,Female,AI,2.11,Full-time,2,Sports,Indonesian,Malay,Yes,Recipient,No,Citizen,Others,Others,No,2023-05-06
+23,Male,Service Training,2.07,Full-time,1,Volunteering,Others,Mandarin,No,Recipient,Yes,Citizen,Home Schooling,Education,Yes,2022-04-15
+20,Female,FinTech,3.27,Full-time,4,None,Singaporean,English,Yes,Non-Recipient,Yes,Student Visa,Local School,Service,No,2021-01-06
+20,Female,Information Technology,3.36,Part-time,1,None,Singaporean,Mandarin,No,Non-Recipient,Yes,Student Visa,International School,Education,No,2023-01-20
+21,Female,Information Technology,2.42,Part-time,4,None,Singaporean,Others,No,Recipient,No,Citizen,International School,Healthcare,Yes,2021-08-16
+23,Female,FinTech,3.58,Part-time,1,Sports,Others,Malay,No,Non-Recipient,No,Others,Others,Service,Yes,2023-08-20
+22,Male,AI,2.71,Full-time,4,None,Indonesian,Mandarin,No,Recipient,Yes,Citizen,International School,Service,Yes,2022-01-26
+20,Male,Service Training,3.75,Full-time,3,Sports,Singaporean,English,No,Non-Recipient,Yes,Others,Others,Healthcare,Yes,2022-05-10
+24,Female,Hospitality Management,3.58,Part-time,1,None,Others,Others,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Service,Yes,2021-04-01
+20,Male,FinTech,3.02,Part-time,1,Sports,Indian,Malay,Yes,Recipient,Yes,Others,Others,Education,Yes,2022-01-12
+18,Male,Information Technology,2.91,Full-time,1,Sports,Indonesian,Mandarin,No,Recipient,No,Student Visa,Home Schooling,Business,Yes,2023-11-21
+19,Male,FinTech,3.51,Full-time,1,Sports,Singaporean,Mandarin,No,Non-Recipient,Yes,Student Visa,International School,Others,No,2022-08-27
+22,Male,Machine Learning,3.9,Full-time,2,Volunteering,Singaporean,English,Yes,Non-Recipient,No,Permanent Resident,International School,Business,No,2023-12-06
+22,Female,AI,3.11,Full-time,3,Volunteering,Singaporean,Malay,Yes,Recipient,Yes,Others,Home Schooling,Service,Yes,2021-10-02
+24,Female,Information Technology,3.42,Part-time,2,Arts,Malaysian,Tamil,Yes,Non-Recipient,Yes,Others,Local School,Service,Yes,2022-06-24
+21,Male,Hospitality Management,3.88,Full-time,4,Arts,Indian,Mandarin,No,Recipient,No,Permanent Resident,Local School,Education,No,2022-12-03
+24,Male,Business,2.17,Part-time,2,Sports,Indonesian,Malay,No,Recipient,Yes,Student Visa,International School,Education,No,2022-11-05
+24,Female,Hospitality Management,2.17,Full-time,1,None,Indonesian,Malay,No,Recipient,Yes,Others,Others,Business,No,2022-11-11
+22,Male,Service Training,3.9,Part-time,3,Volunteering,Singaporean,Others,Yes,Non-Recipient,No,Citizen,International School,Education,No,2022-09-15
+19,Female,FinTech,3.32,Full-time,3,Volunteering,Indian,Others,No,Non-Recipient,Yes,Student Visa,International School,Education,No,2023-01-26
+20,Male,Machine Learning,2.93,Full-time,2,Arts,Singaporean,English,No,Recipient,No,Student Visa,Home Schooling,Education,No,2021-04-13
+21,Female,Machine Learning,3.41,Part-time,3,None,Singaporean,Mandarin,Yes,Recipient,No,Student Visa,Local School,Others,No,2021-09-02
+24,Female,Hospitality Management,2.35,Part-time,4,Volunteering,Indian,Malay,No,Recipient,No,Citizen,International School,Education,No,2022-05-06
+20,Male,FinTech,3.67,Full-time,1,Volunteering,Indian,Mandarin,Yes,Recipient,No,Others,Others,Service,No,2022-01-18
+18,Female,Hospitality Management,3.22,Part-time,3,Arts,Indian,Tamil,No,Recipient,Yes,Citizen,International School,Business,Yes,2021-03-09
+18,Male,Service Training,2.2,Full-time,2,Volunteering,Malaysian,Tamil,Yes,Recipient,Yes,Citizen,Home Schooling,Business,No,2022-12-19
+22,Male,FinTech,2.01,Full-time,1,Volunteering,Malaysian,Mandarin,No,Recipient,Yes,Student Visa,International School,Others,Yes,2022-06-11
+23,Female,AI,2.15,Full-time,1,Arts,Indonesian,Mandarin,No,Recipient,No,Others,Local School,Healthcare,No,2023-09-11
+20,Male,Information Technology,3.65,Part-time,1,Arts,Malaysian,Mandarin,No,Recipient,Yes,Permanent Resident,Home Schooling,Service,No,2022-02-26
+20,Female,Hospitality Management,3.98,Part-time,1,Arts,Malaysian,Others,No,Recipient,No,Others,Local School,Service,No,2021-02-10
+23,Female,FinTech,2.41,Part-time,3,Volunteering,Others,Malay,Yes,Recipient,Yes,Permanent Resident,International School,Education,No,2021-09-12
+20,Male,Information Technology,3.47,Full-time,3,Volunteering,Singaporean,Malay,No,Non-Recipient,Yes,Student Visa,International School,Education,No,2021-10-07
+21,Male,Machine Learning,2.17,Full-time,4,Volunteering,Singaporean,Others,Yes,Non-Recipient,Yes,Others,Local School,Others,No,2023-07-05
+24,Male,Business,2.31,Part-time,1,None,Malaysian,Malay,No,Recipient,Yes,Citizen,Local School,Service,Yes,2022-03-17
+20,Male,Hospitality Management,3.47,Part-time,3,Arts,Singaporean,Malay,Yes,Recipient,Yes,Student Visa,Others,Business,No,2022-05-08
+18,Male,Machine Learning,3.46,Full-time,4,Volunteering,Indonesian,Mandarin,Yes,Non-Recipient,Yes,Citizen,International School,Others,No,2022-06-07
+20,Female,Machine Learning,3.01,Full-time,2,Arts,Malaysian,Malay,Yes,Non-Recipient,No,Permanent Resident,International School,Others,Yes,2021-05-28
+21,Female,Business,2.53,Full-time,4,Arts,Indonesian,Mandarin,Yes,Recipient,Yes,Permanent Resident,Local School,Service,No,2021-04-15
+20,Female,FinTech,2.59,Part-time,2,Sports,Malaysian,English,Yes,Non-Recipient,No,Others,Local School,Healthcare,No,2022-12-25
+19,Female,Service Training,2.84,Full-time,4,Arts,Indonesian,Tamil,Yes,Recipient,Yes,Others,Others,Others,Yes,2022-12-03
+18,Male,Business,2.38,Full-time,2,Sports,Malaysian,English,Yes,Non-Recipient,No,Others,Local School,Business,No,2022-02-12
+23,Male,Hospitality Management,2.33,Full-time,4,Arts,Others,English,Yes,Recipient,Yes,Student Visa,Local School,Service,No,2023-12-27
+19,Female,Machine Learning,3.56,Full-time,4,Arts,Malaysian,Others,Yes,Non-Recipient,No,Citizen,International School,Others,No,2021-05-10
+24,Male,Machine Learning,3.48,Full-time,1,Arts,Indonesian,Tamil,No,Non-Recipient,Yes,Citizen,Local School,Others,Yes,2023-02-10
+24,Male,Business,3.84,Full-time,3,None,Indonesian,English,No,Recipient,No,Permanent Resident,Home Schooling,Service,Yes,2021-12-09
+19,Male,Machine Learning,2.75,Part-time,2,Volunteering,Singaporean,English,No,Non-Recipient,No,Others,Home Schooling,Business,Yes,2022-06-07
+24,Female,Service Training,2.9,Part-time,2,None,Singaporean,Mandarin,No,Non-Recipient,Yes,Others,Home Schooling,Education,Yes,2022-03-13
+24,Male,AI,3.38,Full-time,2,Volunteering,Others,Malay,Yes,Recipient,No,Others,Others,Service,Yes,2023-08-12
+21,Female,Hospitality Management,3.61,Part-time,4,Arts,Indian,Mandarin,No,Non-Recipient,Yes,Citizen,Home Schooling,Business,No,2023-07-26
+22,Male,Hospitality Management,3.98,Full-time,3,Volunteering,Singaporean,Tamil,Yes,Non-Recipient,Yes,Others,Others,Healthcare,No,2021-09-08
+19,Male,Machine Learning,3.01,Full-time,2,None,Malaysian,Mandarin,No,Non-Recipient,No,Permanent Resident,Home Schooling,Others,Yes,2022-09-14
+24,Male,Machine Learning,3.63,Part-time,2,Arts,Indonesian,English,Yes,Non-Recipient,Yes,Student Visa,Local School,Business,Yes,2021-01-22
+23,Male,FinTech,2.33,Full-time,3,None,Others,Others,Yes,Non-Recipient,Yes,Citizen,Others,Education,No,2023-04-02
+19,Female,AI,2.54,Full-time,2,Sports,Indian,Mandarin,Yes,Non-Recipient,Yes,Citizen,Local School,Education,Yes,2023-10-10
+19,Female,Hospitality Management,3.73,Full-time,1,Volunteering,Singaporean,Mandarin,Yes,Recipient,Yes,Permanent Resident,Others,Healthcare,No,2023-09-08
+19,Female,Information Technology,2.88,Part-time,2,Arts,Malaysian,Others,No,Recipient,No,Permanent Resident,Local School,Healthcare,No,2022-01-14
+20,Male,Service Training,2.66,Part-time,1,Sports,Others,Others,No,Recipient,Yes,Citizen,Home Schooling,Education,No,2023-10-03
+22,Female,Information Technology,2.2,Part-time,2,Sports,Singaporean,Malay,Yes,Non-Recipient,Yes,Others,International School,Service,Yes,2021-08-02
+22,Female,Service Training,3.66,Full-time,4,Sports,Others,Malay,No,Non-Recipient,No,Student Visa,International School,Education,No,2022-03-13
+20,Female,Hospitality Management,3.25,Part-time,3,None,Singaporean,English,No,Recipient,No,Citizen,Others,Others,No,2023-04-17
+21,Male,Information Technology,3.84,Full-time,1,None,Singaporean,English,Yes,Recipient,Yes,Others,Local School,Healthcare,Yes,2023-02-01
+19,Male,Information Technology,3.61,Part-time,2,Sports,Indian,English,No,Recipient,Yes,Citizen,Others,Healthcare,Yes,2021-08-14
+24,Male,Information Technology,3.64,Full-time,4,Sports,Indian,English,Yes,Non-Recipient,No,Citizen,Others,Healthcare,No,2023-02-04
+22,Female,AI,2.32,Part-time,3,Volunteering,Indian,Malay,Yes,Non-Recipient,No,Citizen,Others,Others,Yes,2023-07-08
+22,Female,Business,2.53,Full-time,3,Volunteering,Indian,Mandarin,Yes,Recipient,Yes,Student Visa,Home Schooling,Service,No,2021-09-27
+22,Male,Machine Learning,3.88,Full-time,3,Sports,Malaysian,English,Yes,Non-Recipient,Yes,Student Visa,Others,Service,Yes,2021-01-14
+18,Male,Information Technology,2.3,Part-time,3,Arts,Singaporean,Tamil,Yes,Non-Recipient,Yes,Others,International School,Others,Yes,2022-10-19
+19,Male,Information Technology,3.36,Full-time,2,None,Singaporean,Malay,Yes,Recipient,No,Permanent Resident,Others,Education,No,2022-06-22
+18,Male,Hospitality Management,3.44,Part-time,2,Arts,Singaporean,Mandarin,Yes,Non-Recipient,No,Permanent Resident,International School,Healthcare,Yes,2021-06-07
+21,Female,Service Training,3.03,Full-time,4,Arts,Malaysian,Malay,Yes,Recipient,No,Student Visa,Others,Others,Yes,2022-11-03
+18,Male,Service Training,3.06,Part-time,2,None,Indonesian,English,No,Recipient,Yes,Citizen,Home Schooling,Education,No,2022-04-13
+19,Male,Business,2.62,Full-time,3,Arts,Indian,Malay,Yes,Recipient,No,Citizen,Others,Education,Yes,2023-07-07
+19,Female,Service Training,2.94,Full-time,4,Arts,Singaporean,Tamil,Yes,Non-Recipient,Yes,Citizen,Local School,Service,Yes,2022-03-18
+22,Male,Machine Learning,2.78,Full-time,4,Volunteering,Indonesian,Malay,Yes,Recipient,No,Citizen,Home Schooling,Education,Yes,2021-07-21
+19,Male,Machine Learning,3.39,Full-time,2,None,Others,Malay,Yes,Recipient,Yes,Permanent Resident,Home Schooling,Others,Yes,2021-05-22
+22,Male,Information Technology,3.84,Full-time,2,None,Singaporean,Mandarin,Yes,Recipient,Yes,Others,Others,Service,Yes,2022-02-02
+18,Female,AI,2.93,Part-time,2,None,Malaysian,English,No,Recipient,Yes,Citizen,Local School,Healthcare,No,2023-01-05
+22,Male,Service Training,2.71,Part-time,4,Volunteering,Singaporean,Malay,No,Recipient,Yes,Citizen,Home Schooling,Business,No,2023-11-06
+23,Male,Business,3.32,Part-time,1,None,Malaysian,Others,No,Recipient,No,Student Visa,Home Schooling,Healthcare,No,2022-04-09
+20,Male,Business,2.25,Full-time,4,None,Indian,Malay,No,Non-Recipient,Yes,Others,Others,Service,Yes,2023-03-01
+19,Female,Business,3.01,Full-time,1,Sports,Singaporean,Malay,Yes,Non-Recipient,No,Others,International School,Education,No,2023-07-19
+23,Female,AI,2.44,Full-time,3,Arts,Indonesian,Malay,Yes,Recipient,Yes,Citizen,Others,Healthcare,No,2022-03-22
+22,Female,FinTech,2.37,Full-time,4,Volunteering,Indonesian,Others,Yes,Non-Recipient,No,Citizen,International School,Business,Yes,2023-02-07
+22,Female,Hospitality Management,3.04,Full-time,4,Arts,Others,Tamil,No,Non-Recipient,No,Citizen,Home Schooling,Healthcare,Yes,2023-07-12
+19,Female,AI,3.55,Part-time,3,Arts,Malaysian,English,Yes,Recipient,No,Permanent Resident,Home Schooling,Service,No,2023-09-11
+20,Female,Business,3.56,Full-time,2,None,Indonesian,Tamil,Yes,Non-Recipient,Yes,Student Visa,International School,Others,Yes,2022-07-25
+20,Female,FinTech,2.06,Full-time,2,Sports,Indonesian,Others,No,Recipient,No,Student Visa,Others,Service,Yes,2022-01-27
+23,Female,Business,3.22,Full-time,1,Arts,Indian,Malay,No,Recipient,No,Student Visa,Local School,Education,Yes,2022-04-27
+22,Male,Business,2.32,Full-time,1,None,Indonesian,Malay,Yes,Non-Recipient,No,Others,Local School,Business,Yes,2022-07-14
+23,Male,Hospitality Management,3.92,Full-time,1,Sports,Malaysian,English,Yes,Non-Recipient,No,Student Visa,Home Schooling,Business,Yes,2021-02-28
+20,Female,Service Training,3.87,Full-time,2,Arts,Malaysian,Tamil,No,Non-Recipient,Yes,Permanent Resident,Local School,Business,No,2021-12-08
+20,Male,FinTech,3.95,Full-time,1,None,Indonesian,Tamil,Yes,Non-Recipient,No,Student Visa,International School,Others,No,2022-01-14
+18,Female,Information Technology,3.24,Part-time,1,Sports,Malaysian,Malay,Yes,Recipient,No,Others,Home Schooling,Others,Yes,2021-01-17
+24,Female,FinTech,3.04,Part-time,3,Volunteering,Singaporean,Tamil,Yes,Recipient,Yes,Student Visa,Others,Healthcare,Yes,2023-08-28
+19,Male,AI,3.21,Part-time,2,None,Singaporean,English,No,Non-Recipient,Yes,Citizen,Others,Healthcare,Yes,2023-03-12
+20,Male,AI,3.53,Part-time,3,Sports,Singaporean,English,No,Non-Recipient,Yes,Citizen,Home Schooling,Healthcare,No,2023-08-19
+24,Male,Service Training,3.8,Part-time,3,None,Malaysian,English,Yes,Non-Recipient,Yes,Student Visa,Local School,Education,Yes,2022-04-20
+23,Female,Service Training,2.56,Full-time,2,None,Indonesian,Malay,No,Recipient,No,Student Visa,Others,Service,Yes,2023-10-19
+20,Female,Machine Learning,3.03,Full-time,1,Volunteering,Singaporean,Mandarin,Yes,Recipient,No,Permanent Resident,Local School,Service,Yes,2023-09-11
+22,Female,Business,3.16,Full-time,1,Sports,Indian,Others,No,Recipient,Yes,Others,International School,Education,No,2021-09-09
+24,Male,FinTech,2.53,Full-time,1,None,Singaporean,Others,No,Recipient,No,Others,International School,Business,Yes,2021-04-15
+18,Male,Business,3.36,Full-time,2,Sports,Malaysian,Tamil,Yes,Recipient,Yes,Citizen,International School,Business,No,2022-04-05
+22,Female,Hospitality Management,2.32,Full-time,4,Sports,Malaysian,English,Yes,Recipient,No,Citizen,Local School,Service,Yes,2023-10-08
+20,Female,AI,2.57,Full-time,1,Sports,Indonesian,Tamil,No,Non-Recipient,Yes,Others,Home Schooling,Service,No,2023-07-28
+22,Female,Business,2.28,Full-time,2,None,Others,Others,Yes,Recipient,Yes,Student Visa,Local School,Business,Yes,2021-02-10
+24,Male,Information Technology,3.74,Part-time,2,None,Singaporean,English,Yes,Recipient,No,Citizen,Others,Healthcare,No,2023-11-22
+24,Male,Information Technology,2.03,Full-time,4,None,Singaporean,Mandarin,No,Non-Recipient,Yes,Others,Local School,Business,Yes,2023-04-19
+23,Male,Hospitality Management,2.6,Part-time,3,Volunteering,Indonesian,Mandarin,No,Non-Recipient,Yes,Others,Local School,Healthcare,Yes,2023-12-21
+23,Male,Hospitality Management,3.3,Part-time,4,None,Indian,Malay,Yes,Recipient,Yes,Student Visa,Local School,Others,Yes,2023-02-07
+20,Female,AI,2.27,Part-time,2,Volunteering,Others,Others,No,Non-Recipient,No,Citizen,International School,Healthcare,No,2021-10-23
+19,Male,AI,2.07,Full-time,3,Volunteering,Singaporean,Malay,No,Recipient,Yes,Student Visa,Others,Service,Yes,2022-06-02
+24,Male,Service Training,2.03,Part-time,1,Arts,Others,Malay,No,Recipient,No,Citizen,Local School,Service,No,2021-11-15
+19,Female,Information Technology,2.99,Full-time,4,None,Indonesian,Mandarin,Yes,Non-Recipient,Yes,Student Visa,Local School,Healthcare,No,2022-01-04
+21,Female,FinTech,2.9,Full-time,2,None,Indonesian,Mandarin,No,Non-Recipient,Yes,Student Visa,Home Schooling,Education,No,2022-07-18
+22,Male,Information Technology,2.35,Part-time,2,Sports,Indian,Tamil,No,Non-Recipient,Yes,Permanent Resident,Others,Others,Yes,2022-10-22
+20,Female,Machine Learning,3.4,Full-time,1,Volunteering,Singaporean,Mandarin,No,Recipient,No,Others,Local School,Business,Yes,2021-06-06
+22,Male,AI,3.9,Part-time,3,Sports,Others,Malay,Yes,Recipient,No,Student Visa,Home Schooling,Service,Yes,2023-06-22
+19,Female,Hospitality Management,3.36,Part-time,3,Arts,Indonesian,English,Yes,Non-Recipient,No,Citizen,Others,Healthcare,Yes,2022-09-12
+21,Female,FinTech,3.36,Part-time,2,Sports,Malaysian,Others,No,Non-Recipient,No,Student Visa,International School,Business,No,2022-09-16
+21,Female,AI,3.93,Full-time,3,Sports,Indonesian,Tamil,Yes,Non-Recipient,No,Citizen,Local School,Healthcare,No,2022-08-11
+22,Male,Information Technology,3.78,Part-time,1,Arts,Others,Others,Yes,Recipient,No,Others,International School,Business,No,2023-09-16
+24,Male,Service Training,2.31,Full-time,1,Sports,Malaysian,Tamil,Yes,Non-Recipient,Yes,Citizen,International School,Service,No,2023-06-11
+20,Male,Information Technology,3.24,Full-time,1,None,Indonesian,Tamil,No,Recipient,Yes,Citizen,International School,Education,Yes,2023-11-18
+24,Male,FinTech,2.75,Full-time,3,None,Singaporean,Tamil,No,Recipient,No,Citizen,Home Schooling,Service,No,2022-03-28
+22,Male,Service Training,2.07,Full-time,2,None,Singaporean,Others,Yes,Recipient,Yes,Permanent Resident,Home Schooling,Healthcare,No,2021-09-12
+18,Male,AI,3.22,Full-time,2,Arts,Others,Malay,No,Recipient,Yes,Student Visa,Home Schooling,Education,Yes,2021-01-03
+23,Female,Hospitality Management,2.77,Part-time,1,Sports,Indian,Others,Yes,Non-Recipient,No,Citizen,Others,Healthcare,No,2022-09-28
+21,Male,AI,2.36,Full-time,1,Arts,Indonesian,Tamil,Yes,Non-Recipient,Yes,Others,Local School,Business,No,2023-09-08
+19,Female,Information Technology,2.41,Part-time,2,None,Others,English,No,Recipient,Yes,Permanent Resident,Local School,Business,Yes,2021-03-17
+21,Male,Information Technology,2.54,Part-time,3,Sports,Malaysian,Mandarin,Yes,Non-Recipient,No,Permanent Resident,International School,Business,Yes,2023-02-20
+19,Female,AI,2.97,Part-time,2,Volunteering,Indian,Tamil,No,Recipient,No,Permanent Resident,Local School,Business,No,2023-07-26
+19,Female,Hospitality Management,3.43,Part-time,2,Sports,Singaporean,English,No,Non-Recipient,No,Student Visa,Home Schooling,Others,Yes,2021-11-28
+24,Female,Hospitality Management,3.63,Part-time,4,Volunteering,Indian,Tamil,Yes,Non-Recipient,Yes,Student Visa,International School,Business,Yes,2022-11-27
+24,Female,Service Training,3.48,Part-time,1,Arts,Singaporean,English,Yes,Non-Recipient,Yes,Citizen,International School,Service,No,2023-05-04
+20,Male,Information Technology,3.7,Part-time,2,Volunteering,Malaysian,Mandarin,Yes,Recipient,Yes,Others,International School,Service,Yes,2021-04-27
+23,Male,Machine Learning,2.28,Part-time,4,Volunteering,Malaysian,Malay,Yes,Non-Recipient,No,Citizen,Home Schooling,Service,Yes,2021-12-25
+24,Male,Information Technology,2.9,Part-time,3,Volunteering,Indian,Malay,No,Non-Recipient,Yes,Student Visa,Home Schooling,Others,No,2022-01-15
+23,Female,FinTech,2.41,Full-time,4,Volunteering,Malaysian,Tamil,Yes,Non-Recipient,Yes,Permanent Resident,Others,Business,No,2022-08-23
+24,Female,AI,2.53,Part-time,3,Arts,Others,Others,No,Non-Recipient,No,Citizen,International School,Healthcare,No,2022-10-11
+19,Female,FinTech,3.41,Part-time,2,Volunteering,Singaporean,Mandarin,No,Non-Recipient,No,Others,Local School,Service,No,2023-02-17
+20,Male,Service Training,2.19,Part-time,2,Volunteering,Malaysian,Tamil,No,Non-Recipient,Yes,Others,International School,Business,Yes,2021-03-14
+24,Male,AI,3.33,Full-time,3,Arts,Others,Malay,No,Non-Recipient,Yes,Permanent Resident,Home Schooling,Others,No,2023-12-13
+20,Female,Business,3.18,Full-time,2,None,Malaysian,Others,Yes,Recipient,No,Others,Local School,Business,Yes,2021-02-22
+21,Male,Business,3.9,Full-time,3,None,Malaysian,Tamil,No,Recipient,No,Others,Others,Others,No,2022-08-10
+24,Male,Machine Learning,2.53,Part-time,3,Arts,Others,Others,Yes,Non-Recipient,Yes,Permanent Resident,Home Schooling,Service,No,2023-06-24
+22,Female,Machine Learning,2.59,Full-time,1,Sports,Malaysian,Malay,No,Non-Recipient,No,Citizen,Home Schooling,Education,No,2023-04-22
+22,Female,FinTech,2.25,Full-time,2,Volunteering,Singaporean,English,Yes,Recipient,No,Student Visa,Local School,Others,No,2022-08-23
+22,Female,Business,2.76,Part-time,1,Sports,Indonesian,Tamil,No,Recipient,Yes,Permanent Resident,International School,Healthcare,Yes,2021-10-07
+20,Female,FinTech,3.87,Part-time,1,Sports,Others,Others,Yes,Non-Recipient,Yes,Others,International School,Service,No,2022-12-22
+21,Female,Machine Learning,2.86,Part-time,1,Volunteering,Singaporean,Malay,Yes,Recipient,No,Others,International School,Others,Yes,2021-12-18
+23,Female,AI,2.33,Part-time,1,Volunteering,Others,Mandarin,Yes,Non-Recipient,No,Others,Others,Education,No,2022-02-15
+23,Female,Business,2.37,Full-time,1,Volunteering,Singaporean,Mandarin,No,Recipient,Yes,Citizen,International School,Business,Yes,2021-02-01
+21,Male,AI,2.99,Part-time,4,Volunteering,Indonesian,Others,Yes,Recipient,No,Citizen,Others,Service,Yes,2021-07-26
+20,Male,FinTech,3.66,Full-time,4,Volunteering,Malaysian,English,No,Recipient,Yes,Others,Home Schooling,Education,No,2022-11-07
+18,Female,Information Technology,2.7,Part-time,3,Sports,Singaporean,Malay,No,Recipient,No,Permanent Resident,Local School,Others,No,2022-06-19
+23,Male,Business,3.43,Full-time,4,Arts,Others,Tamil,No,Non-Recipient,No,Others,Local School,Business,Yes,2023-05-14
+22,Male,FinTech,2.91,Full-time,4,Volunteering,Others,Malay,No,Non-Recipient,No,Others,International School,Education,Yes,2022-07-10
+23,Male,Hospitality Management,2.01,Part-time,1,None,Indonesian,Malay,Yes,Non-Recipient,No,Others,International School,Business,No,2021-01-13
+23,Female,Hospitality Management,3.95,Part-time,2,Volunteering,Singaporean,Tamil,No,Non-Recipient,No,Permanent Resident,Local School,Others,Yes,2021-12-09
+19,Female,Business,3.2,Full-time,3,Volunteering,Singaporean,Malay,Yes,Non-Recipient,No,Student Visa,Local School,Business,No,2021-11-01
+24,Female,Business,2.42,Full-time,1,Volunteering,Indonesian,English,No,Non-Recipient,No,Permanent Resident,Others,Business,Yes,2022-05-09
+23,Female,Hospitality Management,2.61,Full-time,3,Arts,Malaysian,English,Yes,Non-Recipient,No,Citizen,Home Schooling,Education,No,2023-04-19
+22,Male,Business,2.65,Full-time,2,Arts,Malaysian,English,Yes,Recipient,Yes,Permanent Resident,Others,Business,No,2022-03-13
+22,Male,FinTech,2.59,Part-time,3,None,Malaysian,Tamil,Yes,Recipient,Yes,Student Visa,International School,Healthcare,No,2021-03-05
+20,Female,Business,3.91,Part-time,4,Sports,Indonesian,Others,Yes,Non-Recipient,No,Student Visa,Home Schooling,Service,Yes,2021-09-23
+23,Female,Business,3.68,Part-time,4,Sports,Malaysian,Mandarin,No,Recipient,Yes,Permanent Resident,Home Schooling,Business,No,2021-06-09
+18,Female,Hospitality Management,3.01,Full-time,2,None,Malaysian,Mandarin,No,Non-Recipient,Yes,Others,Home Schooling,Education,Yes,2023-08-24
+23,Male,AI,3.63,Part-time,2,Sports,Singaporean,Tamil,Yes,Non-Recipient,Yes,Permanent Resident,Others,Education,No,2022-03-26
+24,Male,AI,2.17,Part-time,1,None,Others,Mandarin,No,Recipient,Yes,Student Visa,Local School,Others,No,2023-08-14
+21,Male,Business,3.23,Part-time,4,Volunteering,Indonesian,Malay,No,Non-Recipient,No,Citizen,Home Schooling,Education,No,2022-01-04
+20,Female,AI,2.38,Part-time,2,Volunteering,Indian,Malay,No,Non-Recipient,Yes,Student Visa,Local School,Service,Yes,2023-03-20
+24,Female,Hospitality Management,3.88,Full-time,2,None,Singaporean,Mandarin,No,Recipient,Yes,Others,Home Schooling,Education,Yes,2023-06-26
+24,Female,AI,3.15,Full-time,2,None,Indonesian,Mandarin,No,Non-Recipient,No,Citizen,Local School,Business,Yes,2021-07-24
+24,Female,Service Training,3.98,Full-time,4,Arts,Indonesian,Others,Yes,Non-Recipient,Yes,Others,Home Schooling,Others,Yes,2023-02-03
+20,Male,FinTech,3.91,Part-time,3,Sports,Indonesian,Mandarin,No,Non-Recipient,Yes,Permanent Resident,International School,Business,Yes,2023-09-20
+19,Female,FinTech,3.75,Part-time,2,Arts,Singaporean,Others,Yes,Non-Recipient,Yes,Student Visa,International School,Business,No,2023-06-10
+18,Male,Information Technology,3.23,Full-time,4,Arts,Others,Malay,No,Recipient,No,Citizen,International School,Business,No,2022-10-26
+24,Female,Machine Learning,2.12,Full-time,3,Arts,Indian,English,No,Non-Recipient,No,Permanent Resident,Local School,Service,No,2022-08-09
+23,Male,Service Training,3.91,Full-time,2,Volunteering,Malaysian,Others,Yes,Non-Recipient,No,Student Visa,Home Schooling,Service,Yes,2021-04-24
+23,Male,FinTech,2.31,Full-time,4,Volunteering,Singaporean,Tamil,No,Recipient,Yes,Others,Others,Healthcare,Yes,2022-03-20
+20,Female,FinTech,2.3,Part-time,3,Sports,Indonesian,Malay,Yes,Non-Recipient,No,Others,Others,Healthcare,No,2022-09-25
+22,Male,Machine Learning,2.94,Part-time,3,Volunteering,Indian,Mandarin,Yes,Non-Recipient,No,Permanent Resident,International School,Education,Yes,2021-10-01
+24,Male,FinTech,3.82,Full-time,3,Arts,Indonesian,Malay,No,Non-Recipient,Yes,Others,International School,Business,No,2023-03-13
+18,Female,Business,2.97,Part-time,3,Volunteering,Singaporean,Mandarin,Yes,Recipient,No,Student Visa,Home Schooling,Education,No,2022-02-04
+24,Female,Service Training,3.89,Part-time,1,None,Indian,English,Yes,Recipient,No,Citizen,Home Schooling,Service,No,2022-11-24
+24,Female,Information Technology,2.21,Full-time,1,Volunteering,Malaysian,Malay,No,Non-Recipient,No,Student Visa,Home Schooling,Others,Yes,2021-11-05
+23,Male,Machine Learning,3.54,Part-time,2,Sports,Singaporean,English,Yes,Recipient,No,Permanent Resident,International School,Healthcare,No,2021-04-14
+19,Female,AI,2.68,Full-time,4,Sports,Indonesian,Tamil,No,Non-Recipient,No,Student Visa,Others,Business,No,2023-02-02
+19,Male,Service Training,2.34,Part-time,3,Sports,Singaporean,Mandarin,Yes,Recipient,No,Student Visa,Others,Business,No,2021-06-18
+23,Male,Business,2.63,Part-time,2,Volunteering,Indian,Mandarin,No,Recipient,Yes,Others,Others,Others,Yes,2022-04-06
+24,Female,Business,2.07,Part-time,1,Sports,Indian,English,Yes,Recipient,No,Student Visa,International School,Healthcare,No,2023-09-15
+21,Female,Business,3.66,Part-time,4,Sports,Singaporean,Tamil,No,Recipient,Yes,Citizen,International School,Business,Yes,2022-04-10
+24,Male,AI,2.18,Full-time,3,Volunteering,Indonesian,Others,Yes,Non-Recipient,No,Student Visa,International School,Business,Yes,2023-03-10
+18,Female,Business,2.12,Full-time,1,Arts,Singaporean,Malay,No,Recipient,Yes,Student Visa,International School,Business,No,2021-04-01
+18,Female,Service Training,3.53,Part-time,4,Arts,Singaporean,Tamil,No,Recipient,Yes,Others,Local School,Education,Yes,2023-06-25
+24,Male,FinTech,2.47,Full-time,2,Arts,Indonesian,Tamil,No,Non-Recipient,Yes,Permanent Resident,International School,Business,No,2023-03-07
+20,Male,AI,3.66,Part-time,4,Sports,Indonesian,Tamil,Yes,Non-Recipient,Yes,Student Visa,International School,Education,No,2021-02-23
+21,Male,Business,2.27,Full-time,2,Volunteering,Singaporean,Others,Yes,Non-Recipient,No,Student Visa,International School,Business,No,2022-06-02
+18,Female,AI,2.6,Part-time,2,Volunteering,Indonesian,English,No,Recipient,Yes,Student Visa,Home Schooling,Business,Yes,2022-06-17
+19,Female,FinTech,2.47,Full-time,1,None,Indian,Mandarin,Yes,Non-Recipient,Yes,Citizen,Others,Education,No,2022-05-01
+19,Female,Information Technology,2.6,Full-time,4,None,Singaporean,Others,No,Recipient,Yes,Permanent Resident,Home Schooling,Business,No,2023-11-10
+19,Male,Machine Learning,3.52,Part-time,2,Volunteering,Indonesian,Mandarin,No,Recipient,Yes,Permanent Resident,Others,Business,Yes,2021-07-20
+19,Male,FinTech,3.11,Part-time,4,Volunteering,Others,English,Yes,Recipient,Yes,Others,Local School,Healthcare,Yes,2022-12-09
+23,Female,Information Technology,2.89,Part-time,1,Volunteering,Indonesian,English,No,Recipient,Yes,Permanent Resident,Local School,Others,No,2021-03-17
+21,Female,Business,2.76,Full-time,2,Sports,Indian,English,No,Non-Recipient,Yes,Student Visa,International School,Others,Yes,2021-04-15
+22,Female,Business,3.5,Part-time,2,Sports,Singaporean,English,No,Recipient,No,Student Visa,Home Schooling,Business,No,2022-03-11
+23,Female,Machine Learning,3.69,Part-time,2,None,Singaporean,English,No,Non-Recipient,No,Permanent Resident,Home Schooling,Business,Yes,2023-12-21
+19,Male,AI,2.91,Full-time,4,Arts,Others,Malay,No,Non-Recipient,Yes,Permanent Resident,Local School,Healthcare,No,2022-06-17
+23,Female,Information Technology,2.68,Part-time,2,None,Singaporean,Malay,Yes,Recipient,Yes,Citizen,Others,Service,No,2021-10-09
+21,Female,Business,3.7,Full-time,1,Sports,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Others,Local School,Healthcare,Yes,2021-07-25
+24,Female,Business,3,Part-time,2,Sports,Malaysian,Malay,Yes,Recipient,No,Others,Others,Others,No,2023-06-19
+19,Male,Information Technology,2.95,Full-time,2,None,Others,Tamil,No,Recipient,Yes,Student Visa,Home Schooling,Business,Yes,2021-08-07
+22,Female,AI,3.24,Part-time,4,Sports,Indonesian,Tamil,No,Non-Recipient,Yes,Others,International School,Others,Yes,2021-10-23
+21,Female,Information Technology,2.01,Part-time,4,None,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Student Visa,International School,Service,No,2022-10-08
+22,Male,Business,3.33,Part-time,4,Volunteering,Indian,Malay,Yes,Non-Recipient,Yes,Others,Home Schooling,Education,No,2023-07-04
+18,Female,Service Training,2.28,Part-time,4,Arts,Singaporean,English,Yes,Recipient,No,Permanent Resident,Others,Business,No,2021-08-11
+19,Female,Hospitality Management,2.96,Part-time,1,None,Indonesian,Others,No,Recipient,Yes,Others,Home Schooling,Service,Yes,2021-08-19
+19,Female,FinTech,2.4,Part-time,4,Sports,Singaporean,Others,Yes,Non-Recipient,Yes,Citizen,Others,Education,No,2021-06-02
+19,Female,Service Training,2.45,Full-time,4,Volunteering,Indonesian,Malay,No,Recipient,Yes,Student Visa,Others,Healthcare,Yes,2023-08-02
+24,Male,Service Training,3.6,Part-time,3,Sports,Indonesian,Others,Yes,Recipient,No,Citizen,Local School,Others,Yes,2023-07-09
+20,Male,Business,2.78,Full-time,2,Volunteering,Singaporean,Mandarin,No,Non-Recipient,Yes,Others,Home Schooling,Education,No,2022-11-10
+24,Female,Service Training,3.03,Full-time,3,Sports,Indian,Tamil,Yes,Non-Recipient,Yes,Citizen,Home Schooling,Others,Yes,2022-12-08
+21,Male,FinTech,2.3,Part-time,4,None,Malaysian,English,Yes,Non-Recipient,No,Student Visa,Home Schooling,Service,No,2022-08-12
+23,Male,Business,3.15,Part-time,2,Volunteering,Indian,English,Yes,Non-Recipient,No,Permanent Resident,Home Schooling,Business,Yes,2021-01-04
+20,Female,FinTech,3.3,Full-time,2,Volunteering,Singaporean,Others,No,Non-Recipient,No,Permanent Resident,Others,Education,Yes,2021-11-27
+18,Male,Business,3.89,Full-time,4,Volunteering,Others,English,Yes,Recipient,No,Student Visa,International School,Business,Yes,2023-12-11
+24,Male,Business,2.74,Full-time,2,Volunteering,Indian,Mandarin,Yes,Recipient,Yes,Others,Others,Healthcare,Yes,2021-05-24
+19,Male,Service Training,2.11,Part-time,1,None,Malaysian,Tamil,Yes,Recipient,Yes,Others,International School,Healthcare,Yes,2021-05-14
+19,Male,Service Training,2.04,Part-time,2,None,Others,Mandarin,Yes,Non-Recipient,Yes,Permanent Resident,Others,Business,Yes,2023-09-11
+22,Male,Business,2.83,Full-time,3,Sports,Indian,English,Yes,Non-Recipient,Yes,Others,International School,Business,No,2021-04-28
+20,Male,FinTech,2.38,Full-time,2,Sports,Malaysian,Malay,Yes,Non-Recipient,No,Permanent Resident,Local School,Education,Yes,2021-09-07
+18,Female,Hospitality Management,3.77,Full-time,3,None,Singaporean,Tamil,No,Recipient,Yes,Others,Home Schooling,Business,No,2023-12-03
+23,Male,Hospitality Management,3.35,Full-time,1,None,Singaporean,Others,Yes,Recipient,Yes,Permanent Resident,International School,Business,Yes,2023-01-26
+24,Male,FinTech,3.49,Part-time,2,Volunteering,Indian,English,Yes,Non-Recipient,No,Student Visa,International School,Education,Yes,2021-06-04
+19,Male,Service Training,3.56,Part-time,3,None,Singaporean,Tamil,Yes,Non-Recipient,Yes,Student Visa,Home Schooling,Healthcare,No,2022-02-27
+23,Male,Information Technology,2.46,Full-time,2,Volunteering,Malaysian,English,Yes,Recipient,No,Permanent Resident,International School,Business,No,2021-12-01
+19,Female,AI,3.88,Part-time,2,Arts,Indonesian,Tamil,Yes,Recipient,Yes,Citizen,International School,Education,Yes,2023-05-15
+20,Female,AI,2.47,Full-time,1,None,Singaporean,English,Yes,Non-Recipient,No,Student Visa,International School,Others,Yes,2023-12-08
+18,Female,Business,2.95,Part-time,3,Sports,Indonesian,Others,Yes,Recipient,Yes,Permanent Resident,International School,Business,No,2023-09-12
+22,Female,Hospitality Management,2.15,Part-time,1,Arts,Others,Malay,Yes,Recipient,Yes,Permanent Resident,Local School,Education,Yes,2023-06-21
+19,Female,Business,3.91,Full-time,3,Volunteering,Indian,Others,No,Non-Recipient,No,Student Visa,Local School,Others,Yes,2021-07-14
+24,Male,Service Training,2.57,Full-time,3,Arts,Indonesian,Malay,No,Non-Recipient,Yes,Citizen,Local School,Healthcare,Yes,2021-09-09
+22,Female,Business,2.43,Part-time,1,Volunteering,Singaporean,Tamil,No,Non-Recipient,No,Others,International School,Service,Yes,2023-10-19
+24,Female,Service Training,3.75,Full-time,1,Arts,Others,Others,Yes,Recipient,No,Citizen,Local School,Education,No,2021-03-16
+20,Female,Hospitality Management,2.37,Full-time,2,None,Singaporean,Mandarin,Yes,Recipient,No,Others,Local School,Service,No,2021-06-26
+21,Female,Information Technology,3.72,Full-time,4,Arts,Singaporean,Mandarin,No,Non-Recipient,No,Others,International School,Service,Yes,2023-11-12
+21,Female,Hospitality Management,2.24,Part-time,4,Sports,Singaporean,Mandarin,Yes,Non-Recipient,Yes,Student Visa,Local School,Business,Yes,2022-02-27
+19,Female,Information Technology,2.27,Part-time,1,Volunteering,Indian,Others,No,Recipient,Yes,Student Visa,Others,Service,Yes,2021-06-06
+19,Female,Service Training,3.36,Full-time,4,Arts,Singaporean,Mandarin,No,Non-Recipient,No,Others,International School,Service,No,2021-04-28
+18,Male,Service Training,2.49,Full-time,2,None,Indonesian,English,No,Recipient,No,Permanent Resident,Others,Others,No,2021-07-25
+21,Female,FinTech,3.62,Full-time,1,None,Singaporean,Tamil,No,Non-Recipient,No,Others,Local School,Others,No,2021-04-27
+23,Female,FinTech,2.9,Full-time,1,Arts,Indonesian,Others,Yes,Non-Recipient,Yes,Others,International School,Business,Yes,2022-12-16
+20,Male,FinTech,2.17,Full-time,2,Volunteering,Malaysian,Malay,No,Recipient,No,Citizen,International School,Business,Yes,2022-05-05
+23,Female,Service Training,2.41,Part-time,1,None,Others,Malay,No,Recipient,No,Permanent Resident,Others,Healthcare,Yes,2022-01-11
+24,Female,FinTech,2.11,Full-time,4,None,Indonesian,Mandarin,No,Recipient,No,Student Visa,Home Schooling,Education,No,2021-11-18
+21,Male,FinTech,3.79,Part-time,2,None,Others,Tamil,Yes,Non-Recipient,Yes,Permanent Resident,International School,Business,No,2022-04-16

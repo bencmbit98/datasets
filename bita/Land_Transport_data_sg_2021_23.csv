@@ -1,0 +1,1001 @@
+﻿Transport_Mode,Vehicle_Type,Trip_Purpose,Trip_Duration_Minutes,Distance_Km,Start_Time,End_Time,Passenger_Age,Gender,Nationality,Trip_Cost_SGD,Payment_Method,Service_Rating,Traffic_Condition,CO2_Emissions_Kg,Frequent_User,Peak_Hour_Travel,Accessibility_Features_Needed,Incidents_Reported
+Bicycle,None,Others,10.44,44.77,2021-01-01 00:00:00,2021-01-01 00:10:26,59,Male,Indonesian,34.2,Mobile App,2.5,Moderate,4.83,No,Yes,No,No
+Walk,None,Shopping,62.64,15.84,2021-01-02 02:16:56,2021-01-02 03:19:34,65,Male,Indonesian,47.13,Mobile App,4.8,Moderate,5.95,Yes,No,No,Yes
+Train,Van,Others,100.08,40.75,2021-01-03 04:33:52,2021-01-03 06:13:57,31,Male,Indonesian,38.16,Cash,2.9,Moderate,1.12,No,Yes,Yes,Yes
+Taxi,SUV,Business,35.95,20.66,2021-01-04 06:50:48,2021-01-04 07:26:45,41,Male,Indonesian,9.7,Travel Pass,4.7,Light,5.14,No,Yes,Yes,Yes
+Walk,None,Commuting,6.61,25.84,2021-01-05 09:07:44,2021-01-05 09:14:21,63,Female,Indian,17.03,Mobile App,3.8,Heavy,0.4,Yes,Yes,Yes,Yes
+Bus,SUV,School,60.76,35.17,2021-01-06 11:24:41,2021-01-06 12:25:27,41,Female,Indian,13.11,Travel Pass,4.2,Heavy,5.48,No,Yes,Yes,Yes
+Bicycle,None,Leisure,94.17,2.59,2021-01-07 13:41:37,2021-01-07 15:15:47,62,Male,Others,45.09,Cash,4.4,Light,3.28,No,Yes,No,Yes
+Bus,Electric Scooter,Business,78.71,11.81,2021-01-08 15:58:33,2021-01-08 17:17:16,73,Male,Others,11.69,Travel Pass,3.6,Heavy,7.79,Yes,Yes,Yes,No
+Private Car,Van,Business,24.22,8.19,2021-01-09 18:15:29,2021-01-09 18:39:42,76,Male,Indian,13.77,Card,2.9,Heavy,7.19,No,No,No,No
+Bicycle,None,Leisure,118.79,20.72,2021-01-10 20:32:25,2021-01-10 22:31:12,68,Male,Malaysian,13.05,Mobile App,2.1,Moderate,0.54,No,Yes,No,Yes
+Walk,Van,Business,88.27,18.87,2021-01-11 22:49:22,2021-01-12 00:17:38,72,Male,Singaporean,17.05,Cash,4.7,Heavy,8.01,No,No,Yes,No
+Bicycle,None,Business,10.7,6.31,2021-01-13 01:06:18,2021-01-13 01:17:00,22,Male,Others,35.99,Mobile App,1.4,Light,9.12,No,No,Yes,Yes
+Private Car,Sedan,Others,93.44,16.25,2021-01-14 03:23:14,2021-01-14 04:56:40,47,Female,Singaporean,25.96,Card,3.9,Moderate,1.17,Yes,No,No,Yes
+Train,Motorcycle,Shopping,91.75,21.54,2021-01-15 05:40:10,2021-01-15 07:11:55,55,Male,Singaporean,28.93,Cash,4.6,Moderate,5.21,Yes,Yes,No,Yes
+Bus,SUV,Shopping,84.68,49.15,2021-01-16 07:57:07,2021-01-16 09:21:48,34,Female,Others,34.26,Card,4.9,Moderate,4.58,Yes,No,No,Yes
+Bus,Sedan,Commuting,45.67,45.19,2021-01-17 10:14:03,2021-01-17 10:59:43,74,Male,Malaysian,30.36,Travel Pass,2.6,Heavy,7.7,Yes,Yes,Yes,Yes
+Private Car,SUV,Shopping,48.89,24.74,2021-01-18 12:30:59,2021-01-18 13:19:52,38,Female,Indian,36.09,Card,4.9,Heavy,1.52,Yes,Yes,No,No
+Private Car,Electric Scooter,Leisure,46.05,30.76,2021-01-19 14:47:55,2021-01-19 15:33:58,71,Female,Singaporean,11.44,Cash,4.8,Heavy,3.39,No,Yes,Yes,No
+Train,None,Leisure,35.15,20.11,2021-01-20 17:04:51,2021-01-20 17:40:00,51,Male,Malaysian,41.66,Card,2.5,Heavy,5.11,Yes,No,No,No
+Taxi,Van,Commuting,32.29,1.94,2021-01-21 19:21:48,2021-01-21 19:54:05,67,Male,Others,4.24,Cash,3.6,Moderate,0.78,Yes,No,No,No
+Private Car,Van,Others,32.37,25.3,2021-01-22 21:38:44,2021-01-22 22:11:06,43,Male,Indonesian,45.84,Card,1.7,Moderate,3.26,No,Yes,Yes,No
+Taxi,SUV,Business,93.01,6.97,2021-01-23 23:55:40,2021-01-24 01:28:41,24,Female,Others,11.56,Card,2.5,Moderate,3.56,Yes,Yes,Yes,No
+Taxi,Electric Scooter,Commuting,105.91,47.33,2021-01-25 02:12:36,2021-01-25 03:58:31,54,Male,Others,41.32,Travel Pass,4.1,Light,2.14,Yes,No,Yes,No
+Walk,None,Business,69,16.01,2021-01-26 04:29:32,2021-01-26 05:38:32,22,Male,Indonesian,30,Mobile App,2.8,Light,0.18,Yes,No,Yes,Yes
+Bus,Motorcycle,Leisure,17.47,1.51,2021-01-27 06:46:29,2021-01-27 07:03:57,78,Female,Malaysian,4.1,Travel Pass,1.9,Moderate,5.55,No,No,No,Yes
+Bicycle,Sedan,Others,36.97,6.55,2021-01-28 09:03:25,2021-01-28 09:40:23,75,Female,Indonesian,49.26,Cash,1.6,Heavy,5.71,No,No,Yes,No
+Taxi,SUV,Commuting,50.69,18.73,2021-01-29 11:20:21,2021-01-29 12:11:02,50,Female,Indian,6.87,Cash,4.6,Heavy,7,No,Yes,Yes,No
+Walk,None,Commuting,104.32,7.81,2021-01-30 13:37:17,2021-01-30 15:21:36,33,Male,Malaysian,40,Cash,2.6,Light,2.83,No,Yes,No,Yes
+Walk,Motorcycle,Business,81.07,47.16,2021-01-31 15:54:14,2021-01-31 17:15:18,46,Female,Others,40.53,Card,2.9,Heavy,4.95,No,Yes,Yes,Yes
+Bicycle,Motorcycle,Business,88.89,10.27,2021-02-01 18:11:10,2021-02-01 19:40:03,64,Female,Singaporean,30.15,Travel Pass,1.1,Heavy,2.87,Yes,No,No,No
+Train,Electric Scooter,Others,104.61,14.8,2021-02-02 20:28:06,2021-02-02 22:12:43,23,Male,Indian,40.45,Mobile App,4.3,Light,6.78,Yes,Yes,Yes,No
+Bus,SUV,Business,88.94,34.24,2021-02-03 22:45:02,2021-02-04 00:13:58,63,Male,Singaporean,29.25,Cash,3.8,Moderate,9.01,No,Yes,No,No
+Bus,Electric Scooter,School,105.93,18.53,2021-02-05 01:01:58,2021-02-05 02:47:54,27,Female,Others,44.23,Card,2.4,Heavy,6.23,No,Yes,Yes,Yes
+Train,Motorcycle,Shopping,101.42,45.96,2021-02-06 03:18:55,2021-02-06 05:00:20,47,Male,Malaysian,35.31,Card,1.4,Light,3.44,No,No,Yes,Yes
+Bicycle,Van,School,60.2,5.88,2021-02-07 05:35:51,2021-02-07 06:36:03,50,Male,Singaporean,47.66,Card,4.1,Light,1.01,No,Yes,No,No
+Bicycle,None,Others,45.67,28.56,2021-02-08 07:52:47,2021-02-08 08:38:27,30,Female,Others,13.66,Card,2.9,Light,4.86,No,Yes,No,No
+Train,Motorcycle,Others,113.03,3.94,2021-02-09 10:09:43,2021-02-09 12:02:45,73,Male,Indonesian,10.63,Cash,2.6,Moderate,6.51,Yes,Yes,No,Yes
+Bicycle,Sedan,Commuting,51.58,10.76,2021-02-10 12:26:40,2021-02-10 13:18:15,59,Male,Indian,34.47,Card,4.3,Moderate,1.2,Yes,Yes,Yes,Yes
+Walk,Motorcycle,Shopping,103.79,49.08,2021-02-11 14:43:36,2021-02-11 16:27:23,53,Female,Indonesian,12.97,Mobile App,1.7,Moderate,2.36,No,No,Yes,Yes
+Bus,Sedan,Shopping,18.23,12.08,2021-02-12 17:00:32,2021-02-12 17:18:46,37,Male,Singaporean,35.09,Cash,2.9,Heavy,9.08,Yes,Yes,Yes,Yes
+Bicycle,Van,School,114.18,11.94,2021-02-13 19:17:28,2021-02-13 21:11:39,35,Male,Indian,37.48,Mobile App,2.5,Heavy,4.34,Yes,Yes,No,No
+Private Car,Van,Shopping,45.89,41.37,2021-02-14 21:34:24,2021-02-14 22:20:17,55,Male,Singaporean,30.98,Travel Pass,3.2,Moderate,2.41,Yes,Yes,Yes,Yes
+Taxi,SUV,Commuting,39.69,8.41,2021-02-15 23:51:21,2021-02-16 00:31:02,67,Male,Singaporean,27.11,Travel Pass,1.1,Heavy,4.26,Yes,Yes,No,Yes
+Bus,SUV,Shopping,112.76,9.03,2021-02-17 02:08:17,2021-02-17 04:01:03,42,Female,Indonesian,27.84,Travel Pass,4.6,Moderate,2.21,Yes,No,Yes,Yes
+Private Car,SUV,Others,80.62,13.83,2021-02-18 04:25:13,2021-02-18 05:45:50,65,Male,Indian,50,Card,2.9,Light,2.72,No,Yes,No,Yes
+Train,Motorcycle,School,38.95,23.26,2021-02-19 06:42:09,2021-02-19 07:21:06,66,Male,Others,35.8,Cash,3,Heavy,4.82,No,Yes,Yes,No
+Bicycle,Van,Commuting,91.31,19.87,2021-02-20 08:59:05,2021-02-20 10:30:24,54,Male,Malaysian,39.92,Card,4.3,Light,4.31,Yes,Yes,Yes,No
+Taxi,SUV,Leisure,18.81,12.61,2021-02-21 11:16:02,2021-02-21 11:34:51,59,Male,Indonesian,37.55,Travel Pass,4.1,Moderate,5.11,No,Yes,No,Yes
+Bus,SUV,Commuting,99.52,31.53,2021-02-22 13:32:58,2021-02-22 15:12:29,38,Male,Others,36.16,Cash,1.3,Moderate,5.83,No,Yes,No,No
+Walk,None,Leisure,20.18,37.5,2021-02-23 15:49:54,2021-02-23 16:10:05,27,Female,Malaysian,0.54,Mobile App,3.6,Moderate,1,No,Yes,No,Yes
+Walk,Van,Shopping,71.26,47.1,2021-02-24 18:06:50,2021-02-24 19:18:06,68,Female,Malaysian,1.77,Card,2,Light,7.88,No,No,No,Yes
+Walk,Electric Scooter,Commuting,91.73,22.93,2021-02-25 20:23:47,2021-02-25 21:55:31,23,Female,Others,21.85,Mobile App,5,Light,3.44,Yes,No,No,Yes
+Bicycle,Motorcycle,Business,109.45,17.74,2021-02-26 22:40:43,2021-02-27 00:30:10,57,Female,Indonesian,44.04,Mobile App,4.5,Light,0.16,Yes,Yes,No,No
+Private Car,Van,School,14.12,45.76,2021-02-28 00:57:39,2021-02-28 01:11:46,50,Female,Indonesian,20.62,Card,4.7,Light,3.96,Yes,Yes,No,Yes
+Walk,Electric Scooter,Leisure,26.21,21.88,2021-03-01 03:14:35,2021-03-01 03:40:48,68,Male,Singaporean,13.82,Mobile App,2.6,Heavy,3.81,No,Yes,No,No
+Taxi,Electric Scooter,Shopping,65.41,18.76,2021-03-02 05:31:31,2021-03-02 06:36:56,60,Female,Indonesian,8.88,Cash,4.3,Heavy,0.45,No,No,Yes,No
+Private Car,SUV,Commuting,90.29,31.47,2021-03-03 07:48:28,2021-03-03 09:18:45,42,Male,Others,11.19,Mobile App,2.2,Moderate,3.06,No,Yes,No,No
+Taxi,Van,Business,22.19,23.41,2021-03-04 10:05:24,2021-03-04 10:27:35,23,Male,Indian,40.71,Cash,2,Heavy,4.33,No,No,No,No
+Train,Motorcycle,Leisure,6.66,22.5,2021-03-05 12:22:20,2021-03-05 12:29:00,23,Female,Others,6.64,Mobile App,1.5,Moderate,9.88,No,Yes,Yes,No
+Taxi,Motorcycle,Shopping,107.06,18.26,2021-03-06 14:39:16,2021-03-06 16:26:20,74,Female,Singaporean,8.56,Cash,2.5,Heavy,7.6,No,No,Yes,No
+Taxi,None,Others,27.47,29.17,2021-03-07 16:56:12,2021-03-07 17:23:40,21,Male,Singaporean,10.72,Card,3.9,Moderate,9.44,Yes,No,Yes,No
+Taxi,Electric Scooter,School,9.13,7.68,2021-03-08 19:13:09,2021-03-08 19:22:17,61,Male,Others,8.66,Card,2.3,Moderate,8.71,Yes,No,Yes,No
+Private Car,Van,Others,111.96,15.41,2021-03-09 21:30:05,2021-03-09 23:22:03,60,Male,Singaporean,45.22,Mobile App,2,Heavy,0.82,No,Yes,No,No
+Train,None,Business,50.76,14.68,2021-03-10 23:47:01,2021-03-11 00:37:47,22,Male,Others,29.13,Card,2.8,Moderate,7.35,Yes,No,Yes,Yes
+Walk,Sedan,School,18.02,42.24,2021-03-12 02:03:57,2021-03-12 02:21:58,78,Male,Malaysian,8.82,Card,3.8,Light,7.87,No,Yes,Yes,Yes
+Bus,Sedan,Commuting,104.62,2.69,2021-03-13 04:20:54,2021-03-13 06:05:31,62,Male,Others,37.77,Card,4.5,Moderate,3.18,Yes,No,No,Yes
+Bus,Electric Scooter,Commuting,5.52,9.4,2021-03-14 06:37:50,2021-03-14 06:43:21,18,Male,Others,37.28,Mobile App,3.7,Heavy,3.44,No,Yes,Yes,No
+Taxi,Electric Scooter,Others,109.14,25.31,2021-03-15 08:54:46,2021-03-15 10:43:54,42,Female,Singaporean,12.52,Cash,1.3,Moderate,4.57,Yes,No,Yes,Yes
+Private Car,Electric Scooter,Leisure,103.44,39.66,2021-03-16 11:11:42,2021-03-16 12:55:08,61,Male,Indian,1.04,Cash,4.6,Heavy,4.46,No,Yes,No,No
+Bus,SUV,Leisure,117.41,32.17,2021-03-17 13:28:38,2021-03-17 15:26:03,54,Female,Indian,40.23,Travel Pass,3.5,Moderate,5.1,No,Yes,No,Yes
+Train,SUV,Others,57.4,3.74,2021-03-18 15:45:35,2021-03-18 16:42:59,50,Female,Indonesian,17.41,Travel Pass,2.8,Heavy,8.49,Yes,No,Yes,Yes
+Bus,None,Leisure,94.59,49.03,2021-03-19 18:02:31,2021-03-19 19:37:06,62,Male,Indonesian,4.53,Mobile App,2.9,Heavy,7.45,No,No,Yes,Yes
+Bicycle,Van,Business,23.28,35.9,2021-03-20 20:19:27,2021-03-20 20:42:44,27,Male,Indian,26.25,Card,3.1,Light,9.5,Yes,No,No,No
+Train,Sedan,Others,74.21,43.32,2021-03-21 22:36:23,2021-03-21 23:50:36,26,Female,Others,31.52,Travel Pass,4.4,Moderate,4.28,No,Yes,No,No
+Train,Electric Scooter,Leisure,93.77,48.88,2021-03-23 00:53:20,2021-03-23 02:27:06,33,Male,Indian,41.16,Travel Pass,3.5,Heavy,0.38,Yes,No,Yes,Yes
+Walk,Electric Scooter,Business,105.09,6.62,2021-03-24 03:10:16,2021-03-24 04:55:21,69,Male,Singaporean,17.99,Card,2,Heavy,6.67,Yes,No,No,No
+Taxi,Motorcycle,Commuting,8.47,26.1,2021-03-25 05:27:12,2021-03-25 05:35:40,30,Female,Indonesian,47.85,Card,2.2,Light,6.95,No,Yes,Yes,Yes
+Taxi,Sedan,School,58.07,25.13,2021-03-26 07:44:08,2021-03-26 08:42:12,35,Male,Others,13.36,Card,3.9,Light,9.76,No,Yes,Yes,No
+Walk,Sedan,School,85.68,13.58,2021-03-27 10:01:04,2021-03-27 11:26:45,24,Male,Malaysian,18.06,Cash,1.3,Heavy,6.94,Yes,No,No,Yes
+Train,None,Others,36.42,39.02,2021-03-28 12:18:01,2021-03-28 12:54:26,37,Male,Singaporean,25.36,Card,1.5,Heavy,5.22,Yes,No,Yes,No
+Bicycle,Electric Scooter,Others,94.54,19.42,2021-03-29 14:34:57,2021-03-29 16:09:29,30,Female,Malaysian,28.64,Travel Pass,1.2,Moderate,4.71,No,No,Yes,No
+Taxi,Sedan,Shopping,114.54,3.07,2021-03-30 16:51:53,2021-03-30 18:46:25,21,Male,Others,28.51,Travel Pass,1.6,Moderate,5.03,No,No,No,Yes
+Bicycle,Van,Others,48.52,45.53,2021-03-31 19:08:49,2021-03-31 19:57:20,57,Male,Singaporean,9.79,Mobile App,1.5,Heavy,0.07,No,No,No,Yes
+Bicycle,Electric Scooter,School,107.1,49.32,2021-04-01 21:25:45,2021-04-01 23:12:51,77,Female,Singaporean,16.82,Mobile App,4.2,Moderate,7.56,No,Yes,No,No
+Walk,Motorcycle,Commuting,85.7,14.33,2021-04-02 23:42:42,2021-04-03 01:08:24,36,Male,Malaysian,38.2,Mobile App,1.5,Heavy,6.79,No,No,Yes,No
+Bus,Motorcycle,Commuting,30.59,11.14,2021-04-04 01:59:38,2021-04-04 02:30:13,24,Male,Indian,28.77,Travel Pass,1.1,Light,6.69,Yes,Yes,No,No
+Walk,Motorcycle,School,88.18,38.35,2021-04-05 04:16:34,2021-04-05 05:44:45,73,Female,Indian,29.19,Mobile App,4.5,Heavy,4.77,No,No,Yes,Yes
+Taxi,Van,Leisure,96.59,16.91,2021-04-06 06:33:30,2021-04-06 08:10:05,42,Male,Singaporean,49.42,Card,3.1,Moderate,3.64,Yes,Yes,Yes,Yes
+Walk,Van,School,101.83,18.49,2021-04-07 08:50:27,2021-04-07 10:32:17,55,Male,Indonesian,10.28,Travel Pass,1.8,Heavy,9.97,Yes,No,No,Yes
+Bus,Electric Scooter,Commuting,95.4,42.17,2021-04-08 11:07:23,2021-04-08 12:42:47,73,Female,Malaysian,28.32,Mobile App,2.1,Moderate,7.96,Yes,No,Yes,Yes
+Private Car,Electric Scooter,Commuting,32.96,21.77,2021-04-09 13:24:19,2021-04-09 13:57:17,43,Male,Malaysian,11.41,Card,1.1,Moderate,0.07,Yes,Yes,No,Yes
+Bus,Motorcycle,Shopping,118.38,37.74,2021-04-10 15:41:15,2021-04-10 17:39:38,35,Female,Singaporean,43.87,Travel Pass,1.6,Heavy,9.79,Yes,Yes,Yes,Yes
+Taxi,Van,Leisure,91.84,34.45,2021-04-11 17:58:11,2021-04-11 19:30:01,79,Female,Others,0.29,Card,1.3,Heavy,4.54,Yes,Yes,Yes,No
+Bicycle,Electric Scooter,Commuting,28,36.79,2021-04-12 20:15:08,2021-04-12 20:43:08,23,Female,Singaporean,13.9,Travel Pass,3.1,Moderate,9.78,Yes,Yes,No,Yes
+Walk,None,Commuting,52.78,5.53,2021-04-13 22:32:04,2021-04-13 23:24:51,47,Female,Others,22.61,Travel Pass,3.1,Heavy,1.08,No,No,No,No
+Train,None,School,54.76,10.56,2021-04-15 00:49:00,2021-04-15 01:43:46,73,Female,Indian,20.14,Card,3,Moderate,8.47,No,No,Yes,Yes
+Private Car,None,School,23.08,27.12,2021-04-16 03:05:56,2021-04-16 03:29:01,24,Female,Indonesian,4.58,Card,1.3,Heavy,6.44,Yes,Yes,No,Yes
+Train,Sedan,Shopping,7.21,17.24,2021-04-17 05:22:52,2021-04-17 05:30:05,77,Female,Others,2.58,Cash,4.3,Moderate,3.44,Yes,No,Yes,Yes
+Bus,Sedan,School,15.94,40.96,2021-04-18 07:39:49,2021-04-18 07:55:45,63,Male,Others,40.09,Card,4.6,Moderate,4.79,Yes,No,No,Yes
+Bus,Electric Scooter,Leisure,45.21,11.33,2021-04-19 09:56:45,2021-04-19 10:41:58,47,Female,Indian,39.17,Travel Pass,4.7,Light,1.84,No,No,No,No
+Walk,SUV,School,17.22,31.04,2021-04-20 12:13:41,2021-04-20 12:30:54,51,Female,Indonesian,10.84,Mobile App,2.9,Moderate,1.04,No,No,No,No
+Private Car,Electric Scooter,School,80.14,1.02,2021-04-21 14:30:37,2021-04-21 15:50:45,69,Female,Indian,47.53,Mobile App,3.5,Light,0.49,No,Yes,Yes,Yes
+Train,Electric Scooter,Commuting,24.88,40.01,2021-04-22 16:47:34,2021-04-22 17:12:27,69,Male,Malaysian,11.67,Card,4.4,Moderate,6.82,Yes,Yes,No,Yes
+Private Car,None,Business,76.66,4.74,2021-04-23 19:04:30,2021-04-23 20:21:10,78,Female,Others,5.79,Mobile App,4.9,Heavy,4.89,No,Yes,Yes,No
+Bus,Sedan,Others,93.77,42.95,2021-04-24 21:21:26,2021-04-24 22:55:12,45,Male,Others,30.13,Card,2.8,Moderate,9.05,No,No,Yes,Yes
+Taxi,Sedan,Others,119.52,13.02,2021-04-25 23:38:22,2021-04-26 01:37:53,19,Female,Indonesian,48.24,Card,4.3,Heavy,0.94,Yes,No,No,Yes
+Bus,None,Shopping,32.4,35.23,2021-04-27 01:55:18,2021-04-27 02:27:42,45,Male,Others,44.12,Mobile App,4.3,Light,1.73,No,No,Yes,No
+Train,Motorcycle,Shopping,83.48,7.42,2021-04-28 04:12:15,2021-04-28 05:35:44,43,Female,Indonesian,13.86,Card,4.9,Light,7.03,Yes,Yes,Yes,Yes
+Private Car,Van,Shopping,73.65,2.34,2021-04-29 06:29:11,2021-04-29 07:42:50,19,Female,Indonesian,35.77,Travel Pass,1.5,Light,8.32,No,No,Yes,Yes
+Train,SUV,Business,108.1,2.38,2021-04-30 08:46:07,2021-04-30 10:34:13,44,Male,Indian,37.21,Travel Pass,3.5,Light,5.51,No,Yes,Yes,Yes
+Bicycle,Van,Shopping,77.08,34.88,2021-05-01 11:03:03,2021-05-01 12:20:08,74,Female,Indian,0.07,Mobile App,1.4,Light,0.35,Yes,Yes,Yes,No
+Bus,Sedan,Others,103.74,24.51,2021-05-02 13:20:00,2021-05-02 15:03:44,21,Female,Indonesian,46.05,Travel Pass,1.9,Moderate,3.82,Yes,Yes,No,Yes
+Bus,None,Commuting,66.58,24.63,2021-05-03 15:36:56,2021-05-03 16:43:31,74,Male,Others,4.19,Card,2.6,Heavy,6.38,No,Yes,Yes,Yes
+Private Car,Sedan,Business,31.79,46.37,2021-05-04 17:53:52,2021-05-04 18:25:39,42,Male,Others,10.7,Card,3.2,Light,9.18,No,No,Yes,No
+Private Car,None,Shopping,92.72,20.52,2021-05-05 20:10:48,2021-05-05 21:43:31,52,Female,Others,13.48,Travel Pass,3.1,Light,5.75,No,No,Yes,No
+Bus,Sedan,Leisure,26.29,19.99,2021-05-06 22:27:44,2021-05-06 22:54:01,61,Female,Others,18.47,Cash,1.7,Heavy,4.35,No,Yes,Yes,Yes
+Train,Van,Commuting,103.07,10.05,2021-05-08 00:44:41,2021-05-08 02:27:45,50,Male,Indian,1.82,Cash,1.4,Moderate,9.94,Yes,Yes,No,No
+Bus,Sedan,Shopping,76.84,32.11,2021-05-09 03:01:37,2021-05-09 04:18:27,40,Female,Malaysian,9.61,Cash,3.3,Light,2.65,Yes,Yes,Yes,Yes
+Bicycle,SUV,Commuting,101.06,23.31,2021-05-10 05:18:33,2021-05-10 06:59:37,32,Female,Others,7.01,Cash,1.8,Light,3.76,No,Yes,Yes,No
+Taxi,Van,Shopping,17.74,28.44,2021-05-11 07:35:29,2021-05-11 07:53:13,63,Female,Indian,0.84,Card,4.9,Moderate,8.94,Yes,Yes,No,No
+Taxi,SUV,Others,97.86,49.59,2021-05-12 09:52:25,2021-05-12 11:30:17,65,Female,Indonesian,33.13,Card,4.8,Light,8.95,Yes,No,No,No
+Taxi,None,Others,67.22,49.01,2021-05-13 12:09:22,2021-05-13 13:16:35,65,Male,Malaysian,35.74,Travel Pass,4.1,Light,3.4,No,No,No,Yes
+Bicycle,None,School,53.43,25.52,2021-05-14 14:26:18,2021-05-14 15:19:44,56,Female,Indonesian,19.51,Cash,2.2,Moderate,0.09,No,No,No,No
+Train,Van,Others,64.41,14.08,2021-05-15 16:43:14,2021-05-15 17:47:39,78,Male,Others,1.27,Cash,1.2,Heavy,0.76,No,Yes,Yes,Yes
+Bus,SUV,School,29.43,27.93,2021-05-16 19:00:10,2021-05-16 19:29:36,26,Male,Others,35.55,Cash,2.2,Light,3.71,Yes,No,No,Yes
+Private Car,None,Business,102.02,45,2021-05-17 21:17:07,2021-05-17 22:59:08,75,Male,Others,21.34,Travel Pass,1.5,Heavy,9.76,No,No,Yes,Yes
+Bus,Motorcycle,Business,28.29,32.91,2021-05-18 23:34:03,2021-05-19 00:02:20,20,Male,Malaysian,13.88,Cash,2.2,Heavy,9.58,Yes,No,No,Yes
+Bicycle,Motorcycle,Business,10.41,39.01,2021-05-20 01:50:59,2021-05-20 02:01:24,29,Female,Singaporean,19.33,Cash,4,Moderate,8.67,No,Yes,Yes,No
+Walk,Motorcycle,Others,40.36,38.57,2021-05-21 04:07:55,2021-05-21 04:48:17,38,Female,Indonesian,21.87,Cash,3.6,Light,9.75,No,Yes,No,Yes
+Train,Sedan,Commuting,73.58,20.79,2021-05-22 06:24:51,2021-05-22 07:38:26,27,Female,Others,38.37,Travel Pass,2.7,Moderate,8.74,No,Yes,Yes,Yes
+Private Car,Sedan,Leisure,57.92,9.11,2021-05-23 08:41:48,2021-05-23 09:39:43,49,Male,Indian,49.74,Travel Pass,2.1,Heavy,0.61,No,No,Yes,No
+Bus,None,Shopping,108.78,34.64,2021-05-24 10:58:44,2021-05-24 12:47:31,21,Female,Singaporean,48.41,Cash,2.3,Heavy,1.2,Yes,Yes,No,Yes
+Walk,None,Business,8.82,3.05,2021-05-25 13:15:40,2021-05-25 13:24:29,58,Male,Indonesian,47.77,Cash,2.8,Heavy,3.04,Yes,No,Yes,No
+Taxi,Sedan,School,88.11,20.97,2021-05-26 15:32:36,2021-05-26 17:00:43,21,Female,Indonesian,12.79,Mobile App,4,Heavy,7,No,No,No,No
+Bicycle,Sedan,Commuting,54.07,46.81,2021-05-27 17:49:32,2021-05-27 18:43:36,32,Male,Indonesian,28.98,Travel Pass,4.9,Heavy,7.68,No,No,No,Yes
+Walk,None,Leisure,15.07,17.07,2021-05-28 20:06:29,2021-05-28 20:21:33,62,Male,Indonesian,35.87,Travel Pass,1.1,Moderate,3.21,No,Yes,No,Yes
+Bus,SUV,School,97.22,32.29,2021-05-29 22:23:25,2021-05-30 00:00:38,50,Female,Malaysian,32.11,Travel Pass,2.2,Moderate,2.04,Yes,Yes,Yes,Yes
+Taxi,None,Commuting,50.69,3.53,2021-05-31 00:40:21,2021-05-31 01:31:02,18,Male,Indonesian,25.27,Mobile App,2,Heavy,7.3,No,Yes,No,Yes
+Taxi,SUV,Others,45.06,3.33,2021-06-01 02:57:17,2021-06-01 03:42:21,44,Male,Malaysian,37.8,Cash,4.6,Moderate,7.11,Yes,Yes,No,Yes
+Private Car,Sedan,School,36.91,32.87,2021-06-02 05:14:14,2021-06-02 05:51:09,67,Male,Indonesian,34.84,Travel Pass,2.4,Moderate,5.44,Yes,No,No,Yes
+Bus,None,Leisure,86.99,37.44,2021-06-03 07:31:10,2021-06-03 08:58:09,26,Female,Indian,49.91,Cash,1.4,Light,8.83,Yes,No,No,Yes
+Bus,Sedan,Business,13.82,13.08,2021-06-04 09:48:06,2021-06-04 10:01:55,26,Male,Indian,10.78,Mobile App,3.8,Heavy,2.63,Yes,No,Yes,No
+Private Car,Van,Business,104.11,10.82,2021-06-05 12:05:02,2021-06-05 13:49:09,45,Female,Indonesian,26.17,Cash,3.3,Moderate,2.76,No,No,Yes,No
+Bicycle,Van,Commuting,58,18.82,2021-06-06 14:21:58,2021-06-06 15:19:58,41,Male,Malaysian,0.18,Mobile App,5,Heavy,0.84,No,No,Yes,Yes
+Private Car,SUV,Business,64.78,30.99,2021-06-07 16:38:55,2021-06-07 17:43:42,59,Female,Others,2.89,Travel Pass,2.1,Light,4.74,No,No,Yes,No
+Bus,Sedan,School,103.92,10.27,2021-06-08 18:55:51,2021-06-08 20:39:46,20,Female,Malaysian,29.4,Mobile App,2.7,Light,8.27,Yes,No,Yes,Yes
+Train,Van,Commuting,51.71,31.56,2021-06-09 21:12:47,2021-06-09 22:04:30,31,Male,Indonesian,45.11,Card,2.6,Light,6.45,No,No,Yes,No
+Train,None,Leisure,24.2,42.84,2021-06-10 23:29:43,2021-06-10 23:53:55,43,Female,Indian,11.79,Mobile App,3.4,Light,8.05,No,Yes,No,No
+Walk,Electric Scooter,School,97.59,23.64,2021-06-12 01:46:40,2021-06-12 03:24:15,54,Male,Malaysian,1.83,Mobile App,3,Moderate,7.11,Yes,No,No,Yes
+Private Car,SUV,Others,20.94,36.56,2021-06-13 04:03:36,2021-06-13 04:24:32,21,Male,Others,24.93,Travel Pass,1.7,Moderate,3.08,No,Yes,No,Yes
+Walk,Motorcycle,Business,52.55,31.78,2021-06-14 06:20:32,2021-06-14 07:13:05,75,Female,Malaysian,20.86,Cash,1.9,Light,5.81,No,Yes,Yes,No
+Bicycle,Motorcycle,Leisure,11.24,48.29,2021-06-15 08:37:28,2021-06-15 08:48:42,20,Female,Malaysian,37.1,Card,1.6,Moderate,2.88,No,No,No,No
+Private Car,Electric Scooter,Shopping,31.93,47.99,2021-06-16 10:54:24,2021-06-16 11:26:20,62,Female,Indian,25.5,Cash,3.7,Moderate,7.97,No,Yes,Yes,Yes
+Taxi,Van,Shopping,61.55,19.23,2021-06-17 13:11:21,2021-06-17 14:12:54,73,Male,Others,48.45,Cash,3.2,Heavy,8.06,No,No,No,No
+Taxi,None,Leisure,41.5,25.52,2021-06-18 15:28:17,2021-06-18 16:09:47,79,Female,Indonesian,41.93,Travel Pass,4.2,Heavy,4.44,Yes,Yes,No,Yes
+Private Car,Van,Others,34.27,36.03,2021-06-19 17:45:13,2021-06-19 18:19:29,39,Male,Malaysian,31.54,Travel Pass,3,Heavy,5.18,No,No,Yes,No
+Taxi,Van,Commuting,113.47,49.89,2021-06-20 20:02:09,2021-06-20 21:55:37,28,Female,Singaporean,8.1,Mobile App,3.4,Moderate,4.38,No,Yes,Yes,No
+Walk,None,Commuting,38.62,7.11,2021-06-21 22:19:05,2021-06-21 22:57:42,32,Male,Others,9.99,Travel Pass,2.2,Light,5.56,Yes,No,Yes,No
+Walk,SUV,Leisure,86.13,23.92,2021-06-23 00:36:02,2021-06-23 02:02:10,46,Male,Singaporean,42.5,Mobile App,4.3,Light,5.42,No,No,No,No
+Train,Van,Business,102.55,15.93,2021-06-24 02:52:58,2021-06-24 04:35:31,30,Male,Indian,22.43,Mobile App,4.9,Heavy,7.05,No,No,No,Yes
+Taxi,None,Others,51.02,24.28,2021-06-25 05:09:54,2021-06-25 06:00:55,40,Male,Malaysian,26.54,Travel Pass,3.2,Light,5.57,No,No,Yes,No
+Taxi,SUV,Shopping,60.73,49.13,2021-06-26 07:26:50,2021-06-26 08:27:34,44,Male,Others,12.99,Card,4,Light,5.44,Yes,No,No,No
+Private Car,None,Commuting,43.14,8.88,2021-06-27 09:43:47,2021-06-27 10:26:55,72,Male,Malaysian,42,Travel Pass,4.5,Moderate,0.77,Yes,No,No,Yes
+Bicycle,Motorcycle,School,38.54,5.19,2021-06-28 12:00:43,2021-06-28 12:39:15,69,Male,Malaysian,10.57,Mobile App,1.2,Light,4.78,No,Yes,Yes,No
+Bicycle,Electric Scooter,School,119.76,1.03,2021-06-29 14:17:39,2021-06-29 16:17:25,22,Male,Others,13.38,Card,4.9,Moderate,0.4,Yes,Yes,Yes,No
+Taxi,Van,School,43.23,1.61,2021-06-30 16:34:35,2021-06-30 17:17:49,52,Male,Malaysian,40.73,Cash,3.8,Heavy,9.65,No,Yes,No,No
+Train,SUV,Commuting,11.3,0.75,2021-07-01 18:51:31,2021-07-01 19:02:49,54,Female,Indonesian,43.07,Card,2.8,Moderate,0.58,Yes,No,Yes,Yes
+Train,None,Business,62.41,37.94,2021-07-02 21:08:28,2021-07-02 22:10:53,48,Female,Indonesian,5.72,Mobile App,3.3,Moderate,9.46,Yes,Yes,No,Yes
+Bus,Sedan,Leisure,49.89,19.22,2021-07-03 23:25:24,2021-07-04 00:15:17,54,Female,Others,47.9,Card,4.8,Light,1.65,No,No,Yes,No
+Walk,Electric Scooter,Others,59.79,49.8,2021-07-05 01:42:20,2021-07-05 02:42:07,50,Male,Indonesian,0.46,Travel Pass,4.5,Moderate,6.88,Yes,Yes,No,No
+Private Car,SUV,Commuting,34.72,9.07,2021-07-06 03:59:16,2021-07-06 04:33:59,78,Male,Others,45.68,Cash,4.9,Moderate,9.42,No,No,Yes,Yes
+Walk,Van,Business,24.49,18.62,2021-07-07 06:16:12,2021-07-07 06:40:41,37,Male,Indian,16.77,Mobile App,4,Moderate,2.67,No,No,No,Yes
+Bicycle,Motorcycle,Others,56.78,23.81,2021-07-08 08:33:09,2021-07-08 09:29:56,53,Male,Singaporean,10.97,Cash,1.2,Light,8.01,Yes,No,Yes,Yes
+Bicycle,Sedan,Leisure,74.6,33.34,2021-07-09 10:50:05,2021-07-09 12:04:41,34,Female,Singaporean,49.59,Mobile App,4.1,Moderate,7.28,Yes,No,Yes,No
+Private Car,Electric Scooter,Leisure,92.09,41.63,2021-07-10 13:07:01,2021-07-10 14:39:06,51,Male,Indonesian,12.48,Cash,2.3,Light,4.18,No,Yes,Yes,Yes
+Taxi,SUV,Commuting,38.69,15.34,2021-07-11 15:23:57,2021-07-11 16:02:38,43,Female,Singaporean,43.57,Cash,2,Heavy,4.45,No,Yes,No,Yes
+Bus,Van,Shopping,53.91,32.16,2021-07-12 17:40:54,2021-07-12 18:34:49,32,Female,Others,0.24,Card,4.4,Heavy,1.49,No,Yes,Yes,No
+Train,Sedan,Shopping,61.7,34.11,2021-07-13 19:57:50,2021-07-13 20:59:32,43,Female,Indonesian,2.32,Mobile App,2.4,Moderate,6.66,No,No,Yes,Yes
+Bus,None,Business,113.16,2.36,2021-07-14 22:14:46,2021-07-15 00:07:56,63,Male,Indonesian,29.69,Card,2.4,Moderate,0.47,Yes,No,Yes,Yes
+Walk,Electric Scooter,Commuting,55.41,18.22,2021-07-16 00:31:42,2021-07-16 01:27:07,54,Male,Others,9.97,Travel Pass,1.3,Moderate,9.94,Yes,Yes,No,Yes
+Bicycle,Electric Scooter,Others,62.94,0.89,2021-07-17 02:48:38,2021-07-17 03:51:34,42,Female,Malaysian,34.87,Cash,3.6,Heavy,6.29,No,Yes,Yes,No
+Walk,Sedan,Shopping,38.15,20.37,2021-07-18 05:05:35,2021-07-18 05:43:44,73,Female,Singaporean,1.85,Travel Pass,4.2,Heavy,1.08,No,No,Yes,Yes
+Bicycle,Sedan,Shopping,72.8,33.34,2021-07-19 07:22:31,2021-07-19 08:35:19,28,Male,Singaporean,31.9,Cash,2.4,Moderate,8.46,Yes,Yes,Yes,Yes
+Taxi,Motorcycle,Others,94.34,40.69,2021-07-20 09:39:27,2021-07-20 11:13:47,21,Female,Indonesian,18.91,Cash,4.7,Heavy,7.41,Yes,No,No,No
+Private Car,Electric Scooter,School,87.62,18.13,2021-07-21 11:56:23,2021-07-21 13:24:00,60,Male,Others,2.1,Cash,2.1,Moderate,6.52,Yes,No,No,Yes
+Bicycle,Electric Scooter,Leisure,13.86,12.01,2021-07-22 14:13:20,2021-07-22 14:27:12,29,Female,Others,37.62,Travel Pass,3.6,Light,9.92,No,No,No,Yes
+Taxi,Van,Others,19.04,23.8,2021-07-23 16:30:16,2021-07-23 16:49:18,54,Female,Indonesian,4.79,Card,2.5,Light,8.21,No,No,Yes,Yes
+Private Car,None,Others,56.86,34.32,2021-07-24 18:47:12,2021-07-24 19:44:04,44,Female,Indian,35.72,Cash,3.5,Heavy,9.34,Yes,No,No,No
+Walk,SUV,Commuting,84.88,48.35,2021-07-25 21:04:08,2021-07-25 22:29:01,62,Male,Indonesian,29.12,Mobile App,3.2,Moderate,9.97,No,Yes,Yes,Yes
+Bus,Sedan,Others,6.05,4.34,2021-07-26 23:21:04,2021-07-26 23:27:07,35,Male,Indonesian,28.75,Travel Pass,2.5,Moderate,7.33,Yes,No,Yes,Yes
+Bicycle,Van,Commuting,28.67,9.92,2021-07-28 01:38:01,2021-07-28 02:06:41,31,Male,Indian,34.94,Travel Pass,2.2,Moderate,5.99,Yes,Yes,No,No
+Private Car,SUV,Shopping,91.28,20.31,2021-07-29 03:54:57,2021-07-29 05:26:14,78,Male,Indian,35.02,Cash,2.3,Heavy,5.68,Yes,No,Yes,Yes
+Bicycle,Motorcycle,Business,17.08,29.02,2021-07-30 06:11:53,2021-07-30 06:28:58,22,Male,Singaporean,18.8,Cash,2,Light,8.66,No,No,No,Yes
+Private Car,Van,Leisure,77.78,7.27,2021-07-31 08:28:49,2021-07-31 09:46:36,27,Female,Malaysian,38.82,Card,3.8,Heavy,1.37,Yes,Yes,Yes,Yes
+Taxi,SUV,Others,62.86,1.33,2021-08-01 10:45:45,2021-08-01 11:48:37,28,Male,Others,28.13,Mobile App,2.1,Light,1.58,Yes,Yes,No,No
+Train,SUV,Business,53.87,26.71,2021-08-02 13:02:42,2021-08-02 13:56:34,59,Male,Indian,39.36,Card,2.1,Light,9.28,No,No,No,No
+Taxi,None,Leisure,81.61,49.19,2021-08-03 15:19:38,2021-08-03 16:41:15,38,Female,Indonesian,44.25,Card,4.7,Light,8.36,Yes,Yes,Yes,Yes
+Bus,Electric Scooter,Shopping,13.25,37.3,2021-08-04 17:36:34,2021-08-04 17:49:49,38,Male,Indonesian,38.11,Mobile App,2.5,Moderate,1.4,No,No,No,Yes
+Bus,Van,Leisure,113.87,31.52,2021-08-05 19:53:30,2021-08-05 21:47:22,63,Male,Singaporean,16.85,Mobile App,4.5,Light,5.48,Yes,Yes,Yes,No
+Walk,SUV,Leisure,58.56,5.74,2021-08-06 22:10:27,2021-08-06 23:09:01,29,Male,Indonesian,1.95,Card,3.3,Light,2.27,No,Yes,No,Yes
+Train,Van,Business,29.25,27.61,2021-08-08 00:27:23,2021-08-08 00:56:38,56,Male,Singaporean,28.8,Mobile App,2.2,Moderate,1.74,No,Yes,Yes,Yes
+Walk,Sedan,Commuting,26.31,3.67,2021-08-09 02:44:19,2021-08-09 03:10:38,40,Male,Indian,40.13,Mobile App,3.3,Moderate,9.43,Yes,No,No,No
+Taxi,None,Leisure,36.35,33.28,2021-08-10 05:01:15,2021-08-10 05:37:36,50,Male,Indian,8.89,Cash,3.7,Heavy,2.56,No,Yes,No,No
+Bicycle,Electric Scooter,School,86.39,36.13,2021-08-11 07:18:11,2021-08-11 08:44:34,68,Male,Indonesian,17.09,Card,1.9,Moderate,8.22,Yes,Yes,No,No
+Walk,Motorcycle,School,17.5,44.54,2021-08-12 09:35:08,2021-08-12 09:52:38,62,Male,Indonesian,17.75,Card,4.2,Moderate,7.75,Yes,No,No,No
+Bus,Electric Scooter,School,85.22,47.38,2021-08-13 11:52:04,2021-08-13 13:17:17,19,Male,Indonesian,16.79,Mobile App,1.1,Heavy,9.52,No,Yes,No,No
+Private Car,Electric Scooter,Others,112.12,44.64,2021-08-14 14:09:00,2021-08-14 16:01:07,64,Male,Others,46.52,Mobile App,4.1,Light,6.26,Yes,Yes,No,Yes
+Bus,Sedan,Business,58.54,5.95,2021-08-15 16:25:56,2021-08-15 17:24:28,45,Male,Indian,18.46,Mobile App,2.2,Moderate,1.44,No,No,Yes,Yes
+Taxi,Van,Business,115.65,46.08,2021-08-16 18:42:52,2021-08-16 20:38:31,53,Female,Indonesian,17.26,Mobile App,4.7,Heavy,5.84,Yes,Yes,Yes,Yes
+Train,Electric Scooter,Commuting,25.35,7.49,2021-08-17 20:59:49,2021-08-17 21:25:10,18,Male,Others,47.74,Travel Pass,4.4,Light,6.07,Yes,Yes,No,Yes
+Taxi,Van,Business,18.72,44.23,2021-08-18 23:16:45,2021-08-18 23:35:28,30,Male,Malaysian,3.79,Cash,2,Moderate,8.95,No,Yes,Yes,No
+Taxi,None,Shopping,115.85,49.55,2021-08-20 01:33:41,2021-08-20 03:29:32,69,Female,Indian,37.34,Card,2.6,Moderate,3.18,Yes,Yes,Yes,Yes
+Private Car,Motorcycle,Others,17.96,17.21,2021-08-21 03:50:37,2021-08-21 04:08:35,52,Female,Indian,36.54,Mobile App,1.1,Heavy,4.23,Yes,Yes,No,Yes
+Bus,Motorcycle,Business,111.1,32.85,2021-08-22 06:07:34,2021-08-22 07:58:40,56,Female,Malaysian,6.9,Cash,1.8,Light,8.51,No,No,Yes,No
+Private Car,Motorcycle,Shopping,42.14,4.81,2021-08-23 08:24:30,2021-08-23 09:06:38,64,Male,Indonesian,8.92,Travel Pass,4.8,Light,5.36,No,No,No,Yes
+Train,Electric Scooter,Business,92.37,48,2021-08-24 10:41:26,2021-08-24 12:13:48,43,Male,Singaporean,17.64,Cash,2.4,Heavy,1.19,Yes,Yes,Yes,Yes
+Train,SUV,Business,86.04,44.02,2021-08-25 12:58:22,2021-08-25 14:24:24,58,Female,Others,34.25,Card,4.2,Heavy,0.73,No,No,No,Yes
+Bicycle,Motorcycle,Commuting,28.29,38.07,2021-08-26 15:15:18,2021-08-26 15:43:35,46,Male,Malaysian,8.82,Travel Pass,3.3,Moderate,8.66,Yes,No,Yes,Yes
+Bicycle,SUV,Shopping,92.29,33.82,2021-08-27 17:32:15,2021-08-27 19:04:32,40,Female,Singaporean,22.65,Mobile App,3.9,Heavy,6.61,No,No,Yes,No
+Bicycle,SUV,Others,66.65,42.88,2021-08-28 19:49:11,2021-08-28 20:55:50,78,Male,Malaysian,6.17,Mobile App,3.8,Heavy,1.53,No,No,Yes,Yes
+Private Car,SUV,Commuting,81.32,24.37,2021-08-29 22:06:07,2021-08-29 23:27:26,47,Female,Singaporean,13.54,Mobile App,1.3,Heavy,7.03,Yes,Yes,No,No
+Train,None,Shopping,117.8,2.92,2021-08-31 00:23:03,2021-08-31 02:20:51,42,Male,Singaporean,4.19,Cash,4.8,Moderate,9.2,Yes,Yes,No,No
+Taxi,SUV,Commuting,98.22,44.11,2021-09-01 02:40:00,2021-09-01 04:18:13,71,Male,Indian,15.79,Mobile App,4.7,Heavy,2.81,No,Yes,No,No
+Train,SUV,Leisure,41.72,15.96,2021-09-02 04:56:56,2021-09-02 05:38:39,51,Female,Others,33.77,Mobile App,2,Moderate,9.42,No,Yes,No,Yes
+Walk,SUV,School,11.34,24.75,2021-09-03 07:13:52,2021-09-03 07:25:12,56,Male,Singaporean,27.29,Mobile App,2.3,Heavy,6.04,No,No,Yes,Yes
+Bicycle,None,Commuting,119.44,24.32,2021-09-04 09:30:48,2021-09-04 11:30:14,32,Male,Malaysian,17.3,Travel Pass,3.8,Heavy,8.36,No,No,No,No
+Walk,SUV,Leisure,41.49,7.04,2021-09-05 11:47:44,2021-09-05 12:29:13,68,Male,Indonesian,22.86,Card,1.1,Heavy,0.74,Yes,Yes,Yes,No
+Train,Sedan,Leisure,10.56,25.04,2021-09-06 14:04:41,2021-09-06 14:15:15,75,Male,Indonesian,11.27,Mobile App,3.4,Moderate,8.69,Yes,Yes,No,Yes
+Taxi,None,School,87.9,29.73,2021-09-07 16:21:37,2021-09-07 17:49:31,30,Male,Malaysian,0.41,Mobile App,4.9,Light,6.71,No,Yes,Yes,Yes
+Train,Motorcycle,Commuting,57.66,34.87,2021-09-08 18:38:33,2021-09-08 19:36:13,33,Female,Indonesian,22.9,Cash,3.8,Heavy,8.66,Yes,No,Yes,Yes
+Bus,Electric Scooter,Business,49.09,23.01,2021-09-09 20:55:29,2021-09-09 21:44:34,54,Male,Others,47.54,Travel Pass,4.3,Light,5.2,Yes,No,No,Yes
+Private Car,SUV,Business,31.73,1.47,2021-09-10 23:12:25,2021-09-10 23:44:09,40,Female,Indonesian,36.89,Mobile App,4.3,Light,6.61,Yes,Yes,Yes,No
+Bus,None,Leisure,98.81,1.52,2021-09-12 01:29:22,2021-09-12 03:08:11,20,Female,Singaporean,23.99,Travel Pass,1.1,Moderate,3.1,No,Yes,Yes,Yes
+Walk,SUV,Shopping,98.49,3.74,2021-09-13 03:46:18,2021-09-13 05:24:47,66,Male,Singaporean,13.67,Mobile App,4.1,Light,9.9,Yes,Yes,No,Yes
+Taxi,Electric Scooter,Others,53.67,40.5,2021-09-14 06:03:14,2021-09-14 06:56:54,61,Female,Others,9.31,Travel Pass,3.8,Moderate,6.75,No,No,No,No
+Taxi,Motorcycle,Commuting,49.61,32.72,2021-09-15 08:20:10,2021-09-15 09:09:47,70,Male,Others,14.61,Card,3.5,Light,3.33,No,Yes,Yes,Yes
+Bus,SUV,Leisure,72,27.61,2021-09-16 10:37:07,2021-09-16 11:49:07,79,Male,Singaporean,48.56,Cash,4.6,Moderate,4.25,Yes,No,No,No
+Bicycle,None,Commuting,22.17,47.48,2021-09-17 12:54:03,2021-09-17 13:16:13,24,Male,Others,44.1,Mobile App,2.2,Moderate,0.81,Yes,Yes,No,Yes
+Train,None,School,18.98,36.66,2021-09-18 15:10:59,2021-09-18 15:29:58,56,Female,Singaporean,8.75,Cash,2.1,Heavy,3.21,Yes,Yes,No,Yes
+Private Car,Van,Shopping,110.75,4.88,2021-09-19 17:27:55,2021-09-19 19:18:40,24,Female,Singaporean,35.68,Mobile App,3.1,Light,7.16,No,Yes,Yes,Yes
+Private Car,Sedan,Leisure,10.94,1.21,2021-09-20 19:44:51,2021-09-20 19:55:47,66,Male,Indonesian,29.22,Cash,4.2,Light,3.97,Yes,Yes,Yes,Yes
+Taxi,Motorcycle,School,58.51,11.7,2021-09-21 22:01:48,2021-09-21 23:00:19,31,Male,Indian,26.2,Cash,2.2,Light,0.84,No,No,Yes,No
+Private Car,Sedan,Business,64.72,10.41,2021-09-23 00:18:44,2021-09-23 01:23:27,53,Female,Others,30.38,Travel Pass,3.7,Moderate,1.29,Yes,Yes,Yes,No
+Walk,Motorcycle,School,30.99,41.62,2021-09-24 02:35:40,2021-09-24 03:06:39,24,Female,Indonesian,7.29,Card,1.9,Light,6.79,No,Yes,Yes,Yes
+Private Car,None,Commuting,23.55,23.05,2021-09-25 04:52:36,2021-09-25 05:16:09,74,Male,Indian,41.35,Card,4.1,Light,3.4,No,Yes,Yes,Yes
+Walk,Sedan,Business,103.97,49.12,2021-09-26 07:09:32,2021-09-26 08:53:30,52,Male,Indian,8.01,Travel Pass,1.5,Moderate,8.75,No,No,Yes,No
+Private Car,Sedan,Shopping,86.94,24.83,2021-09-27 09:26:29,2021-09-27 10:53:25,47,Male,Malaysian,22.38,Mobile App,3.7,Heavy,8.34,No,Yes,No,Yes
+Bicycle,Electric Scooter,Business,67.43,23,2021-09-28 11:43:25,2021-09-28 12:50:51,39,Male,Indonesian,5.28,Card,2.1,Heavy,2.81,No,No,Yes,No
+Bus,Electric Scooter,Shopping,106.17,5.39,2021-09-29 14:00:21,2021-09-29 15:46:31,61,Male,Malaysian,46.43,Cash,3.3,Heavy,5.05,Yes,No,No,No
+Private Car,SUV,Shopping,86.05,34.19,2021-09-30 16:17:17,2021-09-30 17:43:20,34,Female,Singaporean,0.23,Mobile App,1.1,Moderate,5.26,Yes,No,No,No
+Walk,Sedan,School,43.99,4.59,2021-10-01 18:34:14,2021-10-01 19:18:13,74,Female,Others,29.13,Travel Pass,4,Moderate,9.55,Yes,Yes,Yes,Yes
+Taxi,Motorcycle,Shopping,100.26,43.84,2021-10-02 20:51:10,2021-10-02 22:31:26,79,Female,Others,22.83,Mobile App,2.7,Moderate,3.88,No,Yes,No,Yes
+Bus,Electric Scooter,Others,113.54,20.97,2021-10-03 23:08:06,2021-10-04 01:01:38,73,Male,Others,47.27,Travel Pass,2.3,Heavy,7.17,Yes,No,No,No
+Walk,Electric Scooter,Others,52.79,40.97,2021-10-05 01:25:02,2021-10-05 02:17:49,77,Female,Indonesian,13.75,Card,2.7,Moderate,1.79,Yes,Yes,No,No
+Taxi,None,Business,41.46,20.26,2021-10-06 03:41:58,2021-10-06 04:23:26,53,Female,Malaysian,49.8,Cash,2.3,Heavy,0.17,No,Yes,Yes,No
+Private Car,Van,Commuting,27.46,22.37,2021-10-07 05:58:55,2021-10-07 06:26:23,55,Female,Others,6.83,Mobile App,4.2,Light,0.81,No,Yes,Yes,No
+Private Car,Motorcycle,Shopping,67.46,35.28,2021-10-08 08:15:51,2021-10-08 09:23:19,58,Female,Malaysian,10.66,Travel Pass,2.8,Light,2.31,Yes,Yes,Yes,Yes
+Taxi,Electric Scooter,School,91.15,41.7,2021-10-09 10:32:47,2021-10-09 12:03:56,67,Female,Indian,10.2,Mobile App,1.6,Moderate,9.74,Yes,No,No,No
+Taxi,Van,School,31.83,14.08,2021-10-10 12:49:43,2021-10-10 13:21:33,60,Male,Malaysian,4.67,Cash,5,Heavy,0.24,No,Yes,No,Yes
+Taxi,SUV,Shopping,38.98,5.63,2021-10-11 15:06:40,2021-10-11 15:45:39,76,Female,Indonesian,34.31,Mobile App,4.2,Moderate,6.26,Yes,Yes,Yes,Yes
+Taxi,Electric Scooter,School,16.33,46.8,2021-10-12 17:23:36,2021-10-12 17:39:56,21,Female,Malaysian,12.65,Card,2.6,Light,7.05,Yes,Yes,Yes,No
+Taxi,SUV,School,75.88,20.39,2021-10-13 19:40:32,2021-10-13 20:56:25,56,Female,Indian,0.51,Cash,2.4,Light,9.1,No,Yes,Yes,Yes
+Walk,Sedan,Others,26.72,7.71,2021-10-14 21:57:28,2021-10-14 22:24:11,73,Female,Indian,46.19,Card,4.9,Heavy,9.07,Yes,Yes,Yes,No
+Taxi,Van,Business,66.52,23.84,2021-10-16 00:14:24,2021-10-16 01:20:55,25,Female,Singaporean,49.37,Card,1.4,Heavy,9.12,No,No,No,No
+Bicycle,None,Commuting,54.65,44.27,2021-10-17 02:31:21,2021-10-17 03:26:00,52,Female,Others,47.43,Cash,2.3,Moderate,7.27,Yes,Yes,Yes,No
+Bicycle,SUV,Business,91.39,29.1,2021-10-18 04:48:17,2021-10-18 06:19:40,46,Male,Others,0.57,Card,4.6,Heavy,6.07,Yes,No,No,No
+Private Car,Sedan,Shopping,61.66,40.34,2021-10-19 07:05:13,2021-10-19 08:06:53,58,Male,Indonesian,42.16,Travel Pass,2.5,Moderate,0.48,Yes,Yes,Yes,No
+Train,Van,Business,36.16,29.01,2021-10-20 09:22:09,2021-10-20 09:58:19,44,Female,Others,16.19,Card,3,Light,1.14,No,No,No,Yes
+Walk,Sedan,Leisure,88.26,17.06,2021-10-21 11:39:05,2021-10-21 13:07:21,72,Male,Indonesian,21.37,Cash,3.7,Moderate,8.21,Yes,Yes,Yes,Yes
+Bus,Sedan,Commuting,96.6,43.12,2021-10-22 13:56:02,2021-10-22 15:32:38,61,Female,Others,29.57,Cash,1.7,Light,1.09,Yes,No,No,No
+Taxi,None,Others,51.68,36.07,2021-10-23 16:12:58,2021-10-23 17:04:39,68,Male,Indian,19.23,Card,1.2,Moderate,0.01,No,No,Yes,Yes
+Train,Motorcycle,Business,11.38,26.56,2021-10-24 18:29:54,2021-10-24 18:41:17,74,Female,Others,20.23,Travel Pass,4.4,Moderate,4.7,No,No,No,No
+Private Car,Van,School,35.46,6.17,2021-10-25 20:46:50,2021-10-25 21:22:18,35,Male,Others,40.15,Cash,4.3,Light,4.26,Yes,No,Yes,No
+Walk,SUV,Business,73.21,23.6,2021-10-26 23:03:47,2021-10-27 00:17:00,31,Male,Indian,4.81,Cash,3.9,Light,0.26,No,No,No,Yes
+Taxi,SUV,Business,51.82,48.41,2021-10-28 01:20:43,2021-10-28 02:12:32,45,Male,Malaysian,47.45,Cash,3.2,Moderate,1.04,No,No,No,Yes
+Bicycle,Sedan,Commuting,89.22,24.06,2021-10-29 03:37:39,2021-10-29 05:06:52,68,Female,Indonesian,43.56,Card,1.6,Light,0.5,No,No,No,No
+Taxi,SUV,Leisure,98.41,33.4,2021-10-30 05:54:35,2021-10-30 07:33:00,36,Female,Singaporean,3.6,Travel Pass,2.1,Moderate,8.3,Yes,No,Yes,No
+Bicycle,None,Leisure,66,43.21,2021-10-31 08:11:31,2021-10-31 09:17:31,20,Female,Others,46.08,Travel Pass,4,Moderate,1.73,No,Yes,Yes,Yes
+Walk,Sedan,Others,87.03,27.16,2021-11-01 10:28:28,2021-11-01 11:55:30,71,Female,Indian,36.65,Mobile App,1.4,Heavy,4.56,Yes,Yes,Yes,Yes
+Taxi,Motorcycle,Commuting,63.69,30.19,2021-11-02 12:45:24,2021-11-02 13:49:05,78,Female,Indonesian,29.78,Travel Pass,3.9,Light,4.43,No,No,No,No
+Bicycle,Sedan,Shopping,106.11,3.13,2021-11-03 15:02:20,2021-11-03 16:48:27,46,Male,Indian,12.77,Mobile App,2.4,Moderate,5.55,Yes,No,Yes,No
+Train,None,Shopping,30.83,32.91,2021-11-04 17:19:16,2021-11-04 17:50:06,49,Male,Singaporean,22.4,Cash,1.1,Moderate,8.84,Yes,Yes,No,Yes
+Train,None,School,19.93,9.42,2021-11-05 19:36:12,2021-11-05 19:56:08,20,Male,Indonesian,37.83,Mobile App,3.3,Moderate,2.04,Yes,Yes,No,Yes
+Private Car,Motorcycle,Others,60.06,40.02,2021-11-06 21:53:09,2021-11-06 22:53:13,78,Male,Others,47.99,Card,1.9,Light,2.31,No,No,No,No
+Bus,Van,Shopping,53.77,25.08,2021-11-08 00:10:05,2021-11-08 01:03:51,39,Male,Singaporean,31.38,Mobile App,2.8,Light,0.73,No,No,No,Yes
+Bus,Motorcycle,Others,119.13,26.44,2021-11-09 02:27:01,2021-11-09 04:26:09,50,Male,Indian,12,Card,1.4,Heavy,1.27,Yes,Yes,Yes,Yes
+Private Car,Motorcycle,Others,59.73,38.46,2021-11-10 04:43:57,2021-11-10 05:43:41,70,Male,Malaysian,33.02,Travel Pass,2.4,Moderate,2.96,Yes,No,Yes,Yes
+Train,Electric Scooter,Leisure,110.42,43.31,2021-11-11 07:00:54,2021-11-11 08:51:19,21,Male,Indian,40.62,Mobile App,3,Moderate,6.9,No,Yes,Yes,No
+Bicycle,None,Commuting,73,12.68,2021-11-12 09:17:50,2021-11-12 10:30:50,54,Male,Singaporean,32.52,Mobile App,4,Heavy,9.73,Yes,No,No,No
+Bicycle,None,School,33.06,13.85,2021-11-13 11:34:46,2021-11-13 12:07:50,20,Male,Others,45.38,Cash,1.3,Light,3.15,Yes,No,No,No
+Taxi,Electric Scooter,Leisure,29.81,25.59,2021-11-14 13:51:42,2021-11-14 14:21:31,60,Female,Indonesian,47.71,Mobile App,2.9,Moderate,2.01,Yes,No,No,Yes
+Private Car,None,Others,18.76,25.85,2021-11-15 16:08:38,2021-11-15 16:27:24,24,Male,Malaysian,33.84,Travel Pass,4.9,Moderate,4.4,Yes,Yes,No,Yes
+Walk,Electric Scooter,Leisure,19.12,4.34,2021-11-16 18:25:35,2021-11-16 18:44:42,56,Female,Others,40.61,Travel Pass,2.9,Heavy,7.44,Yes,Yes,Yes,Yes
+Bus,Electric Scooter,School,82.78,17.81,2021-11-17 20:42:31,2021-11-17 22:05:18,54,Female,Indian,45.86,Cash,4.3,Light,0.25,No,No,Yes,Yes
+Walk,Sedan,Shopping,25.26,12.72,2021-11-18 22:59:27,2021-11-18 23:24:43,33,Female,Indonesian,20.11,Cash,1.4,Moderate,4.79,Yes,No,Yes,No
+Walk,None,Others,17.02,2.03,2021-11-20 01:16:23,2021-11-20 01:33:24,77,Male,Malaysian,23.66,Mobile App,3.3,Light,3.27,No,No,No,No
+Walk,None,Leisure,103.77,31.47,2021-11-21 03:33:20,2021-11-21 05:17:06,40,Female,Others,44.06,Card,3.1,Heavy,2.04,No,No,Yes,Yes
+Private Car,Electric Scooter,Leisure,64.43,37.23,2021-11-22 05:50:16,2021-11-22 06:54:42,26,Male,Others,8.48,Cash,4.6,Moderate,6.28,Yes,Yes,No,Yes
+Private Car,Electric Scooter,School,52.31,7.08,2021-11-23 08:07:12,2021-11-23 08:59:31,44,Male,Malaysian,46.82,Cash,3.8,Moderate,1.54,Yes,Yes,Yes,No
+Taxi,Sedan,Commuting,56.06,5.53,2021-11-24 10:24:08,2021-11-24 11:20:12,63,Male,Indonesian,26.14,Card,1,Heavy,8.74,No,No,Yes,No
+Bus,Electric Scooter,Business,117.34,18.4,2021-11-25 12:41:04,2021-11-25 14:38:24,21,Male,Malaysian,26.57,Mobile App,1.3,Light,5.39,No,Yes,No,No
+Walk,Electric Scooter,Shopping,110.53,9.44,2021-11-26 14:58:01,2021-11-26 16:48:33,19,Female,Indonesian,15.28,Card,4.8,Light,8.74,No,No,No,No
+Taxi,Sedan,Leisure,30.84,47.86,2021-11-27 17:14:57,2021-11-27 17:45:47,57,Female,Singaporean,14.36,Travel Pass,1.1,Light,2.22,Yes,No,Yes,Yes
+Bus,Van,Business,29.47,8.21,2021-11-28 19:31:53,2021-11-28 20:01:21,28,Female,Singaporean,18.6,Travel Pass,2.7,Moderate,2.78,Yes,Yes,Yes,No
+Bus,Sedan,School,104,9.75,2021-11-29 21:48:49,2021-11-29 23:32:49,57,Female,Indonesian,6.24,Travel Pass,3.9,Light,4.45,No,No,Yes,Yes
+Taxi,Van,Leisure,80.64,29.55,2021-12-01 00:05:45,2021-12-01 01:26:23,78,Male,Malaysian,38.57,Cash,2.8,Moderate,0.16,Yes,Yes,No,No
+Private Car,None,School,105.12,2.17,2021-12-02 02:22:42,2021-12-02 04:07:49,32,Male,Malaysian,40.48,Travel Pass,1.7,Light,5.69,No,No,Yes,Yes
+Bus,Sedan,Commuting,46.18,31.55,2021-12-03 04:39:38,2021-12-03 05:25:49,50,Female,Malaysian,41.14,Card,1.7,Moderate,4.24,No,No,No,Yes
+Taxi,SUV,Commuting,101.23,24.41,2021-12-04 06:56:34,2021-12-04 08:37:48,50,Female,Indonesian,33.65,Cash,1.4,Moderate,4.9,No,No,Yes,Yes
+Walk,Sedan,Leisure,55.82,45.2,2021-12-05 09:13:30,2021-12-05 10:09:19,61,Female,Indian,23.94,Mobile App,4.3,Moderate,2.35,No,Yes,No,No
+Walk,Van,Business,102.64,15.49,2021-12-06 11:30:27,2021-12-06 13:13:05,67,Male,Malaysian,15.97,Travel Pass,4.2,Moderate,9.2,No,Yes,No,Yes
+Train,None,Shopping,39.63,22.42,2021-12-07 13:47:23,2021-12-07 14:27:01,54,Male,Singaporean,25.4,Mobile App,4.2,Heavy,8.28,Yes,No,No,Yes
+Bus,Sedan,Others,23.04,46.02,2021-12-08 16:04:19,2021-12-08 16:27:21,33,Female,Singaporean,36.75,Mobile App,2,Light,9.48,No,Yes,No,No
+Private Car,Electric Scooter,Commuting,41.13,22.5,2021-12-09 18:21:15,2021-12-09 19:02:23,19,Male,Indian,44.6,Mobile App,2,Heavy,9.01,Yes,No,Yes,No
+Train,Motorcycle,School,45.99,26.48,2021-12-10 20:38:11,2021-12-10 21:24:10,50,Male,Malaysian,46.43,Travel Pass,4.3,Moderate,6.45,No,No,No,No
+Private Car,Van,Business,67.06,28.24,2021-12-11 22:55:08,2021-12-12 00:02:12,28,Female,Singaporean,18.8,Mobile App,4.2,Light,0.97,Yes,No,No,Yes
+Bus,SUV,Shopping,116.1,46.47,2021-12-13 01:12:04,2021-12-13 03:08:10,21,Male,Indonesian,10.98,Mobile App,2.5,Heavy,3.57,No,No,Yes,No
+Walk,Electric Scooter,Shopping,8.71,34.23,2021-12-14 03:29:00,2021-12-14 03:37:43,21,Female,Indian,2.41,Mobile App,4.6,Light,5.6,Yes,Yes,Yes,No
+Bus,Motorcycle,Others,95.15,5.15,2021-12-15 05:45:56,2021-12-15 07:21:05,62,Male,Indian,11.41,Travel Pass,2.8,Heavy,6.96,No,Yes,No,No
+Private Car,Electric Scooter,Business,113.32,3.11,2021-12-16 08:02:52,2021-12-16 09:56:11,60,Male,Indonesian,1.94,Mobile App,4.8,Heavy,5.94,No,No,Yes,Yes
+Taxi,None,Leisure,86.27,0.85,2021-12-17 10:19:49,2021-12-17 11:46:05,63,Male,Indonesian,44.1,Travel Pass,2,Moderate,1.49,No,No,Yes,No
+Walk,None,Leisure,65.45,20.93,2021-12-18 12:36:45,2021-12-18 13:42:12,49,Female,Others,22.88,Card,1.7,Moderate,7.56,No,No,No,Yes
+Bicycle,Van,Shopping,31.31,49.81,2021-12-19 14:53:41,2021-12-19 15:25:00,75,Female,Indian,40.2,Travel Pass,3.3,Heavy,7.96,Yes,No,No,No
+Bus,Motorcycle,Others,103.14,22.09,2021-12-20 17:10:37,2021-12-20 18:53:45,48,Female,Indonesian,43.53,Mobile App,3.2,Heavy,2.83,Yes,Yes,Yes,Yes
+Train,Motorcycle,Shopping,99.26,9.44,2021-12-21 19:27:34,2021-12-21 21:06:50,37,Female,Malaysian,3.96,Card,2.8,Light,8.87,Yes,Yes,No,Yes
+Private Car,Motorcycle,Shopping,74.87,5.18,2021-12-22 21:44:30,2021-12-22 22:59:22,28,Male,Singaporean,35.68,Mobile App,4.8,Heavy,2.23,Yes,Yes,Yes,No
+Bicycle,Electric Scooter,Shopping,19.81,41.88,2021-12-24 00:01:26,2021-12-24 00:21:15,25,Male,Indonesian,1.31,Travel Pass,4.2,Light,9.03,No,Yes,Yes,No
+Bicycle,Sedan,School,6.57,25.99,2021-12-25 02:18:22,2021-12-25 02:24:56,70,Female,Indonesian,43.48,Travel Pass,4.9,Light,6.67,No,No,No,No
+Bus,None,Shopping,82.24,44.76,2021-12-26 04:35:18,2021-12-26 05:57:32,54,Female,Malaysian,2.6,Travel Pass,2.3,Heavy,7.37,No,No,No,Yes
+Taxi,None,School,5.98,18.76,2021-12-27 06:52:15,2021-12-27 06:58:14,33,Male,Malaysian,25.41,Mobile App,3.2,Moderate,4.8,Yes,Yes,No,Yes
+Private Car,Motorcycle,Commuting,55.63,31.89,2021-12-28 09:09:11,2021-12-28 10:04:49,62,Male,Malaysian,15.84,Cash,3.6,Moderate,2,No,Yes,Yes,Yes
+Walk,Electric Scooter,Business,21.18,5.47,2021-12-29 11:26:07,2021-12-29 11:47:18,70,Male,Malaysian,22.28,Cash,4.7,Heavy,1.87,Yes,No,No,Yes
+Train,None,Others,76.78,32.81,2021-12-30 13:43:03,2021-12-30 14:59:50,66,Female,Malaysian,32.62,Cash,2.6,Light,9.24,Yes,Yes,Yes,Yes
+Taxi,Van,Commuting,16.17,18.93,2021-12-31 16:00:00,2021-12-31 16:16:10,29,Male,Malaysian,24.76,Card,2.7,Heavy,9.65,No,No,No,Yes
+Train,Sedan,Leisure,10.69,44.8,2022-01-01 18:16:56,2022-01-01 18:27:37,41,Male,Malaysian,20.68,Travel Pass,4.5,Light,0.66,No,No,Yes,No
+Taxi,SUV,Shopping,111.85,30.29,2022-01-02 20:33:52,2022-01-02 22:25:43,79,Male,Indian,26.06,Mobile App,1.4,Moderate,3.01,No,No,No,Yes
+Private Car,SUV,School,15.36,45.89,2022-01-03 22:50:48,2022-01-03 23:06:10,58,Female,Indonesian,34.56,Cash,2.7,Light,5.76,Yes,No,Yes,Yes
+Walk,Motorcycle,Shopping,27.77,15.34,2022-01-05 01:07:44,2022-01-05 01:35:30,74,Male,Indonesian,37.31,Cash,3.4,Heavy,1.69,Yes,Yes,Yes,No
+Private Car,None,Leisure,105.85,17.11,2022-01-06 03:24:41,2022-01-06 05:10:32,71,Female,Indian,35.4,Mobile App,1.3,Light,1.52,Yes,No,Yes,No
+Bicycle,None,Others,30.81,46.66,2022-01-07 05:41:37,2022-01-07 06:12:26,65,Male,Indian,38.46,Card,3.2,Light,2.02,No,No,Yes,No
+Train,SUV,Business,99.36,32.01,2022-01-08 07:58:33,2022-01-08 09:37:55,38,Female,Singaporean,34.82,Cash,1,Light,2.42,No,No,Yes,Yes
+Walk,Motorcycle,Shopping,43.33,32.73,2022-01-09 10:15:29,2022-01-09 10:58:49,37,Male,Indian,35.6,Cash,2.9,Heavy,4.05,No,No,Yes,No
+Walk,Van,Others,106.86,26.34,2022-01-10 12:32:25,2022-01-10 14:19:17,54,Female,Indian,46.12,Card,1.2,Light,2.26,Yes,No,No,No
+Walk,Electric Scooter,Others,13.63,39.28,2022-01-11 14:49:22,2022-01-11 15:03:00,49,Male,Indian,35.75,Mobile App,2.8,Moderate,7.52,Yes,No,Yes,No
+Taxi,Van,Shopping,39.36,44.33,2022-01-12 17:06:18,2022-01-12 17:45:40,37,Female,Others,11.34,Cash,1.4,Moderate,2.17,No,Yes,Yes,No
+Walk,None,Leisure,74.25,3.78,2022-01-13 19:23:14,2022-01-13 20:37:29,66,Male,Others,20.73,Travel Pass,1.1,Heavy,1.94,Yes,Yes,Yes,Yes
+Private Car,SUV,Commuting,68.89,0.66,2022-01-14 21:40:10,2022-01-14 22:49:03,29,Female,Singaporean,34.38,Mobile App,1.2,Heavy,2.97,Yes,Yes,Yes,No
+Train,None,Commuting,30.43,3.2,2022-01-15 23:57:07,2022-01-16 00:27:33,68,Female,Indonesian,10.03,Travel Pass,3.1,Moderate,7.89,No,No,Yes,Yes
+Bicycle,Motorcycle,Commuting,111.69,37.45,2022-01-17 02:14:03,2022-01-17 04:05:44,23,Female,Indian,33.9,Card,3.6,Heavy,3.67,No,Yes,No,Yes
+Walk,Electric Scooter,Leisure,86.84,14.58,2022-01-18 04:30:59,2022-01-18 05:57:49,64,Female,Indonesian,2.06,Mobile App,3.9,Heavy,3.19,No,No,Yes,No
+Taxi,Sedan,Leisure,35.44,37.14,2022-01-19 06:47:55,2022-01-19 07:23:21,70,Male,Malaysian,3.07,Card,2.5,Moderate,7.02,Yes,No,Yes,No
+Train,Sedan,Business,66.68,28.52,2022-01-20 09:04:51,2022-01-20 10:11:32,55,Female,Indian,9.11,Cash,2.4,Heavy,0.09,Yes,No,No,Yes
+Private Car,Sedan,Commuting,68.78,33.97,2022-01-21 11:21:48,2022-01-21 12:30:35,42,Male,Others,0.96,Cash,3.4,Light,1.62,Yes,No,Yes,Yes
+Private Car,Motorcycle,Shopping,72.65,25.29,2022-01-22 13:38:44,2022-01-22 14:51:23,54,Female,Indonesian,3.22,Card,1.2,Heavy,6.46,No,Yes,Yes,No
+Taxi,Electric Scooter,Shopping,93.42,20.5,2022-01-23 15:55:40,2022-01-23 17:29:05,77,Female,Malaysian,39.13,Card,3.8,Light,0.49,No,Yes,No,Yes
+Private Car,SUV,School,104.59,48.41,2022-01-24 18:12:36,2022-01-24 19:57:11,44,Male,Others,42.95,Travel Pass,4.3,Moderate,3.48,Yes,No,No,Yes
+Private Car,Electric Scooter,School,21.05,23.21,2022-01-25 20:29:32,2022-01-25 20:50:35,38,Male,Indian,38.73,Cash,4,Light,6.06,Yes,Yes,Yes,No
+Taxi,Electric Scooter,Shopping,115.71,5.74,2022-01-26 22:46:29,2022-01-27 00:42:12,41,Male,Others,9.3,Card,1.3,Heavy,4.2,No,Yes,Yes,Yes
+Bicycle,SUV,Commuting,20.13,4.61,2022-01-28 01:03:25,2022-01-28 01:23:33,68,Male,Others,35.3,Mobile App,3.8,Light,3.67,Yes,No,No,Yes
+Taxi,Sedan,Shopping,37.96,19.34,2022-01-29 03:20:21,2022-01-29 03:58:19,65,Male,Singaporean,48.75,Cash,4.4,Light,0.58,Yes,Yes,No,No
+Train,Electric Scooter,School,110.18,16.49,2022-01-30 05:37:17,2022-01-30 07:27:28,57,Male,Others,12.54,Cash,2.6,Heavy,5.02,No,Yes,No,No
+Taxi,Sedan,Commuting,61.61,45.2,2022-01-31 07:54:14,2022-01-31 08:55:51,24,Male,Singaporean,34.68,Mobile App,2.2,Light,7.16,No,Yes,No,No
+Train,Sedan,Shopping,29.04,44.3,2022-02-01 10:11:10,2022-02-01 10:40:12,40,Male,Others,36.54,Card,1.2,Heavy,1.66,Yes,No,No,No
+Taxi,SUV,Shopping,86.79,32.18,2022-02-02 12:28:06,2022-02-02 13:54:53,45,Male,Indonesian,11.9,Cash,2.8,Moderate,0.9,Yes,No,Yes,No
+Train,Electric Scooter,Business,107.75,5.01,2022-02-03 14:45:02,2022-02-03 16:32:47,56,Female,Indian,1.91,Card,3,Moderate,10,Yes,Yes,Yes,Yes
+Taxi,Sedan,Commuting,33.66,43.61,2022-02-04 17:01:58,2022-02-04 17:35:38,52,Male,Malaysian,14.52,Cash,4,Heavy,2.45,No,Yes,Yes,Yes
+Taxi,Electric Scooter,Leisure,53.86,8.98,2022-02-05 19:18:55,2022-02-05 20:12:47,30,Male,Others,8.25,Mobile App,2.4,Light,7.24,Yes,No,Yes,No
+Taxi,Motorcycle,Shopping,31.41,32.24,2022-02-06 21:35:51,2022-02-06 22:07:16,20,Female,Singaporean,4.52,Card,1.3,Moderate,7,No,No,No,No
+Private Car,Sedan,Shopping,81.41,48.95,2022-02-07 23:52:47,2022-02-08 01:14:12,30,Male,Singaporean,35.2,Mobile App,4.4,Heavy,9.24,Yes,Yes,No,No
+Bus,None,Business,46.43,37.14,2022-02-09 02:09:43,2022-02-09 02:56:09,63,Female,Indian,22.78,Cash,3.6,Light,7.77,No,No,Yes,Yes
+Bus,Sedan,Commuting,21.9,22.7,2022-02-10 04:26:40,2022-02-10 04:48:34,38,Female,Singaporean,29.43,Cash,1.3,Light,5.94,No,Yes,No,Yes
+Bicycle,Van,Leisure,85.1,4.92,2022-02-11 06:43:36,2022-02-11 08:08:42,21,Female,Others,5.49,Mobile App,2.8,Light,0.04,Yes,Yes,Yes,Yes
+Private Car,Motorcycle,Shopping,115.66,40.66,2022-02-12 09:00:32,2022-02-12 10:56:12,76,Male,Others,9.37,Mobile App,4.5,Light,6.99,No,Yes,Yes,Yes
+Walk,Motorcycle,Business,82.91,36.4,2022-02-13 11:17:28,2022-02-13 12:40:23,39,Male,Indonesian,14.79,Travel Pass,3.6,Heavy,8.4,Yes,No,No,No
+Walk,None,Leisure,96.61,2.8,2022-02-14 13:34:24,2022-02-14 15:11:01,58,Female,Others,36.57,Travel Pass,1,Moderate,1.71,Yes,Yes,No,Yes
+Taxi,Motorcycle,Shopping,29.63,7.91,2022-02-15 15:51:21,2022-02-15 16:20:59,20,Female,Singaporean,4.61,Mobile App,4.2,Light,6.64,No,Yes,Yes,No
+Walk,None,Commuting,15.82,26.11,2022-02-16 18:08:17,2022-02-16 18:24:06,74,Male,Indian,20.08,Travel Pass,1.5,Light,1.41,No,No,Yes,No
+Private Car,Van,Leisure,93.06,9.14,2022-02-17 20:25:13,2022-02-17 21:58:17,64,Male,Malaysian,45.63,Card,3.6,Heavy,6.01,No,Yes,Yes,No
+Bicycle,None,School,10.95,0.82,2022-02-18 22:42:09,2022-02-18 22:53:06,31,Female,Singaporean,36.35,Travel Pass,3.2,Moderate,3.18,Yes,Yes,Yes,No
+Bus,Electric Scooter,Commuting,90.59,19.57,2022-02-20 00:59:05,2022-02-20 02:29:40,38,Female,Malaysian,19.22,Cash,4.3,Light,4.33,No,No,Yes,Yes
+Walk,Van,Business,95.64,4.99,2022-02-21 03:16:02,2022-02-21 04:51:40,34,Female,Malaysian,11.14,Cash,3.7,Light,1.89,No,No,Yes,No
+Private Car,Sedan,Commuting,27.04,42.47,2022-02-22 05:32:58,2022-02-22 06:00:00,52,Male,Indonesian,19.41,Cash,4.4,Heavy,7.51,No,No,Yes,No
+Bus,Electric Scooter,Commuting,25.37,47.13,2022-02-23 07:49:54,2022-02-23 08:15:16,28,Male,Singaporean,10.76,Travel Pass,4.6,Heavy,0.78,Yes,No,No,Yes
+Train,Sedan,Leisure,5.98,42.6,2022-02-24 10:06:50,2022-02-24 10:12:49,67,Male,Indonesian,28.53,Card,1.9,Heavy,5.82,No,No,No,Yes
+Taxi,Sedan,Commuting,113.78,22.75,2022-02-25 12:23:47,2022-02-25 14:17:34,65,Female,Indian,17.86,Cash,1.6,Moderate,8.51,Yes,Yes,No,No
+Bicycle,Van,Commuting,73.82,27.84,2022-02-26 14:40:43,2022-02-26 15:54:32,27,Male,Indian,12.45,Card,4.5,Moderate,9.69,Yes,Yes,Yes,No
+Taxi,None,Leisure,60.37,39.75,2022-02-27 16:57:39,2022-02-27 17:58:01,37,Female,Malaysian,48.21,Mobile App,3.9,Heavy,1.17,Yes,Yes,No,No
+Bus,Electric Scooter,Leisure,6.31,19.25,2022-02-28 19:14:35,2022-02-28 19:20:54,67,Female,Singaporean,37.01,Card,1.7,Moderate,4.66,No,Yes,No,No
+Bus,Motorcycle,Others,104.14,17.9,2022-03-01 21:31:31,2022-03-01 23:15:39,27,Female,Singaporean,38.07,Mobile App,2.4,Heavy,4.44,Yes,No,Yes,Yes
+Bus,SUV,School,102.72,20.78,2022-03-02 23:48:28,2022-03-03 01:31:11,71,Female,Malaysian,39.13,Mobile App,4.1,Moderate,6.2,No,No,Yes,Yes
+Walk,Electric Scooter,Commuting,42.42,37.44,2022-03-04 02:05:24,2022-03-04 02:47:49,79,Male,Singaporean,10.53,Travel Pass,1.7,Moderate,9.09,No,No,Yes,No
+Train,Sedan,Business,33.65,25.87,2022-03-05 04:22:20,2022-03-05 04:55:59,75,Female,Singaporean,41.53,Mobile App,3.3,Heavy,4.44,No,No,Yes,No
+Bus,None,Commuting,108.47,46.22,2022-03-06 06:39:16,2022-03-06 08:27:44,59,Male,Others,41.98,Travel Pass,3.8,Heavy,4.79,Yes,No,Yes,No
+Train,Van,Business,10.37,13.86,2022-03-07 08:56:12,2022-03-07 09:06:34,79,Male,Malaysian,4.3,Mobile App,2.6,Heavy,7.04,No,Yes,No,Yes
+Bus,Van,Commuting,81.02,23.78,2022-03-08 11:13:09,2022-03-08 12:34:10,66,Male,Others,19.69,Card,3.2,Heavy,6.15,Yes,Yes,Yes,Yes
+Bus,SUV,Others,66.74,5.55,2022-03-09 13:30:05,2022-03-09 14:36:49,28,Female,Singaporean,30.79,Travel Pass,4,Moderate,8.52,Yes,No,Yes,Yes
+Walk,SUV,Business,7.16,46.7,2022-03-10 15:47:01,2022-03-10 15:54:11,38,Male,Malaysian,21.22,Mobile App,3.5,Moderate,0.51,No,No,Yes,Yes
+Bus,Sedan,Leisure,8.01,42.48,2022-03-11 18:03:57,2022-03-11 18:11:58,27,Female,Indian,12.6,Cash,1.3,Light,4.91,No,No,No,Yes
+Private Car,SUV,Commuting,9.35,10.99,2022-03-12 20:20:54,2022-03-12 20:30:15,29,Male,Indonesian,48.78,Travel Pass,2.7,Moderate,4.3,Yes,Yes,Yes,Yes
+Bus,Van,School,116.73,36.78,2022-03-13 22:37:50,2022-03-14 00:34:34,68,Male,Others,6.04,Mobile App,2,Moderate,3.67,No,Yes,Yes,Yes
+Private Car,Van,Business,29.95,2.29,2022-03-15 00:54:46,2022-03-15 01:24:43,49,Male,Indonesian,32.24,Mobile App,3.7,Heavy,7.18,No,No,No,No
+Private Car,Sedan,Commuting,24.73,5.63,2022-03-16 03:11:42,2022-03-16 03:36:26,21,Male,Indonesian,44.78,Cash,4.3,Light,0.94,Yes,Yes,Yes,Yes
+Bus,Sedan,Others,74.77,48.67,2022-03-17 05:28:38,2022-03-17 06:43:24,62,Male,Malaysian,47.13,Cash,1.3,Moderate,3.83,No,Yes,No,No
+Bicycle,Motorcycle,Shopping,9.45,2.72,2022-03-18 07:45:35,2022-03-18 07:55:02,53,Male,Indonesian,24.52,Mobile App,2,Heavy,1.88,No,No,No,No
+Bus,Electric Scooter,Business,43.58,29.87,2022-03-19 10:02:31,2022-03-19 10:46:06,56,Male,Malaysian,40.49,Card,2.6,Moderate,3.5,Yes,No,Yes,Yes
+Taxi,Sedan,Shopping,76.62,29.73,2022-03-20 12:19:27,2022-03-20 13:36:04,20,Male,Indian,30.4,Card,1.5,Light,0.32,No,No,No,No
+Taxi,SUV,Leisure,106.67,14.21,2022-03-21 14:36:23,2022-03-21 16:23:03,68,Male,Others,40.86,Card,2.1,Moderate,2.51,Yes,Yes,Yes,Yes
+Train,Sedan,Business,81.75,42.1,2022-03-22 16:53:20,2022-03-22 18:15:05,19,Female,Indonesian,16.4,Cash,1.4,Moderate,9.88,No,No,No,Yes
+Taxi,Motorcycle,School,75.7,30.14,2022-03-23 19:10:16,2022-03-23 20:25:58,54,Male,Indonesian,30.3,Cash,1.7,Light,5.57,No,No,No,Yes
+Private Car,SUV,Shopping,80.78,30.15,2022-03-24 21:27:12,2022-03-24 22:47:59,72,Male,Singaporean,17.88,Card,3,Light,7.62,Yes,No,No,Yes
+Train,SUV,Commuting,80.07,8.81,2022-03-25 23:44:08,2022-03-26 01:04:12,71,Female,Others,34.28,Cash,4.8,Light,0.84,No,Yes,No,No
+Private Car,Motorcycle,Business,81.72,13.99,2022-03-27 02:01:04,2022-03-27 03:22:47,27,Male,Indonesian,14.49,Travel Pass,1.6,Moderate,6.61,Yes,No,Yes,No
+Bicycle,Motorcycle,School,89.52,4.35,2022-03-28 04:18:01,2022-03-28 05:47:32,57,Male,Indian,4.28,Card,1.7,Heavy,0.1,No,Yes,No,Yes
+Train,Van,Leisure,51.2,32.86,2022-03-29 06:34:57,2022-03-29 07:26:09,29,Male,Others,49.93,Cash,3.2,Light,4.89,Yes,No,Yes,No
+Taxi,Van,Others,79.03,5.75,2022-03-30 08:51:53,2022-03-30 10:10:55,20,Female,Malaysian,12.7,Mobile App,1.9,Heavy,8.09,No,Yes,No,Yes
+Bus,Motorcycle,Shopping,104,13.55,2022-03-31 11:08:49,2022-03-31 12:52:49,35,Male,Malaysian,29.29,Card,5,Light,3.55,No,Yes,No,No
+Walk,SUV,Business,118.29,7.74,2022-04-01 13:25:45,2022-04-01 15:24:02,47,Female,Singaporean,1.98,Card,4.5,Heavy,4,Yes,Yes,Yes,Yes
+Bus,Sedan,Commuting,113.62,16.67,2022-04-02 15:42:42,2022-04-02 17:36:19,30,Male,Malaysian,11.63,Travel Pass,4,Light,0.62,Yes,Yes,Yes,No
+Train,Electric Scooter,Commuting,22.24,28.85,2022-04-03 17:59:38,2022-04-03 18:21:52,63,Female,Malaysian,32.17,Travel Pass,1.7,Moderate,5.19,No,Yes,Yes,No
+Walk,None,Business,90.83,40.61,2022-04-04 20:16:34,2022-04-04 21:47:24,60,Female,Singaporean,26.49,Mobile App,4.7,Moderate,0.31,Yes,Yes,No,No
+Train,Sedan,Leisure,113.33,24.37,2022-04-05 22:33:30,2022-04-06 00:26:50,33,Female,Malaysian,1.15,Card,4.3,Moderate,4.63,No,No,No,Yes
+Taxi,Sedan,Others,75.28,7.64,2022-04-07 00:50:27,2022-04-07 02:05:44,77,Female,Others,34.76,Mobile App,3,Light,6.79,Yes,Yes,No,No
+Bus,Van,Leisure,118.49,19.34,2022-04-08 03:07:23,2022-04-08 05:05:52,52,Male,Indonesian,27.67,Card,2.1,Moderate,9.85,No,Yes,No,Yes
+Train,Electric Scooter,Shopping,24.27,18.98,2022-04-09 05:24:19,2022-04-09 05:48:35,37,Female,Malaysian,25.59,Mobile App,1.2,Light,9.52,Yes,Yes,Yes,Yes
+Taxi,Motorcycle,School,77.79,26.92,2022-04-10 07:41:15,2022-04-10 08:59:02,60,Male,Indian,34.92,Cash,1.2,Heavy,6.61,No,Yes,Yes,Yes
+Train,Motorcycle,Others,111.22,25.41,2022-04-11 09:58:11,2022-04-11 11:49:24,31,Male,Singaporean,26.94,Mobile App,4.4,Heavy,2.44,Yes,No,No,No
+Bicycle,None,Commuting,106.38,10.14,2022-04-12 12:15:08,2022-04-12 14:01:31,34,Male,Indian,17.82,Mobile App,2.6,Light,0.28,Yes,No,Yes,Yes
+Train,Motorcycle,Shopping,11.79,18.93,2022-04-13 14:32:04,2022-04-13 14:43:51,42,Male,Indian,38.13,Cash,3.8,Light,2.98,No,No,Yes,Yes
+Bicycle,Motorcycle,Leisure,103.48,5.29,2022-04-14 16:49:00,2022-04-14 18:32:29,25,Female,Others,41,Card,1.3,Light,5.78,No,Yes,No,No
+Private Car,Motorcycle,School,19.08,32.32,2022-04-15 19:05:56,2022-04-15 19:25:01,47,Male,Indian,2.49,Travel Pass,4.1,Heavy,6.59,Yes,Yes,No,No
+Train,Motorcycle,Shopping,53.79,38.62,2022-04-16 21:22:52,2022-04-16 22:16:39,62,Female,Others,45.27,Card,2.1,Moderate,6.24,No,No,No,Yes
+Bus,Sedan,Commuting,59.15,46.93,2022-04-17 23:39:49,2022-04-18 00:38:58,32,Male,Others,42.07,Mobile App,3.3,Light,8.91,No,No,No,Yes
+Walk,Van,School,68.79,5.15,2022-04-19 01:56:45,2022-04-19 03:05:32,57,Male,Indonesian,5.02,Mobile App,4.9,Light,5.07,No,No,Yes,No
+Bus,Motorcycle,Leisure,114.09,7.41,2022-04-20 04:13:41,2022-04-20 06:07:46,59,Male,Malaysian,17,Travel Pass,2.3,Light,3.49,No,Yes,Yes,No
+Bicycle,None,Commuting,112.37,10.06,2022-04-21 06:30:37,2022-04-21 08:22:59,21,Male,Singaporean,17.91,Cash,2,Heavy,5.59,Yes,Yes,No,No
+Taxi,Sedan,School,99.05,29.58,2022-04-22 08:47:34,2022-04-22 10:26:37,57,Male,Others,35.83,Card,3.2,Moderate,1.23,Yes,No,No,No
+Private Car,Sedan,Others,44.99,23.09,2022-04-23 11:04:30,2022-04-23 11:49:29,34,Male,Singaporean,35.55,Cash,1.4,Heavy,9.91,No,Yes,Yes,No
+Bicycle,None,Shopping,109.76,36.97,2022-04-24 13:21:26,2022-04-24 15:11:12,53,Male,Malaysian,40.77,Card,2.2,Heavy,5.57,Yes,No,Yes,No
+Walk,SUV,Business,109.46,31.99,2022-04-25 15:38:22,2022-04-25 17:27:50,34,Male,Indian,34.53,Mobile App,3.8,Heavy,1.04,No,Yes,No,No
+Taxi,Sedan,Commuting,51.06,33.51,2022-04-26 17:55:18,2022-04-26 18:46:22,18,Female,Indonesian,31.18,Travel Pass,4.8,Light,0.62,Yes,No,No,No
+Bus,Sedan,Business,97.45,47.75,2022-04-27 20:12:15,2022-04-27 21:49:42,68,Male,Indian,21.67,Cash,1.5,Heavy,7.49,Yes,No,No,Yes
+Train,Electric Scooter,Shopping,81.71,27.37,2022-04-28 22:29:11,2022-04-28 23:50:54,78,Male,Others,40.1,Travel Pass,2.5,Heavy,5.15,No,No,Yes,No
+Bicycle,None,Shopping,112.33,46.56,2022-04-30 00:46:07,2022-04-30 02:38:27,32,Male,Malaysian,39.2,Card,1.8,Heavy,8.04,No,Yes,Yes,No
+Bus,Sedan,Business,34.75,45.33,2022-05-01 03:03:03,2022-05-01 03:37:48,73,Male,Singaporean,22.88,Cash,4.1,Moderate,8.31,Yes,Yes,No,Yes
+Private Car,Motorcycle,Business,24.63,37.97,2022-05-02 05:20:00,2022-05-02 05:44:38,75,Male,Others,25.49,Cash,5,Heavy,6.47,Yes,No,Yes,No
+Train,Motorcycle,Shopping,99.34,24.86,2022-05-03 07:36:56,2022-05-03 09:16:16,68,Male,Indonesian,23,Mobile App,1.6,Heavy,0.75,No,No,No,No
+Bus,Sedan,Others,10.5,44.27,2022-05-04 09:53:52,2022-05-04 10:04:22,19,Male,Others,23.65,Mobile App,1,Moderate,7.18,No,Yes,Yes,Yes
+Bicycle,Electric Scooter,Business,117.47,33.17,2022-05-05 12:10:48,2022-05-05 14:08:16,19,Female,Others,21.48,Card,1.8,Moderate,0.65,Yes,No,Yes,Yes
+Taxi,None,Leisure,31.94,18.78,2022-05-06 14:27:44,2022-05-06 14:59:40,28,Female,Singaporean,37.79,Cash,4.1,Light,5.62,Yes,No,No,Yes
+Bicycle,Sedan,Leisure,61.45,46.2,2022-05-07 16:44:41,2022-05-07 17:46:08,36,Female,Singaporean,20.93,Card,4.4,Light,2.12,Yes,Yes,Yes,Yes
+Bus,Electric Scooter,Commuting,111.83,31.6,2022-05-08 19:01:37,2022-05-08 20:53:27,72,Female,Others,2.65,Card,3.3,Light,7.86,Yes,Yes,Yes,No
+Walk,Electric Scooter,Shopping,59.41,46.12,2022-05-09 21:18:33,2022-05-09 22:17:58,19,Female,Singaporean,36.38,Cash,1.4,Heavy,8.51,Yes,Yes,Yes,Yes
+Private Car,Sedan,Others,99.82,28.77,2022-05-10 23:35:29,2022-05-11 01:15:18,69,Female,Indonesian,0.08,Card,1.6,Heavy,8.75,No,No,Yes,No
+Train,Motorcycle,Business,14.92,46.26,2022-05-12 01:52:25,2022-05-12 02:07:20,25,Female,Indonesian,28.05,Travel Pass,2,Heavy,7.23,Yes,No,Yes,Yes
+Walk,Sedan,Business,111.35,13.51,2022-05-13 04:09:22,2022-05-13 06:00:43,51,Male,Singaporean,36.49,Mobile App,1.8,Light,5.5,No,Yes,Yes,Yes
+Private Car,SUV,Shopping,76.04,43.78,2022-05-14 06:26:18,2022-05-14 07:42:20,49,Male,Malaysian,26.1,Card,4.1,Heavy,6.97,No,Yes,Yes,Yes
+Taxi,Van,Business,50.17,27.38,2022-05-15 08:43:14,2022-05-15 09:33:24,54,Male,Indian,25.35,Travel Pass,1.7,Heavy,7.97,No,No,No,Yes
+Taxi,Van,Others,72.99,5.47,2022-05-16 11:00:10,2022-05-16 12:13:09,54,Male,Indian,34.26,Travel Pass,2.6,Heavy,8.34,Yes,No,Yes,Yes
+Private Car,SUV,Business,33.82,30.02,2022-05-17 13:17:07,2022-05-17 13:50:56,66,Female,Others,0.78,Mobile App,1.2,Moderate,0.52,Yes,Yes,Yes,No
+Taxi,Sedan,Others,24.06,19.53,2022-05-18 15:34:03,2022-05-18 15:58:07,62,Female,Others,8.57,Mobile App,4.3,Light,1.13,Yes,Yes,Yes,No
+Bicycle,SUV,School,66.38,19.52,2022-05-19 17:50:59,2022-05-19 18:57:22,55,Male,Indonesian,46.33,Cash,3,Heavy,6.49,Yes,No,Yes,No
+Private Car,SUV,Business,33.29,47.17,2022-05-20 20:07:55,2022-05-20 20:41:12,70,Male,Singaporean,17.68,Travel Pass,2,Heavy,7.79,No,Yes,No,No
+Train,Electric Scooter,Shopping,39.24,2.13,2022-05-21 22:24:51,2022-05-21 23:04:05,78,Male,Indian,7.72,Card,3.2,Heavy,7.89,Yes,No,Yes,No
+Bus,SUV,Leisure,77.21,3.41,2022-05-23 00:41:48,2022-05-23 01:59:01,77,Male,Malaysian,3.34,Travel Pass,2.3,Light,0.58,No,No,Yes,Yes
+Bicycle,Sedan,Shopping,107.39,10.19,2022-05-24 02:58:44,2022-05-24 04:46:07,26,Female,Indonesian,0.3,Travel Pass,4.3,Light,4.73,Yes,No,No,No
+Train,None,Business,86.42,26.58,2022-05-25 05:15:40,2022-05-25 06:42:05,45,Male,Indonesian,42.94,Cash,1.9,Moderate,1.07,No,No,No,Yes
+Private Car,Electric Scooter,Commuting,49.91,23.28,2022-05-26 07:32:36,2022-05-26 08:22:31,45,Male,Indian,40.08,Card,2.3,Light,5.3,Yes,Yes,Yes,No
+Bicycle,Motorcycle,Commuting,28.21,6.03,2022-05-27 09:49:32,2022-05-27 10:17:45,25,Male,Malaysian,13.63,Cash,3.2,Light,7.28,No,Yes,No,Yes
+Taxi,Sedan,Others,39.22,28.04,2022-05-28 12:06:29,2022-05-28 12:45:42,45,Male,Indian,41.04,Mobile App,1.9,Moderate,4.18,No,Yes,No,No
+Taxi,Motorcycle,Leisure,48.66,12.4,2022-05-29 14:23:25,2022-05-29 15:12:05,47,Female,Singaporean,16.9,Cash,4.1,Moderate,1.86,Yes,Yes,No,Yes
+Private Car,None,Leisure,21.56,11.15,2022-05-30 16:40:21,2022-05-30 17:01:55,50,Male,Indian,14.6,Mobile App,3.8,Light,2,No,No,Yes,Yes
+Bus,Sedan,Business,59.3,9.04,2022-05-31 18:57:17,2022-05-31 19:56:35,79,Male,Singaporean,7.96,Travel Pass,3,Light,1.72,No,No,Yes,No
+Train,Van,Leisure,68.77,31.48,2022-06-01 21:14:14,2022-06-01 22:23:00,41,Female,Indonesian,17.69,Card,4,Heavy,9.49,No,No,No,Yes
+Bus,Electric Scooter,Business,12.38,25.45,2022-06-02 23:31:10,2022-06-02 23:43:33,36,Female,Malaysian,16.17,Card,2.4,Moderate,1.03,Yes,No,No,No
+Train,SUV,Commuting,10.25,39.67,2022-06-04 01:48:06,2022-06-04 01:58:21,49,Male,Malaysian,26.68,Card,1.2,Light,9.59,No,No,Yes,No
+Bus,Sedan,Shopping,96.4,49.94,2022-06-05 04:05:02,2022-06-05 05:41:26,70,Female,Others,45.2,Mobile App,1.6,Heavy,3.05,No,No,No,No
+Taxi,Motorcycle,Leisure,81.14,47.25,2022-06-06 06:21:58,2022-06-06 07:43:06,56,Female,Malaysian,25.68,Mobile App,3.5,Heavy,8.07,No,No,No,No
+Private Car,None,Shopping,96.6,23.44,2022-06-07 08:38:55,2022-06-07 10:15:31,23,Female,Indonesian,38.24,Card,2.2,Light,8.41,Yes,Yes,Yes,No
+Walk,Electric Scooter,Leisure,10.63,49.81,2022-06-08 10:55:51,2022-06-08 11:06:29,78,Male,Singaporean,28.96,Card,2.2,Light,2.52,Yes,Yes,Yes,No
+Train,Van,Commuting,90.42,10.35,2022-06-09 13:12:47,2022-06-09 14:43:12,71,Female,Indonesian,21.74,Travel Pass,3.4,Moderate,4.38,No,Yes,No,Yes
+Train,Motorcycle,Commuting,33.62,35.02,2022-06-10 15:29:43,2022-06-10 16:03:20,48,Female,Malaysian,31.06,Card,4.6,Heavy,1.6,Yes,Yes,No,No
+Bus,Van,Business,98.1,21.07,2022-06-11 17:46:40,2022-06-11 19:24:46,77,Female,Malaysian,25.94,Mobile App,3.3,Light,7.53,Yes,Yes,No,Yes
+Train,Sedan,Others,26.67,31.89,2022-06-12 20:03:36,2022-06-12 20:30:16,36,Male,Indian,14.55,Card,4.4,Moderate,6.76,No,No,No,No
+Private Car,Electric Scooter,School,47.08,14.67,2022-06-13 22:20:32,2022-06-13 23:07:37,38,Female,Others,42.38,Mobile App,1,Heavy,6.57,Yes,No,No,Yes
+Private Car,SUV,Leisure,50.36,14.19,2022-06-15 00:37:28,2022-06-15 01:27:50,77,Female,Indian,33.01,Mobile App,4.2,Light,3.13,Yes,No,Yes,No
+Train,Sedan,Leisure,70.93,29.36,2022-06-16 02:54:24,2022-06-16 04:05:20,33,Male,Malaysian,42.26,Mobile App,4.1,Light,1.88,No,No,Yes,No
+Private Car,None,Commuting,116.81,15.68,2022-06-17 05:11:21,2022-06-17 07:08:10,44,Female,Others,1.71,Travel Pass,3.9,Light,0.79,Yes,Yes,Yes,No
+Taxi,Van,Others,23.64,7.21,2022-06-18 07:28:17,2022-06-18 07:51:55,25,Female,Indonesian,28.1,Travel Pass,3.8,Light,6.99,No,Yes,Yes,Yes
+Walk,Motorcycle,School,7.75,4.64,2022-06-19 09:45:13,2022-06-19 09:52:58,32,Female,Indian,43.05,Mobile App,1.7,Moderate,1.78,Yes,No,Yes,No
+Taxi,Motorcycle,School,89.54,19.58,2022-06-20 12:02:09,2022-06-20 13:31:41,41,Female,Indian,28.72,Travel Pass,2.5,Heavy,1.56,No,No,No,No
+Taxi,None,Others,69.04,42.35,2022-06-21 14:19:05,2022-06-21 15:28:07,22,Female,Others,48.39,Travel Pass,2.9,Heavy,1.16,No,No,Yes,No
+Bicycle,Sedan,Others,59.42,6,2022-06-22 16:36:02,2022-06-22 17:35:27,68,Female,Singaporean,4.39,Cash,2.5,Light,7.5,Yes,Yes,Yes,Yes
+Private Car,Sedan,Shopping,56.43,41.23,2022-06-23 18:52:58,2022-06-23 19:49:24,67,Female,Singaporean,28.74,Travel Pass,3.9,Light,8.57,Yes,Yes,Yes,Yes
+Bicycle,Sedan,Shopping,113.37,6.76,2022-06-24 21:09:54,2022-06-24 23:03:16,35,Male,Singaporean,18.4,Card,2.2,Heavy,2.72,Yes,Yes,Yes,No
+Private Car,Electric Scooter,Business,12.73,49.42,2022-06-25 23:26:50,2022-06-25 23:39:34,60,Female,Indonesian,0.81,Cash,3.8,Moderate,1.66,Yes,Yes,No,Yes
+Private Car,Motorcycle,Leisure,101.15,7.34,2022-06-27 01:43:47,2022-06-27 03:24:56,64,Male,Singaporean,33.13,Travel Pass,2.4,Moderate,2.94,Yes,Yes,Yes,No
+Bus,Sedan,School,54.37,23.98,2022-06-28 04:00:43,2022-06-28 04:55:05,63,Female,Malaysian,13.75,Travel Pass,3.5,Heavy,5.84,Yes,Yes,Yes,No
+Train,Sedan,Leisure,28.38,12.25,2022-06-29 06:17:39,2022-06-29 06:46:02,29,Male,Malaysian,24.12,Travel Pass,3.5,Light,5.02,Yes,Yes,Yes,Yes
+Walk,Sedan,School,48.43,30.35,2022-06-30 08:34:35,2022-06-30 09:23:01,48,Female,Singaporean,15.4,Travel Pass,2.7,Light,5.81,No,Yes,Yes,Yes
+Taxi,SUV,Business,84.54,3.7,2022-07-01 10:51:31,2022-07-01 12:16:03,68,Female,Singaporean,43.51,Travel Pass,1.3,Moderate,4.53,Yes,No,No,No
+Private Car,Motorcycle,Leisure,111.27,44.21,2022-07-02 13:08:28,2022-07-02 14:59:44,21,Male,Indonesian,38.43,Cash,4.5,Heavy,3.06,No,No,No,No
+Walk,Van,Commuting,16.88,28.74,2022-07-03 15:25:24,2022-07-03 15:42:17,79,Female,Singaporean,4.3,Travel Pass,2.7,Light,3.05,No,Yes,No,Yes
+Bicycle,Electric Scooter,Shopping,118.91,20.05,2022-07-04 17:42:20,2022-07-04 19:41:15,31,Male,Indonesian,8.19,Mobile App,2.6,Heavy,1.02,No,No,No,No
+Taxi,Motorcycle,School,34.82,18.66,2022-07-05 19:59:16,2022-07-05 20:34:05,56,Male,Indonesian,5.64,Mobile App,4,Moderate,7.9,No,No,Yes,Yes
+Bus,Sedan,Leisure,20.64,43.04,2022-07-06 22:16:12,2022-07-06 22:36:50,43,Female,Singaporean,13.77,Card,1.6,Heavy,0.54,Yes,No,Yes,No
+Taxi,SUV,Leisure,103.44,36.64,2022-07-08 00:33:09,2022-07-08 02:16:35,68,Male,Indian,25.97,Card,4.3,Moderate,9.66,No,Yes,No,No
+Taxi,Sedan,Commuting,107.98,40.38,2022-07-09 02:50:05,2022-07-09 04:38:04,62,Female,Others,29.15,Mobile App,3.9,Light,0.67,No,Yes,Yes,No
+Taxi,Sedan,Leisure,29.32,14.77,2022-07-10 05:07:01,2022-07-10 05:36:20,77,Female,Indonesian,13.46,Card,2.6,Light,8.31,Yes,Yes,Yes,No
+Taxi,Motorcycle,Others,14.28,13.86,2022-07-11 07:23:57,2022-07-11 07:38:14,49,Female,Indian,47.3,Travel Pass,2.8,Heavy,2.14,No,Yes,Yes,Yes
+Bus,Sedan,School,90.6,49.88,2022-07-12 09:40:54,2022-07-12 11:11:30,29,Female,Indonesian,16.11,Card,2.4,Heavy,3.39,Yes,No,Yes,No
+Bicycle,Van,Others,71.65,9.72,2022-07-13 11:57:50,2022-07-13 13:09:29,50,Male,Others,24.84,Cash,4.5,Moderate,6.88,No,No,No,No
+Train,Motorcycle,Shopping,113.84,27.99,2022-07-14 14:14:46,2022-07-14 16:08:36,67,Male,Indonesian,30.67,Mobile App,2.3,Light,6.59,No,Yes,Yes,Yes
+Private Car,None,Shopping,17.05,32.46,2022-07-15 16:31:42,2022-07-15 16:48:45,39,Male,Malaysian,26.74,Card,2.5,Light,2.56,No,Yes,Yes,No
+Train,None,Commuting,110.23,7.26,2022-07-16 18:48:38,2022-07-16 20:38:52,37,Female,Malaysian,12.8,Mobile App,1.5,Heavy,7.11,Yes,No,No,No
+Train,Sedan,Commuting,40.28,10.91,2022-07-17 21:05:35,2022-07-17 21:45:52,72,Female,Indonesian,39.07,Travel Pass,2.3,Heavy,8.54,Yes,No,No,Yes
+Train,Motorcycle,Others,61.49,44.88,2022-07-18 23:22:31,2022-07-19 00:24:00,24,Female,Singaporean,5.57,Travel Pass,4.9,Heavy,6.94,Yes,No,No,No
+Walk,Van,Shopping,100.3,34.28,2022-07-20 01:39:27,2022-07-20 03:19:45,66,Female,Indian,12.02,Card,4.2,Moderate,8.63,Yes,No,Yes,No
+Bicycle,Sedan,Leisure,38.27,5.4,2022-07-21 03:56:23,2022-07-21 04:34:39,64,Female,Indonesian,26.63,Travel Pass,3.2,Heavy,6.28,Yes,Yes,No,No
+Bus,Van,Commuting,27.64,14.83,2022-07-22 06:13:20,2022-07-22 06:40:58,52,Female,Malaysian,36.73,Card,3.8,Moderate,7.75,Yes,Yes,Yes,Yes
+Taxi,SUV,Others,41.99,10.4,2022-07-23 08:30:16,2022-07-23 09:12:15,70,Male,Others,44.46,Cash,3.1,Light,8.54,Yes,Yes,Yes,Yes
+Walk,SUV,Business,52.75,8.92,2022-07-24 10:47:12,2022-07-24 11:39:57,62,Male,Singaporean,37.38,Mobile App,1.4,Light,5.8,No,No,No,Yes
+Bus,Sedan,School,109.37,34.61,2022-07-25 13:04:08,2022-07-25 14:53:30,38,Male,Malaysian,15.67,Cash,1,Moderate,7.53,No,Yes,No,Yes
+Taxi,None,Commuting,92.84,49.98,2022-07-26 15:21:04,2022-07-26 16:53:54,63,Male,Indonesian,18.56,Travel Pass,4.5,Moderate,8.47,Yes,No,No,No
+Bus,Van,School,8.9,9.05,2022-07-27 17:38:01,2022-07-27 17:46:55,71,Female,Others,31.45,Cash,4.4,Heavy,9.99,No,No,Yes,No
+Bus,Motorcycle,Commuting,72.85,14.23,2022-07-28 19:54:57,2022-07-28 21:07:48,36,Female,Singaporean,14.69,Travel Pass,2.3,Heavy,9.79,Yes,Yes,Yes,Yes
+Bus,SUV,Others,117.65,46.89,2022-07-29 22:11:53,2022-07-30 00:09:32,41,Male,Indonesian,31.22,Card,1,Moderate,3.22,Yes,Yes,No,Yes
+Taxi,Electric Scooter,Commuting,57.33,11.18,2022-07-31 00:28:49,2022-07-31 01:26:09,23,Male,Others,4.45,Mobile App,2.8,Heavy,7.66,Yes,Yes,No,No
+Private Car,Electric Scooter,Others,71.71,49.74,2022-08-01 02:45:45,2022-08-01 03:57:28,66,Male,Indonesian,9.35,Cash,1.2,Moderate,1.44,No,Yes,Yes,Yes
+Bus,SUV,School,63.08,40.92,2022-08-02 05:02:42,2022-08-02 06:05:47,39,Female,Indian,28.28,Cash,2.5,Heavy,1.05,No,No,Yes,No
+Walk,SUV,Commuting,49.42,17.88,2022-08-03 07:19:38,2022-08-03 08:09:03,30,Female,Others,25.32,Card,2.4,Light,1.54,Yes,Yes,Yes,No
+Walk,Van,Shopping,68.53,44.25,2022-08-04 09:36:34,2022-08-04 10:45:06,49,Male,Others,18.5,Card,1.4,Moderate,4.87,Yes,No,No,Yes
+Train,Van,Others,79.03,22.71,2022-08-05 11:53:30,2022-08-05 13:12:32,52,Female,Indonesian,18.24,Card,1.6,Light,2.31,Yes,No,No,No
+Train,Motorcycle,School,104.03,30.02,2022-08-06 14:10:27,2022-08-06 15:54:29,78,Male,Others,26.35,Travel Pass,4.3,Light,5.22,No,Yes,Yes,Yes
+Walk,Van,Others,81.87,37.28,2022-08-07 16:27:23,2022-08-07 17:49:15,29,Male,Others,26.95,Mobile App,4.2,Moderate,3.63,No,Yes,Yes,No
+Taxi,None,Shopping,93.97,3.97,2022-08-08 18:44:19,2022-08-08 20:18:17,74,Male,Malaysian,13.18,Cash,2.7,Light,0.68,Yes,No,Yes,No
+Bicycle,Sedan,School,51.72,2.4,2022-08-09 21:01:15,2022-08-09 21:52:58,49,Male,Indonesian,25.03,Card,4.5,Moderate,6.41,Yes,Yes,Yes,Yes
+Walk,None,Business,96.98,1.4,2022-08-10 23:18:11,2022-08-11 00:55:10,38,Male,Indonesian,22.83,Card,1.5,Moderate,2.57,Yes,No,Yes,No
+Walk,Sedan,Business,69.79,14.79,2022-08-12 01:35:08,2022-08-12 02:44:55,55,Male,Malaysian,0.84,Mobile App,4.7,Moderate,9.37,No,No,Yes,Yes
+Train,Electric Scooter,Business,39.68,29.13,2022-08-13 03:52:04,2022-08-13 04:31:45,31,Male,Others,41.79,Card,3.5,Light,3.29,Yes,No,No,No
+Walk,Motorcycle,School,74.35,27.77,2022-08-14 06:09:00,2022-08-14 07:23:21,74,Female,Malaysian,33.49,Cash,3.8,Light,2.84,No,No,Yes,No
+Train,SUV,Commuting,69.26,11.29,2022-08-15 08:25:56,2022-08-15 09:35:12,52,Male,Malaysian,5.29,Mobile App,2.2,Moderate,3.09,No,No,No,No
+Bicycle,Van,Business,38.87,48.94,2022-08-16 10:42:52,2022-08-16 11:21:44,55,Male,Malaysian,27.7,Mobile App,1.9,Moderate,3.3,Yes,No,Yes,Yes
+Bus,Electric Scooter,Business,64.58,8.36,2022-08-17 12:59:49,2022-08-17 14:04:24,59,Female,Indonesian,31.85,Card,3.2,Light,3.78,Yes,Yes,Yes,Yes
+Bicycle,Van,Commuting,105.88,21.5,2022-08-18 15:16:45,2022-08-18 17:02:38,70,Male,Indonesian,29.95,Cash,4.1,Moderate,1.31,No,Yes,Yes,No
+Bicycle,Van,Others,14.03,16.36,2022-08-19 17:33:41,2022-08-19 17:47:43,79,Male,Indonesian,43.25,Travel Pass,4.4,Heavy,9.84,No,No,Yes,No
+Bicycle,Sedan,School,15.32,8.44,2022-08-20 19:50:37,2022-08-20 20:05:56,26,Male,Indian,44.54,Card,4.5,Light,0.43,No,Yes,No,No
+Train,Van,Shopping,53.95,21.36,2022-08-21 22:07:34,2022-08-21 23:01:31,57,Female,Singaporean,19.09,Cash,4.4,Moderate,1.61,No,No,No,No
+Private Car,Van,Business,68.2,12.83,2022-08-23 00:24:30,2022-08-23 01:32:42,48,Female,Indian,1.45,Card,1.3,Moderate,5.22,No,No,Yes,Yes
+Train,Van,Business,79.87,46.38,2022-08-24 02:41:26,2022-08-24 04:01:18,65,Female,Malaysian,48.45,Card,2.7,Light,8.26,No,Yes,No,No
+Private Car,Sedan,Shopping,117.27,44.07,2022-08-25 04:58:22,2022-08-25 06:55:38,58,Female,Others,49.76,Card,3.8,Heavy,3.44,Yes,Yes,No,Yes
+Bus,Electric Scooter,Others,68.47,15.83,2022-08-26 07:15:18,2022-08-26 08:23:46,42,Female,Malaysian,15.06,Card,3.1,Moderate,9.11,No,No,No,Yes
+Bicycle,Van,Leisure,76.73,28.44,2022-08-27 09:32:15,2022-08-27 10:48:59,46,Male,Indian,12.19,Card,1.6,Moderate,9.06,Yes,Yes,Yes,No
+Private Car,Van,Shopping,76.24,43.95,2022-08-28 11:49:11,2022-08-28 13:05:25,32,Male,Malaysian,37.93,Card,4.8,Moderate,5.2,Yes,Yes,Yes,No
+Private Car,Motorcycle,Others,8.82,26.19,2022-08-29 14:06:07,2022-08-29 14:14:56,28,Female,Indian,28.67,Cash,3.2,Light,5,Yes,Yes,Yes,Yes
+Private Car,SUV,Leisure,116.03,5.28,2022-08-30 16:23:03,2022-08-30 18:19:05,48,Female,Singaporean,16.71,Mobile App,2.3,Moderate,8.78,Yes,Yes,Yes,Yes
+Private Car,Motorcycle,Commuting,90.52,16.2,2022-08-31 18:40:00,2022-08-31 20:10:31,60,Female,Indonesian,28.78,Card,4.4,Heavy,0.29,Yes,Yes,Yes,Yes
+Walk,Electric Scooter,Commuting,17.88,31.35,2022-09-01 20:56:56,2022-09-01 21:14:49,27,Male,Others,22.4,Mobile App,1.5,Light,6.97,Yes,No,Yes,Yes
+Walk,SUV,Others,57.13,27.62,2022-09-02 23:13:52,2022-09-03 00:11:00,74,Female,Indonesian,46.24,Cash,4.4,Moderate,8.17,No,Yes,Yes,No
+Bicycle,Motorcycle,Shopping,115.43,29.68,2022-09-04 01:30:48,2022-09-04 03:26:14,72,Male,Indonesian,23.7,Cash,4.4,Moderate,0.7,No,Yes,Yes,No
+Bus,SUV,School,82.27,47.49,2022-09-05 03:47:44,2022-09-05 05:10:00,44,Female,Malaysian,43.13,Travel Pass,3.4,Heavy,8.26,No,Yes,Yes,Yes
+Bicycle,Sedan,Commuting,83.6,12.58,2022-09-06 06:04:41,2022-09-06 07:28:17,65,Female,Indian,0.35,Cash,3.4,Light,8.16,Yes,Yes,No,No
+Taxi,None,Leisure,12.37,27.56,2022-09-07 08:21:37,2022-09-07 08:33:59,38,Female,Indonesian,23.28,Cash,4.9,Light,8.76,Yes,No,Yes,Yes
+Taxi,Electric Scooter,School,6.38,19.09,2022-09-08 10:38:33,2022-09-08 10:44:56,58,Female,Others,6.26,Cash,1,Moderate,2.23,No,Yes,No,Yes
+Walk,None,Shopping,51.17,8.36,2022-09-09 12:55:29,2022-09-09 13:46:39,55,Female,Others,1.24,Card,3.2,Moderate,2.33,No,No,No,No
+Private Car,SUV,Shopping,96.09,20.72,2022-09-10 15:12:25,2022-09-10 16:48:30,58,Female,Others,12.32,Mobile App,1.1,Moderate,2.84,No,No,No,Yes
+Bus,SUV,Shopping,69.46,49.24,2022-09-11 17:29:22,2022-09-11 18:38:50,20,Male,Others,29.14,Card,2.6,Moderate,7.83,No,No,Yes,No
+Train,Electric Scooter,Business,16.42,4.22,2022-09-12 19:46:18,2022-09-12 20:02:43,18,Male,Indian,18.69,Cash,5,Heavy,1.91,Yes,No,Yes,Yes
+Walk,Sedan,Leisure,20.01,19.92,2022-09-13 22:03:14,2022-09-13 22:23:15,56,Female,Indian,30.92,Travel Pass,1.8,Moderate,9.92,Yes,No,No,Yes
+Walk,Motorcycle,Leisure,30.3,26.75,2022-09-15 00:20:10,2022-09-15 00:50:28,66,Male,Indonesian,10.05,Cash,2.4,Moderate,6.21,Yes,Yes,No,Yes
+Bicycle,Electric Scooter,Business,116.46,41.6,2022-09-16 02:37:07,2022-09-16 04:33:35,64,Male,Indian,26.97,Card,1.5,Light,9.1,No,No,Yes,Yes
+Private Car,SUV,Others,46.53,15.59,2022-09-17 04:54:03,2022-09-17 05:40:35,70,Female,Malaysian,22.82,Card,2.1,Heavy,3.12,No,No,Yes,Yes
+Walk,None,Leisure,46.52,15.03,2022-09-18 07:10:59,2022-09-18 07:57:30,64,Female,Malaysian,15.19,Card,3,Light,2.62,No,No,Yes,No
+Taxi,None,Shopping,23.74,7.96,2022-09-19 09:27:55,2022-09-19 09:51:39,21,Female,Singaporean,1.4,Mobile App,4.2,Light,7.73,Yes,Yes,No,Yes
+Bus,Electric Scooter,Business,16.75,38.5,2022-09-20 11:44:51,2022-09-20 12:01:36,55,Female,Malaysian,4.37,Mobile App,2,Heavy,2.05,No,No,Yes,Yes
+Bus,Van,Others,114.54,47.41,2022-09-21 14:01:48,2022-09-21 15:56:20,60,Female,Others,1.33,Travel Pass,4.5,Light,8.33,No,Yes,Yes,Yes
+Train,Sedan,Commuting,48.53,17.78,2022-09-22 16:18:44,2022-09-22 17:07:16,51,Female,Malaysian,30.19,Cash,4.7,Light,6.89,Yes,No,No,No
+Train,None,Leisure,95.67,16.09,2022-09-23 18:35:40,2022-09-23 20:11:20,67,Female,Indonesian,23.06,Mobile App,4.3,Heavy,1.1,Yes,Yes,No,No
+Train,None,Leisure,79.65,31.34,2022-09-24 20:52:36,2022-09-24 22:12:15,44,Female,Singaporean,28.57,Card,3.1,Moderate,6.46,No,Yes,Yes,Yes
+Private Car,Electric Scooter,Leisure,18.04,47.82,2022-09-25 23:09:32,2022-09-25 23:27:34,63,Male,Others,22.16,Card,2.7,Moderate,6.43,No,Yes,Yes,Yes
+Walk,Van,Commuting,87.58,2.65,2022-09-27 01:26:29,2022-09-27 02:54:04,34,Female,Others,2.06,Travel Pass,2.2,Light,2.07,Yes,No,Yes,Yes
+Private Car,Van,Others,105.55,44.07,2022-09-28 03:43:25,2022-09-28 05:28:58,72,Male,Others,21.16,Travel Pass,2.5,Moderate,3.08,No,Yes,No,No
+Train,Electric Scooter,Others,94.38,20.49,2022-09-29 06:00:21,2022-09-29 07:34:44,51,Male,Indian,42.06,Cash,3.5,Moderate,7.98,Yes,Yes,Yes,Yes
+Bicycle,Motorcycle,Commuting,21.95,15.38,2022-09-30 08:17:17,2022-09-30 08:39:14,75,Male,Singaporean,36.84,Travel Pass,2.5,Light,6.46,Yes,Yes,Yes,Yes
+Taxi,Electric Scooter,School,102.37,22.69,2022-10-01 10:34:14,2022-10-01 12:16:36,37,Male,Others,23.9,Cash,4.3,Heavy,5.79,No,No,Yes,Yes
+Train,Van,School,117.08,12.11,2022-10-02 12:51:10,2022-10-02 14:48:15,59,Male,Malaysian,40.76,Travel Pass,4.2,Light,1.74,Yes,No,Yes,No
+Private Car,Sedan,Commuting,59.63,41.76,2022-10-03 15:08:06,2022-10-03 16:07:44,56,Male,Singaporean,27.06,Travel Pass,3.3,Heavy,8.57,Yes,No,No,No
+Train,Sedan,Others,47.62,33.38,2022-10-04 17:25:02,2022-10-04 18:12:39,42,Female,Others,31.88,Travel Pass,4,Heavy,3.74,Yes,Yes,Yes,Yes
+Private Car,Electric Scooter,Business,68.46,6.26,2022-10-05 19:41:58,2022-10-05 20:50:26,31,Male,Indian,16.73,Cash,1.3,Moderate,6.38,Yes,No,No,No
+Bicycle,None,School,5.28,27.27,2022-10-06 21:58:55,2022-10-06 22:04:12,45,Female,Indian,3.05,Cash,2.2,Heavy,6.16,Yes,Yes,No,Yes
+Bus,Motorcycle,Commuting,30.92,32.29,2022-10-08 00:15:51,2022-10-08 00:46:46,68,Female,Indonesian,15.12,Travel Pass,4.2,Moderate,0.18,No,Yes,No,Yes
+Private Car,Sedan,Others,106.46,31.82,2022-10-09 02:32:47,2022-10-09 04:19:15,26,Male,Others,47.03,Mobile App,3.4,Heavy,2.12,Yes,Yes,Yes,Yes
+Bus,Van,Leisure,68.98,31.75,2022-10-10 04:49:43,2022-10-10 05:58:42,20,Female,Indian,34.27,Travel Pass,1.4,Heavy,9.42,Yes,No,Yes,No
+Bus,SUV,Leisure,92.44,41.11,2022-10-11 07:06:40,2022-10-11 08:39:06,32,Female,Indonesian,43.78,Cash,3.8,Light,8.27,No,Yes,Yes,Yes
+Taxi,Motorcycle,School,105.34,20.5,2022-10-12 09:23:36,2022-10-12 11:08:56,29,Male,Indonesian,27.5,Travel Pass,3.5,Heavy,1.92,Yes,Yes,Yes,No
+Taxi,None,Commuting,67.68,4.41,2022-10-13 11:40:32,2022-10-13 12:48:13,31,Male,Indonesian,42.21,Mobile App,2.8,Heavy,3.23,Yes,Yes,Yes,No
+Private Car,SUV,Business,92.88,24.1,2022-10-14 13:57:28,2022-10-14 15:30:21,52,Female,Malaysian,20.86,Travel Pass,3.3,Moderate,3.94,No,No,Yes,No
+Train,None,Leisure,111.45,3.32,2022-10-15 16:14:24,2022-10-15 18:05:51,18,Female,Indian,27.92,Cash,4.4,Light,7.53,No,Yes,No,Yes
+Walk,Electric Scooter,Others,18.49,48.2,2022-10-16 18:31:21,2022-10-16 18:49:50,38,Female,Others,16.51,Card,2.7,Light,0.32,No,Yes,No,No
+Private Car,None,School,19.8,30.36,2022-10-17 20:48:17,2022-10-17 21:08:05,33,Male,Singaporean,34.09,Cash,2,Moderate,1.36,Yes,No,No,Yes
+Walk,SUV,Others,96.75,2.49,2022-10-18 23:05:13,2022-10-19 00:41:58,41,Female,Others,34.57,Card,2.9,Light,8.31,No,Yes,No,Yes
+Walk,None,Leisure,5.4,19.51,2022-10-20 01:22:09,2022-10-20 01:27:33,46,Female,Indonesian,7.41,Mobile App,4.5,Heavy,9.53,Yes,Yes,Yes,Yes
+Train,Motorcycle,Others,49.83,29.57,2022-10-21 03:39:05,2022-10-21 04:28:55,36,Male,Indian,17.73,Mobile App,3.5,Heavy,6.71,Yes,Yes,No,Yes
+Train,Electric Scooter,Leisure,91.29,49.95,2022-10-22 05:56:02,2022-10-22 07:27:19,51,Female,Malaysian,48.07,Card,2.1,Heavy,8.56,No,Yes,No,No
+Walk,Sedan,Business,11.36,37.48,2022-10-23 08:12:58,2022-10-23 08:24:20,62,Male,Others,29.12,Mobile App,1.3,Moderate,4.48,Yes,No,Yes,Yes
+Walk,None,Shopping,18.61,42.8,2022-10-24 10:29:54,2022-10-24 10:48:31,31,Female,Indonesian,26.21,Travel Pass,3.5,Light,5.37,No,Yes,No,Yes
+Bicycle,SUV,Commuting,16.81,18.27,2022-10-25 12:46:50,2022-10-25 13:03:39,40,Female,Singaporean,45.42,Mobile App,3.3,Light,8.98,Yes,No,No,No
+Private Car,Motorcycle,Commuting,62.07,22.89,2022-10-26 15:03:47,2022-10-26 16:05:51,77,Female,Others,2.09,Card,3.4,Light,9.22,No,Yes,Yes,Yes
+Walk,SUV,Others,39.89,17.62,2022-10-27 17:20:43,2022-10-27 18:00:36,72,Male,Others,33.6,Cash,1.2,Light,8.87,Yes,Yes,No,No
+Private Car,Electric Scooter,Shopping,38.44,17.06,2022-10-28 19:37:39,2022-10-28 20:16:05,57,Female,Malaysian,14.93,Cash,4.6,Light,6.64,No,Yes,Yes,No
+Train,Van,Others,11.27,48.01,2022-10-29 21:54:35,2022-10-29 22:05:51,25,Female,Malaysian,31.67,Cash,3.4,Moderate,9.83,No,Yes,No,No
+Walk,Van,Shopping,19.48,34.73,2022-10-31 00:11:31,2022-10-31 00:31:00,48,Female,Singaporean,42,Travel Pass,4.2,Light,3.79,No,Yes,No,No
+Taxi,Motorcycle,School,52.4,29.74,2022-11-01 02:28:28,2022-11-01 03:20:52,55,Female,Indonesian,43.32,Travel Pass,3.2,Heavy,3.12,No,No,Yes,No
+Private Car,Van,Commuting,115.97,35.23,2022-11-02 04:45:24,2022-11-02 06:41:22,23,Female,Indian,29.84,Travel Pass,1.4,Moderate,4.05,No,No,No,Yes
+Private Car,None,School,40.7,18.42,2022-11-03 07:02:20,2022-11-03 07:43:02,44,Female,Indonesian,44.27,Mobile App,4,Heavy,6.48,No,Yes,No,Yes
+Bicycle,SUV,Commuting,60.43,41.91,2022-11-04 09:19:16,2022-11-04 10:19:42,19,Female,Indonesian,46.01,Cash,1.8,Moderate,6.17,No,Yes,No,No
+Taxi,Electric Scooter,Leisure,46.27,36.86,2022-11-05 11:36:12,2022-11-05 12:22:28,66,Female,Others,7.59,Card,4.5,Heavy,8.39,No,Yes,No,No
+Bus,None,Others,19.67,22.59,2022-11-06 13:53:09,2022-11-06 14:12:49,61,Male,Singaporean,43.33,Mobile App,4.4,Light,3.72,Yes,Yes,Yes,No
+Bus,None,Business,50.73,15.79,2022-11-07 16:10:05,2022-11-07 17:00:49,68,Male,Others,43.62,Mobile App,2.7,Moderate,7.04,No,No,Yes,Yes
+Walk,Electric Scooter,Others,105.26,28.4,2022-11-08 18:27:01,2022-11-08 20:12:17,32,Male,Malaysian,19.45,Travel Pass,2.9,Light,4.62,No,No,Yes,No
+Train,Electric Scooter,Commuting,86.81,43.75,2022-11-09 20:43:57,2022-11-09 22:10:46,74,Female,Others,28.82,Mobile App,1,Light,7.01,No,Yes,Yes,No
+Taxi,None,Commuting,87.32,20.19,2022-11-10 23:00:54,2022-11-11 00:28:13,45,Male,Indonesian,31.12,Travel Pass,2.5,Light,8.84,Yes,Yes,No,Yes
+Train,Sedan,Commuting,68.22,22.11,2022-11-12 01:17:50,2022-11-12 02:26:03,67,Female,Singaporean,23.73,Mobile App,3.4,Light,0.22,No,No,No,No
+Train,Motorcycle,Others,76,15.34,2022-11-13 03:34:46,2022-11-13 04:50:46,18,Male,Indonesian,13.49,Mobile App,4.9,Light,3.98,No,Yes,Yes,Yes
+Bus,SUV,School,6.24,6.97,2022-11-14 05:51:42,2022-11-14 05:57:56,61,Male,Singaporean,36.92,Card,4.2,Light,1.98,Yes,Yes,Yes,No
+Walk,None,Business,96.93,29.36,2022-11-15 08:08:38,2022-11-15 09:45:34,41,Male,Singaporean,34.09,Card,4.8,Moderate,4.57,No,No,No,No
+Taxi,None,Commuting,11.3,38.15,2022-11-16 10:25:35,2022-11-16 10:36:53,34,Male,Malaysian,30.1,Mobile App,3.7,Heavy,4.95,No,Yes,Yes,Yes
+Taxi,Electric Scooter,Commuting,36.78,47.69,2022-11-17 12:42:31,2022-11-17 13:19:18,18,Male,Indonesian,15.04,Mobile App,2.9,Moderate,6.98,Yes,Yes,No,Yes
+Private Car,Sedan,Shopping,84.65,42.23,2022-11-18 14:59:27,2022-11-18 16:24:06,59,Male,Malaysian,1.24,Mobile App,5,Heavy,7.74,Yes,Yes,Yes,Yes
+Walk,Electric Scooter,Commuting,54.19,33.03,2022-11-19 17:16:23,2022-11-19 18:10:34,24,Female,Others,4.16,Mobile App,1.9,Moderate,1.05,Yes,No,Yes,Yes
+Train,Electric Scooter,Commuting,89.11,35.95,2022-11-20 19:33:20,2022-11-20 21:02:27,40,Female,Others,38.44,Mobile App,4.6,Light,7.08,Yes,Yes,No,No
+Private Car,Sedan,Shopping,49.66,43.15,2022-11-21 21:50:16,2022-11-21 22:39:56,35,Male,Malaysian,16.53,Travel Pass,3.3,Moderate,8.84,Yes,No,No,Yes
+Bicycle,Sedan,School,37,45.63,2022-11-23 00:07:12,2022-11-23 00:44:12,50,Female,Indonesian,7.47,Mobile App,3.4,Heavy,1.51,Yes,Yes,Yes,Yes
+Taxi,SUV,Business,31.27,11.03,2022-11-24 02:24:08,2022-11-24 02:55:24,58,Male,Singaporean,7.07,Cash,4.2,Light,9.05,No,No,Yes,Yes
+Taxi,SUV,Shopping,71.95,25.4,2022-11-25 04:41:04,2022-11-25 05:53:01,65,Male,Singaporean,16.51,Card,3.4,Heavy,9.21,Yes,Yes,Yes,Yes
+Train,Electric Scooter,School,76.69,28.91,2022-11-26 06:58:01,2022-11-26 08:14:42,49,Female,Indian,7.98,Mobile App,4.7,Moderate,5.03,Yes,No,Yes,No
+Bicycle,SUV,Business,25.17,3.76,2022-11-27 09:14:57,2022-11-27 09:40:07,36,Male,Indian,3.08,Travel Pass,4.9,Heavy,3.5,Yes,Yes,No,No
+Walk,Electric Scooter,Leisure,52.6,5.78,2022-11-28 11:31:53,2022-11-28 12:24:29,42,Female,Singaporean,4.79,Cash,4.7,Moderate,6.51,Yes,Yes,Yes,No
+Private Car,Electric Scooter,Commuting,59.34,43.21,2022-11-29 13:48:49,2022-11-29 14:48:09,73,Male,Singaporean,43.52,Card,3.1,Moderate,6.04,Yes,No,Yes,Yes
+Train,Electric Scooter,Commuting,98.06,7.44,2022-11-30 16:05:45,2022-11-30 17:43:49,41,Female,Singaporean,9.01,Travel Pass,3.7,Heavy,2.52,No,Yes,Yes,Yes
+Taxi,Electric Scooter,Shopping,94.93,27,2022-12-01 18:22:42,2022-12-01 19:57:38,66,Male,Indian,42.91,Cash,3.2,Heavy,5.06,Yes,Yes,No,Yes
+Bicycle,None,Leisure,68.18,38.46,2022-12-02 20:39:38,2022-12-02 21:47:49,23,Male,Indian,24.46,Travel Pass,2.6,Moderate,0.72,Yes,Yes,No,No
+Bus,Van,Others,48.7,35.97,2022-12-03 22:56:34,2022-12-03 23:45:16,78,Male,Indonesian,19.07,Card,2.8,Heavy,8.54,Yes,Yes,No,Yes
+Private Car,Electric Scooter,Commuting,9.98,28.29,2022-12-05 01:13:30,2022-12-05 01:23:29,54,Male,Indonesian,46.86,Travel Pass,2,Light,3.95,No,No,Yes,No
+Private Car,Electric Scooter,Business,16.03,2.59,2022-12-06 03:30:27,2022-12-06 03:46:29,33,Male,Others,47.91,Cash,4.1,Moderate,4.24,Yes,No,Yes,Yes
+Private Car,Electric Scooter,Others,83.87,34.75,2022-12-07 05:47:23,2022-12-07 07:11:15,53,Female,Malaysian,24.77,Cash,1.3,Moderate,8.44,No,No,No,No
+Bus,Motorcycle,Shopping,5.88,37.82,2022-12-08 08:04:19,2022-12-08 08:10:12,62,Female,Singaporean,38.17,Mobile App,1.2,Moderate,7.08,Yes,Yes,No,No
+Train,Motorcycle,Commuting,65.17,25.89,2022-12-09 10:21:15,2022-12-09 11:26:25,54,Male,Others,25.6,Mobile App,1.6,Light,7.69,No,No,No,Yes
+Train,Motorcycle,Business,28.36,43.83,2022-12-10 12:38:11,2022-12-10 13:06:33,71,Female,Singaporean,30.32,Cash,1.6,Heavy,2.29,No,No,Yes,No
+Bicycle,Electric Scooter,School,73.55,27.7,2022-12-11 14:55:08,2022-12-11 16:08:41,33,Male,Indonesian,32.63,Travel Pass,3.8,Light,4.13,No,Yes,Yes,No
+Train,None,School,6.14,13.09,2022-12-12 17:12:04,2022-12-12 17:18:12,26,Female,Malaysian,13.58,Cash,3.7,Moderate,1.49,Yes,No,No,Yes
+Private Car,None,Commuting,26.83,27.82,2022-12-13 19:29:00,2022-12-13 19:55:50,71,Female,Malaysian,1.25,Mobile App,3.5,Light,3.32,Yes,No,Yes,No
+Walk,Van,Shopping,99.71,6.45,2022-12-14 21:45:56,2022-12-14 23:25:39,62,Female,Others,7.3,Travel Pass,4.8,Moderate,6.68,Yes,No,Yes,Yes
+Taxi,Sedan,Others,112.03,44.35,2022-12-16 00:02:52,2022-12-16 01:54:54,27,Male,Singaporean,42.98,Card,1.3,Moderate,8.22,No,No,No,No
+Private Car,Sedan,School,81.09,17.6,2022-12-17 02:19:49,2022-12-17 03:40:54,68,Male,Indian,17.16,Travel Pass,3.5,Heavy,7.27,Yes,No,Yes,Yes
+Bicycle,Electric Scooter,Shopping,16.42,37.91,2022-12-18 04:36:45,2022-12-18 04:53:10,67,Female,Indian,18.39,Card,2.6,Heavy,3,Yes,No,No,No
+Train,SUV,Leisure,113.15,24.31,2022-12-19 06:53:41,2022-12-19 08:46:50,43,Male,Indian,49.62,Cash,4.5,Heavy,1.9,Yes,Yes,No,No
+Taxi,Van,School,44.16,24.71,2022-12-20 09:10:37,2022-12-20 09:54:47,33,Male,Singaporean,28.19,Card,2.5,Heavy,9.85,Yes,Yes,No,No
+Taxi,Motorcycle,Others,62.76,20.75,2022-12-21 11:27:34,2022-12-21 12:30:20,50,Male,Indian,7.53,Travel Pass,2.2,Light,9.01,Yes,No,No,Yes
+Bicycle,None,School,98.98,15.46,2022-12-22 13:44:30,2022-12-22 15:23:29,24,Male,Malaysian,12.2,Travel Pass,3.4,Moderate,8.24,No,No,No,No
+Bus,SUV,School,16.51,40.27,2022-12-23 16:01:26,2022-12-23 16:17:57,77,Male,Singaporean,8.72,Cash,2.3,Heavy,1.31,No,Yes,Yes,Yes
+Private Car,Van,Others,13.49,1.4,2022-12-24 18:18:22,2022-12-24 18:31:51,40,Female,Malaysian,36.79,Card,3.1,Heavy,6.09,Yes,No,Yes,No
+Bus,Electric Scooter,Others,81.32,19.26,2022-12-25 20:35:18,2022-12-25 21:56:37,28,Female,Others,44.18,Card,1.1,Light,2.76,Yes,No,No,No
+Private Car,Electric Scooter,Others,10.96,43.44,2022-12-26 22:52:15,2022-12-26 23:03:13,34,Female,Singaporean,4.53,Mobile App,3.5,Heavy,2.32,No,Yes,No,Yes
+Bicycle,Van,School,87.15,0.59,2022-12-28 01:09:11,2022-12-28 02:36:20,39,Male,Others,2.72,Card,2,Heavy,2.71,No,No,No,No
+Private Car,Motorcycle,Commuting,58.18,38.04,2022-12-29 03:26:07,2022-12-29 04:24:18,79,Female,Indian,20.69,Card,2.7,Light,8.26,No,No,No,No
+Train,Electric Scooter,Others,48.95,28.26,2022-12-30 05:43:03,2022-12-30 06:32:00,25,Female,Malaysian,11.59,Mobile App,1.6,Light,1.1,No,No,No,Yes
+Private Car,SUV,Business,54.27,5.46,2022-12-31 08:00:00,2022-12-31 08:54:16,33,Male,Others,6.05,Travel Pass,4.4,Light,8.46,No,No,Yes,No
+Bus,None,Others,49.42,21.47,2023-01-01 10:16:56,2023-01-01 11:06:21,20,Female,Indonesian,36.82,Cash,3.6,Light,5.64,No,No,No,No
+Train,Sedan,Business,54.25,3.11,2023-01-02 12:33:52,2023-01-02 13:28:07,49,Male,Indian,19.16,Card,2.6,Moderate,6.23,Yes,Yes,No,No
+Private Car,SUV,School,32.03,23.62,2023-01-03 14:50:48,2023-01-03 15:22:50,32,Male,Others,2.77,Mobile App,4,Light,7.81,Yes,No,No,No
+Taxi,Sedan,School,101.97,10.22,2023-01-04 17:07:44,2023-01-04 18:49:42,20,Male,Others,4.3,Mobile App,1.9,Heavy,9.78,No,No,Yes,No
+Taxi,SUV,Business,36.9,6.95,2023-01-05 19:24:41,2023-01-05 20:01:35,28,Male,Malaysian,44.15,Card,1.8,Moderate,2.19,No,No,No,No
+Private Car,SUV,Others,25.24,11.65,2023-01-06 21:41:37,2023-01-06 22:06:51,56,Male,Indonesian,0.7,Mobile App,3.7,Heavy,6.98,Yes,No,Yes,Yes
+Train,None,Shopping,9.96,14.18,2023-01-07 23:58:33,2023-01-08 00:08:31,58,Male,Indian,46.98,Mobile App,2.3,Heavy,4.45,Yes,No,No,Yes
+Bicycle,Electric Scooter,Commuting,65.23,17.73,2023-01-09 02:15:29,2023-01-09 03:20:43,64,Male,Others,15.04,Cash,4.8,Light,5.09,No,No,No,No
+Train,Van,Commuting,9.18,22.46,2023-01-10 04:32:25,2023-01-10 04:41:36,44,Female,Singaporean,23.22,Cash,1.2,Heavy,6.28,Yes,No,Yes,Yes
+Bus,None,School,84.83,40.63,2023-01-11 06:49:22,2023-01-11 08:14:12,62,Male,Indian,40.68,Card,2.6,Moderate,2.59,Yes,Yes,No,Yes
+Bus,None,Commuting,34.31,12.09,2023-01-12 09:06:18,2023-01-12 09:40:37,51,Male,Others,18.28,Travel Pass,1.1,Moderate,6.54,Yes,No,Yes,No
+Train,Sedan,Commuting,101.72,33.16,2023-01-13 11:23:14,2023-01-13 13:04:57,22,Female,Indonesian,20.24,Card,2.2,Moderate,0.26,No,No,No,Yes
+Private Car,SUV,Shopping,118.42,31.47,2023-01-14 13:40:10,2023-01-14 15:38:35,19,Female,Others,36.02,Cash,2.3,Heavy,1.69,No,No,No,No
+Bus,SUV,Others,93.86,2.43,2023-01-15 15:57:07,2023-01-15 17:30:59,68,Male,Singaporean,7.85,Travel Pass,2.7,Moderate,4.72,No,No,No,No
+Bicycle,Motorcycle,Shopping,54.44,17.59,2023-01-16 18:14:03,2023-01-16 19:08:29,60,Male,Others,26.81,Card,1.1,Heavy,2.7,No,No,No,Yes
+Bicycle,SUV,School,48.12,21.9,2023-01-17 20:30:59,2023-01-17 21:19:06,21,Female,Others,34.5,Cash,1.6,Heavy,4.83,Yes,Yes,No,Yes
+Walk,Sedan,Leisure,95.54,26.28,2023-01-18 22:47:55,2023-01-19 00:23:27,40,Female,Others,48.44,Travel Pass,2.1,Light,7.46,Yes,Yes,Yes,Yes
+Private Car,Sedan,Others,104.39,2.14,2023-01-20 01:04:51,2023-01-20 02:49:14,38,Male,Indonesian,45.97,Card,1.6,Heavy,6.51,Yes,Yes,No,Yes
+Train,Van,School,97.11,8.52,2023-01-21 03:21:48,2023-01-21 04:58:55,77,Female,Others,21.66,Mobile App,4.2,Moderate,5.88,No,No,Yes,No
+Bicycle,Van,Shopping,117.63,14.44,2023-01-22 05:38:44,2023-01-22 07:36:22,30,Male,Singaporean,0.69,Card,4.8,Light,8.77,No,Yes,Yes,No
+Bicycle,Sedan,Shopping,83.16,34.01,2023-01-23 07:55:40,2023-01-23 09:18:50,32,Male,Singaporean,29.14,Travel Pass,3.8,Moderate,6.27,Yes,No,No,No
+Bicycle,None,Leisure,89.6,18.59,2023-01-24 10:12:36,2023-01-24 11:42:12,63,Female,Malaysian,7.8,Card,1.6,Heavy,6.26,No,Yes,No,Yes
+Bicycle,Van,Shopping,33.62,20.86,2023-01-25 12:29:32,2023-01-25 13:03:09,34,Female,Singaporean,19.82,Cash,1.8,Light,9.51,No,Yes,No,No
+Taxi,Sedan,Commuting,88.54,32.44,2023-01-26 14:46:29,2023-01-26 16:15:01,25,Male,Others,37.84,Mobile App,2.4,Light,9.34,Yes,Yes,Yes,Yes
+Taxi,Motorcycle,Commuting,93,10.68,2023-01-27 17:03:25,2023-01-27 18:36:25,51,Male,Malaysian,3.74,Card,2.9,Heavy,3.74,No,Yes,Yes,No
+Train,Electric Scooter,Business,30.04,8.09,2023-01-28 19:20:21,2023-01-28 19:50:23,48,Female,Indonesian,5.27,Cash,1.3,Light,0.16,No,No,No,Yes
+Bus,Van,Commuting,37.18,37.17,2023-01-29 21:37:17,2023-01-29 22:14:28,21,Female,Others,11.01,Mobile App,3.5,Moderate,1.68,No,Yes,No,No
+Train,Electric Scooter,Business,39.58,49.52,2023-01-30 23:54:14,2023-01-31 00:33:49,26,Male,Singaporean,17.75,Travel Pass,4.3,Moderate,3.93,Yes,Yes,No,Yes
+Bicycle,Electric Scooter,Commuting,113.96,45.32,2023-02-01 02:11:10,2023-02-01 04:05:08,76,Female,Singaporean,48.49,Travel Pass,3.4,Heavy,3.29,No,Yes,Yes,No
+Train,Van,School,118.72,44.26,2023-02-02 04:28:06,2023-02-02 06:26:49,56,Male,Indonesian,10.42,Card,3.4,Moderate,1.48,No,Yes,Yes,Yes
+Train,Electric Scooter,Business,77.32,19.6,2023-02-03 06:45:02,2023-02-03 08:02:21,68,Female,Indian,9.58,Cash,2.1,Heavy,9.79,Yes,No,No,No
+Walk,Motorcycle,Commuting,96.7,5.09,2023-02-04 09:01:58,2023-02-04 10:38:40,50,Female,Others,20.15,Card,2.2,Light,4.02,Yes,No,Yes,No
+Private Car,Electric Scooter,Others,23.92,30.89,2023-02-05 11:18:55,2023-02-05 11:42:50,65,Female,Malaysian,34.04,Travel Pass,3.3,Moderate,1.71,No,No,Yes,No
+Walk,Motorcycle,Others,44.07,27.48,2023-02-06 13:35:51,2023-02-06 14:19:55,69,Female,Indian,23.11,Mobile App,4.7,Heavy,1.63,Yes,No,No,No
+Taxi,None,Business,101.56,20.53,2023-02-07 15:52:47,2023-02-07 17:34:21,51,Male,Others,3.43,Card,3.3,Light,0.26,No,Yes,No,Yes
+Taxi,None,Others,50.33,16.53,2023-02-08 18:09:43,2023-02-08 19:00:03,34,Female,Indian,8.44,Travel Pass,3.2,Light,5.54,Yes,Yes,No,Yes
+Private Car,None,Shopping,113.44,9.74,2023-02-09 20:26:40,2023-02-09 22:20:06,59,Female,Indonesian,24.28,Mobile App,1.7,Heavy,6.73,Yes,No,No,Yes
+Taxi,Electric Scooter,Commuting,43.49,47.49,2023-02-10 22:43:36,2023-02-10 23:27:05,69,Male,Indian,41.63,Travel Pass,3.9,Heavy,2.68,Yes,Yes,Yes,No
+Bus,Motorcycle,Others,34.17,24.92,2023-02-12 01:00:32,2023-02-12 01:34:42,44,Male,Singaporean,0.02,Travel Pass,3.8,Light,6.78,Yes,Yes,No,No
+Private Car,Van,School,30.48,2.01,2023-02-13 03:17:28,2023-02-13 03:47:57,68,Female,Others,32.57,Card,2.6,Light,3.24,No,No,Yes,No
+Taxi,Van,School,108.52,25.96,2023-02-14 05:34:24,2023-02-14 07:22:55,75,Male,Indian,28.44,Card,1.2,Light,0.17,Yes,No,No,No
+Train,Sedan,Leisure,50.42,34.38,2023-02-15 07:51:21,2023-02-15 08:41:46,33,Female,Indian,14.2,Mobile App,1.4,Light,4.71,No,Yes,Yes,No
+Taxi,Sedan,Shopping,36.96,17.81,2023-02-16 10:08:17,2023-02-16 10:45:15,27,Female,Malaysian,16.32,Card,4.2,Light,6.46,No,No,Yes,No
+Walk,SUV,Commuting,100.72,24.56,2023-02-17 12:25:13,2023-02-17 14:05:56,55,Male,Singaporean,21.39,Card,4.8,Heavy,9.98,No,Yes,No,No
+Bus,Van,Business,88.74,14.92,2023-02-18 14:42:09,2023-02-18 16:10:53,62,Female,Malaysian,24.65,Cash,3.4,Heavy,0.82,Yes,Yes,Yes,No
+Taxi,Electric Scooter,Others,39.63,3.94,2023-02-19 16:59:05,2023-02-19 17:38:43,79,Male,Indonesian,9.2,Cash,3.4,Moderate,7.01,No,Yes,Yes,Yes
+Train,None,Leisure,63.25,35.12,2023-02-20 19:16:02,2023-02-20 20:19:17,19,Female,Indonesian,42.01,Cash,2.4,Heavy,8.03,Yes,Yes,Yes,No
+Bicycle,Electric Scooter,Leisure,80.6,7.54,2023-02-21 21:32:58,2023-02-21 22:53:34,35,Male,Indian,1.92,Mobile App,4.5,Light,9.75,No,Yes,Yes,No
+Bicycle,Sedan,Leisure,58.71,43.79,2023-02-22 23:49:54,2023-02-23 00:48:37,62,Female,Others,15.08,Travel Pass,4.8,Moderate,4.69,No,Yes,No,No
+Walk,Sedan,Shopping,115.79,45.52,2023-02-24 02:06:50,2023-02-24 04:02:37,30,Female,Indonesian,18.68,Card,4.7,Heavy,2.34,No,Yes,No,No
+Bus,None,Business,80.59,31.78,2023-02-25 04:23:47,2023-02-25 05:44:22,47,Female,Malaysian,36.47,Cash,2.9,Moderate,3.42,No,Yes,Yes,No
+Private Car,SUV,Commuting,117.53,6.33,2023-02-26 06:40:43,2023-02-26 08:38:15,41,Male,Malaysian,20.67,Card,4.4,Light,3.53,Yes,Yes,Yes,No
+Taxi,Electric Scooter,School,6.02,3.25,2023-02-27 08:57:39,2023-02-27 09:03:40,25,Female,Others,16.9,Travel Pass,1.9,Heavy,3.04,No,Yes,No,No
+Taxi,Sedan,Commuting,69.6,39.23,2023-02-28 11:14:35,2023-02-28 12:24:11,19,Male,Singaporean,20.34,Cash,1.2,Light,3.61,Yes,Yes,Yes,Yes
+Train,Van,Business,46.63,2.77,2023-03-01 13:31:31,2023-03-01 14:18:09,43,Male,Indian,17.3,Travel Pass,3.2,Light,0.75,Yes,No,No,No
+Private Car,Motorcycle,Shopping,36.02,10.28,2023-03-02 15:48:28,2023-03-02 16:24:29,39,Female,Indonesian,35.79,Cash,1.4,Light,6.61,Yes,No,Yes,No
+Bus,Sedan,Shopping,60.45,44.9,2023-03-03 18:05:24,2023-03-03 19:05:51,52,Male,Indonesian,48.52,Travel Pass,4.4,Light,6.32,Yes,Yes,Yes,No
+Bus,Electric Scooter,Business,28.29,8.53,2023-03-04 20:22:20,2023-03-04 20:50:37,39,Male,Malaysian,42.96,Card,2,Light,2.89,Yes,Yes,Yes,No
+Bicycle,Motorcycle,Commuting,119.28,33.7,2023-03-05 22:39:16,2023-03-06 00:38:33,49,Female,Singaporean,6.54,Travel Pass,2,Heavy,0.8,No,No,Yes,Yes
+Taxi,Motorcycle,Leisure,46.15,14.36,2023-03-07 00:56:12,2023-03-07 01:42:21,66,Male,Indonesian,6.83,Travel Pass,3.1,Light,3.77,No,No,No,Yes
+Walk,Van,Commuting,106.7,23.05,2023-03-08 03:13:09,2023-03-08 04:59:51,68,Female,Indian,25.87,Cash,1.8,Heavy,3.09,No,Yes,No,Yes
+Taxi,Van,Shopping,43.85,37.38,2023-03-09 05:30:05,2023-03-09 06:13:56,57,Female,Others,7.05,Card,1.3,Heavy,4.29,No,No,No,No
+Bus,Electric Scooter,Leisure,100.82,4.83,2023-03-10 07:47:01,2023-03-10 09:27:50,52,Male,Indian,15.78,Mobile App,1.1,Heavy,6.45,Yes,No,Yes,Yes
+Bus,SUV,Leisure,14.01,0.66,2023-03-11 10:03:57,2023-03-11 10:17:58,21,Male,Indonesian,42.11,Mobile App,2.7,Moderate,0.71,Yes,Yes,Yes,No
+Walk,Van,Leisure,109.17,48.63,2023-03-12 12:20:54,2023-03-12 14:10:04,56,Female,Indonesian,45.72,Mobile App,4.2,Heavy,4.78,Yes,Yes,No,No
+Walk,Electric Scooter,Others,92.06,14.67,2023-03-13 14:37:50,2023-03-13 16:09:54,30,Male,Others,35.46,Cash,2,Moderate,8.02,Yes,Yes,No,Yes
+Bus,Van,Commuting,58.65,14.87,2023-03-14 16:54:46,2023-03-14 17:53:25,21,Male,Malaysian,8.57,Travel Pass,1.6,Heavy,9.29,Yes,Yes,Yes,No
+Walk,Sedan,Shopping,29.45,12.6,2023-03-15 19:11:42,2023-03-15 19:41:09,57,Male,Indian,10.85,Card,2.4,Light,1.15,No,Yes,Yes,Yes
+Bus,Motorcycle,Commuting,76.13,33.44,2023-03-16 21:28:38,2023-03-16 22:44:46,79,Male,Others,13.11,Cash,1.5,Heavy,5.11,No,Yes,Yes,No
+Bus,Electric Scooter,Commuting,91.12,22.05,2023-03-17 23:45:35,2023-03-18 01:16:42,49,Female,Others,17.5,Cash,1.9,Light,0.87,Yes,Yes,Yes,No
+Bus,None,School,37.84,36.24,2023-03-19 02:02:31,2023-03-19 02:40:21,52,Female,Malaysian,10.22,Mobile App,1.8,Moderate,6.21,No,Yes,Yes,Yes
+Private Car,Van,Shopping,57.6,40.35,2023-03-20 04:19:27,2023-03-20 05:17:03,28,Male,Singaporean,38.55,Mobile App,3.2,Heavy,2.22,No,Yes,Yes,Yes
+Taxi,Van,Commuting,41.51,1.43,2023-03-21 06:36:23,2023-03-21 07:17:54,26,Female,Singaporean,29.48,Travel Pass,2.7,Light,8.24,No,Yes,No,Yes
+Bicycle,Van,School,109.77,25.69,2023-03-22 08:53:20,2023-03-22 10:43:06,48,Male,Singaporean,13.42,Mobile App,1.9,Moderate,4.75,Yes,No,No,Yes
+Bicycle,None,Commuting,68.2,43.18,2023-03-23 11:10:16,2023-03-23 12:18:28,72,Male,Others,7.7,Card,1.7,Moderate,7.63,Yes,No,No,Yes
+Taxi,Sedan,Business,44.22,49.34,2023-03-24 13:27:12,2023-03-24 14:11:25,78,Female,Indian,30.58,Travel Pass,1.1,Light,3.44,No,No,Yes,No
+Taxi,Motorcycle,Business,13.66,39.32,2023-03-25 15:44:08,2023-03-25 15:57:48,58,Male,Singaporean,31.55,Travel Pass,3.3,Moderate,8.74,Yes,No,Yes,No
+Taxi,None,Business,62.25,28.39,2023-03-26 18:01:04,2023-03-26 19:03:19,76,Male,Indian,10.27,Travel Pass,1.5,Light,0.9,No,Yes,No,Yes
+Private Car,Van,Leisure,25.01,47.2,2023-03-27 20:18:01,2023-03-27 20:43:02,68,Male,Malaysian,48.12,Card,2.4,Heavy,9.54,Yes,Yes,Yes,Yes
+Walk,None,Leisure,15.03,42.71,2023-03-28 22:34:57,2023-03-28 22:49:59,59,Male,Malaysian,0.02,Mobile App,2.3,Light,6.53,Yes,No,No,No
+Train,Electric Scooter,Leisure,33.62,35.01,2023-03-30 00:51:53,2023-03-30 01:25:30,37,Male,Malaysian,45.67,Travel Pass,4.9,Moderate,2.43,Yes,Yes,Yes,Yes
+Bicycle,Electric Scooter,School,89,19.54,2023-03-31 03:08:49,2023-03-31 04:37:49,73,Male,Malaysian,16.03,Mobile App,4.9,Moderate,2.69,No,Yes,Yes,No
+Taxi,Van,Commuting,27.95,3.53,2023-04-01 05:25:45,2023-04-01 05:53:42,38,Male,Malaysian,29.94,Cash,2.8,Moderate,1.25,Yes,Yes,Yes,Yes
+Bus,SUV,Commuting,100.04,44.3,2023-04-02 07:42:42,2023-04-02 09:22:44,56,Female,Others,5.87,Card,1.8,Moderate,4.83,No,No,No,No
+Private Car,Electric Scooter,Shopping,33.29,15.85,2023-04-03 09:59:38,2023-04-03 10:32:55,21,Male,Indian,26.12,Travel Pass,1.7,Light,8.65,Yes,Yes,No,No
+Train,Motorcycle,Business,89.47,17.33,2023-04-04 12:16:34,2023-04-04 13:46:02,72,Female,Indonesian,6.6,Mobile App,3.5,Heavy,2.28,Yes,No,No,Yes
+Bus,SUV,Leisure,115.74,1.52,2023-04-05 14:33:30,2023-04-05 16:29:14,42,Male,Others,20.76,Mobile App,2.6,Moderate,5.44,No,No,No,Yes
+Bus,Electric Scooter,Shopping,96.34,42.48,2023-04-06 16:50:27,2023-04-06 18:26:47,47,Female,Indonesian,0.84,Travel Pass,3.4,Heavy,3.51,No,Yes,Yes,Yes
+Bicycle,None,Shopping,16.6,36.01,2023-04-07 19:07:23,2023-04-07 19:23:59,51,Female,Malaysian,44.2,Travel Pass,4.2,Moderate,4.12,No,No,No,No
+Train,None,Commuting,41.82,39.09,2023-04-08 21:24:19,2023-04-08 22:06:08,31,Female,Others,16.36,Card,3.6,Light,5.9,No,Yes,Yes,No
+Private Car,SUV,School,40.53,17.93,2023-04-09 23:41:15,2023-04-10 00:21:47,63,Male,Indian,8.19,Mobile App,1.7,Light,2.18,Yes,No,No,No
+Train,Van,Leisure,98.19,32.35,2023-04-11 01:58:11,2023-04-11 03:36:22,38,Male,Malaysian,47.54,Mobile App,3.1,Heavy,8.28,No,Yes,Yes,Yes
+Taxi,Motorcycle,Leisure,98.38,5.62,2023-04-12 04:15:08,2023-04-12 05:53:31,56,Female,Others,20.21,Card,1.8,Moderate,7.82,No,Yes,Yes,No
+Bus,Sedan,Commuting,90.93,27.51,2023-04-13 06:32:04,2023-04-13 08:03:00,59,Female,Singaporean,2.26,Mobile App,4.7,Moderate,7.73,Yes,No,No,Yes
+Private Car,SUV,Commuting,62,21.83,2023-04-14 08:49:00,2023-04-14 09:51:00,23,Female,Indonesian,45.44,Card,1.7,Heavy,6.33,No,Yes,Yes,No
+Train,Motorcycle,School,76.38,34.99,2023-04-15 11:05:56,2023-04-15 12:22:19,38,Male,Others,2.59,Mobile App,3.7,Heavy,0.86,No,No,Yes,Yes
+Bus,Van,Business,62.27,11.94,2023-04-16 13:22:52,2023-04-16 14:25:08,24,Female,Malaysian,10.17,Travel Pass,3.9,Heavy,7.17,Yes,Yes,Yes,No
+Private Car,Motorcycle,Commuting,91.22,34.22,2023-04-17 15:39:49,2023-04-17 17:11:02,31,Female,Indian,9.85,Travel Pass,1.4,Heavy,5.82,No,No,No,Yes
+Walk,SUV,Business,32.78,2.75,2023-04-18 17:56:45,2023-04-18 18:29:32,36,Female,Malaysian,22.99,Mobile App,2.1,Light,3.21,No,No,No,Yes
+Bicycle,Electric Scooter,School,18.07,7.76,2023-04-19 20:13:41,2023-04-19 20:31:45,30,Female,Indonesian,38.65,Mobile App,1.2,Heavy,0.86,Yes,No,No,Yes
+Taxi,Motorcycle,Shopping,81.61,4.42,2023-04-20 22:30:37,2023-04-20 23:52:14,59,Female,Indonesian,35.96,Travel Pass,4,Moderate,1.77,No,No,No,No
+Walk,Van,Others,36.77,40.2,2023-04-22 00:47:34,2023-04-22 01:24:20,29,Male,Indonesian,31.74,Card,2.5,Moderate,5.29,No,Yes,Yes,Yes
+Private Car,None,Others,31.06,27.27,2023-04-23 03:04:30,2023-04-23 03:35:34,63,Male,Indonesian,44.96,Cash,3.6,Heavy,8.53,No,Yes,Yes,No
+Bicycle,SUV,School,23.85,8.64,2023-04-24 05:21:26,2023-04-24 05:45:17,60,Male,Singaporean,31.14,Travel Pass,4.1,Heavy,9.4,No,Yes,No,Yes
+Bus,Sedan,School,107.85,16.74,2023-04-25 07:38:22,2023-04-25 09:26:13,52,Female,Indian,32.56,Travel Pass,3.9,Moderate,2.05,Yes,Yes,Yes,No
+Taxi,None,Business,35.22,19.97,2023-04-26 09:55:18,2023-04-26 10:30:31,32,Male,Malaysian,15.34,Card,4.4,Light,7.36,Yes,Yes,Yes,Yes
+Train,Motorcycle,Leisure,64.05,31.27,2023-04-27 12:12:15,2023-04-27 13:16:18,77,Male,Indian,19.83,Mobile App,1.5,Heavy,5.71,No,Yes,Yes,Yes
+Bus,None,Business,35.83,16.54,2023-04-28 14:29:11,2023-04-28 15:05:01,46,Female,Malaysian,31.67,Cash,4.1,Moderate,6.46,Yes,Yes,No,No
+Bus,None,Leisure,79.63,8.9,2023-04-29 16:46:07,2023-04-29 18:05:45,62,Female,Singaporean,20.38,Mobile App,3.8,Heavy,0.84,No,No,Yes,Yes
+Taxi,SUV,Others,75.56,47.54,2023-04-30 19:03:03,2023-04-30 20:18:37,65,Female,Indonesian,5.51,Mobile App,3.7,Heavy,7.68,No,Yes,Yes,Yes
+Bus,None,Commuting,14.25,3.36,2023-05-01 21:20:00,2023-05-01 21:34:15,36,Female,Indonesian,8.27,Mobile App,2.3,Heavy,8.93,Yes,Yes,No,No
+Bicycle,None,Commuting,65.53,41.37,2023-05-02 23:36:56,2023-05-03 00:42:28,62,Female,Singaporean,48.13,Card,1.4,Heavy,4.49,No,Yes,No,Yes
+Walk,SUV,Leisure,73.26,37.4,2023-05-04 01:53:52,2023-05-04 03:07:08,74,Female,Indonesian,45.12,Mobile App,2.6,Light,8.42,No,No,Yes,No
+Bicycle,None,School,57.22,39.29,2023-05-05 04:10:48,2023-05-05 05:08:01,45,Female,Malaysian,0.24,Card,3.9,Moderate,8.05,No,No,No,No
+Bicycle,Motorcycle,Business,73.47,19.47,2023-05-06 06:27:44,2023-05-06 07:41:12,44,Male,Others,49.61,Mobile App,4.7,Light,4.02,Yes,Yes,No,Yes
+Walk,Motorcycle,Business,50.14,46.41,2023-05-07 08:44:41,2023-05-07 09:34:49,28,Female,Malaysian,20.91,Card,2.8,Heavy,6.42,No,Yes,No,No
+Taxi,Motorcycle,Business,84.86,13.83,2023-05-08 11:01:37,2023-05-08 12:26:29,31,Male,Indonesian,27.83,Travel Pass,2.8,Heavy,9.5,No,Yes,Yes,No
+Train,SUV,School,103.05,18.74,2023-05-09 13:18:33,2023-05-09 15:01:36,24,Female,Singaporean,15.18,Cash,4.1,Moderate,9.4,Yes,No,Yes,No
+Bus,SUV,School,117.61,14.17,2023-05-10 15:35:29,2023-05-10 17:33:06,77,Male,Singaporean,14.23,Cash,4.6,Moderate,4.65,No,No,No,No
+Walk,None,School,63.67,35.07,2023-05-11 17:52:25,2023-05-11 18:56:05,60,Female,Singaporean,26.76,Card,4.9,Moderate,5.43,Yes,No,No,No
+Train,None,School,35.63,8.49,2023-05-12 20:09:22,2023-05-12 20:45:00,63,Female,Indonesian,28.15,Cash,2.7,Moderate,3.87,No,Yes,Yes,No
+Private Car,None,Business,113.57,37.21,2023-05-13 22:26:18,2023-05-14 00:19:52,26,Female,Singaporean,18.49,Cash,2.6,Light,7.91,Yes,Yes,No,No
+Bus,Sedan,School,89.58,46.11,2023-05-15 00:43:14,2023-05-15 02:12:49,26,Male,Indonesian,4.18,Travel Pass,2,Heavy,1.62,Yes,Yes,No,Yes
+Bus,SUV,Commuting,64.78,14.32,2023-05-16 03:00:10,2023-05-16 04:04:57,52,Female,Singaporean,31.26,Mobile App,5,Heavy,4.59,No,Yes,Yes,Yes
+Train,Electric Scooter,Commuting,70.65,14.21,2023-05-17 05:17:07,2023-05-17 06:27:46,62,Female,Indian,5.52,Mobile App,2.9,Moderate,8,No,No,Yes,No
+Private Car,Motorcycle,Shopping,114.28,45.26,2023-05-18 07:34:03,2023-05-18 09:28:20,54,Male,Others,26.21,Cash,2.3,Light,2.49,No,No,Yes,Yes
+Walk,Electric Scooter,Others,15.72,32.08,2023-05-19 09:50:59,2023-05-19 10:06:42,63,Male,Singaporean,14.62,Mobile App,1.3,Moderate,2.38,No,No,No,No
+Bus,None,School,51.64,46.04,2023-05-20 12:07:55,2023-05-20 12:59:33,56,Female,Indian,24.94,Mobile App,4.5,Moderate,1.24,Yes,Yes,Yes,Yes
+Train,None,Leisure,15.21,1.9,2023-05-21 14:24:51,2023-05-21 14:40:04,71,Female,Others,8.88,Cash,3.8,Heavy,4.09,Yes,No,Yes,No
+Bicycle,Sedan,Leisure,61.26,11.8,2023-05-22 16:41:48,2023-05-22 17:43:04,22,Female,Others,14.54,Travel Pass,3.5,Light,3.18,No,Yes,Yes,Yes
+Bus,SUV,Others,20.84,1.99,2023-05-23 18:58:44,2023-05-23 19:19:34,77,Male,Indian,22.71,Card,1.2,Heavy,3.73,No,No,No,No
+Walk,Motorcycle,Shopping,21.78,23.73,2023-05-24 21:15:40,2023-05-24 21:37:27,27,Female,Others,12.48,Card,4.2,Heavy,9.69,Yes,No,Yes,No
+Walk,SUV,Business,58.67,15.11,2023-05-25 23:32:36,2023-05-26 00:31:16,45,Female,Others,24.78,Card,4.3,Heavy,3.73,Yes,Yes,Yes,No
+Train,SUV,Business,46.53,45.36,2023-05-27 01:49:32,2023-05-27 02:36:04,31,Male,Indian,5.23,Mobile App,2.3,Moderate,6.14,No,No,Yes,Yes
+Train,Van,Leisure,19.2,36.26,2023-05-28 04:06:29,2023-05-28 04:25:41,36,Female,Malaysian,1.04,Cash,3.7,Heavy,1.9,Yes,No,Yes,No
+Train,Van,Commuting,61.22,27.53,2023-05-29 06:23:25,2023-05-29 07:24:38,40,Male,Indonesian,8.92,Cash,1.8,Heavy,1.65,Yes,Yes,No,Yes
+Bus,Sedan,Commuting,57.75,45.83,2023-05-30 08:40:21,2023-05-30 09:38:06,46,Female,Singaporean,31.25,Travel Pass,1.2,Light,8.22,No,No,Yes,Yes
+Private Car,Motorcycle,Commuting,74.78,31.11,2023-05-31 10:57:17,2023-05-31 12:12:04,24,Female,Indonesian,37.25,Travel Pass,4.6,Light,6.35,Yes,No,Yes,No
+Taxi,Van,Others,25.95,12.15,2023-06-01 13:14:14,2023-06-01 13:40:11,25,Male,Indian,36.27,Mobile App,2.4,Light,1.72,No,No,Yes,No
+Walk,Motorcycle,Others,8.71,27.14,2023-06-02 15:31:10,2023-06-02 15:39:53,72,Female,Indian,48.8,Card,3.1,Moderate,3.45,No,Yes,No,Yes
+Taxi,Sedan,Leisure,51.16,45.28,2023-06-03 17:48:06,2023-06-03 18:39:16,35,Male,Malaysian,11.24,Card,1.7,Light,3.18,Yes,Yes,Yes,No
+Private Car,None,School,53.3,30.12,2023-06-04 20:05:02,2023-06-04 20:58:20,40,Female,Singaporean,30.77,Cash,5,Moderate,3.81,No,Yes,No,No
+Walk,Electric Scooter,Others,45.74,18.48,2023-06-05 22:21:58,2023-06-05 23:07:42,57,Female,Indonesian,33.39,Mobile App,1.2,Light,2.18,No,Yes,No,No
+Bus,Van,Leisure,91.09,8.11,2023-06-07 00:38:55,2023-06-07 02:10:00,47,Male,Others,29.31,Cash,5,Moderate,8.45,Yes,Yes,Yes,Yes
+Bicycle,Sedan,Commuting,60.62,47.98,2023-06-08 02:55:51,2023-06-08 03:56:28,35,Male,Indonesian,13.53,Cash,2.2,Heavy,4.38,Yes,Yes,Yes,Yes
+Walk,Van,Others,73.56,38.57,2023-06-09 05:12:47,2023-06-09 06:26:21,79,Male,Indonesian,33.16,Travel Pass,4,Heavy,9.67,Yes,No,Yes,Yes
+Private Car,None,Shopping,43.42,39.43,2023-06-10 07:29:43,2023-06-10 08:13:08,71,Male,Malaysian,49.92,Mobile App,1.3,Heavy,3.81,Yes,No,No,Yes
+Walk,None,Shopping,68.9,4.96,2023-06-11 09:46:40,2023-06-11 10:55:34,35,Male,Indian,37.14,Cash,1.9,Heavy,7.05,Yes,No,Yes,No
+Private Car,Motorcycle,Leisure,34.84,36.58,2023-06-12 12:03:36,2023-06-12 12:38:26,52,Female,Indonesian,20.02,Card,4.2,Light,3.37,Yes,No,Yes,No
+Taxi,Electric Scooter,School,72.75,13.98,2023-06-13 14:20:32,2023-06-13 15:33:17,32,Female,Indian,4.54,Mobile App,3.7,Heavy,7.36,Yes,No,Yes,Yes
+Walk,Van,School,27.78,27.82,2023-06-14 16:37:28,2023-06-14 17:05:15,50,Female,Others,37.23,Card,4.8,Heavy,6.01,Yes,Yes,No,Yes
+Taxi,Van,Business,105.62,20.77,2023-06-15 18:54:24,2023-06-15 20:40:01,44,Male,Indian,21.02,Card,2.1,Heavy,4.69,No,Yes,No,No
+Bicycle,Motorcycle,Business,40.98,28.77,2023-06-16 21:11:21,2023-06-16 21:52:20,24,Male,Malaysian,33.7,Mobile App,5,Light,1.46,No,Yes,No,No
+Bicycle,Van,Business,84.5,20.85,2023-06-17 23:28:17,2023-06-18 00:52:47,66,Male,Malaysian,41,Mobile App,5,Light,7.8,No,Yes,No,No
+Bus,Van,School,110.93,30.7,2023-06-19 01:45:13,2023-06-19 03:36:09,65,Female,Malaysian,5.46,Mobile App,2.4,Light,3.95,Yes,Yes,Yes,No
+Train,Motorcycle,Shopping,97.84,42.36,2023-06-20 04:02:09,2023-06-20 05:39:59,29,Female,Others,34.02,Travel Pass,2.6,Moderate,3.76,Yes,Yes,Yes,No
+Train,Sedan,Shopping,80.39,16.12,2023-06-21 06:19:05,2023-06-21 07:39:28,51,Female,Others,5.59,Travel Pass,4.4,Heavy,5.27,Yes,Yes,Yes,No
+Taxi,Van,Shopping,24.08,45.86,2023-06-22 08:36:02,2023-06-22 09:00:07,30,Male,Indonesian,10.91,Cash,1.3,Light,8.83,Yes,Yes,Yes,Yes
+Bus,None,Leisure,35.32,7.85,2023-06-23 10:52:58,2023-06-23 11:28:17,40,Female,Indian,18.16,Cash,5,Moderate,6.67,Yes,Yes,No,No
+Bicycle,None,Commuting,93.37,38.54,2023-06-24 13:09:54,2023-06-24 14:43:16,57,Female,Others,8.34,Travel Pass,1.5,Light,2.11,Yes,Yes,No,No
+Walk,Van,School,89.48,21.7,2023-06-25 15:26:50,2023-06-25 16:56:19,70,Male,Indonesian,29.58,Travel Pass,3.4,Heavy,6.59,Yes,Yes,No,Yes
+Bus,Motorcycle,Shopping,45.5,1.21,2023-06-26 17:43:47,2023-06-26 18:29:17,21,Male,Indian,22.14,Mobile App,2.5,Moderate,4.53,No,No,Yes,No
+Walk,Electric Scooter,Commuting,48.58,28.59,2023-06-27 20:00:43,2023-06-27 20:49:18,68,Female,Indonesian,40.17,Mobile App,3,Heavy,9.46,Yes,Yes,Yes,Yes
+Walk,Van,Leisure,84.19,40.61,2023-06-28 22:17:39,2023-06-28 23:41:50,67,Female,Others,13.76,Cash,2.7,Light,2.62,Yes,Yes,Yes,No
+Bicycle,SUV,Business,30.7,33.89,2023-06-30 00:34:35,2023-06-30 01:05:17,18,Male,Indonesian,24.86,Cash,1.7,Heavy,8.09,No,No,No,No
+Bus,Motorcycle,Leisure,97.97,43.96,2023-07-01 02:51:31,2023-07-01 04:29:29,53,Female,Singaporean,31.52,Cash,4.6,Light,9.54,No,Yes,Yes,Yes
+Bus,None,Leisure,38.93,45.65,2023-07-02 05:08:28,2023-07-02 05:47:24,53,Male,Indonesian,0.54,Mobile App,2.2,Heavy,5.76,Yes,No,Yes,Yes
+Private Car,Electric Scooter,Commuting,68.37,37.53,2023-07-03 07:25:24,2023-07-03 08:33:46,49,Male,Indian,49.06,Travel Pass,2.6,Moderate,1.55,No,Yes,Yes,No
+Bicycle,None,Shopping,17.15,19.75,2023-07-04 09:42:20,2023-07-04 09:59:29,21,Female,Indian,16.06,Travel Pass,2.7,Moderate,1.08,No,Yes,Yes,No
+Private Car,Van,Business,47.2,7.47,2023-07-05 11:59:16,2023-07-05 12:46:28,61,Female,Indonesian,43.82,Mobile App,2.2,Heavy,5.7,No,No,Yes,Yes
+Taxi,Electric Scooter,School,114.6,8.79,2023-07-06 14:16:12,2023-07-06 16:10:48,58,Female,Others,8.48,Mobile App,4.9,Moderate,4.68,No,Yes,Yes,No
+Taxi,SUV,Others,93.76,49.08,2023-07-07 16:33:09,2023-07-07 18:06:55,37,Male,Indonesian,11.35,Card,4.4,Light,2,No,Yes,No,Yes
+Bicycle,Electric Scooter,Leisure,63.99,6.5,2023-07-08 18:50:05,2023-07-08 19:54:04,18,Female,Others,20.23,Card,3.7,Light,3,No,No,Yes,Yes
+Bus,Sedan,School,58.89,29.2,2023-07-09 21:07:01,2023-07-09 22:05:54,27,Female,Indian,23.28,Card,2,Light,2.58,No,Yes,No,Yes
+Train,None,Leisure,57.54,18.68,2023-07-10 23:23:57,2023-07-11 00:21:29,45,Female,Singaporean,36.67,Cash,3,Moderate,0.56,No,No,Yes,Yes
+Taxi,SUV,Shopping,12.71,22.01,2023-07-12 01:40:54,2023-07-12 01:53:37,61,Female,Others,2.57,Travel Pass,3.8,Heavy,2.46,No,Yes,Yes,Yes
+Train,Van,Business,110.69,21.86,2023-07-13 03:57:50,2023-07-13 05:48:31,46,Male,Indian,17.66,Travel Pass,5,Heavy,6.96,No,Yes,No,No
+Private Car,Electric Scooter,Others,7.74,7.43,2023-07-14 06:14:46,2023-07-14 06:22:30,72,Male,Singaporean,47.45,Travel Pass,3,Moderate,7.16,No,No,Yes,No
+Private Car,None,Others,76.88,5.48,2023-07-15 08:31:42,2023-07-15 09:48:35,62,Male,Others,21.49,Mobile App,3.8,Heavy,8.34,No,No,Yes,Yes
+Private Car,Van,Commuting,21.17,43.5,2023-07-16 10:48:38,2023-07-16 11:09:48,65,Male,Malaysian,43.71,Card,2.4,Moderate,9.44,Yes,No,No,Yes
+Private Car,None,Leisure,60.38,11.31,2023-07-17 13:05:35,2023-07-17 14:05:58,53,Female,Malaysian,44.22,Cash,4.6,Moderate,8.58,Yes,No,Yes,No
+Private Car,Electric Scooter,Business,109.69,36.92,2023-07-18 15:22:31,2023-07-18 17:12:12,23,Female,Indonesian,35.21,Cash,1.2,Moderate,5.89,No,No,Yes,Yes
+Bus,Van,Others,79.96,34.88,2023-07-19 17:39:27,2023-07-19 18:59:25,54,Male,Singaporean,36.2,Mobile App,3.4,Moderate,3.88,No,Yes,No,Yes
+Taxi,Electric Scooter,School,69.66,1.42,2023-07-20 19:56:23,2023-07-20 21:06:03,25,Female,Others,20.6,Travel Pass,3.3,Moderate,6.09,No,No,No,No
+Walk,Van,Commuting,104.76,31.38,2023-07-21 22:13:20,2023-07-21 23:58:06,77,Female,Indonesian,28.96,Mobile App,4,Light,7.26,Yes,Yes,No,Yes
+Walk,Sedan,Business,106.42,7.37,2023-07-23 00:30:16,2023-07-23 02:16:41,71,Male,Malaysian,10.78,Mobile App,2.6,Light,9.7,No,No,No,No
+Bus,SUV,Commuting,43.33,37.87,2023-07-24 02:47:12,2023-07-24 03:30:32,53,Female,Malaysian,45.47,Card,2.1,Heavy,5.07,No,No,Yes,Yes
+Train,SUV,School,38.93,7.42,2023-07-25 05:04:08,2023-07-25 05:43:04,37,Male,Others,49.12,Travel Pass,2.7,Heavy,9.21,No,Yes,No,Yes
+Bus,None,Business,98.51,18.26,2023-07-26 07:21:04,2023-07-26 08:59:35,38,Female,Indonesian,26.32,Mobile App,3.6,Moderate,4.7,No,Yes,Yes,Yes
+Taxi,Van,Business,33.68,36.27,2023-07-27 09:38:01,2023-07-27 10:11:42,68,Male,Indian,40.96,Travel Pass,2.2,Moderate,9.78,No,Yes,Yes,Yes
+Walk,Motorcycle,Commuting,76.27,48.24,2023-07-28 11:54:57,2023-07-28 13:11:13,67,Male,Singaporean,1.02,Cash,2.1,Moderate,6.12,Yes,Yes,No,Yes
+Taxi,SUV,Shopping,110.27,19.94,2023-07-29 14:11:53,2023-07-29 16:02:09,35,Male,Malaysian,38.7,Mobile App,1.2,Moderate,7.21,No,Yes,Yes,Yes
+Train,Electric Scooter,Commuting,93.56,20.58,2023-07-30 16:28:49,2023-07-30 18:02:23,41,Male,Singaporean,17.23,Card,2,Light,1.94,No,No,Yes,No
+Taxi,Motorcycle,School,60.61,5.36,2023-07-31 18:45:45,2023-07-31 19:46:22,77,Female,Indian,14.41,Mobile App,2.3,Heavy,9.05,Yes,No,No,Yes
+Bus,Electric Scooter,Shopping,83.04,23.5,2023-08-01 21:02:42,2023-08-01 22:25:44,62,Female,Singaporean,37.33,Travel Pass,3.4,Moderate,0.13,No,Yes,Yes,Yes
+Bicycle,Electric Scooter,School,109.6,39.59,2023-08-02 23:19:38,2023-08-03 01:09:14,30,Male,Malaysian,18.75,Card,4.6,Light,9.98,Yes,No,Yes,No
+Train,Sedan,Business,16.73,31.3,2023-08-04 01:36:34,2023-08-04 01:53:18,23,Female,Malaysian,43,Card,4.3,Heavy,7.25,Yes,Yes,Yes,Yes
+Bus,None,Leisure,117.1,18.94,2023-08-05 03:53:30,2023-08-05 05:50:36,38,Female,Indian,39.72,Mobile App,3.2,Moderate,7.59,Yes,No,Yes,Yes
+Train,Sedan,School,72.66,43.36,2023-08-06 06:10:27,2023-08-06 07:23:07,79,Male,Malaysian,25.56,Travel Pass,1,Light,2.21,Yes,Yes,No,Yes
+Private Car,Sedan,Shopping,76.91,21.2,2023-08-07 08:27:23,2023-08-07 09:44:18,24,Female,Others,41.02,Card,4.7,Light,0.12,No,No,Yes,No
+Private Car,Van,Leisure,104.88,46.76,2023-08-08 10:44:19,2023-08-08 12:29:12,27,Male,Singaporean,43.64,Mobile App,1.5,Heavy,9.37,Yes,No,No,Yes
+Train,Van,Commuting,25.21,42.68,2023-08-09 13:01:15,2023-08-09 13:26:28,50,Female,Malaysian,39.92,Cash,2.5,Moderate,4.94,Yes,No,No,Yes
+Train,None,Commuting,97.73,36.66,2023-08-10 15:18:11,2023-08-10 16:55:55,29,Male,Others,30.34,Card,2.9,Moderate,2.94,No,Yes,No,No
+Private Car,None,Shopping,106.05,31.3,2023-08-11 17:35:08,2023-08-11 19:21:11,22,Male,Indonesian,14.2,Card,4.6,Heavy,4.9,Yes,No,No,Yes
+Bicycle,Motorcycle,Business,39.31,18.9,2023-08-12 19:52:04,2023-08-12 20:31:23,59,Male,Indonesian,18.96,Travel Pass,4.2,Moderate,4.6,Yes,Yes,No,Yes
+Bus,None,Shopping,40.81,16.68,2023-08-13 22:09:00,2023-08-13 22:49:49,65,Female,Others,25.49,Cash,3.4,Moderate,8.1,No,No,No,Yes
+Train,SUV,School,71.69,15.94,2023-08-15 00:25:56,2023-08-15 01:37:37,73,Male,Singaporean,29.49,Mobile App,3.6,Moderate,8.41,No,Yes,Yes,No
+Walk,Sedan,School,102.69,39.67,2023-08-16 02:42:52,2023-08-16 04:25:33,19,Female,Indian,21.01,Mobile App,1.2,Heavy,4.09,Yes,Yes,Yes,No
+Bus,Electric Scooter,Others,22.97,48.69,2023-08-17 04:59:49,2023-08-17 05:22:47,77,Female,Indonesian,40.34,Card,4,Light,9.42,No,Yes,Yes,No
+Bus,Electric Scooter,Others,79.44,28.45,2023-08-18 07:16:45,2023-08-18 08:36:11,28,Female,Singaporean,22.15,Cash,2.3,Heavy,8.3,No,No,Yes,No
+Bicycle,None,School,59.92,8.54,2023-08-19 09:33:41,2023-08-19 10:33:36,37,Female,Indonesian,41.08,Card,2.8,Heavy,9.64,Yes,Yes,Yes,No
+Bus,SUV,Others,93.74,44.79,2023-08-20 11:50:37,2023-08-20 13:24:21,58,Female,Singaporean,22.04,Mobile App,1.2,Light,2.43,Yes,No,No,Yes
+Bus,SUV,Business,88.91,16.69,2023-08-21 14:07:34,2023-08-21 15:36:29,62,Female,Indonesian,13.85,Mobile App,3.1,Heavy,4.86,No,No,Yes,Yes
+Bicycle,SUV,Shopping,92.92,6.38,2023-08-22 16:24:30,2023-08-22 17:57:25,40,Male,Malaysian,10.89,Cash,3.8,Moderate,5.36,No,No,No,Yes
+Walk,Sedan,Others,27.08,21.77,2023-08-23 18:41:26,2023-08-23 19:08:31,56,Female,Others,34.31,Card,4.6,Moderate,2.09,Yes,No,No,No
+Bicycle,SUV,School,8.59,38.15,2023-08-24 20:58:22,2023-08-24 21:06:57,77,Female,Others,48.58,Cash,3.7,Light,1.28,No,Yes,No,No
+Train,Motorcycle,Business,42.08,3.88,2023-08-25 23:15:18,2023-08-25 23:57:23,79,Female,Others,8.84,Cash,2.5,Heavy,5.95,No,No,Yes,Yes
+Private Car,Van,School,88.34,8.65,2023-08-27 01:32:15,2023-08-27 03:00:35,25,Female,Malaysian,48.64,Travel Pass,3.1,Moderate,9.89,Yes,Yes,Yes,No
+Bicycle,Sedan,Leisure,75.17,29.74,2023-08-28 03:49:11,2023-08-28 05:04:21,27,Male,Malaysian,49.37,Card,1.4,Heavy,6.55,Yes,No,No,No
+Bus,Electric Scooter,Shopping,108.52,48.89,2023-08-29 06:06:07,2023-08-29 07:54:38,60,Female,Singaporean,8.35,Travel Pass,1.4,Heavy,0.5,No,No,No,No
+Bicycle,SUV,School,65.23,36.07,2023-08-30 08:23:03,2023-08-30 09:28:17,46,Male,Indonesian,42.23,Travel Pass,1.1,Heavy,0.59,Yes,No,Yes,No
+Train,Sedan,Others,119.24,6.68,2023-08-31 10:40:00,2023-08-31 12:39:14,73,Male,Indian,8.93,Travel Pass,4.5,Light,4.74,Yes,Yes,Yes,Yes
+Bus,Motorcycle,Business,91.71,16.3,2023-09-01 12:56:56,2023-09-01 14:28:39,73,Female,Malaysian,43.69,Mobile App,3.2,Heavy,2.76,No,No,Yes,No
+Walk,Van,Shopping,45.81,1.34,2023-09-02 15:13:52,2023-09-02 15:59:41,45,Female,Singaporean,41.54,Mobile App,1.9,Moderate,6.44,Yes,No,No,Yes
+Taxi,Motorcycle,Business,39.7,22.52,2023-09-03 17:30:48,2023-09-03 18:10:30,29,Female,Indonesian,28.8,Mobile App,1.5,Heavy,0.36,No,No,No,Yes
+Bus,Motorcycle,Leisure,18.54,18.22,2023-09-04 19:47:44,2023-09-04 20:06:16,77,Female,Indonesian,16.3,Travel Pass,3.5,Heavy,7.22,No,No,Yes,No
+Train,SUV,Others,109.49,44.35,2023-09-05 22:04:41,2023-09-05 23:54:10,59,Male,Others,38.78,Cash,2.5,Moderate,6.4,Yes,Yes,No,Yes
+Train,Sedan,Leisure,95.04,27.04,2023-09-07 00:21:37,2023-09-07 01:56:39,39,Female,Malaysian,31.21,Mobile App,1.7,Light,5.25,No,No,No,No
+Bicycle,Electric Scooter,Shopping,56.03,35.34,2023-09-08 02:38:33,2023-09-08 03:34:35,54,Female,Indonesian,15.65,Cash,3.8,Light,8.14,Yes,No,Yes,No
+Private Car,Van,Others,37.54,47.98,2023-09-09 04:55:29,2023-09-09 05:33:01,42,Male,Malaysian,10.23,Mobile App,3.3,Heavy,3.89,No,No,Yes,Yes
+Bicycle,Van,Business,66.06,12.27,2023-09-10 07:12:25,2023-09-10 08:18:29,31,Female,Others,3.95,Mobile App,1.3,Light,7.19,No,No,Yes,Yes
+Private Car,Sedan,Others,75.66,10.25,2023-09-11 09:29:22,2023-09-11 10:45:02,21,Female,Indian,41.74,Cash,2,Heavy,0.82,Yes,No,Yes,No
+Bicycle,Electric Scooter,Leisure,13.31,30.63,2023-09-12 11:46:18,2023-09-12 11:59:37,19,Female,Malaysian,41.1,Travel Pass,4.6,Heavy,3.57,Yes,Yes,No,Yes
+Bicycle,Van,School,44.28,35.35,2023-09-13 14:03:14,2023-09-13 14:47:31,52,Male,Indonesian,46.49,Card,1.4,Moderate,7,No,Yes,No,Yes
+Bus,Electric Scooter,Shopping,110.66,34.22,2023-09-14 16:20:10,2023-09-14 18:10:50,24,Female,Others,40.93,Travel Pass,3.6,Heavy,4.08,No,Yes,No,Yes
+Private Car,Van,Commuting,110.59,34.77,2023-09-15 18:37:07,2023-09-15 20:27:42,55,Female,Malaysian,6.35,Cash,5,Moderate,1.19,Yes,Yes,Yes,Yes
+Bus,SUV,Business,58.01,20.34,2023-09-16 20:54:03,2023-09-16 21:52:04,44,Female,Singaporean,3.2,Travel Pass,4.1,Light,7.07,Yes,No,No,No
+Walk,Van,Commuting,52.84,35.23,2023-09-17 23:10:59,2023-09-18 00:03:49,25,Male,Malaysian,36.77,Cash,4.6,Heavy,1.26,Yes,Yes,No,No
+Train,Electric Scooter,Business,15.33,7.49,2023-09-19 01:27:55,2023-09-19 01:43:15,46,Female,Others,22.71,Travel Pass,4.6,Light,3.69,No,No,No,No
+Walk,Van,Shopping,66.39,45.12,2023-09-20 03:44:51,2023-09-20 04:51:14,51,Male,Others,39.35,Travel Pass,3.2,Heavy,6.69,No,No,Yes,No
+Private Car,Electric Scooter,Shopping,29.12,32.11,2023-09-21 06:01:48,2023-09-21 06:30:55,78,Male,Indian,14.36,Travel Pass,1.2,Light,5.57,No,Yes,Yes,No
+Train,Van,Commuting,84.98,30.28,2023-09-22 08:18:44,2023-09-22 09:43:43,72,Female,Singaporean,19.69,Card,2.8,Heavy,6.88,Yes,No,No,No
+Walk,Sedan,Commuting,30.4,18.21,2023-09-23 10:35:40,2023-09-23 11:06:04,56,Female,Others,45.42,Card,2.7,Heavy,8.59,No,Yes,Yes,Yes
+Taxi,None,Business,52.93,17.32,2023-09-24 12:52:36,2023-09-24 13:45:32,35,Male,Indian,18.54,Travel Pass,3.7,Moderate,8.43,Yes,No,No,No
+Train,None,Shopping,35.09,26.88,2023-09-25 15:09:32,2023-09-25 15:44:37,72,Male,Others,49.91,Travel Pass,2.5,Moderate,4.16,No,Yes,No,Yes
+Bicycle,Sedan,Business,119.98,30.1,2023-09-26 17:26:29,2023-09-26 19:26:28,56,Male,Indonesian,33.05,Mobile App,2.3,Heavy,3.96,Yes,Yes,No,Yes
+Bicycle,Electric Scooter,Business,44.11,15.46,2023-09-27 19:43:25,2023-09-27 20:27:32,47,Female,Indonesian,1.79,Card,3.5,Moderate,9.37,Yes,Yes,No,Yes
+Train,Electric Scooter,Business,74.14,42.94,2023-09-28 22:00:21,2023-09-28 23:14:29,52,Female,Malaysian,4.43,Card,4.8,Moderate,3.82,Yes,No,No,No
+Private Car,SUV,Shopping,15.28,23.07,2023-09-30 00:17:17,2023-09-30 00:32:34,76,Male,Indian,31.54,Card,1.3,Moderate,4.14,Yes,Yes,No,Yes
+Train,Sedan,Business,104.73,40.81,2023-10-01 02:34:14,2023-10-01 04:18:58,48,Female,Indonesian,49.94,Cash,4.8,Moderate,6.28,Yes,No,Yes,No
+Bus,Motorcycle,Commuting,38.1,2.83,2023-10-02 04:51:10,2023-10-02 05:29:16,46,Female,Malaysian,18.43,Mobile App,3.2,Moderate,3.57,No,Yes,Yes,Yes
+Taxi,Motorcycle,Leisure,87.38,41.54,2023-10-03 07:08:06,2023-10-03 08:35:29,42,Female,Singaporean,48.93,Mobile App,2.3,Moderate,7.96,No,Yes,Yes,Yes
+Private Car,Motorcycle,Others,91.03,14.67,2023-10-04 09:25:02,2023-10-04 10:56:04,49,Male,Others,20.74,Travel Pass,2.3,Light,4.64,No,No,No,Yes
+Walk,Motorcycle,School,83.59,3.42,2023-10-05 11:41:58,2023-10-05 13:05:33,40,Female,Indonesian,44.28,Travel Pass,5,Heavy,2.73,No,Yes,Yes,No
+Train,Electric Scooter,Leisure,32.87,32.83,2023-10-06 13:58:55,2023-10-06 14:31:47,21,Male,Singaporean,30.65,Travel Pass,4.5,Moderate,2.85,No,No,No,No
+Bicycle,Motorcycle,Others,105.43,24.18,2023-10-07 16:15:51,2023-10-07 18:01:17,20,Male,Malaysian,39.95,Travel Pass,4,Light,8.93,No,No,No,No
+Bus,Van,Leisure,22.3,43.63,2023-10-08 18:32:47,2023-10-08 18:55:05,73,Male,Indian,4.63,Mobile App,4.3,Light,0.71,Yes,Yes,No,No
+Taxi,None,Leisure,25.09,7.21,2023-10-09 20:49:43,2023-10-09 21:14:48,48,Female,Singaporean,26.95,Card,3.9,Moderate,7.07,Yes,No,No,No
+Train,Sedan,Others,101.99,20.94,2023-10-10 23:06:40,2023-10-11 00:48:39,66,Male,Malaysian,18.06,Travel Pass,1.4,Moderate,4.64,No,Yes,Yes,No
+Bicycle,Van,Business,70.4,9.82,2023-10-12 01:23:36,2023-10-12 02:34:00,54,Male,Indonesian,16.57,Card,4.3,Moderate,4.42,No,No,No,No
+Taxi,Sedan,Others,38.54,32.32,2023-10-13 03:40:32,2023-10-13 04:19:04,31,Male,Indonesian,7.78,Cash,3.7,Light,4.75,No,Yes,No,Yes
+Walk,Electric Scooter,Others,43.88,9.71,2023-10-14 05:57:28,2023-10-14 06:41:21,77,Male,Indonesian,39.5,Card,3,Light,7.24,No,Yes,Yes,Yes
+Private Car,Sedan,Business,112.73,24.16,2023-10-15 08:14:24,2023-10-15 10:07:08,62,Male,Malaysian,38.04,Travel Pass,2.9,Light,3.18,No,Yes,No,No
+Train,Electric Scooter,Shopping,78.41,6.91,2023-10-16 10:31:21,2023-10-16 11:49:46,74,Female,Others,5.26,Mobile App,2.2,Heavy,8.76,No,No,Yes,Yes
+Private Car,None,Business,80.51,9.24,2023-10-17 12:48:17,2023-10-17 14:08:48,23,Male,Others,1.72,Cash,1.3,Light,1,No,No,Yes,Yes
+Walk,SUV,Business,30.63,1.71,2023-10-18 15:05:13,2023-10-18 15:35:51,78,Male,Malaysian,32.86,Card,1.3,Light,9.37,Yes,No,No,Yes
+Train,Van,School,96,12.41,2023-10-19 17:22:09,2023-10-19 18:58:09,31,Female,Singaporean,29.01,Mobile App,4.5,Light,7.58,No,No,No,Yes
+Walk,Sedan,Business,65.24,22.93,2023-10-20 19:39:05,2023-10-20 20:44:19,73,Male,Indian,38.88,Travel Pass,2.4,Heavy,2.35,Yes,No,Yes,Yes
+Taxi,Sedan,Others,68.43,7.38,2023-10-21 21:56:02,2023-10-21 23:04:28,78,Male,Singaporean,26.58,Cash,2.9,Light,0.45,Yes,No,No,No
+Private Car,SUV,Business,27.32,29.34,2023-10-23 00:12:58,2023-10-23 00:40:17,50,Male,Indian,25.8,Card,2.1,Light,0.87,Yes,No,Yes,No
+Private Car,Van,Business,28.23,47.8,2023-10-24 02:29:54,2023-10-24 02:58:08,66,Male,Singaporean,27.98,Travel Pass,4.3,Heavy,5.91,Yes,No,Yes,No
+Taxi,None,School,88.57,24.38,2023-10-25 04:46:50,2023-10-25 06:15:24,32,Female,Indonesian,16.33,Travel Pass,4.3,Light,2.66,No,No,No,Yes
+Train,Motorcycle,Business,58.17,38.46,2023-10-26 07:03:47,2023-10-26 08:01:57,20,Female,Malaysian,47.85,Travel Pass,1.3,Light,8.7,No,No,Yes,No
+Bus,Motorcycle,Business,31.38,7.67,2023-10-27 09:20:43,2023-10-27 09:52:06,51,Male,Malaysian,27.91,Travel Pass,1.7,Light,3.12,Yes,Yes,No,No
+Bus,None,Commuting,109.91,22.38,2023-10-28 11:37:39,2023-10-28 13:27:34,79,Female,Others,36.41,Mobile App,3.7,Heavy,1.75,No,No,No,No
+Walk,Van,Shopping,98.69,12.97,2023-10-29 13:54:35,2023-10-29 15:33:16,37,Female,Malaysian,25.41,Mobile App,4.2,Heavy,6.76,Yes,Yes,Yes,Yes
+Bicycle,None,Business,99.7,22.3,2023-10-30 16:11:31,2023-10-30 17:51:13,42,Female,Singaporean,5.39,Mobile App,1.2,Light,7.09,No,No,Yes,Yes
+Taxi,Electric Scooter,Commuting,41.59,33.57,2023-10-31 18:28:28,2023-10-31 19:10:03,69,Female,Malaysian,18.24,Card,4.1,Light,7.07,No,Yes,No,Yes
+Taxi,Electric Scooter,Leisure,28.53,14.44,2023-11-01 20:45:24,2023-11-01 21:13:56,56,Male,Others,13.97,Card,2.4,Moderate,8.58,Yes,No,Yes,Yes
+Bicycle,SUV,Others,31.26,6.53,2023-11-02 23:02:20,2023-11-02 23:33:36,45,Male,Singaporean,7.25,Card,3,Moderate,8.68,No,No,Yes,No
+Taxi,Electric Scooter,Shopping,41.89,3.81,2023-11-04 01:19:16,2023-11-04 02:01:09,79,Male,Singaporean,14.22,Card,2.2,Moderate,6.34,Yes,No,No,Yes
+Bus,Motorcycle,Business,108.08,1.62,2023-11-05 03:36:12,2023-11-05 05:24:17,62,Male,Malaysian,15.42,Card,2,Heavy,2.64,Yes,Yes,No,No
+Bus,SUV,Others,92.99,32.91,2023-11-06 05:53:09,2023-11-06 07:26:08,23,Female,Singaporean,7.38,Card,1.1,Moderate,1.7,No,No,No,Yes
+Taxi,Van,Others,106.29,7.6,2023-11-07 08:10:05,2023-11-07 09:56:22,19,Male,Indian,38.32,Cash,3.5,Moderate,6.32,No,No,No,No
+Bicycle,Van,Others,29.65,44.62,2023-11-08 10:27:01,2023-11-08 10:56:40,20,Female,Malaysian,3.88,Mobile App,4.8,Heavy,9.5,Yes,No,No,No
+Private Car,Sedan,Shopping,118.55,38.52,2023-11-09 12:43:57,2023-11-09 14:42:30,59,Female,Indonesian,15.71,Cash,2,Light,9.5,Yes,No,No,No
+Taxi,None,Others,24.68,35.63,2023-11-10 15:00:54,2023-11-10 15:25:35,59,Female,Singaporean,32.84,Travel Pass,1.6,Moderate,6.54,Yes,Yes,No,No
+Taxi,None,Others,51.47,4.84,2023-11-11 17:17:50,2023-11-11 18:09:18,38,Male,Malaysian,11.58,Cash,1.1,Light,8.28,Yes,No,Yes,No
+Private Car,Sedan,Shopping,61.89,32.18,2023-11-12 19:34:46,2023-11-12 20:36:39,32,Male,Indian,49.62,Mobile App,3.1,Light,4.45,No,Yes,No,No
+Walk,Electric Scooter,Business,23.65,15.68,2023-11-13 21:51:42,2023-11-13 22:15:21,25,Male,Others,13.21,Mobile App,3.7,Light,8.98,No,Yes,Yes,Yes
+Walk,SUV,Shopping,8.97,32.16,2023-11-15 00:08:38,2023-11-15 00:17:36,45,Male,Malaysian,9.6,Card,2.3,Moderate,4.57,No,Yes,No,Yes
+Taxi,None,Others,24.33,4.03,2023-11-16 02:25:35,2023-11-16 02:49:55,43,Male,Indonesian,10.8,Cash,1.4,Moderate,8.27,No,Yes,Yes,No
+Bus,Sedan,Others,41.07,36.79,2023-11-17 04:42:31,2023-11-17 05:23:35,23,Male,Singaporean,30.18,Travel Pass,2.1,Light,0.74,No,No,Yes,Yes
+Private Car,Van,Others,110.24,18.47,2023-11-18 06:59:27,2023-11-18 08:49:41,51,Male,Malaysian,33.9,Mobile App,4.8,Moderate,5.38,No,No,No,No
+Train,Motorcycle,School,50.86,14.36,2023-11-19 09:16:23,2023-11-19 10:07:15,40,Female,Indonesian,27.58,Travel Pass,3,Moderate,2.56,Yes,Yes,Yes,No
+Private Car,SUV,Leisure,63.67,41.9,2023-11-20 11:33:20,2023-11-20 12:37:00,38,Female,Singaporean,40.82,Card,2.5,Heavy,2.08,No,No,No,Yes
+Taxi,Motorcycle,Shopping,92,11.8,2023-11-21 13:50:16,2023-11-21 15:22:16,79,Male,Indian,44.08,Travel Pass,4.3,Heavy,0.34,Yes,Yes,Yes,Yes
+Taxi,Motorcycle,Others,38.17,20.16,2023-11-22 16:07:12,2023-11-22 16:45:22,18,Male,Indonesian,47.69,Mobile App,3.9,Light,4.31,No,No,Yes,Yes
+Walk,None,Commuting,56.05,39.99,2023-11-23 18:24:08,2023-11-23 19:20:11,58,Female,Others,11.72,Cash,2.7,Light,2.66,No,No,Yes,Yes
+Walk,Sedan,Commuting,105.62,4.22,2023-11-24 20:41:04,2023-11-24 22:26:41,39,Female,Others,35.9,Mobile App,1.1,Heavy,5.06,No,Yes,No,Yes
+Walk,None,Others,44.33,34.22,2023-11-25 22:58:01,2023-11-25 23:42:21,71,Male,Indian,1.4,Travel Pass,3.9,Moderate,9.35,Yes,No,Yes,No
+Bus,Electric Scooter,Business,75.61,39.92,2023-11-27 01:14:57,2023-11-27 02:30:34,76,Male,Singaporean,1.11,Mobile App,1.7,Light,6.04,No,No,Yes,No
+Bicycle,Motorcycle,Commuting,68.32,36.25,2023-11-28 03:31:53,2023-11-28 04:40:12,59,Male,Malaysian,45.62,Travel Pass,4.9,Heavy,9.02,No,Yes,No,No
+Walk,SUV,Commuting,43.11,14.72,2023-11-29 05:48:49,2023-11-29 06:31:56,36,Male,Others,38.65,Mobile App,3,Moderate,0.32,Yes,No,No,No
+Taxi,SUV,Others,24.11,29.31,2023-11-30 08:05:45,2023-11-30 08:29:52,58,Female,Others,49.87,Card,1.6,Light,6.53,Yes,Yes,No,Yes
+Bus,None,Commuting,23.78,3.68,2023-12-01 10:22:42,2023-12-01 10:46:29,52,Female,Indonesian,17.06,Card,1,Moderate,9.64,No,No,Yes,No
+Bicycle,Sedan,Leisure,103.23,44.52,2023-12-02 12:39:38,2023-12-02 14:22:52,50,Female,Others,4.89,Card,4,Moderate,0.87,No,Yes,Yes,No
+Taxi,SUV,Shopping,56.96,6.33,2023-12-03 14:56:34,2023-12-03 15:53:32,60,Female,Indonesian,2.18,Travel Pass,1.4,Heavy,0.39,No,No,No,No
+Walk,Sedan,Leisure,39.4,6.49,2023-12-04 17:13:30,2023-12-04 17:52:54,47,Female,Indonesian,37.76,Travel Pass,3.2,Heavy,0.19,No,Yes,Yes,Yes
+Private Car,Sedan,Shopping,75.36,16.83,2023-12-05 19:30:27,2023-12-05 20:45:49,23,Male,Singaporean,8.82,Mobile App,2.1,Light,2.42,No,No,No,Yes
+Train,Motorcycle,Commuting,111.94,39.88,2023-12-06 21:47:23,2023-12-06 23:39:19,64,Male,Singaporean,8.28,Mobile App,4.2,Light,8.72,No,No,No,No
+Private Car,Electric Scooter,Business,74.84,2,2023-12-08 00:04:19,2023-12-08 01:19:09,63,Female,Others,37.79,Mobile App,2.9,Heavy,3.09,Yes,Yes,No,No
+Bus,SUV,Business,13.79,5.22,2023-12-09 02:21:15,2023-12-09 02:35:02,35,Male,Indian,18.75,Mobile App,2.1,Light,8.3,No,No,Yes,Yes
+Bicycle,Sedan,Shopping,81.62,8.67,2023-12-10 04:38:11,2023-12-10 05:59:48,47,Male,Singaporean,43.43,Travel Pass,5,Moderate,1.75,Yes,No,Yes,Yes
+Private Car,Motorcycle,Shopping,101.68,16.53,2023-12-11 06:55:08,2023-12-11 08:36:49,58,Female,Singaporean,38.59,Card,1.3,Moderate,7.01,Yes,Yes,Yes,Yes
+Bus,Van,Leisure,54.02,35.01,2023-12-12 09:12:04,2023-12-12 10:06:05,73,Female,Others,39.02,Cash,4.7,Light,5.98,No,No,No,No
+Train,Motorcycle,Commuting,88.15,7.82,2023-12-13 11:29:00,2023-12-13 12:57:09,61,Male,Singaporean,34.96,Mobile App,4.6,Light,9.45,Yes,Yes,Yes,Yes
+Bus,Van,Leisure,68.98,1.84,2023-12-14 13:45:56,2023-12-14 14:54:55,40,Male,Singaporean,33.14,Mobile App,2.7,Heavy,7.65,No,Yes,No,No
+Bicycle,Van,Shopping,45.23,23.61,2023-12-15 16:02:52,2023-12-15 16:48:06,44,Male,Indian,43.05,Card,1,Moderate,4.45,No,No,Yes,Yes
+Train,SUV,Others,62.23,41.47,2023-12-16 18:19:49,2023-12-16 19:22:03,38,Male,Indian,8.61,Mobile App,4.6,Moderate,8.97,No,Yes,No,No
+Taxi,SUV,Business,103.03,30.83,2023-12-17 20:36:45,2023-12-17 22:19:47,40,Male,Singaporean,38.56,Card,3.1,Light,9.38,Yes,Yes,Yes,Yes
+Walk,Motorcycle,Leisure,100.65,36.89,2023-12-18 22:53:41,2023-12-19 00:34:20,56,Female,Indian,39.51,Card,4.4,Heavy,7.01,Yes,No,Yes,No
+Bus,Van,Shopping,53.68,16.6,2023-12-20 01:10:37,2023-12-20 02:04:18,27,Male,Indian,16.61,Cash,4.9,Moderate,5.66,Yes,No,Yes,Yes
+Private Car,Electric Scooter,Others,28.95,21.94,2023-12-21 03:27:34,2023-12-21 03:56:31,79,Female,Indonesian,47.84,Travel Pass,3.7,Light,6.58,No,No,No,No
+Bicycle,Sedan,Business,59.45,3.74,2023-12-22 05:44:30,2023-12-22 06:43:57,35,Male,Indian,28.8,Travel Pass,4.3,Heavy,4.49,No,No,No,Yes
+Private Car,Motorcycle,Leisure,15.06,4.63,2023-12-23 08:01:26,2023-12-23 08:16:30,49,Female,Indian,38.33,Cash,2,Moderate,8.93,Yes,Yes,Yes,Yes
+Bus,Sedan,Shopping,116.33,22.35,2023-12-24 10:18:22,2023-12-24 12:14:42,29,Male,Indonesian,33.74,Card,3.3,Light,0.36,No,Yes,Yes,Yes
+Taxi,Van,Business,70.78,30.47,2023-12-25 12:35:18,2023-12-25 13:46:05,58,Male,Malaysian,14.6,Mobile App,4.6,Light,7.12,Yes,No,Yes,No
+Private Car,None,School,29.6,9.41,2023-12-26 14:52:15,2023-12-26 15:21:51,60,Male,Singaporean,23.5,Travel Pass,2.7,Moderate,0.3,No,No,Yes,No
+Private Car,Motorcycle,Commuting,27.87,45.06,2023-12-27 17:09:11,2023-12-27 17:37:03,47,Female,Indonesian,45.78,Cash,3.7,Moderate,0.52,Yes,No,No,Yes
+Walk,Electric Scooter,Business,74.16,21.67,2023-12-28 19:26:07,2023-12-28 20:40:17,62,Male,Singaporean,22.03,Cash,2.3,Heavy,3.35,Yes,No,Yes,No
+Private Car,SUV,Business,36.69,37.85,2023-12-29 21:43:03,2023-12-29 22:19:44,29,Male,Malaysian,35.81,Travel Pass,1.9,Heavy,3.44,No,Yes,No,Yes
+Private Car,None,School,59.73,45.15,2023-12-31 00:00:00,2023-12-31 00:59:44,27,Male,Indian,1.47,Cash,4.9,Heavy,9.91,Yes,Yes,Yes,Yes

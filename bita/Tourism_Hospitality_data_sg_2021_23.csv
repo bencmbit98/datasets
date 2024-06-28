@@ -1,0 +1,1001 @@
+﻿Visitor_Age,Visitor_Gender,Visitor_Nationality,Travel_Purpose,Group_Size,Accommodation_Type,Length_of_Stay_Days,Room_Type,Booking_Channel,Daily_Spending_SGD,Accommodation_Cost_SGD,Satisfaction_Rating,Service_Quality_Rating,Likelihood_to_Return,Visit_Date,Departure_Date,Season,Travel_With_Children,Special_Requests,Previous_Visits
+49,Male,American,Business,8,Private Home,28,Suite,Travel Agency,796.23,22294.44,1.7,4.1,Low,2021-01-01,2021-01-29 00:00:00,Peak,No,Yes,2
+50,Female,British,Business,4,Private Home,20,Suite,Travel Agency,655.26,13105.2,4.2,3.8,High,2021-01-02,2021-01-22 00:00:00,Off-Peak,No,No,4
+76,Male,Indian,Leisure,5,Others,26,Deluxe,Direct Booking,51.78,1346.28,2.9,3.7,High,2021-01-03,2021-01-29 00:00:00,Off-Peak,Yes,Yes,3
+51,Female,Others,Visiting Friends/Relatives,5,Hotel,25,Deluxe,Direct Booking,262.16,6554,5,3.6,None,2021-01-04,2021-01-29 00:00:00,Peak,Yes,Yes,3
+28,Female,British,Transit,4,Hotel,19,Suite,Direct Booking,431.75,8203.25,1.2,3.9,High,2021-01-05,2021-01-24 00:00:00,Peak,No,Yes,3
+70,Male,Australian,Visiting Friends/Relatives,2,Serviced Apartment,19,Suite,Online,830.5,15779.5,2.7,4.3,High,2021-01-06,2021-01-25 00:00:00,Peak,No,Yes,0
+60,Male,Indian,Transit,5,Private Home,22,Standard,Online,415.16,9133.52,4.2,2.8,Low,2021-01-07,2021-01-29 00:00:00,Off-Peak,No,No,4
+44,Female,British,Leisure,5,Hostel,22,Deluxe,Travel Agency,270.05,5941.1,3.4,4.2,None,2021-01-08,2021-01-30 00:00:00,Peak,No,No,0
+53,Male,American,Transit,2,Serviced Apartment,29,Suite,Travel Agency,998.23,28948.67,4.8,4.7,Low,2021-01-09,2021-02-07 00:00:00,Off-Peak,No,No,4
+21,Female,British,Leisure,3,Private Home,23,Suite,Travel Agency,681.14,15666.22,1.6,4.3,High,2021-01-10,2021-02-02 00:00:00,Peak,Yes,No,0
+45,Male,Chinese,Visiting Friends/Relatives,2,Hotel,21,Deluxe,Direct Booking,439.24,9224.04,2.6,4,Moderate,2021-01-11,2021-02-01 00:00:00,Peak,No,No,2
+25,Female,American,Visiting Friends/Relatives,4,Private Home,21,Suite,Online,340.52,7150.92,3.4,1.9,Moderate,2021-01-13,2021-02-03 00:00:00,Peak,No,No,4
+50,Female,Indian,Visiting Friends/Relatives,8,Hotel,11,Standard,Online,84.46,929.06,2.9,4.2,Moderate,2021-01-14,2021-01-25 00:00:00,Peak,Yes,No,3
+72,Male,Chinese,Business,4,Private Home,20,Deluxe,Online,306.17,6123.4,2.5,1.2,Moderate,2021-01-15,2021-02-04 00:00:00,Off-Peak,Yes,Yes,2
+41,Female,American,Leisure,4,Hotel,25,Standard,Online,524.38,13109.5,1.9,2.4,Moderate,2021-01-16,2021-02-10 00:00:00,Off-Peak,Yes,No,2
+77,Female,American,Business,3,Serviced Apartment,8,Deluxe,Online,626.57,5012.56,2.5,2.4,None,2021-01-17,2021-01-25 00:00:00,Off-Peak,Yes,Yes,0
+30,Female,Australian,Business,8,Serviced Apartment,10,Deluxe,Direct Booking,656.78,6567.8,2.9,4.3,None,2021-01-18,2021-01-28 00:00:00,Off-Peak,Yes,Yes,2
+47,Male,Australian,Visiting Friends/Relatives,5,Hostel,4,Suite,Travel Agency,129.07,516.28,1,2.6,High,2021-01-19,2021-01-23 00:00:00,Off-Peak,No,Yes,4
+40,Female,Indian,Leisure,2,Private Home,17,Suite,Travel Agency,853.56,14510.52,4.8,4.6,None,2021-01-20,2021-02-06 00:00:00,Off-Peak,No,No,4
+66,Male,Australian,Visiting Friends/Relatives,4,Hotel,14,Deluxe,Direct Booking,95.44,1336.16,4.2,1.6,Moderate,2021-01-21,2021-02-04 00:00:00,Peak,Yes,Yes,2
+34,Female,Others,Leisure,9,Hostel,5,Deluxe,Online,943.19,4715.95,4.3,4.9,None,2021-01-22,2021-01-27 00:00:00,Off-Peak,No,Yes,1
+21,Male,Others,Business,2,Private Home,10,Standard,Online,843.52,8435.2,4.6,2.1,High,2021-01-23,2021-02-02 00:00:00,Off-Peak,Yes,No,3
+48,Male,Indian,Leisure,2,Others,10,Suite,Online,248.24,2482.4,3.8,3.1,High,2021-01-25,2021-02-04 00:00:00,Off-Peak,Yes,No,3
+35,Female,Australian,Visiting Friends/Relatives,2,Hotel,25,Suite,Direct Booking,723.61,18090.25,2.1,2.9,Low,2021-01-26,2021-02-20 00:00:00,Peak,No,Yes,0
+21,Female,Others,Leisure,4,Serviced Apartment,17,Suite,Direct Booking,891.78,15160.26,3.9,4.7,Moderate,2021-01-27,2021-02-13 00:00:00,Off-Peak,No,Yes,3
+20,Female,Indian,Leisure,4,Others,16,Standard,Travel Agency,396.33,6341.28,3.5,5,High,2021-01-28,2021-02-13 00:00:00,Peak,No,No,3
+79,Female,Australian,Business,1,Serviced Apartment,7,Deluxe,Travel Agency,342.99,2400.93,1.3,3.7,None,2021-01-29,2021-02-05 00:00:00,Peak,No,No,2
+29,Male,Indian,Transit,2,Hostel,23,Standard,Direct Booking,715.28,16451.44,2.4,3,Low,2021-01-30,2021-02-22 00:00:00,Off-Peak,No,Yes,4
+61,Male,Australian,Transit,7,Hotel,18,Suite,Online,453.99,8171.82,4,3.4,Low,2021-01-31,2021-02-18 00:00:00,Peak,No,No,4
+29,Male,Australian,Leisure,6,Private Home,11,Standard,Direct Booking,757.04,8327.44,2.5,1.2,None,2021-02-01,2021-02-12 00:00:00,Off-Peak,No,Yes,4
+44,Male,Others,Leisure,2,Serviced Apartment,7,Deluxe,Travel Agency,62.2,435.4,3.8,4.8,Low,2021-02-02,2021-02-09 00:00:00,Peak,Yes,No,4
+24,Male,Australian,Visiting Friends/Relatives,1,Hotel,3,Suite,Travel Agency,841.29,2523.87,4.2,4.6,None,2021-02-03,2021-02-06 00:00:00,Off-Peak,Yes,Yes,0
+29,Female,Chinese,Visiting Friends/Relatives,8,Hostel,18,Standard,Travel Agency,278.95,5021.1,4.5,4.8,Moderate,2021-02-05,2021-02-23 00:00:00,Off-Peak,No,Yes,4
+24,Female,Others,Visiting Friends/Relatives,4,Hostel,23,Deluxe,Online,854.33,19649.59,4.6,1.9,Moderate,2021-02-06,2021-03-01 00:00:00,Off-Peak,Yes,No,0
+49,Female,Others,Transit,9,Others,22,Standard,Direct Booking,154.67,3402.74,4,1.8,High,2021-02-07,2021-03-01 00:00:00,Off-Peak,Yes,Yes,2
+70,Male,Chinese,Visiting Friends/Relatives,2,Serviced Apartment,11,Suite,Online,265.69,2922.59,1.7,2.6,Moderate,2021-02-08,2021-02-19 00:00:00,Peak,Yes,No,3
+71,Female,American,Transit,9,Hotel,2,Suite,Online,143.59,287.18,4.6,3.2,High,2021-02-09,2021-02-11 00:00:00,Off-Peak,Yes,No,4
+19,Female,Chinese,Business,8,Private Home,17,Suite,Travel Agency,582.08,9895.36,4.8,4.3,Moderate,2021-02-10,2021-02-27 00:00:00,Peak,Yes,Yes,1
+58,Female,Others,Leisure,7,Private Home,2,Standard,Online,192.67,385.34,1,4.7,High,2021-02-11,2021-02-13 00:00:00,Peak,No,Yes,4
+72,Female,Indian,Business,9,Serviced Apartment,11,Suite,Direct Booking,832.39,9156.29,3.9,1.3,None,2021-02-12,2021-02-23 00:00:00,Peak,No,No,4
+79,Male,Australian,Leisure,3,Others,25,Deluxe,Direct Booking,886.74,22168.5,1.8,3,None,2021-02-13,2021-03-10 00:00:00,Off-Peak,No,No,4
+25,Male,American,Business,9,Hotel,18,Suite,Travel Agency,716.15,12890.7,1.5,3,High,2021-02-14,2021-03-04 00:00:00,Off-Peak,No,Yes,0
+28,Female,Chinese,Leisure,6,Private Home,8,Standard,Travel Agency,928.76,7430.08,2.3,1.2,Moderate,2021-02-15,2021-02-23 00:00:00,Off-Peak,Yes,No,4
+79,Female,Chinese,Visiting Friends/Relatives,3,Hostel,8,Standard,Direct Booking,317.68,2541.44,4.3,1.9,Low,2021-02-17,2021-02-25 00:00:00,Peak,Yes,Yes,0
+30,Male,Australian,Visiting Friends/Relatives,7,Serviced Apartment,27,Standard,Direct Booking,672.68,18162.36,1.9,3.6,High,2021-02-18,2021-03-17 00:00:00,Peak,No,No,3
+28,Female,British,Leisure,1,Others,17,Deluxe,Direct Booking,764.53,12997.01,4.4,1.1,None,2021-02-19,2021-03-08 00:00:00,Peak,No,No,1
+68,Male,Indian,Business,3,Private Home,27,Standard,Online,176.36,4761.72,4.1,3.8,None,2021-02-20,2021-03-19 00:00:00,Peak,Yes,Yes,3
+61,Female,Others,Visiting Friends/Relatives,1,Hotel,3,Suite,Direct Booking,724.09,2172.27,2.5,2.4,High,2021-02-21,2021-02-24 00:00:00,Peak,Yes,Yes,4
+20,Female,Chinese,Leisure,6,Others,20,Standard,Direct Booking,586.77,11735.4,4.2,2.6,High,2021-02-22,2021-03-14 00:00:00,Off-Peak,Yes,Yes,0
+49,Female,British,Visiting Friends/Relatives,8,Private Home,25,Deluxe,Direct Booking,273.02,6825.5,2.2,2.4,Moderate,2021-02-23,2021-03-20 00:00:00,Off-Peak,Yes,No,1
+73,Male,Others,Transit,1,Private Home,29,Suite,Direct Booking,548.34,15901.86,2.4,3.9,None,2021-02-24,2021-03-25 00:00:00,Peak,No,Yes,0
+23,Male,British,Business,9,Serviced Apartment,7,Suite,Direct Booking,552.29,3866.03,3.1,4.8,High,2021-02-25,2021-03-04 00:00:00,Peak,Yes,Yes,3
+55,Male,Others,Leisure,7,Others,14,Standard,Online,611.3,8558.2,4.5,4.7,None,2021-02-26,2021-03-12 00:00:00,Off-Peak,Yes,Yes,3
+54,Female,Others,Business,8,Serviced Apartment,19,Deluxe,Online,302.17,5741.23,3.5,4.6,None,2021-02-28,2021-03-19 00:00:00,Off-Peak,No,Yes,3
+22,Male,British,Transit,4,Others,13,Suite,Online,783.98,10191.74,2,2.5,Low,2021-03-01,2021-03-14 00:00:00,Peak,No,No,0
+62,Female,American,Leisure,8,Private Home,7,Standard,Online,439.61,3077.27,5,4.8,High,2021-03-02,2021-03-09 00:00:00,Peak,No,Yes,0
+49,Female,Others,Business,5,Hotel,26,Deluxe,Travel Agency,444.75,11563.5,2.2,2.8,High,2021-03-03,2021-03-29 00:00:00,Peak,Yes,No,3
+64,Male,American,Transit,5,Hotel,27,Suite,Travel Agency,274.29,7405.83,3,5,Low,2021-03-04,2021-03-31 00:00:00,Off-Peak,No,Yes,4
+56,Female,Chinese,Business,3,Others,24,Deluxe,Travel Agency,586.55,14077.2,3.5,1.9,None,2021-03-05,2021-03-29 00:00:00,Peak,No,No,1
+71,Male,Indian,Visiting Friends/Relatives,8,Hotel,14,Suite,Online,444.54,6223.56,1.5,2.4,High,2021-03-06,2021-03-20 00:00:00,Off-Peak,Yes,Yes,2
+55,Female,Others,Business,8,Serviced Apartment,5,Suite,Direct Booking,521.4,2607,2.1,2,Low,2021-03-07,2021-03-12 00:00:00,Peak,No,Yes,4
+49,Male,Australian,Leisure,3,Serviced Apartment,21,Deluxe,Travel Agency,507.6,10659.6,3.2,4.9,None,2021-03-08,2021-03-29 00:00:00,Off-Peak,No,Yes,4
+59,Male,Chinese,Business,6,Private Home,17,Standard,Direct Booking,937,15929,3.2,1.4,Low,2021-03-09,2021-03-26 00:00:00,Off-Peak,No,Yes,4
+39,Male,Indian,Transit,7,Serviced Apartment,5,Standard,Travel Agency,60.7,303.5,1.8,4.6,Moderate,2021-03-10,2021-03-15 00:00:00,Off-Peak,Yes,No,2
+67,Female,Others,Business,3,Others,22,Suite,Online,325.62,7163.64,3,3.5,High,2021-03-12,2021-04-03 00:00:00,Off-Peak,Yes,Yes,2
+70,Female,Chinese,Transit,2,Hostel,8,Deluxe,Online,261.89,2095.12,4.1,1.3,None,2021-03-13,2021-03-21 00:00:00,Peak,No,No,2
+78,Male,Others,Business,5,Others,15,Deluxe,Travel Agency,581.85,8727.75,2.7,1.4,None,2021-03-14,2021-03-29 00:00:00,Off-Peak,No,No,3
+77,Male,Indian,Visiting Friends/Relatives,6,Hostel,20,Deluxe,Travel Agency,456.23,9124.6,2.6,4,Low,2021-03-15,2021-04-04 00:00:00,Peak,No,No,3
+26,Male,American,Transit,1,Others,15,Deluxe,Travel Agency,609.23,9138.45,3,2.4,None,2021-03-16,2021-03-31 00:00:00,Peak,Yes,Yes,3
+58,Female,American,Leisure,6,Serviced Apartment,4,Suite,Online,416.43,1665.72,1,1.6,None,2021-03-17,2021-03-21 00:00:00,Off-Peak,No,No,4
+23,Female,Chinese,Business,3,Hotel,29,Standard,Travel Agency,978.57,28378.53,3.2,3.6,Moderate,2021-03-18,2021-04-16 00:00:00,Peak,No,No,3
+37,Female,British,Visiting Friends/Relatives,7,Serviced Apartment,24,Suite,Online,187.78,4506.72,3.4,1.9,Low,2021-03-19,2021-04-12 00:00:00,Off-Peak,Yes,No,2
+51,Female,Chinese,Leisure,8,Hostel,20,Standard,Travel Agency,948.59,18971.8,2,3.2,High,2021-03-20,2021-04-09 00:00:00,Peak,Yes,Yes,3
+63,Female,British,Leisure,9,Hotel,9,Deluxe,Online,278.38,2505.42,3.4,1.4,High,2021-03-21,2021-03-30 00:00:00,Peak,Yes,Yes,3
+53,Female,British,Visiting Friends/Relatives,2,Private Home,5,Suite,Travel Agency,648.14,3240.7,1.4,1.2,Moderate,2021-03-23,2021-03-28 00:00:00,Off-Peak,No,Yes,1
+60,Male,Chinese,Leisure,6,Serviced Apartment,23,Suite,Online,871.44,20043.12,3.8,4.5,Moderate,2021-03-24,2021-04-16 00:00:00,Off-Peak,No,No,3
+49,Male,Australian,Leisure,7,Others,24,Standard,Direct Booking,457.46,10979.04,3.5,2,High,2021-03-25,2021-04-18 00:00:00,Peak,No,Yes,1
+40,Female,American,Transit,8,Hotel,12,Standard,Online,742.98,8915.76,1.8,1.9,Low,2021-03-26,2021-04-07 00:00:00,Off-Peak,Yes,No,1
+75,Female,Australian,Leisure,5,Hostel,21,Suite,Direct Booking,524.21,11008.41,4.4,3.8,None,2021-03-27,2021-04-17 00:00:00,Off-Peak,No,Yes,1
+58,Female,Australian,Transit,8,Private Home,26,Deluxe,Travel Agency,306.06,7957.56,1.3,3.5,None,2021-03-28,2021-04-23 00:00:00,Peak,No,No,2
+51,Male,British,Leisure,3,Private Home,3,Suite,Online,196.56,589.68,4.2,4.5,Low,2021-03-29,2021-04-01 00:00:00,Off-Peak,Yes,Yes,0
+69,Male,British,Leisure,4,Hotel,6,Standard,Travel Agency,212.8,1276.8,2,3,High,2021-03-30,2021-04-05 00:00:00,Peak,No,No,4
+72,Male,American,Business,8,Others,25,Deluxe,Direct Booking,981.35,24533.75,2,2.4,None,2021-03-31,2021-04-25 00:00:00,Off-Peak,No,No,1
+77,Male,Others,Business,9,Private Home,25,Standard,Direct Booking,814.61,20365.25,2.7,1.9,Moderate,2021-04-01,2021-04-26 00:00:00,Off-Peak,Yes,Yes,4
+26,Male,Chinese,Leisure,8,Others,3,Suite,Travel Agency,87.18,261.54,1.4,3.3,Low,2021-04-02,2021-04-05 00:00:00,Off-Peak,No,Yes,2
+59,Female,British,Leisure,1,Hostel,7,Suite,Direct Booking,973.83,6816.81,3.6,3.3,Moderate,2021-04-04,2021-04-11 00:00:00,Peak,Yes,Yes,3
+73,Male,Australian,Visiting Friends/Relatives,5,Hotel,6,Deluxe,Online,765.4,4592.4,3.6,1.5,Moderate,2021-04-05,2021-04-11 00:00:00,Peak,No,Yes,0
+32,Male,American,Transit,8,Others,19,Standard,Direct Booking,934.68,17758.92,2,1.9,Moderate,2021-04-06,2021-04-25 00:00:00,Off-Peak,No,No,0
+25,Female,British,Leisure,7,Others,27,Deluxe,Online,75.94,2050.38,3.6,4,Low,2021-04-07,2021-05-04 00:00:00,Off-Peak,Yes,No,0
+77,Male,American,Leisure,5,Hotel,14,Suite,Direct Booking,749.57,10493.98,1.6,1.4,High,2021-04-08,2021-04-22 00:00:00,Off-Peak,No,No,4
+72,Male,Chinese,Transit,1,Others,4,Suite,Online,482.25,1929,1.3,3.4,Low,2021-04-09,2021-04-13 00:00:00,Peak,No,No,2
+65,Male,American,Transit,2,Others,21,Standard,Direct Booking,133.83,2810.43,1.2,1,Moderate,2021-04-10,2021-05-01 00:00:00,Peak,Yes,No,4
+38,Male,Others,Leisure,4,Hotel,6,Standard,Travel Agency,529.27,3175.62,2.2,4.6,None,2021-04-11,2021-04-17 00:00:00,Peak,Yes,No,1
+63,Female,Australian,Visiting Friends/Relatives,6,Serviced Apartment,17,Standard,Direct Booking,910.41,15476.97,3,1.1,High,2021-04-12,2021-04-29 00:00:00,Peak,No,No,3
+52,Female,Others,Leisure,1,Hotel,18,Suite,Online,877.07,15787.26,3,3.5,High,2021-04-13,2021-05-01 00:00:00,Off-Peak,Yes,Yes,1
+26,Female,American,Transit,9,Hotel,6,Standard,Online,561.61,3369.66,2.3,1.4,Low,2021-04-15,2021-04-21 00:00:00,Off-Peak,Yes,No,4
+19,Male,Indian,Leisure,2,Private Home,27,Deluxe,Travel Agency,703.41,18992.07,4.9,4,High,2021-04-16,2021-05-13 00:00:00,Off-Peak,Yes,Yes,4
+72,Female,Australian,Leisure,6,Private Home,11,Deluxe,Direct Booking,122.05,1342.55,3.2,1.5,Low,2021-04-17,2021-04-28 00:00:00,Off-Peak,Yes,Yes,2
+72,Female,Chinese,Business,7,Others,23,Suite,Online,635.73,14621.79,2.6,2.4,Low,2021-04-18,2021-05-11 00:00:00,Off-Peak,Yes,No,2
+59,Male,American,Leisure,1,Hostel,28,Suite,Travel Agency,794.67,22250.76,3.1,3.3,Moderate,2021-04-19,2021-05-17 00:00:00,Peak,No,No,0
+66,Female,Australian,Visiting Friends/Relatives,6,Serviced Apartment,8,Suite,Online,178.71,1429.68,1.6,2.2,None,2021-04-20,2021-04-28 00:00:00,Off-Peak,No,No,0
+44,Male,Others,Business,4,Hostel,16,Standard,Travel Agency,948.62,15177.92,3.3,2.9,Low,2021-04-21,2021-05-07 00:00:00,Off-Peak,Yes,No,3
+61,Male,Chinese,Leisure,8,Others,14,Standard,Travel Agency,252.25,3531.5,1.7,1.9,Moderate,2021-04-22,2021-05-06 00:00:00,Peak,No,Yes,3
+76,Female,Chinese,Business,1,Serviced Apartment,18,Suite,Direct Booking,255.86,4605.48,1.6,2.2,High,2021-04-23,2021-05-11 00:00:00,Peak,Yes,Yes,3
+75,Female,Indian,Business,7,Private Home,27,Suite,Online,300.26,8107.02,2.9,3.3,High,2021-04-24,2021-05-21 00:00:00,Peak,Yes,Yes,4
+34,Female,American,Visiting Friends/Relatives,8,Others,29,Suite,Direct Booking,704.15,20420.35,1.5,4.8,High,2021-04-25,2021-05-24 00:00:00,Off-Peak,Yes,Yes,1
+39,Female,Australian,Leisure,6,Others,8,Suite,Direct Booking,197.45,1579.6,1,2.5,Moderate,2021-04-27,2021-05-05 00:00:00,Peak,Yes,Yes,0
+19,Female,British,Business,1,Serviced Apartment,21,Standard,Direct Booking,952.13,19994.73,3.2,3.8,None,2021-04-28,2021-05-19 00:00:00,Off-Peak,Yes,Yes,4
+65,Male,Australian,Transit,8,Serviced Apartment,25,Standard,Travel Agency,384.67,9616.75,3.6,1.6,High,2021-04-29,2021-05-24 00:00:00,Peak,No,No,3
+75,Female,American,Visiting Friends/Relatives,9,Hotel,16,Deluxe,Travel Agency,400.9,6414.4,2.7,5,None,2021-04-30,2021-05-16 00:00:00,Peak,Yes,No,1
+46,Female,Indian,Visiting Friends/Relatives,7,Hotel,1,Deluxe,Direct Booking,224.31,224.31,2.8,1,High,2021-05-01,2021-05-02 00:00:00,Peak,Yes,Yes,3
+59,Female,Chinese,Visiting Friends/Relatives,3,Hostel,27,Standard,Direct Booking,969.61,26179.47,1.6,2.2,High,2021-05-02,2021-05-29 00:00:00,Peak,No,Yes,2
+34,Male,Australian,Business,1,Private Home,9,Standard,Direct Booking,441.65,3974.85,1.9,2.1,Low,2021-05-03,2021-05-12 00:00:00,Peak,No,No,4
+52,Male,British,Leisure,4,Private Home,2,Deluxe,Travel Agency,547.2,1094.4,1,3.4,None,2021-05-04,2021-05-06 00:00:00,Peak,No,Yes,1
+54,Male,American,Business,3,Hotel,10,Deluxe,Online,602.93,6029.3,2.3,1.3,High,2021-05-05,2021-05-15 00:00:00,Peak,Yes,No,3
+48,Female,Chinese,Transit,3,Private Home,6,Suite,Travel Agency,874.02,5244.12,1.8,3.8,Moderate,2021-05-06,2021-05-12 00:00:00,Off-Peak,No,Yes,4
+77,Female,British,Visiting Friends/Relatives,5,Serviced Apartment,11,Suite,Direct Booking,232.04,2552.44,4.3,3.7,Low,2021-05-08,2021-05-19 00:00:00,Peak,Yes,Yes,3
+46,Female,Others,Transit,2,Others,18,Suite,Online,330.06,5941.08,2.1,2.9,High,2021-05-09,2021-05-27 00:00:00,Off-Peak,Yes,No,4
+48,Female,Australian,Business,4,Hotel,19,Suite,Online,630.81,11985.39,1.9,2.2,High,2021-05-10,2021-05-29 00:00:00,Off-Peak,Yes,Yes,3
+62,Male,Chinese,Leisure,7,Private Home,11,Suite,Online,742.16,8163.76,2.2,4.9,High,2021-05-11,2021-05-22 00:00:00,Off-Peak,No,Yes,2
+22,Male,Others,Business,2,Hostel,12,Suite,Direct Booking,275.12,3301.44,3.6,4.8,None,2021-05-12,2021-05-24 00:00:00,Off-Peak,No,Yes,3
+55,Female,Others,Visiting Friends/Relatives,3,Private Home,11,Standard,Online,191.34,2104.74,1.9,4.3,High,2021-05-13,2021-05-24 00:00:00,Peak,No,No,3
+56,Male,British,Business,7,Private Home,26,Deluxe,Travel Agency,596.83,15517.58,2.5,4.8,High,2021-05-14,2021-06-09 00:00:00,Off-Peak,No,No,1
+31,Female,British,Business,8,Others,24,Deluxe,Direct Booking,332.05,7969.2,2.8,2.2,None,2021-05-15,2021-06-08 00:00:00,Off-Peak,No,No,4
+19,Male,Australian,Transit,2,Private Home,23,Standard,Travel Agency,689.74,15864.02,4.6,4.8,None,2021-05-16,2021-06-08 00:00:00,Off-Peak,No,Yes,1
+37,Female,Australian,Business,1,Hotel,21,Standard,Online,525.62,11038.02,4.4,2.8,Moderate,2021-05-17,2021-06-07 00:00:00,Off-Peak,Yes,Yes,3
+21,Male,Others,Transit,7,Others,7,Deluxe,Travel Agency,865.28,6056.96,2,4.6,Low,2021-05-18,2021-05-25 00:00:00,Off-Peak,No,Yes,0
+74,Female,British,Visiting Friends/Relatives,3,Hotel,7,Deluxe,Travel Agency,554.39,3880.73,1.2,4.5,High,2021-05-20,2021-05-27 00:00:00,Off-Peak,No,Yes,3
+72,Male,Australian,Leisure,6,Others,21,Deluxe,Online,98.26,2063.46,3.1,1,Moderate,2021-05-21,2021-06-11 00:00:00,Off-Peak,No,Yes,1
+64,Male,Others,Leisure,7,Hotel,21,Suite,Travel Agency,526.93,11065.53,4.6,4.1,Moderate,2021-05-22,2021-06-12 00:00:00,Off-Peak,Yes,No,0
+51,Female,British,Leisure,9,Serviced Apartment,18,Standard,Travel Agency,344.15,6194.7,3.2,1.7,Low,2021-05-23,2021-06-10 00:00:00,Peak,No,Yes,1
+22,Male,Others,Business,7,Hotel,26,Suite,Travel Agency,858.89,22331.14,1.4,1.2,Low,2021-05-24,2021-06-19 00:00:00,Peak,Yes,No,1
+54,Female,American,Visiting Friends/Relatives,8,Hotel,24,Deluxe,Online,799.68,19192.32,3.6,4.9,High,2021-05-25,2021-06-18 00:00:00,Peak,Yes,No,4
+72,Male,Australian,Visiting Friends/Relatives,7,Hotel,26,Suite,Online,360.63,9376.38,2.2,4.2,Moderate,2021-05-26,2021-06-21 00:00:00,Off-Peak,No,Yes,4
+23,Female,Indian,Business,5,Serviced Apartment,26,Deluxe,Direct Booking,501.66,13043.16,2.8,3.9,None,2021-05-27,2021-06-22 00:00:00,Off-Peak,Yes,Yes,1
+33,Female,Others,Leisure,7,Others,18,Deluxe,Direct Booking,623.83,11228.94,1.8,2.7,None,2021-05-28,2021-06-15 00:00:00,Off-Peak,Yes,No,2
+63,Male,British,Transit,6,Private Home,10,Deluxe,Online,351.58,3515.8,2.4,1.7,Low,2021-05-29,2021-06-08 00:00:00,Peak,No,No,0
+59,Male,Chinese,Leisure,2,Hotel,9,Deluxe,Online,332.83,2995.47,1.1,1.6,Moderate,2021-05-31,2021-06-09 00:00:00,Peak,Yes,Yes,1
+67,Female,Others,Leisure,7,Others,14,Standard,Online,489.56,6853.84,4.5,4.2,Low,2021-06-01,2021-06-15 00:00:00,Peak,No,Yes,1
+69,Female,Chinese,Visiting Friends/Relatives,3,Serviced Apartment,13,Suite,Direct Booking,573.67,7457.71,3.2,4.5,None,2021-06-02,2021-06-15 00:00:00,Off-Peak,No,Yes,2
+39,Male,Chinese,Visiting Friends/Relatives,8,Private Home,28,Standard,Online,323.52,9058.56,4.4,4.8,Moderate,2021-06-03,2021-07-01 00:00:00,Off-Peak,Yes,No,0
+32,Female,Others,Visiting Friends/Relatives,1,Hotel,18,Standard,Travel Agency,295.88,5325.84,3.5,1.3,High,2021-06-04,2021-06-22 00:00:00,Peak,No,Yes,0
+38,Female,British,Transit,9,Others,9,Deluxe,Travel Agency,685.72,6171.48,3.2,1.2,Moderate,2021-06-05,2021-06-14 00:00:00,Peak,Yes,Yes,0
+62,Male,Others,Leisure,1,Others,25,Standard,Online,135.91,3397.75,2.1,2.9,Low,2021-06-06,2021-07-01 00:00:00,Peak,Yes,Yes,4
+61,Male,Indian,Business,4,Hostel,7,Suite,Direct Booking,959.58,6717.06,1.5,2.5,Low,2021-06-07,2021-06-14 00:00:00,Off-Peak,Yes,No,4
+45,Male,Others,Leisure,5,Hostel,5,Standard,Direct Booking,494.34,2471.7,1.1,1.6,Moderate,2021-06-08,2021-06-13 00:00:00,Off-Peak,No,No,3
+49,Female,Others,Leisure,5,Others,27,Suite,Travel Agency,641.7,17325.9,4.4,2.9,High,2021-06-09,2021-07-06 00:00:00,Off-Peak,Yes,Yes,0
+41,Male,American,Visiting Friends/Relatives,1,Private Home,29,Suite,Travel Agency,955.44,27707.76,3.4,4.6,None,2021-06-10,2021-07-09 00:00:00,Peak,No,No,2
+62,Male,Chinese,Business,2,Private Home,17,Suite,Online,508.89,8651.13,2.5,2.4,Low,2021-06-12,2021-06-29 00:00:00,Off-Peak,No,No,1
+28,Female,Chinese,Business,2,Others,14,Suite,Online,570.77,7990.78,3.3,4.9,High,2021-06-13,2021-06-27 00:00:00,Off-Peak,No,No,1
+59,Female,British,Transit,2,Hotel,18,Suite,Travel Agency,719.61,12952.98,2.8,2,Low,2021-06-14,2021-07-02 00:00:00,Peak,No,Yes,1
+70,Female,Australian,Leisure,3,Hotel,9,Standard,Direct Booking,281.99,2537.91,3.7,3,Low,2021-06-15,2021-06-24 00:00:00,Off-Peak,No,No,2
+53,Female,Australian,Leisure,5,Serviced Apartment,11,Standard,Direct Booking,534.61,5880.71,3,2.8,None,2021-06-16,2021-06-27 00:00:00,Off-Peak,Yes,No,2
+71,Male,British,Transit,1,Others,19,Standard,Online,718.61,13653.59,4.9,3.1,High,2021-06-17,2021-07-06 00:00:00,Off-Peak,No,No,0
+36,Male,British,Business,5,Others,1,Deluxe,Online,295.98,295.98,1.7,4,Low,2021-06-18,2021-06-19 00:00:00,Peak,No,Yes,2
+63,Female,Others,Business,8,Private Home,24,Standard,Travel Agency,989.99,23759.76,3.5,1.7,Low,2021-06-19,2021-07-13 00:00:00,Off-Peak,Yes,Yes,1
+53,Female,British,Visiting Friends/Relatives,7,Hotel,8,Deluxe,Direct Booking,183.14,1465.12,4.4,5,High,2021-06-20,2021-06-28 00:00:00,Off-Peak,No,No,4
+60,Female,Chinese,Leisure,3,Hotel,20,Standard,Online,768.99,15379.8,2.2,1.6,Low,2021-06-21,2021-07-11 00:00:00,Off-Peak,No,Yes,4
+39,Female,Indian,Transit,8,Hostel,17,Standard,Travel Agency,746.9,12697.3,3.7,3.8,None,2021-06-23,2021-07-10 00:00:00,Peak,No,Yes,2
+35,Male,British,Transit,5,Others,11,Standard,Travel Agency,153.93,1693.23,2.1,4.3,Moderate,2021-06-24,2021-07-05 00:00:00,Off-Peak,Yes,Yes,4
+62,Female,Chinese,Business,7,Hotel,16,Suite,Travel Agency,628.49,10055.84,3.5,2.1,None,2021-06-25,2021-07-11 00:00:00,Peak,No,No,4
+76,Male,Others,Visiting Friends/Relatives,2,Private Home,2,Suite,Travel Agency,63.5,127,4.1,4.4,Low,2021-06-26,2021-06-28 00:00:00,Off-Peak,Yes,Yes,4
+25,Female,Indian,Leisure,9,Hostel,17,Suite,Online,868.04,14756.68,4.7,2.6,High,2021-06-27,2021-07-14 00:00:00,Peak,No,Yes,3
+71,Female,Others,Business,5,Private Home,24,Deluxe,Travel Agency,585.19,14044.56,4.6,4,None,2021-06-28,2021-07-22 00:00:00,Off-Peak,Yes,No,2
+21,Female,Chinese,Visiting Friends/Relatives,7,Private Home,28,Deluxe,Direct Booking,569.01,15932.28,4.6,2.2,None,2021-06-29,2021-07-27 00:00:00,Off-Peak,Yes,No,1
+66,Male,Australian,Business,4,Hostel,20,Suite,Online,517.65,10353,2.7,2.4,Low,2021-06-30,2021-07-20 00:00:00,Peak,Yes,Yes,2
+34,Female,British,Leisure,6,Serviced Apartment,8,Deluxe,Travel Agency,162.66,1301.28,3.7,3.8,Low,2021-07-01,2021-07-09 00:00:00,Off-Peak,No,Yes,1
+23,Male,Chinese,Transit,2,Private Home,28,Deluxe,Direct Booking,317.15,8880.2,1.9,3.8,Low,2021-07-02,2021-07-30 00:00:00,Peak,Yes,No,3
+48,Female,Indian,Visiting Friends/Relatives,7,Others,26,Suite,Direct Booking,237.03,6162.78,3.6,3.7,Moderate,2021-07-03,2021-07-29 00:00:00,Off-Peak,No,Yes,3
+20,Female,British,Transit,8,Hotel,5,Suite,Direct Booking,961.09,4805.45,2.9,3.5,None,2021-07-05,2021-07-10 00:00:00,Off-Peak,Yes,Yes,1
+34,Female,British,Transit,7,Serviced Apartment,27,Standard,Travel Agency,409.66,11060.82,2.8,3.5,Low,2021-07-06,2021-08-02 00:00:00,Peak,Yes,Yes,1
+43,Male,Chinese,Business,3,Serviced Apartment,22,Standard,Travel Agency,446.4,9820.8,4.9,4.4,Moderate,2021-07-07,2021-07-29 00:00:00,Peak,No,Yes,2
+62,Female,Others,Transit,8,Private Home,24,Standard,Travel Agency,846.07,20305.68,1.1,4,Moderate,2021-07-08,2021-08-01 00:00:00,Off-Peak,No,No,4
+51,Female,Others,Visiting Friends/Relatives,4,Hostel,10,Suite,Direct Booking,482.87,4828.7,1.1,4.3,Low,2021-07-09,2021-07-19 00:00:00,Peak,Yes,No,4
+24,Female,British,Leisure,9,Hostel,25,Deluxe,Travel Agency,182.09,4552.25,4.3,1.5,High,2021-07-10,2021-08-04 00:00:00,Off-Peak,Yes,Yes,3
+58,Female,Australian,Leisure,2,Hostel,3,Suite,Online,764.81,2294.43,4.5,3.5,None,2021-07-11,2021-07-14 00:00:00,Off-Peak,Yes,Yes,0
+39,Male,Chinese,Visiting Friends/Relatives,7,Hostel,16,Standard,Online,932.46,14919.36,1.9,4.1,None,2021-07-12,2021-07-28 00:00:00,Peak,No,No,2
+78,Female,Australian,Business,4,Hotel,22,Deluxe,Online,953.58,20978.76,1.2,2.3,Moderate,2021-07-13,2021-08-04 00:00:00,Off-Peak,Yes,No,4
+76,Male,Australian,Transit,3,Hostel,3,Deluxe,Online,527.67,1583.01,4,3.6,Moderate,2021-07-14,2021-07-17 00:00:00,Off-Peak,No,Yes,1
+73,Female,Chinese,Visiting Friends/Relatives,2,Hostel,16,Deluxe,Travel Agency,171.99,2751.84,4.4,3.7,Low,2021-07-16,2021-08-01 00:00:00,Off-Peak,No,No,0
+32,Male,British,Transit,7,Others,19,Deluxe,Online,803.26,15261.94,3.5,1.9,None,2021-07-17,2021-08-05 00:00:00,Peak,No,Yes,2
+62,Female,Others,Transit,5,Private Home,10,Standard,Online,440.45,4404.5,1.1,3.9,Moderate,2021-07-18,2021-07-28 00:00:00,Peak,Yes,No,4
+70,Male,Australian,Business,2,Private Home,3,Deluxe,Travel Agency,789.42,2368.26,4.1,3.7,High,2021-07-19,2021-07-22 00:00:00,Off-Peak,No,Yes,0
+29,Female,British,Transit,2,Serviced Apartment,11,Deluxe,Online,371.73,4089.03,2.3,4.4,High,2021-07-20,2021-07-31 00:00:00,Peak,No,No,2
+36,Female,American,Visiting Friends/Relatives,7,Hotel,26,Standard,Travel Agency,187.09,4864.34,1.2,3.8,High,2021-07-21,2021-08-16 00:00:00,Off-Peak,Yes,No,3
+56,Female,Chinese,Business,9,Hotel,4,Deluxe,Direct Booking,462.35,1849.4,3.8,4,High,2021-07-22,2021-07-26 00:00:00,Peak,Yes,Yes,2
+55,Male,Indian,Business,8,Hotel,5,Suite,Travel Agency,443.82,2219.1,4.5,2.9,Low,2021-07-23,2021-07-28 00:00:00,Peak,Yes,Yes,4
+60,Male,Chinese,Visiting Friends/Relatives,7,Private Home,19,Suite,Online,957.96,18201.24,3.7,3.7,Moderate,2021-07-24,2021-08-12 00:00:00,Off-Peak,Yes,No,2
+32,Male,Australian,Leisure,3,Others,29,Suite,Travel Agency,932.18,27033.22,3,1.3,Moderate,2021-07-25,2021-08-23 00:00:00,Peak,No,Yes,3
+37,Female,Others,Business,4,Serviced Apartment,26,Deluxe,Online,714.04,18565.04,3.9,2.6,Moderate,2021-07-26,2021-08-21 00:00:00,Off-Peak,Yes,Yes,0
+79,Male,American,Business,1,Serviced Apartment,23,Standard,Travel Agency,859.08,19758.84,3.8,2.3,Moderate,2021-07-28,2021-08-20 00:00:00,Off-Peak,No,Yes,1
+21,Male,Australian,Visiting Friends/Relatives,6,Serviced Apartment,5,Suite,Travel Agency,424.96,2124.8,2.9,2.3,None,2021-07-29,2021-08-03 00:00:00,Off-Peak,Yes,No,4
+59,Male,Australian,Leisure,5,Serviced Apartment,13,Suite,Travel Agency,71.69,931.97,1.6,2.6,High,2021-07-30,2021-08-12 00:00:00,Peak,Yes,No,0
+28,Female,Australian,Business,2,Serviced Apartment,10,Suite,Direct Booking,826.97,8269.7,3.9,2.6,None,2021-07-31,2021-08-10 00:00:00,Off-Peak,No,No,1
+30,Female,Chinese,Transit,7,Private Home,15,Deluxe,Online,672.32,10084.8,1.2,1.4,None,2021-08-01,2021-08-16 00:00:00,Peak,No,No,0
+78,Male,Indian,Leisure,9,Others,20,Suite,Direct Booking,806.03,16120.6,1,4.4,Low,2021-08-02,2021-08-22 00:00:00,Peak,Yes,No,4
+59,Male,American,Visiting Friends/Relatives,9,Hotel,10,Suite,Direct Booking,528.41,5284.1,1.8,3,None,2021-08-03,2021-08-13 00:00:00,Off-Peak,Yes,Yes,2
+45,Male,American,Business,9,Hotel,27,Suite,Direct Booking,778.3,21014.1,2.5,2,Moderate,2021-08-04,2021-08-31 00:00:00,Off-Peak,No,Yes,1
+35,Female,American,Leisure,6,Hostel,26,Suite,Direct Booking,856.79,22276.54,2.8,3.2,High,2021-08-05,2021-08-31 00:00:00,Peak,Yes,Yes,1
+53,Male,Australian,Visiting Friends/Relatives,7,Private Home,13,Standard,Online,841.75,10942.75,3.7,2.3,Moderate,2021-08-06,2021-08-19 00:00:00,Peak,No,Yes,4
+58,Male,Chinese,Transit,5,Serviced Apartment,27,Standard,Travel Agency,580.58,15675.66,2.2,1.6,Low,2021-08-08,2021-09-04 00:00:00,Off-Peak,No,Yes,0
+21,Female,Others,Leisure,6,Others,9,Deluxe,Direct Booking,988.73,8898.57,1.1,2.7,High,2021-08-09,2021-08-18 00:00:00,Off-Peak,No,No,0
+31,Female,Indian,Visiting Friends/Relatives,3,Others,29,Suite,Direct Booking,611.6,17736.4,2.4,1.5,Moderate,2021-08-10,2021-09-08 00:00:00,Off-Peak,No,No,4
+59,Female,Australian,Leisure,6,Serviced Apartment,3,Deluxe,Online,631.45,1894.35,3.3,4.2,None,2021-08-11,2021-08-14 00:00:00,Off-Peak,Yes,No,3
+55,Male,Indian,Business,9,Others,29,Deluxe,Direct Booking,809.71,23481.59,1.8,1.5,High,2021-08-12,2021-09-10 00:00:00,Off-Peak,No,Yes,3
+62,Male,American,Visiting Friends/Relatives,3,Others,29,Deluxe,Direct Booking,656.51,19038.79,3.4,3,Moderate,2021-08-13,2021-09-11 00:00:00,Peak,No,No,4
+27,Male,Australian,Leisure,8,Serviced Apartment,13,Deluxe,Online,181.1,2354.3,4.9,2.1,None,2021-08-14,2021-08-27 00:00:00,Peak,No,No,1
+68,Female,Chinese,Business,4,Hotel,11,Deluxe,Online,109.1,1200.1,3.1,1.4,Low,2021-08-15,2021-08-26 00:00:00,Peak,Yes,Yes,1
+28,Female,Australian,Business,7,Private Home,20,Standard,Travel Agency,928.92,18578.4,3.4,1.1,High,2021-08-16,2021-09-05 00:00:00,Off-Peak,No,No,1
+40,Female,Chinese,Business,1,Serviced Apartment,25,Standard,Travel Agency,600.94,15023.5,3.4,4.4,None,2021-08-17,2021-09-11 00:00:00,Off-Peak,Yes,No,2
+26,Female,Others,Business,1,Hostel,29,Suite,Direct Booking,105.55,3060.95,4.7,2.8,Moderate,2021-08-18,2021-09-16 00:00:00,Peak,Yes,No,4
+78,Male,Others,Leisure,3,Private Home,15,Suite,Online,833.45,12501.75,4.7,1.6,None,2021-08-20,2021-09-04 00:00:00,Off-Peak,No,Yes,4
+59,Male,Australian,Visiting Friends/Relatives,1,Others,16,Suite,Online,971.22,15539.52,4.3,1.7,Moderate,2021-08-21,2021-09-06 00:00:00,Off-Peak,No,Yes,2
+45,Male,Australian,Business,1,Others,23,Deluxe,Direct Booking,597.62,13745.26,1.6,4.8,None,2021-08-22,2021-09-14 00:00:00,Peak,No,Yes,0
+63,Male,Chinese,Visiting Friends/Relatives,7,Others,15,Deluxe,Direct Booking,996.34,14945.1,3.4,1,Low,2021-08-23,2021-09-07 00:00:00,Off-Peak,No,No,2
+37,Female,Chinese,Transit,7,Hotel,27,Suite,Direct Booking,371.81,10038.87,3.6,1.8,None,2021-08-24,2021-09-20 00:00:00,Off-Peak,No,No,1
+71,Male,Australian,Visiting Friends/Relatives,5,Private Home,16,Suite,Travel Agency,264.22,4227.52,4.5,3.9,Moderate,2021-08-25,2021-09-10 00:00:00,Off-Peak,No,No,1
+62,Female,Chinese,Visiting Friends/Relatives,2,Hostel,20,Standard,Online,837.96,16759.2,2.1,2.5,High,2021-08-26,2021-09-15 00:00:00,Peak,Yes,No,4
+60,Female,Indian,Leisure,1,Others,14,Suite,Direct Booking,423.85,5933.9,4.6,1.6,None,2021-08-27,2021-09-10 00:00:00,Off-Peak,No,No,1
+66,Female,Australian,Leisure,3,Hotel,9,Suite,Direct Booking,924.9,8324.1,4.8,1.9,High,2021-08-28,2021-09-06 00:00:00,Peak,No,Yes,4
+70,Female,Others,Leisure,1,Serviced Apartment,3,Standard,Direct Booking,772.82,2318.46,4.3,4.2,Low,2021-08-29,2021-09-01 00:00:00,Off-Peak,Yes,No,3
+57,Female,Australian,Transit,8,Serviced Apartment,23,Suite,Direct Booking,351.59,8086.57,1.5,4.1,Moderate,2021-08-31,2021-09-23 00:00:00,Peak,Yes,No,0
+46,Male,American,Leisure,4,Private Home,19,Deluxe,Direct Booking,751.51,14278.69,3.9,4.7,High,2021-09-01,2021-09-20 00:00:00,Off-Peak,Yes,No,4
+41,Female,Indian,Visiting Friends/Relatives,9,Hostel,17,Standard,Online,294.02,4998.34,1.6,4.1,Low,2021-09-02,2021-09-19 00:00:00,Off-Peak,Yes,No,4
+19,Male,Chinese,Visiting Friends/Relatives,5,Hostel,27,Suite,Direct Booking,927.42,25040.34,1.6,1.7,Moderate,2021-09-03,2021-09-30 00:00:00,Off-Peak,Yes,No,0
+73,Female,Indian,Leisure,6,Serviced Apartment,23,Suite,Online,68.61,1578.03,4,3.1,Low,2021-09-04,2021-09-27 00:00:00,Peak,Yes,Yes,1
+68,Female,American,Transit,6,Hostel,7,Deluxe,Online,428.83,3001.81,1.1,2.2,Moderate,2021-09-05,2021-09-12 00:00:00,Peak,No,No,3
+74,Male,British,Leisure,1,Hostel,3,Standard,Direct Booking,530.51,1591.53,2.9,4.7,Low,2021-09-06,2021-09-09 00:00:00,Peak,No,No,2
+49,Male,Australian,Visiting Friends/Relatives,6,Hotel,28,Standard,Travel Agency,746.91,20913.48,1.4,2.8,Low,2021-09-07,2021-10-05 00:00:00,Off-Peak,No,No,0
+71,Female,American,Leisure,2,Serviced Apartment,22,Suite,Direct Booking,59.58,1310.76,3.5,3.1,None,2021-09-08,2021-09-30 00:00:00,Peak,Yes,Yes,2
+62,Female,Australian,Leisure,7,Serviced Apartment,9,Standard,Online,523.37,4710.33,1.6,3.5,Low,2021-09-09,2021-09-18 00:00:00,Peak,No,Yes,1
+65,Female,Others,Leisure,1,Private Home,20,Deluxe,Online,182.17,3643.4,4.6,3.4,Moderate,2021-09-10,2021-09-30 00:00:00,Off-Peak,No,No,2
+40,Male,Chinese,Transit,8,Private Home,12,Standard,Online,415.66,4987.92,2,3.6,Moderate,2021-09-12,2021-09-24 00:00:00,Peak,Yes,No,1
+62,Female,Others,Transit,7,Hostel,16,Suite,Travel Agency,603.98,9663.68,3.1,4.2,High,2021-09-13,2021-09-29 00:00:00,Off-Peak,No,Yes,3
+25,Female,British,Transit,4,Hostel,19,Standard,Travel Agency,787.84,14968.96,4.3,1.9,None,2021-09-14,2021-10-03 00:00:00,Off-Peak,Yes,Yes,1
+61,Female,Others,Transit,8,Hotel,22,Standard,Online,262.17,5767.74,4.6,2.2,None,2021-09-15,2021-10-07 00:00:00,Off-Peak,Yes,Yes,3
+48,Female,Australian,Visiting Friends/Relatives,4,Others,14,Standard,Direct Booking,505.46,7076.44,1.6,2.2,High,2021-09-16,2021-09-30 00:00:00,Off-Peak,No,Yes,4
+32,Male,British,Leisure,2,Others,5,Standard,Direct Booking,259.26,1296.3,1.8,2.9,Low,2021-09-17,2021-09-22 00:00:00,Peak,Yes,No,2
+54,Male,American,Visiting Friends/Relatives,3,Serviced Apartment,23,Deluxe,Direct Booking,681.5,15674.5,4.3,2.7,Low,2021-09-18,2021-10-11 00:00:00,Off-Peak,Yes,Yes,4
+62,Male,Others,Leisure,6,Serviced Apartment,26,Deluxe,Direct Booking,139.43,3625.18,2,4.7,High,2021-09-19,2021-10-15 00:00:00,Peak,No,No,0
+52,Female,American,Visiting Friends/Relatives,4,Private Home,21,Deluxe,Online,68.79,1444.59,4.8,3.2,Moderate,2021-09-20,2021-10-11 00:00:00,Peak,No,Yes,2
+59,Female,British,Visiting Friends/Relatives,2,Hostel,28,Deluxe,Direct Booking,694.69,19451.32,2.6,1.4,Moderate,2021-09-21,2021-10-19 00:00:00,Off-Peak,Yes,No,1
+27,Female,American,Transit,8,Hotel,20,Suite,Travel Agency,423.79,8475.8,2.8,2.5,High,2021-09-23,2021-10-13 00:00:00,Off-Peak,No,Yes,2
+22,Male,Chinese,Transit,4,Hostel,11,Suite,Direct Booking,637.74,7015.14,1.4,2,Low,2021-09-24,2021-10-05 00:00:00,Off-Peak,No,Yes,0
+23,Female,American,Business,5,Hostel,15,Deluxe,Travel Agency,944.32,14164.8,1.7,2,Low,2021-09-25,2021-10-10 00:00:00,Peak,No,Yes,4
+44,Female,Indian,Transit,1,Hostel,12,Deluxe,Online,660.61,7927.32,2.4,2.9,Low,2021-09-26,2021-10-08 00:00:00,Peak,Yes,Yes,4
+78,Male,American,Leisure,3,Hostel,23,Suite,Direct Booking,860.3,19786.9,4.7,3.4,None,2021-09-27,2021-10-20 00:00:00,Peak,Yes,No,3
+34,Female,Chinese,Business,1,Hotel,22,Standard,Online,935.37,20578.14,4.1,4.9,High,2021-09-28,2021-10-20 00:00:00,Peak,Yes,No,0
+49,Male,Chinese,Business,6,Private Home,19,Deluxe,Online,249.74,4745.06,1.3,3.8,None,2021-09-29,2021-10-18 00:00:00,Off-Peak,No,Yes,0
+27,Male,Chinese,Transit,8,Others,13,Deluxe,Travel Agency,671.45,8728.85,2.3,4.6,Moderate,2021-09-30,2021-10-13 00:00:00,Off-Peak,No,Yes,0
+43,Male,American,Transit,2,Private Home,19,Standard,Travel Agency,267.92,5090.48,2.6,1.2,None,2021-10-01,2021-10-20 00:00:00,Peak,Yes,Yes,3
+58,Male,Indian,Leisure,8,Hostel,11,Standard,Online,737.19,8109.09,1.9,3.9,None,2021-10-02,2021-10-13 00:00:00,Off-Peak,Yes,Yes,1
+36,Male,Others,Business,9,Hotel,8,Suite,Online,128.56,1028.48,1.8,1.5,Moderate,2021-10-03,2021-10-11 00:00:00,Off-Peak,Yes,Yes,2
+45,Female,American,Transit,1,Serviced Apartment,15,Deluxe,Travel Agency,552.61,8289.15,1.4,2,None,2021-10-05,2021-10-20 00:00:00,Peak,No,Yes,2
+20,Female,Australian,Transit,6,Serviced Apartment,21,Suite,Travel Agency,922.77,19378.17,3.9,4.2,Low,2021-10-06,2021-10-27 00:00:00,Peak,Yes,Yes,0
+24,Female,American,Leisure,9,Hostel,27,Standard,Direct Booking,199.29,5380.83,4.6,3.4,None,2021-10-07,2021-11-03 00:00:00,Peak,Yes,No,3
+32,Male,Chinese,Visiting Friends/Relatives,5,Hotel,11,Deluxe,Travel Agency,82.16,903.76,4.1,1.2,Moderate,2021-10-08,2021-10-19 00:00:00,Peak,Yes,Yes,1
+57,Male,Chinese,Leisure,5,Hotel,7,Standard,Direct Booking,214.35,1500.45,2.8,2.9,Moderate,2021-10-09,2021-10-16 00:00:00,Peak,No,No,0
+45,Male,Chinese,Transit,6,Others,27,Standard,Direct Booking,932.91,25188.57,1.3,3.1,Low,2021-10-10,2021-11-06 00:00:00,Off-Peak,No,No,0
+59,Female,British,Business,4,Others,8,Suite,Direct Booking,905.94,7247.52,4.2,1.8,Moderate,2021-10-11,2021-10-19 00:00:00,Off-Peak,No,Yes,0
+52,Female,Australian,Business,3,Hostel,12,Standard,Online,89.14,1069.68,1.2,3,None,2021-10-12,2021-10-24 00:00:00,Peak,No,Yes,3
+32,Male,American,Visiting Friends/Relatives,5,Private Home,17,Suite,Direct Booking,729.27,12397.59,4.2,3.8,High,2021-10-13,2021-10-30 00:00:00,Peak,Yes,No,2
+30,Male,American,Business,5,Others,23,Deluxe,Online,848.07,19505.61,4.2,4,High,2021-10-14,2021-11-06 00:00:00,Peak,Yes,No,3
+61,Female,British,Business,3,Private Home,12,Deluxe,Travel Agency,998.06,11976.72,3.9,1.6,None,2021-10-16,2021-10-28 00:00:00,Off-Peak,Yes,Yes,4
+32,Female,Australian,Leisure,9,Hostel,28,Suite,Direct Booking,845.75,23681,1.6,1.8,Low,2021-10-17,2021-11-14 00:00:00,Off-Peak,No,No,1
+34,Male,Indian,Business,7,Hostel,1,Deluxe,Online,476.67,476.67,2.3,3.4,Low,2021-10-18,2021-10-19 00:00:00,Peak,Yes,Yes,2
+46,Male,Australian,Visiting Friends/Relatives,4,Private Home,26,Suite,Travel Agency,882.84,22953.84,2.5,4.8,High,2021-10-19,2021-11-14 00:00:00,Peak,No,No,3
+62,Female,Chinese,Leisure,8,Serviced Apartment,28,Deluxe,Travel Agency,652.65,18274.2,2.4,1.8,Moderate,2021-10-20,2021-11-17 00:00:00,Off-Peak,No,No,0
+48,Female,American,Transit,1,Private Home,7,Standard,Online,408.99,2862.93,1.1,3.5,None,2021-10-21,2021-10-28 00:00:00,Off-Peak,No,Yes,1
+73,Male,Indian,Transit,7,Serviced Apartment,14,Standard,Direct Booking,369.01,5166.14,2.1,2.5,Moderate,2021-10-22,2021-11-05 00:00:00,Off-Peak,No,Yes,1
+77,Female,Chinese,Transit,8,Serviced Apartment,23,Suite,Online,825.64,18989.72,3.8,2.2,Moderate,2021-10-23,2021-11-15 00:00:00,Off-Peak,No,No,2
+60,Male,Others,Leisure,8,Others,22,Standard,Online,311.29,6848.38,2.3,1.2,High,2021-10-24,2021-11-15 00:00:00,Off-Peak,No,No,1
+62,Male,Indian,Visiting Friends/Relatives,7,Hostel,1,Suite,Travel Agency,891.53,891.53,4.3,4.4,Low,2021-10-25,2021-10-26 00:00:00,Off-Peak,Yes,No,1
+74,Male,Indian,Transit,2,Serviced Apartment,23,Suite,Travel Agency,726.94,16719.62,4.5,1.6,None,2021-10-26,2021-11-18 00:00:00,Peak,No,Yes,1
+73,Male,Australian,Visiting Friends/Relatives,8,Hostel,28,Suite,Travel Agency,599.25,16779,2.7,3.8,High,2021-10-28,2021-11-25 00:00:00,Off-Peak,No,Yes,2
+61,Male,British,Transit,4,Hotel,13,Deluxe,Direct Booking,156.12,2029.56,5,2.6,None,2021-10-29,2021-11-11 00:00:00,Peak,No,Yes,0
+39,Female,Others,Transit,1,Hotel,14,Suite,Direct Booking,445.34,6234.76,3.4,2.9,Moderate,2021-10-30,2021-11-13 00:00:00,Off-Peak,Yes,No,2
+68,Female,British,Leisure,5,Serviced Apartment,28,Standard,Travel Agency,148.37,4154.36,4.9,2.6,Low,2021-10-31,2021-11-28 00:00:00,Off-Peak,Yes,No,3
+30,Male,American,Transit,7,Hotel,28,Standard,Direct Booking,642.47,17989.16,4.8,1.7,High,2021-11-01,2021-11-29 00:00:00,Peak,No,Yes,4
+69,Male,Australian,Business,1,Hostel,22,Standard,Online,372.3,8190.6,4.8,3.1,None,2021-11-02,2021-11-24 00:00:00,Peak,No,No,3
+64,Female,Others,Leisure,9,Others,4,Deluxe,Direct Booking,321.06,1284.24,2.6,4.5,None,2021-11-03,2021-11-07 00:00:00,Off-Peak,No,No,1
+75,Female,Chinese,Leisure,4,Hostel,13,Deluxe,Travel Agency,690.96,8982.48,2.5,3.2,Moderate,2021-11-04,2021-11-17 00:00:00,Peak,No,Yes,4
+60,Female,Chinese,Visiting Friends/Relatives,4,Others,12,Standard,Online,341.56,4098.72,2.7,2,Moderate,2021-11-05,2021-11-17 00:00:00,Peak,Yes,No,4
+33,Male,British,Business,4,Hotel,6,Deluxe,Direct Booking,538.26,3229.56,2.1,1.2,High,2021-11-06,2021-11-12 00:00:00,Off-Peak,Yes,No,3
+64,Male,British,Visiting Friends/Relatives,8,Others,8,Standard,Travel Agency,654.91,5239.28,4.3,2.7,None,2021-11-08,2021-11-16 00:00:00,Off-Peak,No,Yes,1
+22,Male,British,Business,7,Hostel,2,Standard,Direct Booking,768.1,1536.2,3.7,4.1,Moderate,2021-11-09,2021-11-11 00:00:00,Off-Peak,Yes,Yes,1
+76,Female,Indian,Transit,1,Private Home,1,Standard,Online,934.76,934.76,2.1,2.1,Moderate,2021-11-10,2021-11-11 00:00:00,Peak,No,No,3
+50,Female,Indian,Leisure,9,Hotel,15,Standard,Travel Agency,571.37,8570.55,1.8,3.4,Moderate,2021-11-11,2021-11-26 00:00:00,Peak,Yes,No,0
+26,Female,American,Visiting Friends/Relatives,6,Private Home,10,Suite,Travel Agency,404.72,4047.2,1.2,2.6,None,2021-11-12,2021-11-22 00:00:00,Off-Peak,No,No,3
+27,Female,American,Leisure,4,Private Home,28,Deluxe,Travel Agency,63.09,1766.52,1.1,4.2,High,2021-11-13,2021-12-11 00:00:00,Peak,Yes,Yes,2
+79,Female,Indian,Leisure,3,Private Home,29,Standard,Online,121.12,3512.48,4.6,2.9,None,2021-11-14,2021-12-13 00:00:00,Peak,No,No,2
+21,Male,Indian,Leisure,8,Serviced Apartment,8,Deluxe,Travel Agency,220.23,1761.84,4.7,3.1,None,2021-11-15,2021-11-23 00:00:00,Peak,No,Yes,4
+67,Male,Others,Visiting Friends/Relatives,8,Hotel,23,Deluxe,Direct Booking,792.6,18229.8,1,2.8,Low,2021-11-16,2021-12-09 00:00:00,Peak,Yes,No,3
+63,Male,Australian,Business,6,Serviced Apartment,22,Deluxe,Travel Agency,601.27,13227.94,1.6,2.8,Low,2021-11-17,2021-12-09 00:00:00,Peak,Yes,Yes,4
+31,Male,Others,Transit,1,Hostel,17,Deluxe,Direct Booking,488.51,8304.67,2,1.2,High,2021-11-18,2021-12-05 00:00:00,Off-Peak,Yes,Yes,1
+77,Female,American,Transit,5,Hotel,19,Standard,Travel Agency,781.29,14844.51,4.6,3.3,Moderate,2021-11-20,2021-12-09 00:00:00,Peak,No,Yes,3
+79,Female,Chinese,Leisure,7,Hostel,11,Suite,Travel Agency,994.62,10940.82,1.3,4.8,Low,2021-11-21,2021-12-02 00:00:00,Peak,No,No,2
+59,Male,Chinese,Leisure,1,Hostel,4,Deluxe,Travel Agency,489.86,1959.44,3.8,2.5,High,2021-11-22,2021-11-26 00:00:00,Off-Peak,No,No,0
+73,Female,Chinese,Leisure,2,Serviced Apartment,9,Standard,Travel Agency,67.36,606.24,2.5,4.4,Low,2021-11-23,2021-12-02 00:00:00,Off-Peak,No,No,2
+45,Male,Chinese,Business,6,Private Home,21,Deluxe,Online,294.32,6180.72,4.1,1.7,High,2021-11-24,2021-12-15 00:00:00,Peak,No,Yes,3
+66,Female,Others,Business,4,Hostel,26,Suite,Travel Agency,334.57,8698.82,2.2,3.2,High,2021-11-25,2021-12-21 00:00:00,Off-Peak,No,No,2
+74,Female,Chinese,Transit,6,Private Home,27,Deluxe,Direct Booking,869.59,23478.93,2.5,3.7,Low,2021-11-26,2021-12-23 00:00:00,Peak,Yes,Yes,3
+56,Male,Australian,Leisure,3,Hostel,19,Standard,Online,448.73,8525.87,1.3,1.4,High,2021-11-27,2021-12-16 00:00:00,Off-Peak,No,No,1
+59,Male,Chinese,Visiting Friends/Relatives,4,Others,24,Standard,Direct Booking,148.33,3559.92,1.8,2.3,High,2021-11-28,2021-12-22 00:00:00,Peak,Yes,Yes,0
+53,Male,Indian,Business,5,Private Home,6,Deluxe,Travel Agency,515.04,3090.24,3.1,4.3,High,2021-11-29,2021-12-05 00:00:00,Off-Peak,No,Yes,1
+52,Female,American,Visiting Friends/Relatives,4,Private Home,15,Standard,Travel Agency,970.21,14553.15,3.4,1.9,Moderate,2021-12-01,2021-12-16 00:00:00,Off-Peak,No,No,3
+61,Male,British,Leisure,4,Serviced Apartment,21,Suite,Online,402.35,8449.35,2.9,2.7,None,2021-12-02,2021-12-23 00:00:00,Peak,Yes,No,3
+28,Male,Indian,Visiting Friends/Relatives,7,Others,15,Deluxe,Travel Agency,261.1,3916.5,4.3,3.1,None,2021-12-03,2021-12-18 00:00:00,Peak,Yes,Yes,2
+25,Female,Australian,Business,9,Serviced Apartment,11,Deluxe,Direct Booking,552.37,6076.07,1.3,2.2,Moderate,2021-12-04,2021-12-15 00:00:00,Peak,No,Yes,0
+67,Female,Australian,Transit,4,Hostel,25,Suite,Travel Agency,740.65,18516.25,4,1.2,High,2021-12-05,2021-12-30 00:00:00,Peak,Yes,No,0
+68,Female,British,Business,3,Others,23,Deluxe,Travel Agency,975.32,22432.36,1.7,5,Low,2021-12-06,2021-12-29 00:00:00,Peak,No,Yes,0
+44,Female,Indian,Visiting Friends/Relatives,4,Hostel,26,Deluxe,Direct Booking,347.89,9045.14,2.8,2.4,High,2021-12-07,2022-01-02 00:00:00,Off-Peak,No,Yes,4
+68,Female,Indian,Leisure,8,Hostel,12,Standard,Online,322,3864,4.5,1.1,Moderate,2021-12-08,2021-12-20 00:00:00,Peak,Yes,No,1
+51,Male,Others,Transit,6,Private Home,16,Suite,Travel Agency,694.22,11107.52,1.2,3.3,Moderate,2021-12-09,2021-12-25 00:00:00,Peak,No,No,3
+49,Female,Australian,Leisure,7,Serviced Apartment,15,Deluxe,Travel Agency,520.53,7807.95,4.1,2.4,Moderate,2021-12-10,2021-12-25 00:00:00,Off-Peak,Yes,Yes,4
+20,Male,British,Business,5,Hotel,22,Deluxe,Travel Agency,320.87,7059.14,1.7,3.1,High,2021-12-11,2022-01-02 00:00:00,Peak,Yes,No,0
+63,Female,American,Visiting Friends/Relatives,8,Private Home,11,Suite,Direct Booking,458.84,5047.24,4.1,3.8,Low,2021-12-13,2021-12-24 00:00:00,Peak,Yes,Yes,3
+68,Female,Others,Business,1,Private Home,10,Suite,Travel Agency,657.12,6571.2,3.5,2.2,High,2021-12-14,2021-12-24 00:00:00,Peak,No,No,1
+49,Female,Indian,Business,4,Serviced Apartment,22,Suite,Travel Agency,807.42,17763.24,2,4.5,Moderate,2021-12-15,2022-01-06 00:00:00,Off-Peak,Yes,No,0
+21,Female,American,Business,9,Others,6,Suite,Online,476.57,2859.42,1.5,3.2,Moderate,2021-12-16,2021-12-22 00:00:00,Off-Peak,No,No,0
+42,Female,Australian,Leisure,3,Serviced Apartment,3,Suite,Travel Agency,514.5,1543.5,1,2.3,Moderate,2021-12-17,2021-12-20 00:00:00,Off-Peak,Yes,No,0
+61,Female,Chinese,Visiting Friends/Relatives,6,Private Home,2,Suite,Online,362.37,724.74,3.3,2.8,High,2021-12-18,2021-12-20 00:00:00,Peak,Yes,No,1
+76,Male,Australian,Leisure,5,Serviced Apartment,22,Deluxe,Direct Booking,690.73,15196.06,2.2,3.8,High,2021-12-19,2022-01-10 00:00:00,Off-Peak,No,No,4
+44,Male,American,Visiting Friends/Relatives,9,Serviced Apartment,22,Suite,Online,132.49,2914.78,2.2,4.1,High,2021-12-20,2022-01-11 00:00:00,Peak,No,Yes,2
+55,Female,Indian,Visiting Friends/Relatives,3,Hostel,22,Standard,Travel Agency,65.76,1446.72,1,4.7,None,2021-12-21,2022-01-12 00:00:00,Off-Peak,No,Yes,1
+46,Female,Australian,Business,8,Serviced Apartment,29,Suite,Travel Agency,713.77,20699.33,1.3,2.6,Low,2021-12-22,2022-01-20 00:00:00,Off-Peak,Yes,Yes,4
+31,Male,Others,Visiting Friends/Relatives,6,Others,25,Standard,Online,210.24,5256,3.2,1.9,Moderate,2021-12-24,2022-01-18 00:00:00,Peak,No,Yes,4
+56,Female,British,Business,7,Hostel,14,Suite,Direct Booking,877.98,12291.72,2.9,1.9,Moderate,2021-12-25,2022-01-08 00:00:00,Off-Peak,No,Yes,1
+70,Male,British,Business,2,Serviced Apartment,15,Deluxe,Travel Agency,862.9,12943.5,2.2,2,Moderate,2021-12-26,2022-01-10 00:00:00,Off-Peak,No,No,2
+25,Female,American,Business,6,Hostel,4,Standard,Travel Agency,852.39,3409.56,4.9,4.2,None,2021-12-27,2021-12-31 00:00:00,Off-Peak,No,Yes,0
+34,Female,Others,Business,6,Hostel,26,Suite,Direct Booking,805.08,20932.08,4.6,2.7,High,2021-12-28,2022-01-23 00:00:00,Off-Peak,Yes,Yes,3
+74,Male,Chinese,Visiting Friends/Relatives,3,Serviced Apartment,3,Deluxe,Direct Booking,721.14,2163.42,2.9,2,Low,2021-12-29,2022-01-01 00:00:00,Peak,Yes,No,4
+23,Male,American,Business,7,Hostel,23,Suite,Travel Agency,323.51,7440.73,1.7,1.7,None,2021-12-30,2022-01-22 00:00:00,Off-Peak,No,No,2
+77,Male,British,Business,8,Hostel,11,Suite,Direct Booking,426.69,4693.59,2.3,4.1,None,2021-12-31,2022-01-11 00:00:00,Peak,No,No,4
+71,Male,Chinese,Business,3,Private Home,21,Suite,Online,946.1,19868.1,3.7,3.9,Moderate,2022-01-01,2022-01-22 00:00:00,Off-Peak,Yes,No,1
+22,Male,Australian,Visiting Friends/Relatives,6,Serviced Apartment,19,Standard,Travel Agency,95.34,1811.46,1.4,2.5,Low,2022-01-02,2022-01-21 00:00:00,Off-Peak,No,No,3
+48,Female,British,Transit,5,Others,25,Deluxe,Direct Booking,98.04,2451,2.6,2.9,High,2022-01-03,2022-01-28 00:00:00,Off-Peak,Yes,No,0
+18,Male,Indian,Business,4,Hotel,12,Deluxe,Direct Booking,921.26,11055.12,1.4,1.5,None,2022-01-05,2022-01-17 00:00:00,Peak,Yes,Yes,2
+47,Female,Chinese,Transit,5,Hotel,21,Suite,Online,395.38,8302.98,4.9,3.8,High,2022-01-06,2022-01-27 00:00:00,Peak,Yes,No,2
+23,Male,Others,Visiting Friends/Relatives,8,Hotel,20,Standard,Direct Booking,354.85,7097,2,1.4,High,2022-01-07,2022-01-27 00:00:00,Off-Peak,Yes,Yes,4
+32,Female,Chinese,Leisure,7,Serviced Apartment,4,Deluxe,Direct Booking,807.64,3230.56,4.7,1.2,None,2022-01-08,2022-01-12 00:00:00,Peak,Yes,No,4
+54,Male,American,Leisure,1,Others,5,Suite,Travel Agency,778.16,3890.8,3.3,1.6,High,2022-01-09,2022-01-14 00:00:00,Peak,Yes,Yes,0
+18,Male,Indian,Transit,1,Hostel,27,Suite,Online,65.6,1771.2,4.3,1.7,High,2022-01-10,2022-02-06 00:00:00,Peak,Yes,No,4
+24,Male,Others,Transit,4,Private Home,23,Standard,Direct Booking,844,19412,4.8,4.4,High,2022-01-11,2022-02-03 00:00:00,Peak,Yes,No,3
+56,Female,Australian,Business,3,Others,11,Standard,Online,999.37,10993.07,3.1,1.7,High,2022-01-12,2022-01-23 00:00:00,Off-Peak,Yes,No,1
+48,Female,Others,Business,7,Others,6,Suite,Online,186.55,1119.3,3.7,1.6,High,2022-01-13,2022-01-19 00:00:00,Off-Peak,Yes,No,2
+72,Female,Chinese,Visiting Friends/Relatives,6,Private Home,15,Standard,Direct Booking,183.3,2749.5,3.2,1.5,High,2022-01-14,2022-01-29 00:00:00,Peak,No,Yes,0
+43,Male,Indian,Transit,7,Hotel,15,Deluxe,Online,576.24,8643.6,2.4,3.9,High,2022-01-15,2022-01-30 00:00:00,Off-Peak,Yes,No,3
+71,Female,American,Business,7,Hostel,9,Deluxe,Travel Agency,214.8,1933.2,2,5,Moderate,2022-01-17,2022-01-26 00:00:00,Peak,Yes,Yes,1
+27,Male,British,Visiting Friends/Relatives,8,Hotel,27,Standard,Direct Booking,192.16,5188.32,2.2,2.4,None,2022-01-18,2022-02-14 00:00:00,Off-Peak,Yes,Yes,2
+34,Male,Australian,Business,2,Private Home,22,Standard,Direct Booking,563.73,12402.06,3,3.1,None,2022-01-19,2022-02-10 00:00:00,Off-Peak,Yes,No,4
+52,Female,Australian,Business,9,Private Home,21,Standard,Online,235.39,4943.19,1.6,1.8,Low,2022-01-20,2022-02-10 00:00:00,Off-Peak,No,Yes,0
+41,Female,British,Transit,3,Others,24,Deluxe,Online,215.94,5182.56,2.3,2.7,Low,2022-01-21,2022-02-14 00:00:00,Off-Peak,Yes,Yes,2
+36,Female,British,Visiting Friends/Relatives,2,Hostel,2,Standard,Travel Agency,290.41,580.82,3.1,2.7,Low,2022-01-22,2022-01-24 00:00:00,Peak,No,No,3
+69,Female,Australian,Leisure,8,Others,9,Deluxe,Travel Agency,334.52,3010.68,1.6,4.9,None,2022-01-23,2022-02-01 00:00:00,Peak,Yes,No,4
+69,Female,Australian,Leisure,5,Hotel,1,Deluxe,Travel Agency,832.3,832.3,2.7,4,High,2022-01-24,2022-01-25 00:00:00,Peak,Yes,No,4
+77,Female,Others,Visiting Friends/Relatives,3,Serviced Apartment,4,Deluxe,Online,526.55,2106.2,1.8,2.7,Moderate,2022-01-25,2022-01-29 00:00:00,Peak,Yes,Yes,2
+29,Female,Australian,Leisure,2,Hotel,3,Standard,Online,616.44,1849.32,3,1.5,Low,2022-01-26,2022-01-29 00:00:00,Peak,Yes,Yes,2
+29,Male,Australian,Leisure,4,Hostel,27,Deluxe,Direct Booking,723.61,19537.47,3.1,2.2,Moderate,2022-01-28,2022-02-24 00:00:00,Off-Peak,Yes,Yes,2
+62,Male,Chinese,Business,6,Others,19,Suite,Online,468.35,8898.65,3,3.7,High,2022-01-29,2022-02-17 00:00:00,Peak,Yes,No,3
+56,Female,British,Leisure,9,Serviced Apartment,13,Deluxe,Direct Booking,857.57,11148.41,3.6,4.1,Moderate,2022-01-30,2022-02-12 00:00:00,Off-Peak,No,Yes,0
+34,Male,Others,Transit,9,Hostel,22,Deluxe,Travel Agency,438.93,9656.46,2.5,4,Low,2022-01-31,2022-02-22 00:00:00,Peak,No,Yes,1
+28,Female,Indian,Leisure,7,Hotel,25,Standard,Travel Agency,651.05,16276.25,2.2,2.4,Low,2022-02-01,2022-02-26 00:00:00,Off-Peak,Yes,Yes,4
+30,Male,American,Transit,7,Hostel,2,Suite,Travel Agency,754.39,1508.78,2.2,2.1,None,2022-02-02,2022-02-04 00:00:00,Peak,No,No,3
+38,Female,Chinese,Business,5,Private Home,8,Deluxe,Travel Agency,607.63,4861.04,4.1,1.2,Low,2022-02-03,2022-02-11 00:00:00,Peak,No,No,2
+37,Female,Australian,Leisure,8,Hostel,17,Deluxe,Direct Booking,689.6,11723.2,2.8,4.7,Low,2022-02-04,2022-02-21 00:00:00,Peak,No,Yes,3
+60,Female,Others,Business,4,Serviced Apartment,9,Standard,Online,897.3,8075.7,1.4,3.1,High,2022-02-05,2022-02-14 00:00:00,Peak,No,No,3
+46,Female,Others,Leisure,1,Hotel,21,Standard,Online,642.51,13492.71,1.5,1.6,Low,2022-02-06,2022-02-27 00:00:00,Off-Peak,Yes,Yes,2
+77,Female,American,Leisure,2,Serviced Apartment,3,Standard,Travel Agency,955.89,2867.67,4.8,1.3,Moderate,2022-02-07,2022-02-10 00:00:00,Off-Peak,Yes,Yes,1
+78,Male,Others,Transit,3,Hostel,23,Suite,Travel Agency,170.25,3915.75,3.2,2.2,High,2022-02-09,2022-03-04 00:00:00,Peak,No,No,0
+68,Male,American,Business,3,Serviced Apartment,17,Deluxe,Direct Booking,808.57,13745.69,3.3,4.2,Moderate,2022-02-10,2022-02-27 00:00:00,Peak,Yes,No,2
+54,Female,Australian,Transit,9,Others,29,Standard,Direct Booking,911.18,26424.22,2.9,2,None,2022-02-11,2022-03-12 00:00:00,Peak,No,No,1
+36,Female,Indian,Business,3,Serviced Apartment,22,Standard,Online,474.96,10449.12,1.4,1.9,High,2022-02-12,2022-03-06 00:00:00,Peak,Yes,No,4
+78,Female,Indian,Business,6,Hostel,6,Deluxe,Online,293.21,1759.26,1.3,2.5,Moderate,2022-02-13,2022-02-19 00:00:00,Off-Peak,Yes,No,1
+51,Male,British,Leisure,9,Hotel,5,Deluxe,Direct Booking,159.36,796.8,1.4,2.7,Low,2022-02-14,2022-02-19 00:00:00,Peak,Yes,No,4
+51,Male,British,Business,7,Hotel,2,Deluxe,Online,575.41,1150.82,4.2,4,Low,2022-02-15,2022-02-17 00:00:00,Off-Peak,No,Yes,4
+51,Male,Australian,Business,9,Private Home,25,Deluxe,Travel Agency,885.21,22130.25,2.6,2.9,Low,2022-02-16,2022-03-13 00:00:00,Off-Peak,Yes,Yes,0
+68,Male,Others,Visiting Friends/Relatives,7,Hostel,18,Suite,Direct Booking,598.02,10764.36,3.5,2.7,Low,2022-02-17,2022-03-07 00:00:00,Off-Peak,No,Yes,1
+47,Male,Australian,Leisure,2,Others,25,Deluxe,Online,777.72,19443,2.5,1.9,None,2022-02-18,2022-03-15 00:00:00,Off-Peak,No,Yes,4
+79,Male,Others,Leisure,4,Private Home,6,Deluxe,Online,833.44,5000.64,1.7,3.7,Moderate,2022-02-20,2022-02-26 00:00:00,Peak,Yes,No,1
+73,Female,Indian,Leisure,4,Hostel,22,Deluxe,Direct Booking,802.83,17662.26,3.7,1.8,Moderate,2022-02-21,2022-03-15 00:00:00,Off-Peak,No,Yes,0
+55,Female,Australian,Leisure,1,Hotel,28,Deluxe,Online,279.93,7838.04,4.3,2.8,High,2022-02-22,2022-03-22 00:00:00,Peak,Yes,No,1
+29,Male,Australian,Leisure,2,Hotel,17,Standard,Online,163.83,2785.11,1.2,2.3,Low,2022-02-23,2022-03-12 00:00:00,Off-Peak,No,Yes,3
+67,Female,American,Visiting Friends/Relatives,4,Private Home,28,Standard,Online,299.36,8382.08,4.7,2.8,None,2022-02-24,2022-03-24 00:00:00,Off-Peak,Yes,No,0
+59,Female,Australian,Business,4,Hotel,27,Deluxe,Online,752.56,20319.12,4.9,4.9,None,2022-02-25,2022-03-24 00:00:00,Peak,No,Yes,2
+61,Female,Others,Visiting Friends/Relatives,1,Serviced Apartment,25,Deluxe,Online,300.11,7502.75,4.6,1.7,High,2022-02-26,2022-03-23 00:00:00,Peak,No,Yes,0
+57,Female,Australian,Visiting Friends/Relatives,6,Private Home,17,Standard,Direct Booking,899.07,15284.19,4.5,4.9,Low,2022-02-27,2022-03-16 00:00:00,Off-Peak,Yes,Yes,0
+50,Male,Australian,Business,5,Private Home,1,Deluxe,Travel Agency,308.03,308.03,4.2,3.4,High,2022-02-28,2022-03-01 00:00:00,Off-Peak,Yes,Yes,4
+78,Female,British,Transit,2,Private Home,6,Deluxe,Online,140.97,845.82,3.8,2.2,Moderate,2022-03-01,2022-03-07 00:00:00,Peak,Yes,Yes,4
+40,Female,American,Transit,1,Others,3,Standard,Online,286.9,860.7,2.4,2.5,High,2022-03-02,2022-03-05 00:00:00,Off-Peak,Yes,No,3
+62,Female,Australian,Business,4,Others,8,Suite,Travel Agency,681.89,5455.12,2.1,3.5,Moderate,2022-03-04,2022-03-12 00:00:00,Off-Peak,Yes,No,2
+51,Female,American,Business,5,Others,17,Suite,Travel Agency,866.93,14737.81,1,1.6,Low,2022-03-05,2022-03-22 00:00:00,Off-Peak,No,No,3
+46,Female,British,Transit,8,Serviced Apartment,18,Deluxe,Direct Booking,690.01,12420.18,1.3,1.2,Low,2022-03-06,2022-03-24 00:00:00,Off-Peak,Yes,No,0
+34,Female,Indian,Business,3,Others,11,Deluxe,Travel Agency,643.83,7082.13,1.3,1.3,High,2022-03-07,2022-03-18 00:00:00,Off-Peak,No,No,0
+47,Male,Indian,Business,8,Hotel,4,Standard,Direct Booking,739.94,2959.76,3.3,3.7,Moderate,2022-03-08,2022-03-12 00:00:00,Peak,Yes,Yes,3
+79,Female,Australian,Transit,1,Private Home,23,Standard,Travel Agency,763.26,17554.98,2,2.1,None,2022-03-09,2022-04-01 00:00:00,Off-Peak,Yes,No,3
+32,Male,Others,Leisure,7,Hotel,26,Deluxe,Travel Agency,768.81,19989.06,3.9,2,None,2022-03-10,2022-04-05 00:00:00,Peak,No,Yes,3
+52,Female,Others,Leisure,4,Hotel,7,Standard,Travel Agency,997.77,6984.39,3.3,2.9,High,2022-03-11,2022-03-18 00:00:00,Peak,No,No,3
+47,Female,British,Transit,9,Hotel,12,Deluxe,Travel Agency,561.38,6736.56,3,3.6,Low,2022-03-12,2022-03-24 00:00:00,Peak,Yes,No,2
+21,Female,Indian,Transit,9,Others,12,Suite,Online,88.33,1059.96,1.3,4.2,None,2022-03-13,2022-03-25 00:00:00,Peak,No,No,4
+74,Male,Indian,Visiting Friends/Relatives,4,Hostel,15,Suite,Direct Booking,378.74,5681.1,1.6,2.6,High,2022-03-15,2022-03-30 00:00:00,Peak,No,No,0
+44,Male,Indian,Leisure,4,Hotel,13,Standard,Online,530.88,6901.44,3.6,2.4,None,2022-03-16,2022-03-29 00:00:00,Off-Peak,Yes,Yes,4
+43,Female,Chinese,Business,5,Hostel,22,Standard,Direct Booking,712.39,15672.58,1.4,1,High,2022-03-17,2022-04-08 00:00:00,Off-Peak,Yes,No,3
+49,Female,British,Transit,6,Hotel,19,Deluxe,Travel Agency,929.91,17668.29,2.6,4.7,Low,2022-03-18,2022-04-06 00:00:00,Off-Peak,Yes,Yes,1
+64,Female,Others,Business,9,Hotel,15,Standard,Travel Agency,157.23,2358.45,4.5,3.5,Moderate,2022-03-19,2022-04-03 00:00:00,Peak,No,No,4
+23,Male,Australian,Transit,1,Serviced Apartment,14,Deluxe,Direct Booking,156.15,2186.1,3.6,3.7,None,2022-03-20,2022-04-03 00:00:00,Peak,Yes,Yes,0
+50,Male,Chinese,Transit,1,Private Home,12,Deluxe,Travel Agency,959.47,11513.64,1.7,4.8,Moderate,2022-03-21,2022-04-02 00:00:00,Peak,No,Yes,4
+37,Female,Chinese,Transit,4,Private Home,8,Deluxe,Online,164.83,1318.64,4.6,4.4,None,2022-03-22,2022-03-30 00:00:00,Off-Peak,Yes,Yes,4
+66,Male,Australian,Business,7,Private Home,14,Standard,Online,798.15,11174.1,4.4,3.9,Moderate,2022-03-23,2022-04-06 00:00:00,Off-Peak,Yes,Yes,0
+38,Female,Australian,Leisure,5,Serviced Apartment,8,Deluxe,Online,63.45,507.6,3.5,3,High,2022-03-24,2022-04-01 00:00:00,Off-Peak,No,Yes,3
+79,Female,Indian,Business,7,Others,28,Deluxe,Direct Booking,697.05,19517.4,3.5,1.9,High,2022-03-25,2022-04-22 00:00:00,Off-Peak,Yes,Yes,4
+29,Female,Australian,Leisure,7,Private Home,6,Deluxe,Direct Booking,674.48,4046.88,4.3,4.1,Low,2022-03-27,2022-04-02 00:00:00,Peak,No,No,2
+24,Male,American,Business,1,Serviced Apartment,13,Suite,Travel Agency,826.9,10749.7,1.8,4.1,High,2022-03-28,2022-04-10 00:00:00,Peak,No,Yes,4
+53,Female,Chinese,Business,3,Hotel,15,Deluxe,Online,630.7,9460.5,3.9,2.4,High,2022-03-29,2022-04-13 00:00:00,Peak,No,No,0
+27,Male,Australian,Visiting Friends/Relatives,4,Hostel,10,Suite,Online,930.84,9308.4,4.6,4.3,Low,2022-03-30,2022-04-09 00:00:00,Off-Peak,No,No,2
+21,Female,Others,Leisure,1,Others,12,Suite,Direct Booking,170.05,2040.6,1.3,2.9,High,2022-03-31,2022-04-12 00:00:00,Off-Peak,Yes,Yes,4
+20,Male,Others,Visiting Friends/Relatives,8,Private Home,7,Deluxe,Online,598.07,4186.49,3.2,2.5,None,2022-04-01,2022-04-08 00:00:00,Off-Peak,Yes,Yes,4
+45,Male,Australian,Business,3,Others,10,Standard,Travel Agency,68.82,688.2,3.9,3.2,Moderate,2022-04-02,2022-04-12 00:00:00,Off-Peak,Yes,Yes,0
+33,Male,British,Business,7,Serviced Apartment,23,Deluxe,Direct Booking,817.13,18793.99,2,2.9,None,2022-04-03,2022-04-26 00:00:00,Off-Peak,Yes,No,2
+45,Female,American,Leisure,3,Others,20,Standard,Direct Booking,635.37,12707.4,2.7,4,High,2022-04-04,2022-04-24 00:00:00,Off-Peak,Yes,No,4
+32,Female,Chinese,Business,3,Serviced Apartment,24,Standard,Direct Booking,968.76,23250.24,4.9,1.2,Moderate,2022-04-05,2022-04-29 00:00:00,Off-Peak,No,Yes,0
+20,Female,Chinese,Visiting Friends/Relatives,4,Hotel,29,Deluxe,Direct Booking,734.51,21300.79,2.5,3.2,Low,2022-04-07,2022-05-06 00:00:00,Off-Peak,Yes,Yes,4
+58,Female,Australian,Visiting Friends/Relatives,4,Private Home,28,Standard,Direct Booking,513.16,14368.48,3.5,2.5,None,2022-04-08,2022-05-06 00:00:00,Peak,Yes,Yes,4
+61,Male,Australian,Visiting Friends/Relatives,1,Hostel,5,Standard,Travel Agency,649.38,3246.9,2.5,3.6,None,2022-04-09,2022-04-14 00:00:00,Peak,No,Yes,4
+40,Male,American,Transit,4,Hotel,14,Suite,Travel Agency,973.78,13632.92,2.2,3.4,Moderate,2022-04-10,2022-04-24 00:00:00,Peak,Yes,Yes,2
+63,Female,American,Leisure,7,Serviced Apartment,11,Standard,Direct Booking,608.68,6695.48,1.8,4.3,Low,2022-04-11,2022-04-22 00:00:00,Peak,Yes,No,1
+33,Male,Others,Business,1,Hostel,26,Deluxe,Travel Agency,665.82,17311.32,3,4.2,High,2022-04-12,2022-05-08 00:00:00,Off-Peak,No,No,3
+24,Male,Indian,Leisure,4,Serviced Apartment,21,Suite,Travel Agency,113.44,2382.24,2.3,3.2,None,2022-04-13,2022-05-04 00:00:00,Peak,Yes,No,0
+22,Male,Chinese,Transit,7,Hostel,14,Standard,Online,299.83,4197.62,2.8,2.8,None,2022-04-14,2022-04-28 00:00:00,Peak,Yes,No,0
+79,Female,Indian,Business,1,Private Home,28,Deluxe,Direct Booking,892.76,24997.28,2.8,3,Moderate,2022-04-15,2022-05-13 00:00:00,Off-Peak,No,Yes,2
+23,Male,British,Business,2,Serviced Apartment,15,Deluxe,Online,194.48,2917.2,1.9,2.7,None,2022-04-16,2022-05-01 00:00:00,Peak,Yes,No,2
+71,Female,Australian,Leisure,9,Others,9,Standard,Travel Agency,341.32,3071.88,1.6,1.3,None,2022-04-17,2022-04-26 00:00:00,Peak,Yes,Yes,3
+74,Male,American,Visiting Friends/Relatives,1,Serviced Apartment,2,Standard,Travel Agency,395.59,791.18,4.1,2.7,None,2022-04-19,2022-04-21 00:00:00,Off-Peak,Yes,Yes,3
+71,Female,Australian,Visiting Friends/Relatives,9,Hotel,29,Standard,Travel Agency,903,26187,2.8,3.3,Low,2022-04-20,2022-05-19 00:00:00,Off-Peak,Yes,No,0
+33,Female,American,Visiting Friends/Relatives,1,Private Home,22,Suite,Direct Booking,478.03,10516.66,1.2,4.4,High,2022-04-21,2022-05-13 00:00:00,Peak,No,Yes,3
+23,Female,British,Transit,9,Others,29,Deluxe,Online,468.03,13572.87,3.3,2.1,Moderate,2022-04-22,2022-05-21 00:00:00,Peak,No,No,0
+34,Male,American,Transit,4,Hostel,22,Standard,Travel Agency,596.1,13114.2,2,2.4,Moderate,2022-04-23,2022-05-15 00:00:00,Peak,Yes,Yes,3
+38,Female,Others,Transit,8,Hostel,22,Deluxe,Online,408.3,8982.6,4.4,4.4,Low,2022-04-24,2022-05-16 00:00:00,Peak,No,Yes,3
+24,Male,American,Transit,1,Others,1,Deluxe,Travel Agency,79.07,79.07,1.6,3.1,Moderate,2022-04-25,2022-04-26 00:00:00,Off-Peak,No,Yes,4
+48,Male,British,Leisure,8,Hotel,4,Suite,Travel Agency,401.72,1606.88,4.5,1.9,None,2022-04-26,2022-04-30 00:00:00,Peak,Yes,No,0
+49,Male,Indian,Leisure,1,Hostel,3,Suite,Travel Agency,410.58,1231.74,4,4.2,Moderate,2022-04-27,2022-04-30 00:00:00,Off-Peak,Yes,Yes,1
+20,Male,Chinese,Business,9,Hostel,13,Standard,Direct Booking,915.58,11902.54,2.6,4,None,2022-04-28,2022-05-11 00:00:00,Peak,No,No,2
+21,Male,Others,Leisure,2,Others,26,Suite,Online,385.15,10013.9,3.5,4,None,2022-04-30,2022-05-26 00:00:00,Peak,No,No,1
+48,Male,Chinese,Leisure,2,Private Home,15,Deluxe,Online,978.52,14677.8,4.5,3.5,Low,2022-05-01,2022-05-16 00:00:00,Peak,No,No,0
+47,Female,American,Business,8,Serviced Apartment,24,Suite,Direct Booking,50.9,1221.6,2,4.1,None,2022-05-02,2022-05-26 00:00:00,Peak,Yes,No,3
+52,Male,American,Business,7,Serviced Apartment,3,Standard,Direct Booking,987.95,2963.85,4.2,1.4,None,2022-05-03,2022-05-06 00:00:00,Off-Peak,No,Yes,0
+21,Female,Chinese,Business,3,Hotel,2,Standard,Direct Booking,280.4,560.8,3.6,4.8,High,2022-05-04,2022-05-06 00:00:00,Peak,No,No,0
+71,Female,American,Business,5,Private Home,5,Standard,Direct Booking,896.42,4482.1,4,4.1,Low,2022-05-05,2022-05-10 00:00:00,Off-Peak,Yes,No,2
+54,Male,Indian,Visiting Friends/Relatives,5,Others,8,Suite,Travel Agency,86.14,689.12,4,1.4,High,2022-05-06,2022-05-14 00:00:00,Off-Peak,No,Yes,0
+60,Female,Indian,Business,9,Others,24,Deluxe,Direct Booking,611.27,14670.48,3.7,1.3,High,2022-05-07,2022-05-31 00:00:00,Peak,No,Yes,2
+72,Male,Chinese,Transit,8,Others,7,Deluxe,Travel Agency,822.82,5759.74,1.5,1.3,Low,2022-05-08,2022-05-15 00:00:00,Peak,No,No,3
+67,Male,British,Transit,1,Others,8,Standard,Travel Agency,99.48,795.84,1.1,1.9,Low,2022-05-09,2022-05-17 00:00:00,Off-Peak,Yes,Yes,2
+20,Female,American,Leisure,3,Others,4,Deluxe,Direct Booking,363.34,1453.36,1.6,2.4,High,2022-05-10,2022-05-14 00:00:00,Off-Peak,Yes,Yes,0
+67,Female,Australian,Transit,5,Others,22,Standard,Direct Booking,478.46,10526.12,4.4,3.4,None,2022-05-12,2022-06-03 00:00:00,Peak,No,Yes,0
+37,Male,Australian,Visiting Friends/Relatives,2,Hotel,18,Suite,Travel Agency,839.33,15107.94,4.4,4,None,2022-05-13,2022-05-31 00:00:00,Off-Peak,No,No,4
+72,Male,American,Leisure,6,Hotel,7,Deluxe,Travel Agency,349.92,2449.44,2.7,3.6,High,2022-05-14,2022-05-21 00:00:00,Off-Peak,No,No,4
+44,Female,Others,Transit,1,Private Home,19,Suite,Travel Agency,938.48,17831.12,5,3.6,None,2022-05-15,2022-06-03 00:00:00,Peak,No,Yes,3
+25,Male,Australian,Visiting Friends/Relatives,7,Hotel,7,Deluxe,Direct Booking,132.64,928.48,3.1,4.4,High,2022-05-16,2022-05-23 00:00:00,Off-Peak,No,No,0
+52,Female,Others,Transit,3,Hostel,4,Suite,Travel Agency,106.06,424.24,3.3,1.2,Low,2022-05-17,2022-05-21 00:00:00,Off-Peak,No,No,0
+46,Male,Others,Transit,9,Others,15,Standard,Direct Booking,164.23,2463.45,3.4,1,Low,2022-05-18,2022-06-02 00:00:00,Peak,Yes,Yes,4
+56,Male,Others,Transit,4,Serviced Apartment,29,Standard,Online,609.9,17687.1,4.2,3.1,Moderate,2022-05-19,2022-06-17 00:00:00,Peak,No,No,4
+71,Male,Australian,Visiting Friends/Relatives,7,Private Home,13,Suite,Direct Booking,870.61,11317.93,1.6,2.5,High,2022-05-20,2022-06-02 00:00:00,Peak,No,No,4
+51,Male,British,Transit,2,Others,15,Standard,Direct Booking,818.14,12272.1,2.8,3.6,Moderate,2022-05-21,2022-06-05 00:00:00,Peak,Yes,No,4
+34,Female,Others,Business,9,Hostel,26,Suite,Online,363.92,9461.92,4.8,4.5,Low,2022-05-23,2022-06-18 00:00:00,Off-Peak,No,No,2
+35,Male,Chinese,Transit,2,Private Home,24,Suite,Direct Booking,996.44,23914.56,3.4,4.2,Low,2022-05-24,2022-06-17 00:00:00,Off-Peak,Yes,Yes,3
+69,Female,Australian,Transit,1,Serviced Apartment,20,Deluxe,Online,533.54,10670.8,1.8,3.9,High,2022-05-25,2022-06-14 00:00:00,Off-Peak,No,No,1
+79,Female,Others,Transit,2,Others,22,Deluxe,Travel Agency,530.33,11667.26,1.9,2.1,None,2022-05-26,2022-06-17 00:00:00,Peak,Yes,No,4
+18,Male,British,Visiting Friends/Relatives,6,Serviced Apartment,9,Suite,Online,368.44,3315.96,2.6,1.9,High,2022-05-27,2022-06-05 00:00:00,Peak,No,Yes,4
+37,Male,Australian,Leisure,3,Serviced Apartment,19,Suite,Online,589.22,11195.18,1.1,3.2,Low,2022-05-28,2022-06-16 00:00:00,Peak,Yes,Yes,3
+51,Female,Chinese,Business,7,Serviced Apartment,8,Deluxe,Travel Agency,977.31,7818.48,4.2,2.9,High,2022-05-29,2022-06-06 00:00:00,Off-Peak,No,Yes,3
+62,Male,Australian,Business,2,Private Home,29,Deluxe,Online,298.67,8661.43,2.6,4.7,None,2022-05-30,2022-06-28 00:00:00,Off-Peak,No,No,0
+52,Male,Australian,Transit,9,Private Home,29,Suite,Direct Booking,176.33,5113.57,4.7,4.5,Moderate,2022-05-31,2022-06-29 00:00:00,Off-Peak,No,No,0
+26,Female,Australian,Business,5,Hostel,8,Standard,Direct Booking,226.59,1812.72,4.8,3.3,Moderate,2022-06-01,2022-06-09 00:00:00,Peak,Yes,No,3
+39,Female,British,Transit,3,Others,13,Standard,Online,749.13,9738.69,1.4,4.8,Moderate,2022-06-02,2022-06-15 00:00:00,Off-Peak,Yes,Yes,3
+26,Female,Australian,Business,4,Hostel,8,Suite,Direct Booking,283.53,2268.24,1.5,3.2,Low,2022-06-04,2022-06-12 00:00:00,Peak,No,Yes,4
+32,Female,Australian,Business,7,Serviced Apartment,21,Suite,Direct Booking,518.11,10880.31,2.5,1.2,High,2022-06-05,2022-06-26 00:00:00,Peak,Yes,Yes,4
+63,Male,Chinese,Visiting Friends/Relatives,7,Hotel,24,Suite,Travel Agency,163.68,3928.32,1.6,1.9,Moderate,2022-06-06,2022-06-30 00:00:00,Off-Peak,Yes,No,1
+79,Female,Chinese,Leisure,7,Hotel,17,Standard,Direct Booking,317.69,5400.73,4.1,3.7,Moderate,2022-06-07,2022-06-24 00:00:00,Peak,Yes,No,1
+41,Female,British,Visiting Friends/Relatives,3,Private Home,26,Standard,Online,781.87,20328.62,4.1,2,High,2022-06-08,2022-07-04 00:00:00,Peak,No,Yes,2
+63,Male,American,Leisure,4,Hotel,23,Deluxe,Travel Agency,641.77,14760.71,4.2,2.9,Moderate,2022-06-09,2022-07-02 00:00:00,Off-Peak,Yes,No,2
+20,Female,Chinese,Visiting Friends/Relatives,2,Hostel,21,Deluxe,Online,174.21,3658.41,1.1,2.4,None,2022-06-10,2022-07-01 00:00:00,Off-Peak,Yes,Yes,2
+44,Female,Australian,Business,2,Others,21,Standard,Online,604.59,12696.39,4.8,2.4,High,2022-06-11,2022-07-02 00:00:00,Off-Peak,Yes,Yes,4
+63,Female,Chinese,Business,7,Private Home,7,Deluxe,Travel Agency,590.61,4134.27,4.1,1.4,Low,2022-06-12,2022-06-19 00:00:00,Off-Peak,Yes,No,0
+74,Male,American,Transit,5,Hotel,15,Deluxe,Online,431.76,6476.4,2.4,4.9,Moderate,2022-06-13,2022-06-28 00:00:00,Peak,Yes,Yes,0
+65,Female,Australian,Leisure,7,Hostel,4,Suite,Direct Booking,784.28,3137.12,2,2.4,Low,2022-06-15,2022-06-19 00:00:00,Peak,No,No,0
+68,Male,Others,Visiting Friends/Relatives,7,Private Home,21,Suite,Direct Booking,943.17,19806.57,3.2,3.7,High,2022-06-16,2022-07-07 00:00:00,Peak,Yes,Yes,1
+44,Female,Australian,Transit,9,Private Home,25,Suite,Online,982.87,24571.75,1.5,1.8,Moderate,2022-06-17,2022-07-12 00:00:00,Peak,No,Yes,1
+77,Female,British,Business,6,Serviced Apartment,12,Suite,Online,487.31,5847.72,2.6,3.7,None,2022-06-18,2022-06-30 00:00:00,Off-Peak,Yes,No,0
+22,Male,Indian,Business,3,Serviced Apartment,11,Suite,Direct Booking,723.63,7959.93,4.6,3.2,None,2022-06-19,2022-06-30 00:00:00,Off-Peak,Yes,Yes,3
+44,Female,Indian,Transit,3,Hotel,12,Deluxe,Online,691.86,8302.32,4.3,4.9,None,2022-06-20,2022-07-02 00:00:00,Peak,Yes,Yes,4
+58,Male,Indian,Leisure,9,Hostel,13,Standard,Travel Agency,841.7,10942.1,1.1,2.6,Low,2022-06-21,2022-07-04 00:00:00,Peak,Yes,No,0
+54,Male,British,Business,4,Others,23,Deluxe,Travel Agency,171.76,3950.48,2.7,4.2,Low,2022-06-22,2022-07-15 00:00:00,Off-Peak,Yes,No,4
+26,Female,British,Leisure,5,Hostel,8,Suite,Online,94.35,754.8,3.1,2.6,Moderate,2022-06-23,2022-07-01 00:00:00,Off-Peak,Yes,No,1
+46,Female,British,Business,5,Private Home,25,Deluxe,Direct Booking,870.14,21753.5,2.7,2.8,High,2022-06-24,2022-07-19 00:00:00,Peak,Yes,Yes,4
+71,Female,Others,Leisure,1,Hotel,2,Suite,Direct Booking,643.89,1287.78,3.7,4.9,Low,2022-06-25,2022-06-27 00:00:00,Off-Peak,No,No,1
+77,Female,Others,Transit,9,Private Home,21,Standard,Online,652.21,13696.41,4.6,2.5,High,2022-06-27,2022-07-18 00:00:00,Off-Peak,Yes,Yes,1
+56,Male,Australian,Visiting Friends/Relatives,9,Serviced Apartment,17,Suite,Online,136.16,2314.72,1.4,2.3,High,2022-06-28,2022-07-15 00:00:00,Peak,Yes,No,1
+53,Female,Australian,Business,2,Hostel,27,Deluxe,Online,746.71,20161.17,4.2,4.9,Low,2022-06-29,2022-07-26 00:00:00,Peak,Yes,No,1
+22,Female,British,Leisure,7,Others,15,Deluxe,Online,82.59,1238.85,3.6,3.3,High,2022-06-30,2022-07-15 00:00:00,Off-Peak,Yes,Yes,0
+35,Male,British,Transit,6,Hostel,10,Suite,Travel Agency,391.18,3911.8,4.1,1.3,Low,2022-07-01,2022-07-11 00:00:00,Off-Peak,No,No,1
+68,Female,Others,Visiting Friends/Relatives,7,Private Home,18,Standard,Travel Agency,965.88,17385.84,1,3.6,None,2022-07-02,2022-07-20 00:00:00,Off-Peak,Yes,Yes,4
+75,Female,American,Transit,8,Private Home,29,Suite,Direct Booking,861.69,24989.01,4.3,4.8,Low,2022-07-03,2022-08-01 00:00:00,Off-Peak,Yes,No,3
+60,Male,Indian,Business,3,Hotel,18,Deluxe,Direct Booking,311.79,5612.22,4.4,4.8,None,2022-07-04,2022-07-22 00:00:00,Peak,No,No,0
+67,Female,Indian,Leisure,2,Others,10,Deluxe,Online,683.19,6831.9,4.1,2.1,Moderate,2022-07-05,2022-07-15 00:00:00,Off-Peak,Yes,Yes,0
+73,Female,British,Visiting Friends/Relatives,9,Serviced Apartment,23,Standard,Online,138.81,3192.63,4,1.9,High,2022-07-06,2022-07-29 00:00:00,Peak,No,Yes,0
+39,Male,Chinese,Visiting Friends/Relatives,2,Private Home,22,Deluxe,Online,103.4,2274.8,4.2,1.1,High,2022-07-08,2022-07-30 00:00:00,Off-Peak,Yes,Yes,2
+61,Male,British,Business,9,Hostel,10,Suite,Online,878.05,8780.5,2.4,3,None,2022-07-09,2022-07-19 00:00:00,Off-Peak,Yes,Yes,0
+78,Female,Chinese,Leisure,8,Hotel,7,Standard,Online,286.34,2004.38,3.7,2.2,High,2022-07-10,2022-07-17 00:00:00,Peak,No,No,0
+57,Female,Others,Transit,5,Hotel,15,Deluxe,Travel Agency,474.19,7112.85,1.7,2.8,Low,2022-07-11,2022-07-26 00:00:00,Off-Peak,Yes,Yes,2
+21,Female,American,Leisure,5,Hostel,8,Standard,Direct Booking,343.64,2749.12,3.3,2.2,None,2022-07-12,2022-07-20 00:00:00,Off-Peak,Yes,No,1
+27,Female,British,Transit,1,Hotel,7,Suite,Online,370.9,2596.3,1.4,1.3,Moderate,2022-07-13,2022-07-20 00:00:00,Peak,No,No,1
+74,Female,Others,Leisure,5,Others,10,Standard,Online,263.8,2638,4.5,3.8,Moderate,2022-07-14,2022-07-24 00:00:00,Peak,No,No,1
+55,Male,Indian,Business,7,Others,22,Standard,Direct Booking,181.98,4003.56,1,4.9,High,2022-07-15,2022-08-06 00:00:00,Peak,No,Yes,4
+74,Male,Others,Leisure,9,Private Home,12,Deluxe,Travel Agency,824.71,9896.52,4.2,3.9,High,2022-07-16,2022-07-28 00:00:00,Off-Peak,No,No,4
+41,Female,Indian,Transit,1,Others,23,Suite,Online,308.74,7101.02,4.3,2.1,Low,2022-07-17,2022-08-09 00:00:00,Off-Peak,Yes,Yes,1
+18,Female,British,Visiting Friends/Relatives,7,Private Home,6,Suite,Travel Agency,719.28,4315.68,2.9,4.2,Moderate,2022-07-18,2022-07-24 00:00:00,Off-Peak,Yes,Yes,1
+55,Male,British,Transit,7,Hotel,13,Suite,Online,259.22,3369.86,2.8,1.8,None,2022-07-20,2022-08-02 00:00:00,Off-Peak,Yes,No,1
+22,Female,American,Transit,2,Hostel,16,Standard,Online,462.09,7393.44,2.4,1.2,None,2022-07-21,2022-08-06 00:00:00,Off-Peak,No,No,4
+39,Male,Chinese,Business,8,Others,10,Suite,Direct Booking,216.18,2161.8,4.6,3.1,High,2022-07-22,2022-08-01 00:00:00,Off-Peak,Yes,Yes,3
+35,Female,American,Leisure,3,Others,6,Deluxe,Direct Booking,219.21,1315.26,1.4,1.8,Low,2022-07-23,2022-07-29 00:00:00,Off-Peak,Yes,No,1
+49,Female,Australian,Visiting Friends/Relatives,9,Hostel,19,Deluxe,Travel Agency,586.55,11144.45,2.3,3,Low,2022-07-24,2022-08-12 00:00:00,Peak,Yes,Yes,4
+22,Male,Chinese,Transit,7,Hotel,11,Deluxe,Travel Agency,895.9,9854.9,4.2,2.7,Low,2022-07-25,2022-08-05 00:00:00,Off-Peak,No,Yes,2
+29,Female,Australian,Business,7,Others,28,Suite,Travel Agency,819.25,22939,2,3,High,2022-07-26,2022-08-23 00:00:00,Off-Peak,Yes,Yes,2
+71,Male,Others,Visiting Friends/Relatives,7,Hotel,9,Deluxe,Travel Agency,932.41,8391.69,3.8,2.5,Low,2022-07-27,2022-08-05 00:00:00,Peak,Yes,Yes,2
+66,Female,American,Visiting Friends/Relatives,3,Others,20,Suite,Travel Agency,168.62,3372.4,5,3.5,Low,2022-07-28,2022-08-17 00:00:00,Off-Peak,No,Yes,3
+57,Female,Chinese,Transit,4,Private Home,15,Suite,Travel Agency,682.41,10236.15,3,4.2,High,2022-07-29,2022-08-13 00:00:00,Peak,No,No,0
+20,Male,American,Visiting Friends/Relatives,6,Others,2,Deluxe,Online,942.11,1884.22,1.6,3.5,Moderate,2022-07-31,2022-08-02 00:00:00,Off-Peak,No,No,4
+74,Male,British,Visiting Friends/Relatives,8,Others,6,Deluxe,Online,117.15,702.9,3.5,1.7,High,2022-08-01,2022-08-07 00:00:00,Peak,Yes,Yes,3
+38,Male,American,Leisure,3,Private Home,14,Suite,Travel Agency,927.93,12991.02,3.4,2.8,Low,2022-08-02,2022-08-16 00:00:00,Off-Peak,Yes,Yes,0
+45,Female,Australian,Visiting Friends/Relatives,5,Private Home,26,Suite,Online,72.63,1888.38,2.1,2.1,High,2022-08-03,2022-08-29 00:00:00,Off-Peak,No,No,4
+48,Female,Others,Leisure,6,Hotel,15,Deluxe,Direct Booking,818.44,12276.6,2.4,4.4,None,2022-08-04,2022-08-19 00:00:00,Peak,No,No,0
+55,Female,Australian,Business,6,Hostel,29,Standard,Travel Agency,440.32,12769.28,3.7,5,Low,2022-08-05,2022-09-03 00:00:00,Off-Peak,No,Yes,4
+65,Male,Others,Transit,2,Hotel,24,Suite,Online,742.89,17829.36,3.5,3.6,High,2022-08-06,2022-08-30 00:00:00,Peak,No,No,3
+57,Female,Australian,Transit,1,Hotel,14,Suite,Travel Agency,434.96,6089.44,2.2,1.4,High,2022-08-07,2022-08-21 00:00:00,Off-Peak,Yes,Yes,0
+45,Male,British,Visiting Friends/Relatives,6,Hostel,23,Suite,Travel Agency,217.38,4999.74,3,4.5,None,2022-08-08,2022-08-31 00:00:00,Peak,Yes,Yes,1
+73,Female,Others,Business,8,Hotel,27,Deluxe,Travel Agency,242.89,6558.03,3.4,3.3,High,2022-08-09,2022-09-05 00:00:00,Peak,No,No,0
+73,Male,Australian,Business,3,Serviced Apartment,22,Deluxe,Direct Booking,134.75,2964.5,1.1,1.1,Low,2022-08-10,2022-09-01 00:00:00,Peak,Yes,Yes,2
+20,Female,British,Business,7,Hostel,27,Standard,Online,334.04,9019.08,1.6,2.5,Low,2022-08-12,2022-09-08 00:00:00,Peak,No,Yes,2
+42,Male,Others,Business,8,Others,21,Suite,Travel Agency,609.49,12799.29,4.1,2.7,None,2022-08-13,2022-09-03 00:00:00,Off-Peak,Yes,Yes,2
+31,Male,Indian,Business,6,Serviced Apartment,26,Standard,Direct Booking,788.09,20490.34,3.3,2.4,None,2022-08-14,2022-09-09 00:00:00,Off-Peak,Yes,No,2
+55,Male,Australian,Business,1,Serviced Apartment,11,Deluxe,Direct Booking,952.51,10477.61,4.6,4.4,None,2022-08-15,2022-08-26 00:00:00,Off-Peak,Yes,Yes,3
+20,Female,British,Leisure,4,Private Home,14,Suite,Direct Booking,756.33,10588.62,2.3,2.9,None,2022-08-16,2022-08-30 00:00:00,Peak,Yes,No,3
+26,Male,Others,Transit,1,Hotel,11,Deluxe,Online,145.29,1598.19,4.4,3.1,High,2022-08-17,2022-08-28 00:00:00,Peak,Yes,No,3
+25,Male,Indian,Business,3,Others,9,Suite,Direct Booking,631.09,5679.81,4.6,4.5,Moderate,2022-08-18,2022-08-27 00:00:00,Off-Peak,No,No,1
+40,Male,American,Leisure,1,Serviced Apartment,14,Standard,Online,493.88,6914.32,3.8,3.3,Low,2022-08-19,2022-09-02 00:00:00,Peak,Yes,No,2
+24,Female,British,Leisure,6,Hotel,5,Standard,Online,727.79,3638.95,3.7,4,Moderate,2022-08-20,2022-08-25 00:00:00,Off-Peak,No,Yes,0
+32,Male,Indian,Leisure,9,Private Home,23,Suite,Online,250.99,5772.77,3.7,4.9,Low,2022-08-21,2022-09-13 00:00:00,Off-Peak,No,No,3
+67,Female,American,Leisure,9,Private Home,27,Deluxe,Direct Booking,463.8,12522.6,4.9,3.7,None,2022-08-23,2022-09-19 00:00:00,Peak,No,Yes,2
+31,Male,Australian,Business,3,Hotel,26,Suite,Online,262.96,6836.96,4,3,Moderate,2022-08-24,2022-09-19 00:00:00,Peak,No,No,1
+51,Female,British,Leisure,8,Private Home,22,Standard,Online,902.99,19865.78,3.7,2.4,Low,2022-08-25,2022-09-16 00:00:00,Off-Peak,Yes,No,1
+68,Male,British,Leisure,9,Hotel,14,Standard,Travel Agency,704.49,9862.86,4.2,4.2,None,2022-08-26,2022-09-09 00:00:00,Off-Peak,Yes,Yes,0
+70,Male,Australian,Visiting Friends/Relatives,9,Hotel,24,Standard,Direct Booking,267.68,6424.32,2.4,5,High,2022-08-27,2022-09-20 00:00:00,Peak,Yes,Yes,1
+25,Male,British,Visiting Friends/Relatives,4,Hostel,4,Deluxe,Online,545.82,2183.28,3.1,3.4,None,2022-08-28,2022-09-01 00:00:00,Off-Peak,No,Yes,3
+60,Female,American,Business,3,Serviced Apartment,4,Standard,Direct Booking,433.17,1732.68,2.5,4.6,Moderate,2022-08-29,2022-09-02 00:00:00,Peak,Yes,No,4
+44,Female,Indian,Transit,3,Hotel,3,Suite,Direct Booking,137.84,413.52,1.5,3.9,None,2022-08-30,2022-09-02 00:00:00,Off-Peak,Yes,No,2
+44,Male,Australian,Leisure,8,Hostel,18,Suite,Online,723.02,13014.36,4.7,4.8,Low,2022-08-31,2022-09-18 00:00:00,Off-Peak,Yes,No,2
+52,Female,Chinese,Transit,1,Serviced Apartment,17,Suite,Travel Agency,358.62,6096.54,1.6,3.6,Moderate,2022-09-01,2022-09-18 00:00:00,Off-Peak,Yes,Yes,1
+67,Female,British,Transit,3,Private Home,17,Deluxe,Travel Agency,341.54,5806.18,3.6,1.7,Low,2022-09-02,2022-09-19 00:00:00,Peak,No,No,3
+54,Male,American,Transit,7,Others,25,Deluxe,Travel Agency,491.87,12296.75,1.7,3.2,Low,2022-09-04,2022-09-29 00:00:00,Peak,Yes,Yes,0
+66,Male,American,Visiting Friends/Relatives,3,Private Home,17,Deluxe,Direct Booking,523.35,8896.95,4.8,4.3,Moderate,2022-09-05,2022-09-22 00:00:00,Peak,No,No,4
+69,Female,Chinese,Visiting Friends/Relatives,4,Others,22,Deluxe,Direct Booking,107.73,2370.06,2.6,1.6,None,2022-09-06,2022-09-28 00:00:00,Off-Peak,Yes,No,0
+29,Male,Chinese,Leisure,4,Serviced Apartment,26,Deluxe,Direct Booking,595.19,15474.94,4.8,1.8,Low,2022-09-07,2022-10-03 00:00:00,Off-Peak,Yes,No,2
+68,Female,Others,Visiting Friends/Relatives,2,Private Home,19,Deluxe,Travel Agency,244.16,4639.04,1.2,4.8,Low,2022-09-08,2022-09-27 00:00:00,Off-Peak,No,No,1
+21,Male,Australian,Business,5,Others,2,Suite,Direct Booking,613.1,1226.2,4.7,4.2,Low,2022-09-09,2022-09-11 00:00:00,Peak,Yes,Yes,4
+52,Male,Others,Visiting Friends/Relatives,2,Others,9,Suite,Direct Booking,326.34,2937.06,3.7,1.7,Low,2022-09-10,2022-09-19 00:00:00,Off-Peak,Yes,Yes,2
+64,Male,British,Business,6,Private Home,2,Standard,Travel Agency,984.97,1969.94,4.9,2.4,Low,2022-09-11,2022-09-13 00:00:00,Off-Peak,Yes,Yes,2
+70,Female,Indian,Transit,3,Hotel,6,Standard,Direct Booking,141.83,850.98,4.4,2.4,High,2022-09-12,2022-09-18 00:00:00,Off-Peak,No,No,0
+20,Female,Others,Leisure,2,Serviced Apartment,17,Deluxe,Direct Booking,263.24,4475.08,4.6,5,High,2022-09-13,2022-09-30 00:00:00,Peak,Yes,Yes,1
+36,Male,Chinese,Business,1,Hostel,7,Standard,Direct Booking,943.3,6603.1,2.3,4.6,High,2022-09-15,2022-09-22 00:00:00,Off-Peak,Yes,No,1
+68,Female,Australian,Leisure,7,Others,16,Suite,Online,657.42,10518.72,1.3,4.3,Moderate,2022-09-16,2022-10-02 00:00:00,Peak,No,Yes,0
+75,Male,American,Visiting Friends/Relatives,4,Hostel,8,Deluxe,Travel Agency,207.9,1663.2,2.6,4.6,High,2022-09-17,2022-09-25 00:00:00,Peak,No,Yes,0
+56,Female,American,Visiting Friends/Relatives,1,Private Home,14,Standard,Travel Agency,178.2,2494.8,2.2,4.7,None,2022-09-18,2022-10-02 00:00:00,Off-Peak,Yes,No,0
+61,Male,Indian,Business,4,Others,19,Suite,Online,293.55,5577.45,4,4.1,None,2022-09-19,2022-10-08 00:00:00,Off-Peak,No,Yes,0
+70,Female,Others,Business,2,Private Home,28,Suite,Travel Agency,329.23,9218.44,3.4,3.7,None,2022-09-20,2022-10-18 00:00:00,Off-Peak,No,Yes,2
+21,Male,Chinese,Visiting Friends/Relatives,3,Others,14,Standard,Direct Booking,282.12,3949.68,2.2,4.1,High,2022-09-21,2022-10-05 00:00:00,Off-Peak,Yes,No,1
+48,Female,Chinese,Visiting Friends/Relatives,3,Private Home,6,Suite,Online,460.61,2763.66,3.7,4.2,High,2022-09-22,2022-09-28 00:00:00,Off-Peak,No,No,2
+71,Female,British,Leisure,3,Hotel,14,Standard,Direct Booking,348.61,4880.54,2.7,4.4,Low,2022-09-23,2022-10-07 00:00:00,Peak,Yes,Yes,3
+79,Female,Australian,Leisure,4,Hostel,5,Deluxe,Online,67.6,338,3,4,High,2022-09-24,2022-09-29 00:00:00,Off-Peak,Yes,Yes,3
+41,Male,Indian,Transit,3,Hotel,20,Suite,Travel Agency,116.52,2330.4,4.7,4.5,Low,2022-09-25,2022-10-15 00:00:00,Peak,No,Yes,4
+65,Male,Chinese,Transit,3,Others,21,Deluxe,Direct Booking,600.4,12608.4,4.2,4.8,High,2022-09-27,2022-10-18 00:00:00,Peak,Yes,Yes,4
+24,Female,Others,Leisure,1,Hotel,13,Deluxe,Direct Booking,671.7,8732.1,4.1,4.9,High,2022-09-28,2022-10-11 00:00:00,Peak,Yes,Yes,3
+62,Male,Indian,Leisure,6,Private Home,11,Suite,Travel Agency,254.92,2804.12,3.8,1.5,Moderate,2022-09-29,2022-10-10 00:00:00,Off-Peak,Yes,No,3
+48,Male,Others,Leisure,1,Serviced Apartment,26,Deluxe,Online,261.77,6806.02,4.6,1.1,None,2022-09-30,2022-10-26 00:00:00,Off-Peak,No,Yes,2
+75,Female,Chinese,Transit,7,Private Home,25,Deluxe,Online,329.29,8232.25,4,5,Moderate,2022-10-01,2022-10-26 00:00:00,Peak,No,No,3
+65,Female,Indian,Transit,3,Private Home,15,Deluxe,Travel Agency,665.1,9976.5,1.2,3.7,Moderate,2022-10-02,2022-10-17 00:00:00,Off-Peak,Yes,No,0
+58,Female,American,Visiting Friends/Relatives,6,Hostel,16,Standard,Direct Booking,462.85,7405.6,4.2,1.8,High,2022-10-03,2022-10-19 00:00:00,Peak,Yes,No,4
+70,Female,Indian,Transit,9,Others,18,Deluxe,Direct Booking,81.56,1468.08,3.6,4.5,Moderate,2022-10-04,2022-10-22 00:00:00,Off-Peak,No,Yes,4
+64,Female,Others,Transit,6,Serviced Apartment,13,Standard,Direct Booking,230.01,2990.13,1.9,2,Moderate,2022-10-05,2022-10-18 00:00:00,Peak,No,No,3
+59,Male,Others,Transit,3,Serviced Apartment,26,Deluxe,Online,861.26,22392.76,1.9,2.6,Moderate,2022-10-06,2022-11-01 00:00:00,Peak,Yes,Yes,2
+37,Female,Chinese,Visiting Friends/Relatives,1,Serviced Apartment,18,Suite,Travel Agency,691.08,12439.44,1.9,4.9,Moderate,2022-10-08,2022-10-26 00:00:00,Peak,Yes,No,0
+67,Female,Australian,Business,3,Others,7,Deluxe,Direct Booking,487.57,3412.99,3.4,2.8,Low,2022-10-09,2022-10-16 00:00:00,Off-Peak,Yes,No,2
+18,Female,Chinese,Transit,8,Serviced Apartment,22,Suite,Travel Agency,498.36,10963.92,2.7,2.5,None,2022-10-10,2022-11-01 00:00:00,Peak,Yes,Yes,3
+29,Male,Australian,Leisure,2,Hotel,5,Standard,Online,362.78,1813.9,1.2,4.5,Moderate,2022-10-11,2022-10-16 00:00:00,Off-Peak,Yes,Yes,4
+40,Female,Indian,Leisure,1,Others,27,Suite,Travel Agency,688.31,18584.37,4.2,4.7,Low,2022-10-12,2022-11-08 00:00:00,Peak,Yes,Yes,2
+76,Male,Others,Business,7,Hostel,27,Deluxe,Online,578.88,15629.76,1.4,4.1,Low,2022-10-13,2022-11-09 00:00:00,Off-Peak,Yes,No,1
+21,Male,American,Leisure,5,Private Home,8,Standard,Direct Booking,405.6,3244.8,4.1,1.4,Moderate,2022-10-14,2022-10-22 00:00:00,Peak,No,No,1
+26,Male,Others,Business,7,Private Home,16,Suite,Direct Booking,111.12,1777.92,4.5,1.5,None,2022-10-15,2022-10-31 00:00:00,Peak,Yes,No,4
+78,Male,American,Visiting Friends/Relatives,7,Others,24,Standard,Direct Booking,545.29,13086.96,2.3,4.7,None,2022-10-16,2022-11-09 00:00:00,Off-Peak,Yes,No,3
+61,Female,British,Visiting Friends/Relatives,5,Others,6,Standard,Travel Agency,315,1890,4.5,3.4,Moderate,2022-10-17,2022-10-23 00:00:00,Peak,Yes,Yes,4
+41,Female,American,Leisure,2,Private Home,22,Deluxe,Travel Agency,722.42,15893.24,3.8,2.1,None,2022-10-18,2022-11-09 00:00:00,Off-Peak,Yes,Yes,2
+36,Female,American,Leisure,9,Hotel,23,Deluxe,Direct Booking,337,7751,2.2,3.7,High,2022-10-20,2022-11-12 00:00:00,Off-Peak,No,Yes,0
+58,Male,Indian,Transit,5,Serviced Apartment,28,Standard,Direct Booking,130.69,3659.32,3.3,3.2,Moderate,2022-10-21,2022-11-18 00:00:00,Off-Peak,No,No,0
+24,Male,Others,Leisure,5,Private Home,18,Suite,Online,461.8,8312.4,1.1,4.9,None,2022-10-22,2022-11-09 00:00:00,Peak,Yes,Yes,0
+39,Male,Others,Visiting Friends/Relatives,5,Others,18,Suite,Online,433.13,7796.34,4.8,3.5,Low,2022-10-23,2022-11-10 00:00:00,Off-Peak,Yes,Yes,1
+48,Male,Chinese,Visiting Friends/Relatives,1,Hotel,3,Standard,Direct Booking,610.26,1830.78,1.5,1.3,None,2022-10-24,2022-10-27 00:00:00,Peak,Yes,Yes,2
+19,Male,Others,Visiting Friends/Relatives,6,Private Home,11,Suite,Direct Booking,199.66,2196.26,1.5,3.6,None,2022-10-25,2022-11-05 00:00:00,Off-Peak,Yes,No,0
+33,Male,American,Visiting Friends/Relatives,6,Private Home,4,Suite,Direct Booking,591.8,2367.2,3.4,3.5,Moderate,2022-10-26,2022-10-30 00:00:00,Peak,Yes,No,4
+60,Male,British,Business,4,Private Home,20,Deluxe,Online,796.24,15924.8,3.7,1.9,Moderate,2022-10-27,2022-11-16 00:00:00,Off-Peak,Yes,Yes,4
+54,Female,Indian,Transit,3,Private Home,5,Deluxe,Travel Agency,553.91,2769.55,1.4,1.5,Moderate,2022-10-28,2022-11-02 00:00:00,Peak,No,No,1
+33,Female,Indian,Business,8,Hotel,28,Deluxe,Online,909.26,25459.28,4.4,4.2,Moderate,2022-10-29,2022-11-26 00:00:00,Peak,No,Yes,0
+55,Male,Chinese,Leisure,6,Others,2,Standard,Direct Booking,51.72,103.44,4.5,3.5,High,2022-10-31,2022-11-02 00:00:00,Peak,No,No,4
+74,Male,Chinese,Business,7,Serviced Apartment,29,Deluxe,Online,977.22,28339.38,3.9,1.1,Low,2022-11-01,2022-11-30 00:00:00,Off-Peak,No,Yes,1
+74,Male,Indian,Leisure,3,Hostel,11,Deluxe,Travel Agency,688.68,7575.48,3.1,4.2,None,2022-11-02,2022-11-13 00:00:00,Off-Peak,No,No,4
+22,Female,Chinese,Leisure,6,Serviced Apartment,12,Deluxe,Direct Booking,371.77,4461.24,4.1,3.9,None,2022-11-03,2022-11-15 00:00:00,Off-Peak,Yes,No,4
+23,Female,British,Transit,5,Private Home,10,Suite,Online,996.48,9964.8,2.3,3.2,High,2022-11-04,2022-11-14 00:00:00,Off-Peak,No,Yes,0
+57,Female,Australian,Visiting Friends/Relatives,1,Serviced Apartment,13,Standard,Direct Booking,376.17,4890.21,2.3,4.2,None,2022-11-05,2022-11-18 00:00:00,Peak,Yes,Yes,4
+30,Male,British,Visiting Friends/Relatives,9,Private Home,21,Standard,Direct Booking,719.5,15109.5,2.1,3.8,Moderate,2022-11-06,2022-11-27 00:00:00,Peak,No,No,2
+30,Male,Indian,Leisure,6,Hostel,18,Suite,Online,64.61,1162.98,4.3,2.4,Low,2022-11-07,2022-11-25 00:00:00,Off-Peak,No,Yes,4
+72,Female,Others,Transit,7,Private Home,16,Standard,Travel Agency,752.11,12033.76,1.8,3,None,2022-11-08,2022-11-24 00:00:00,Peak,Yes,Yes,2
+52,Male,Chinese,Visiting Friends/Relatives,5,Private Home,22,Standard,Travel Agency,162.83,3582.26,3.7,1.5,High,2022-11-09,2022-12-01 00:00:00,Off-Peak,No,No,1
+69,Male,British,Business,8,Hotel,17,Suite,Direct Booking,124.74,2120.58,2.8,3.2,Low,2022-11-10,2022-11-27 00:00:00,Peak,Yes,Yes,0
+64,Male,American,Visiting Friends/Relatives,7,Hostel,26,Standard,Direct Booking,168.59,4383.34,1.7,5,Moderate,2022-11-12,2022-12-08 00:00:00,Off-Peak,No,No,4
+20,Female,Others,Visiting Friends/Relatives,9,Others,13,Suite,Direct Booking,73.75,958.75,4.7,3,High,2022-11-13,2022-11-26 00:00:00,Off-Peak,Yes,No,1
+39,Female,American,Leisure,5,Hostel,7,Suite,Online,207.26,1450.82,1,1.5,High,2022-11-14,2022-11-21 00:00:00,Off-Peak,No,Yes,4
+51,Male,Chinese,Transit,2,Hotel,28,Standard,Direct Booking,670.84,18783.52,2.1,1.4,Low,2022-11-15,2022-12-13 00:00:00,Off-Peak,Yes,Yes,3
+23,Male,Others,Transit,9,Hostel,19,Suite,Direct Booking,99.85,1897.15,2.3,1.5,Low,2022-11-16,2022-12-05 00:00:00,Peak,Yes,No,4
+33,Male,Others,Leisure,2,Private Home,20,Suite,Direct Booking,475.77,9515.4,4.7,1.5,None,2022-11-17,2022-12-07 00:00:00,Peak,No,No,1
+33,Male,American,Transit,8,Serviced Apartment,12,Deluxe,Travel Agency,391.09,4693.08,2.4,3.8,Low,2022-11-18,2022-11-30 00:00:00,Off-Peak,Yes,No,1
+47,Female,Indian,Visiting Friends/Relatives,5,Hotel,13,Deluxe,Direct Booking,333.96,4341.48,3.9,4.3,None,2022-11-19,2022-12-02 00:00:00,Off-Peak,No,No,4
+56,Female,Chinese,Transit,9,Serviced Apartment,11,Deluxe,Travel Agency,467.11,5138.21,1.1,4.9,Moderate,2022-11-20,2022-12-01 00:00:00,Off-Peak,No,No,2
+20,Female,Indian,Business,5,Others,11,Deluxe,Travel Agency,987.17,10858.87,3,1.8,Low,2022-11-21,2022-12-02 00:00:00,Peak,Yes,No,1
+45,Male,Australian,Leisure,9,Serviced Apartment,8,Standard,Direct Booking,880.57,7044.56,4.6,1.4,None,2022-11-23,2022-12-01 00:00:00,Off-Peak,No,Yes,3
+20,Male,Others,Visiting Friends/Relatives,1,Hostel,11,Suite,Travel Agency,434.51,4779.61,4.3,2,None,2022-11-24,2022-12-05 00:00:00,Peak,No,No,2
+25,Male,British,Business,2,Serviced Apartment,8,Suite,Direct Booking,568.02,4544.16,3,4.4,Moderate,2022-11-25,2022-12-03 00:00:00,Peak,No,No,1
+43,Male,British,Visiting Friends/Relatives,1,Others,26,Suite,Travel Agency,738.83,19209.58,3.8,4.6,High,2022-11-26,2022-12-22 00:00:00,Peak,No,No,1
+73,Male,Australian,Business,9,Hotel,29,Standard,Online,278.5,8076.5,4.5,2,Moderate,2022-11-27,2022-12-26 00:00:00,Peak,No,No,2
+42,Female,British,Visiting Friends/Relatives,2,Serviced Apartment,21,Standard,Travel Agency,660.14,13862.94,4.1,1.6,Moderate,2022-11-28,2022-12-19 00:00:00,Peak,No,No,3
+72,Male,Australian,Visiting Friends/Relatives,7,Hotel,8,Suite,Online,143.92,1151.36,2.8,3.1,Low,2022-11-29,2022-12-07 00:00:00,Off-Peak,No,No,3
+38,Female,Indian,Leisure,1,Others,2,Suite,Travel Agency,107.08,214.16,2.5,3.4,None,2022-11-30,2022-12-02 00:00:00,Off-Peak,No,Yes,4
+40,Male,Australian,Leisure,5,Others,13,Suite,Travel Agency,523.05,6799.65,3.9,2.4,Moderate,2022-12-01,2022-12-14 00:00:00,Peak,Yes,Yes,3
+60,Male,British,Transit,1,Private Home,24,Deluxe,Direct Booking,898.46,21563.04,3.5,4.5,None,2022-12-02,2022-12-26 00:00:00,Off-Peak,Yes,Yes,0
+36,Male,Others,Leisure,1,Private Home,14,Standard,Travel Agency,414.74,5806.36,1.1,4.1,Moderate,2022-12-03,2022-12-17 00:00:00,Peak,Yes,Yes,3
+69,Female,Indian,Visiting Friends/Relatives,7,Hostel,18,Deluxe,Direct Booking,574.69,10344.42,4.3,4.5,None,2022-12-05,2022-12-23 00:00:00,Off-Peak,No,No,3
+22,Male,Australian,Leisure,2,Serviced Apartment,13,Standard,Travel Agency,571.18,7425.34,2.3,3.1,None,2022-12-06,2022-12-19 00:00:00,Peak,Yes,No,3
+61,Male,Indian,Leisure,9,Serviced Apartment,25,Standard,Travel Agency,868.85,21721.25,2.7,3.4,Low,2022-12-07,2023-01-01 00:00:00,Off-Peak,No,No,2
+65,Female,Others,Leisure,1,Hotel,4,Suite,Travel Agency,326.67,1306.68,1.7,3.4,High,2022-12-08,2022-12-12 00:00:00,Peak,No,Yes,2
+75,Female,Chinese,Business,2,Others,8,Standard,Online,617.03,4936.24,2.6,2.8,High,2022-12-09,2022-12-17 00:00:00,Off-Peak,No,Yes,4
+45,Female,American,Visiting Friends/Relatives,4,Others,23,Standard,Direct Booking,659.6,15170.8,1.1,2,Moderate,2022-12-10,2023-01-02 00:00:00,Off-Peak,No,Yes,1
+32,Female,British,Leisure,9,Hotel,6,Standard,Online,270.61,1623.66,4,2.3,Moderate,2022-12-11,2022-12-17 00:00:00,Off-Peak,Yes,No,3
+71,Female,Indian,Visiting Friends/Relatives,1,Hotel,14,Deluxe,Travel Agency,686.65,9613.1,4.7,3.5,None,2022-12-12,2022-12-26 00:00:00,Off-Peak,No,No,4
+25,Male,Others,Transit,9,Hotel,3,Deluxe,Travel Agency,529.61,1588.83,2.4,2.6,Moderate,2022-12-13,2022-12-16 00:00:00,Peak,No,Yes,1
+77,Male,Others,Leisure,5,Hotel,25,Standard,Direct Booking,296.97,7424.25,2.4,4.5,None,2022-12-14,2023-01-08 00:00:00,Peak,No,Yes,0
+56,Male,British,Transit,9,Hostel,21,Suite,Travel Agency,570.55,11981.55,2.3,3.4,Moderate,2022-12-16,2023-01-06 00:00:00,Peak,Yes,Yes,4
+74,Male,British,Leisure,1,Hostel,13,Suite,Online,941.05,12233.65,3,3.1,Low,2022-12-17,2022-12-30 00:00:00,Peak,No,No,1
+48,Male,American,Business,9,Others,24,Suite,Online,371.31,8911.44,4.2,4.8,None,2022-12-18,2023-01-11 00:00:00,Off-Peak,No,No,3
+70,Female,American,Transit,5,Others,5,Suite,Online,426.69,2133.45,4.3,3.3,High,2022-12-19,2022-12-24 00:00:00,Off-Peak,Yes,Yes,1
+73,Male,British,Transit,4,Private Home,6,Standard,Travel Agency,545.32,3271.92,4.7,1.6,Moderate,2022-12-20,2022-12-26 00:00:00,Peak,No,No,0
+30,Female,Indian,Leisure,1,Others,3,Standard,Direct Booking,957.92,2873.76,3.2,4.7,High,2022-12-21,2022-12-24 00:00:00,Off-Peak,Yes,Yes,3
+41,Female,British,Transit,1,Hotel,29,Suite,Direct Booking,427.26,12390.54,3.8,3,High,2022-12-22,2023-01-20 00:00:00,Peak,No,No,2
+30,Male,British,Visiting Friends/Relatives,6,Serviced Apartment,19,Deluxe,Online,542.9,10315.1,5,4.6,High,2022-12-23,2023-01-11 00:00:00,Off-Peak,Yes,No,4
+45,Male,Others,Leisure,1,Private Home,19,Deluxe,Direct Booking,200.82,3815.58,1.7,3.2,Moderate,2022-12-24,2023-01-12 00:00:00,Off-Peak,Yes,Yes,3
+42,Male,British,Transit,9,Private Home,9,Suite,Online,334.18,3007.62,1.1,4.3,None,2022-12-25,2023-01-03 00:00:00,Off-Peak,No,Yes,4
+48,Female,Indian,Transit,6,Others,18,Standard,Online,417.11,7507.98,4.5,1.3,None,2022-12-26,2023-01-13 00:00:00,Off-Peak,No,No,1
+26,Male,Australian,Visiting Friends/Relatives,7,Private Home,23,Suite,Direct Booking,105.68,2430.64,1.9,3,Moderate,2022-12-28,2023-01-20 00:00:00,Peak,No,Yes,4
+19,Male,Chinese,Transit,1,Serviced Apartment,29,Deluxe,Direct Booking,795.96,23082.84,4,2.1,High,2022-12-29,2023-01-27 00:00:00,Peak,Yes,No,2
+24,Male,Indian,Business,2,Hotel,15,Standard,Travel Agency,98.09,1471.35,3.1,2.2,High,2022-12-30,2023-01-14 00:00:00,Peak,Yes,No,1
+39,Male,Australian,Leisure,5,Hotel,13,Standard,Direct Booking,768.87,9995.31,3,3.3,None,2022-12-31,2023-01-13 00:00:00,Off-Peak,No,Yes,4
+69,Female,British,Visiting Friends/Relatives,1,Hostel,7,Deluxe,Direct Booking,384.93,2694.51,1,4.3,Low,2023-01-01,2023-01-08 00:00:00,Off-Peak,No,No,0
+27,Male,Others,Business,2,Hostel,21,Deluxe,Travel Agency,53.63,1126.23,1.4,3.5,High,2023-01-02,2023-01-23 00:00:00,Peak,Yes,Yes,0
+46,Male,Others,Transit,6,Serviced Apartment,29,Suite,Online,388.72,11272.88,1.7,1.1,High,2023-01-03,2023-02-01 00:00:00,Peak,No,Yes,4
+71,Female,British,Transit,7,Hostel,18,Suite,Online,633.16,11396.88,3.2,4.5,None,2023-01-04,2023-01-22 00:00:00,Off-Peak,No,No,2
+75,Female,American,Visiting Friends/Relatives,5,Others,13,Suite,Online,381.78,4963.14,1.1,2.2,High,2023-01-05,2023-01-18 00:00:00,Peak,No,No,0
+52,Female,Others,Visiting Friends/Relatives,4,Hostel,13,Suite,Direct Booking,903.99,11751.87,1.2,1.7,Low,2023-01-06,2023-01-19 00:00:00,Off-Peak,Yes,Yes,1
+36,Male,Australian,Leisure,2,Serviced Apartment,5,Deluxe,Travel Agency,821.64,4108.2,2.7,2.2,Low,2023-01-07,2023-01-12 00:00:00,Peak,Yes,Yes,4
+36,Male,Chinese,Visiting Friends/Relatives,5,Hostel,11,Deluxe,Travel Agency,189.98,2089.78,2.2,3.9,None,2023-01-09,2023-01-20 00:00:00,Off-Peak,No,Yes,0
+65,Female,Indian,Visiting Friends/Relatives,3,Private Home,16,Deluxe,Online,275.8,4412.8,1.7,4.1,Low,2023-01-10,2023-01-26 00:00:00,Off-Peak,Yes,Yes,3
+56,Male,Chinese,Visiting Friends/Relatives,1,Private Home,21,Suite,Online,438.37,9205.77,2.7,4.3,Moderate,2023-01-11,2023-02-01 00:00:00,Off-Peak,Yes,Yes,1
+77,Male,British,Transit,7,Others,22,Standard,Online,727.01,15994.22,2.4,2,High,2023-01-12,2023-02-03 00:00:00,Off-Peak,Yes,Yes,2
+61,Female,Indian,Business,2,Hostel,5,Deluxe,Online,427.89,2139.45,1.3,4,Low,2023-01-13,2023-01-18 00:00:00,Off-Peak,No,Yes,0
+71,Male,Indian,Transit,8,Hotel,22,Standard,Travel Agency,152.9,3363.8,1.5,4.4,None,2023-01-14,2023-02-05 00:00:00,Off-Peak,No,Yes,0
+51,Male,Others,Visiting Friends/Relatives,9,Others,17,Deluxe,Direct Booking,285.41,4851.97,3.6,1.4,High,2023-01-15,2023-02-01 00:00:00,Peak,No,Yes,2
+69,Male,Chinese,Transit,2,Hostel,24,Deluxe,Online,449.03,10776.72,1.9,3.4,High,2023-01-16,2023-02-09 00:00:00,Off-Peak,No,No,0
+40,Female,Indian,Business,5,Hostel,21,Deluxe,Travel Agency,380.14,7982.94,2.6,1,Moderate,2023-01-17,2023-02-07 00:00:00,Peak,Yes,Yes,2
+57,Male,British,Transit,6,Private Home,5,Deluxe,Travel Agency,421.32,2106.6,1.8,1.4,High,2023-01-18,2023-01-23 00:00:00,Peak,No,Yes,1
+72,Female,Chinese,Business,1,Others,23,Suite,Direct Booking,830.6,19103.8,2.8,4.4,High,2023-01-20,2023-02-12 00:00:00,Off-Peak,No,Yes,0
+53,Male,Others,Business,3,Serviced Apartment,14,Standard,Online,953.6,13350.4,1.4,2.4,None,2023-01-21,2023-02-04 00:00:00,Off-Peak,No,No,1
+57,Female,American,Transit,7,Private Home,23,Suite,Travel Agency,531.91,12233.93,4.4,3.1,Low,2023-01-22,2023-02-14 00:00:00,Peak,Yes,No,4
+33,Female,British,Leisure,1,Hotel,29,Standard,Online,224.32,6505.28,4.3,5,Low,2023-01-23,2023-02-21 00:00:00,Peak,No,No,0
+53,Female,Australian,Leisure,6,Others,21,Standard,Online,444.64,9337.44,4.7,2.2,Moderate,2023-01-24,2023-02-14 00:00:00,Peak,No,Yes,2
+45,Male,British,Leisure,4,Private Home,9,Deluxe,Direct Booking,222.82,2005.38,2,2.9,High,2023-01-25,2023-02-03 00:00:00,Off-Peak,Yes,No,4
+65,Female,Others,Visiting Friends/Relatives,9,Private Home,19,Suite,Travel Agency,426.77,8108.63,3.5,4.5,High,2023-01-26,2023-02-14 00:00:00,Peak,No,Yes,0
+50,Female,Chinese,Leisure,6,Private Home,15,Standard,Online,146.09,2191.35,3.4,4.1,None,2023-01-27,2023-02-11 00:00:00,Off-Peak,No,No,2
+55,Male,Australian,Business,3,Others,3,Deluxe,Online,508.95,1526.85,3.9,4.1,None,2023-01-28,2023-01-31 00:00:00,Peak,Yes,Yes,1
+77,Male,Indian,Transit,5,Serviced Apartment,3,Standard,Travel Agency,679.62,2038.86,2.5,3.3,None,2023-01-29,2023-02-01 00:00:00,Peak,Yes,No,2
+37,Female,Others,Leisure,6,Others,18,Deluxe,Travel Agency,270.1,4861.8,3.9,3.1,Low,2023-01-30,2023-02-17 00:00:00,Peak,No,Yes,4
+57,Male,Indian,Leisure,1,Hotel,16,Deluxe,Online,628.13,10050.08,3.6,1.7,None,2023-02-01,2023-02-17 00:00:00,Off-Peak,Yes,Yes,3
+40,Male,Others,Leisure,5,Private Home,23,Deluxe,Online,671.14,15436.22,1.2,4.2,Low,2023-02-02,2023-02-25 00:00:00,Peak,No,Yes,0
+51,Male,Others,Transit,2,Hostel,17,Standard,Direct Booking,140.13,2382.21,3.5,1.8,Low,2023-02-03,2023-02-20 00:00:00,Off-Peak,Yes,No,1
+76,Male,American,Leisure,9,Private Home,2,Suite,Online,820.84,1641.68,2.4,1.6,Low,2023-02-04,2023-02-06 00:00:00,Peak,No,No,3
+65,Female,Indian,Business,8,Serviced Apartment,25,Deluxe,Online,333.61,8340.25,2.7,3.6,Low,2023-02-05,2023-03-02 00:00:00,Off-Peak,Yes,Yes,0
+57,Male,British,Transit,1,Serviced Apartment,19,Standard,Direct Booking,256.56,4874.64,4.5,1.8,Low,2023-02-06,2023-02-25 00:00:00,Peak,Yes,Yes,0
+48,Male,British,Visiting Friends/Relatives,8,Others,7,Deluxe,Online,523.58,3665.06,2.3,1.6,None,2023-02-07,2023-02-14 00:00:00,Peak,No,No,3
+70,Male,British,Leisure,9,Hotel,2,Standard,Travel Agency,531.74,1063.48,1.3,2.3,Low,2023-02-08,2023-02-10 00:00:00,Peak,Yes,Yes,0
+79,Male,Indian,Transit,6,Private Home,25,Deluxe,Online,718.49,17962.25,1.5,1.8,High,2023-02-09,2023-03-06 00:00:00,Off-Peak,Yes,Yes,1
+38,Male,British,Visiting Friends/Relatives,1,Hostel,16,Standard,Travel Agency,447.04,7152.64,2.6,3.2,High,2023-02-10,2023-02-26 00:00:00,Off-Peak,Yes,No,1
+79,Female,British,Business,4,Hotel,8,Suite,Travel Agency,106.01,848.08,4.1,2.2,Low,2023-02-12,2023-02-20 00:00:00,Off-Peak,No,Yes,2
+63,Male,Chinese,Leisure,4,Hotel,23,Deluxe,Online,980.87,22560.01,4.6,4.8,High,2023-02-13,2023-03-08 00:00:00,Peak,Yes,Yes,3
+47,Female,Australian,Transit,8,Hotel,12,Suite,Direct Booking,351.4,4216.8,4.9,1.3,High,2023-02-14,2023-02-26 00:00:00,Peak,Yes,Yes,0
+58,Female,Others,Visiting Friends/Relatives,7,Hotel,14,Suite,Travel Agency,304.34,4260.76,3.4,3.3,High,2023-02-15,2023-03-01 00:00:00,Off-Peak,Yes,Yes,4
+63,Male,British,Visiting Friends/Relatives,5,Others,20,Deluxe,Online,310.74,6214.8,4.2,4,High,2023-02-16,2023-03-08 00:00:00,Off-Peak,Yes,No,3
+27,Male,Indian,Leisure,2,Serviced Apartment,27,Suite,Direct Booking,222.38,6004.26,4.6,4.3,None,2023-02-17,2023-03-16 00:00:00,Off-Peak,No,No,3
+19,Female,Indian,Leisure,1,Hotel,5,Suite,Travel Agency,304.19,1520.95,1.7,3,None,2023-02-18,2023-02-23 00:00:00,Peak,Yes,No,4
+43,Male,Australian,Business,7,Others,12,Deluxe,Online,572.33,6867.96,1.8,4.8,None,2023-02-19,2023-03-03 00:00:00,Off-Peak,Yes,Yes,0
+33,Male,British,Visiting Friends/Relatives,8,Serviced Apartment,29,Suite,Online,939.98,27259.42,2.3,3.9,None,2023-02-20,2023-03-21 00:00:00,Off-Peak,No,Yes,0
+41,Female,Others,Transit,9,Others,22,Suite,Direct Booking,462.09,10165.98,4.2,4.6,High,2023-02-21,2023-03-15 00:00:00,Peak,No,Yes,2
+19,Male,Australian,Visiting Friends/Relatives,7,Hostel,10,Deluxe,Travel Agency,548.76,5487.6,1.2,4.3,Low,2023-02-22,2023-03-04 00:00:00,Off-Peak,No,Yes,1
+46,Male,Others,Transit,7,Hotel,2,Deluxe,Travel Agency,128.76,257.52,2.5,3,None,2023-02-24,2023-02-26 00:00:00,Off-Peak,No,Yes,1
+56,Male,Chinese,Leisure,2,Others,29,Deluxe,Travel Agency,695.86,20179.94,3.3,3.7,Moderate,2023-02-25,2023-03-26 00:00:00,Off-Peak,Yes,Yes,0
+55,Female,Others,Transit,6,Serviced Apartment,1,Deluxe,Travel Agency,486.14,486.14,4.7,1.7,Low,2023-02-26,2023-02-27 00:00:00,Off-Peak,Yes,Yes,2
+71,Female,Others,Visiting Friends/Relatives,5,Hostel,5,Suite,Online,577.06,2885.3,3.6,3.3,Low,2023-02-27,2023-03-04 00:00:00,Off-Peak,No,No,4
+61,Female,Chinese,Leisure,3,Serviced Apartment,26,Standard,Online,423.2,11003.2,1.7,3.1,Low,2023-02-28,2023-03-26 00:00:00,Peak,No,Yes,3
+64,Female,British,Transit,9,Serviced Apartment,1,Suite,Direct Booking,584.93,584.93,4.9,1.5,Low,2023-03-01,2023-03-02 00:00:00,Off-Peak,Yes,Yes,4
+55,Male,Australian,Visiting Friends/Relatives,1,Others,17,Standard,Online,562.99,9570.83,4.7,4.8,Moderate,2023-03-02,2023-03-19 00:00:00,Off-Peak,No,No,4
+65,Female,Australian,Leisure,6,Hotel,13,Suite,Travel Agency,838.79,10904.27,2.2,1,Low,2023-03-03,2023-03-16 00:00:00,Off-Peak,Yes,Yes,3
+66,Male,American,Business,9,Hotel,27,Suite,Direct Booking,649.67,17541.09,2.8,3.6,None,2023-03-04,2023-03-31 00:00:00,Peak,Yes,No,0
+61,Female,Chinese,Leisure,2,Hotel,4,Standard,Direct Booking,608.7,2434.8,1.4,1.5,Moderate,2023-03-05,2023-03-09 00:00:00,Off-Peak,No,No,0
+63,Male,Indian,Leisure,8,Others,4,Suite,Travel Agency,144.68,578.72,1.5,4.2,Low,2023-03-07,2023-03-11 00:00:00,Peak,No,No,2
+33,Female,British,Transit,6,Others,3,Suite,Direct Booking,235.65,706.95,1,1.9,Moderate,2023-03-08,2023-03-11 00:00:00,Off-Peak,No,No,2
+71,Male,Indian,Visiting Friends/Relatives,3,Others,13,Deluxe,Direct Booking,246.07,3198.91,4,4.4,High,2023-03-09,2023-03-22 00:00:00,Off-Peak,Yes,Yes,2
+59,Female,Australian,Transit,5,Others,19,Suite,Direct Booking,912.41,17335.79,3.9,3.3,Low,2023-03-10,2023-03-29 00:00:00,Off-Peak,No,No,1
+77,Male,British,Business,3,Hotel,9,Suite,Direct Booking,53.85,484.65,3,1.2,Low,2023-03-11,2023-03-20 00:00:00,Off-Peak,Yes,Yes,1
+29,Female,Australian,Leisure,4,Serviced Apartment,13,Standard,Travel Agency,821.73,10682.49,3.2,3.1,None,2023-03-12,2023-03-25 00:00:00,Peak,Yes,Yes,4
+46,Male,American,Leisure,7,Hostel,18,Standard,Direct Booking,579.91,10438.38,1.3,1.8,None,2023-03-13,2023-03-31 00:00:00,Peak,No,No,1
+28,Female,Indian,Leisure,8,Serviced Apartment,10,Standard,Direct Booking,937.32,9373.2,1.2,4.2,Low,2023-03-14,2023-03-24 00:00:00,Off-Peak,Yes,Yes,3
+75,Male,Chinese,Leisure,7,Hostel,13,Deluxe,Online,320.82,4170.66,1.8,1.7,High,2023-03-15,2023-03-28 00:00:00,Peak,Yes,Yes,3
+61,Female,British,Business,7,Hostel,14,Deluxe,Online,323.45,4528.3,1.7,3,Low,2023-03-16,2023-03-30 00:00:00,Off-Peak,No,No,3
+65,Male,American,Transit,2,Hotel,15,Deluxe,Travel Agency,701.38,10520.7,1.2,3.6,Moderate,2023-03-17,2023-04-01 00:00:00,Peak,No,No,3
+69,Male,Chinese,Leisure,9,Others,27,Deluxe,Direct Booking,662.23,17880.21,2,2.3,High,2023-03-19,2023-04-15 00:00:00,Peak,No,Yes,4
+64,Female,Australian,Visiting Friends/Relatives,2,Hotel,18,Suite,Travel Agency,557.93,10042.74,2.3,4.6,High,2023-03-20,2023-04-07 00:00:00,Off-Peak,No,Yes,1
+78,Female,American,Transit,5,Hostel,21,Suite,Direct Booking,619.54,13010.34,4.8,3,High,2023-03-21,2023-04-11 00:00:00,Peak,Yes,No,2
+64,Female,Indian,Business,8,Serviced Apartment,18,Suite,Direct Booking,314.55,5661.9,2.7,3,Moderate,2023-03-22,2023-04-09 00:00:00,Off-Peak,Yes,Yes,3
+61,Female,Australian,Business,3,Others,25,Deluxe,Direct Booking,166.58,4164.5,2.3,1,Moderate,2023-03-23,2023-04-17 00:00:00,Off-Peak,Yes,Yes,2
+47,Male,Others,Visiting Friends/Relatives,5,Hotel,1,Deluxe,Travel Agency,143.99,143.99,3.2,3.7,High,2023-03-24,2023-03-25 00:00:00,Off-Peak,No,Yes,4
+62,Male,British,Transit,4,Hotel,14,Deluxe,Direct Booking,883.16,12364.24,5,4.6,Low,2023-03-25,2023-04-08 00:00:00,Off-Peak,Yes,No,4
+26,Male,Chinese,Transit,7,Serviced Apartment,19,Deluxe,Online,966.32,18360.08,1,4.2,Moderate,2023-03-26,2023-04-14 00:00:00,Off-Peak,Yes,Yes,2
+66,Female,Chinese,Business,7,Serviced Apartment,27,Standard,Direct Booking,64.22,1733.94,1.6,3.2,Low,2023-03-27,2023-04-23 00:00:00,Peak,Yes,No,0
+79,Female,Chinese,Visiting Friends/Relatives,4,Others,12,Deluxe,Travel Agency,740.18,8882.16,2.1,4.1,Low,2023-03-28,2023-04-09 00:00:00,Off-Peak,Yes,Yes,1
+34,Female,Indian,Leisure,9,Serviced Apartment,29,Suite,Direct Booking,108.33,3141.57,1.3,4,High,2023-03-30,2023-04-28 00:00:00,Off-Peak,No,Yes,4
+42,Female,British,Leisure,3,Private Home,24,Standard,Travel Agency,628.97,15095.28,3.2,4.9,None,2023-03-31,2023-04-24 00:00:00,Off-Peak,Yes,No,2
+32,Male,Indian,Transit,8,Private Home,23,Deluxe,Travel Agency,521.33,11990.59,1.7,1.5,High,2023-04-01,2023-04-24 00:00:00,Off-Peak,No,Yes,0
+21,Female,Chinese,Transit,5,Private Home,13,Suite,Direct Booking,485.97,6317.61,1.9,4,Moderate,2023-04-02,2023-04-15 00:00:00,Off-Peak,No,Yes,3
+73,Female,Australian,Business,6,Others,28,Suite,Direct Booking,260.97,7307.16,4.4,1.2,Moderate,2023-04-03,2023-05-01 00:00:00,Peak,No,No,4
+59,Female,Australian,Transit,5,Private Home,6,Deluxe,Direct Booking,745.82,4474.92,2.1,1.3,Low,2023-04-04,2023-04-10 00:00:00,Peak,No,No,3
+71,Female,Indian,Business,7,Serviced Apartment,14,Suite,Direct Booking,430.13,6021.82,4.5,2.1,High,2023-04-05,2023-04-19 00:00:00,Peak,No,Yes,2
+28,Female,Chinese,Business,1,Others,2,Deluxe,Online,824.17,1648.34,2.6,1.5,High,2023-04-06,2023-04-08 00:00:00,Peak,No,No,3
+57,Female,Chinese,Leisure,8,Serviced Apartment,19,Standard,Direct Booking,122.55,2328.45,3.5,3.3,Low,2023-04-07,2023-04-26 00:00:00,Off-Peak,No,Yes,1
+33,Male,Indian,Visiting Friends/Relatives,7,Hostel,28,Standard,Online,769.9,21557.2,1.8,2.9,Low,2023-04-08,2023-05-06 00:00:00,Peak,Yes,No,4
+34,Female,Chinese,Business,8,Private Home,19,Standard,Travel Agency,619.32,11767.08,4.6,4.5,Moderate,2023-04-09,2023-04-28 00:00:00,Peak,Yes,Yes,4
+76,Male,Indian,Leisure,9,Private Home,3,Deluxe,Online,432.19,1296.57,4.8,3.6,Low,2023-04-11,2023-04-14 00:00:00,Peak,Yes,No,4
+63,Male,American,Leisure,3,Hostel,16,Suite,Online,939.58,15033.28,4,4.4,Moderate,2023-04-12,2023-04-28 00:00:00,Peak,Yes,No,2
+28,Female,Indian,Business,1,Serviced Apartment,22,Suite,Online,164.59,3620.98,1.7,1.3,Low,2023-04-13,2023-05-05 00:00:00,Peak,No,No,1
+41,Male,Chinese,Business,9,Serviced Apartment,27,Deluxe,Online,607.99,16415.73,2.2,4.6,High,2023-04-14,2023-05-11 00:00:00,Off-Peak,No,No,1
+64,Female,American,Business,4,Private Home,1,Standard,Direct Booking,223.19,223.19,2.3,4.7,Moderate,2023-04-15,2023-04-16 00:00:00,Off-Peak,No,Yes,4
+49,Male,British,Transit,9,Serviced Apartment,6,Standard,Travel Agency,387.35,2324.1,3.5,3.8,None,2023-04-16,2023-04-22 00:00:00,Peak,Yes,No,2
+62,Female,Australian,Business,9,Others,7,Deluxe,Online,310.08,2170.56,3.1,4.9,High,2023-04-17,2023-04-24 00:00:00,Off-Peak,Yes,Yes,3
+59,Female,American,Leisure,9,Serviced Apartment,26,Deluxe,Direct Booking,363.4,9448.4,3.5,3.4,High,2023-04-18,2023-05-14 00:00:00,Peak,No,Yes,4
+58,Male,Chinese,Leisure,6,Hostel,28,Suite,Online,967.6,27092.8,1.6,3.6,Moderate,2023-04-19,2023-05-17 00:00:00,Peak,Yes,Yes,1
+46,Female,American,Visiting Friends/Relatives,9,Serviced Apartment,4,Deluxe,Online,925.75,3703,2.8,1,None,2023-04-20,2023-04-24 00:00:00,Off-Peak,No,No,1
+49,Male,American,Visiting Friends/Relatives,2,Others,19,Suite,Online,545.18,10358.42,2.5,3.6,High,2023-04-22,2023-05-11 00:00:00,Off-Peak,No,Yes,2
+71,Female,Others,Visiting Friends/Relatives,7,Private Home,17,Suite,Online,435.72,7407.24,3.2,3.7,Low,2023-04-23,2023-05-10 00:00:00,Peak,No,No,0
+55,Male,Indian,Visiting Friends/Relatives,4,Private Home,10,Deluxe,Travel Agency,675.95,6759.5,2,3.2,Moderate,2023-04-24,2023-05-04 00:00:00,Peak,No,Yes,2
+29,Female,Indian,Transit,3,Serviced Apartment,28,Suite,Travel Agency,240.75,6741,3.8,4.2,None,2023-04-25,2023-05-23 00:00:00,Peak,Yes,No,3
+52,Male,American,Leisure,2,Private Home,8,Suite,Direct Booking,814.83,6518.64,4.5,2.4,High,2023-04-26,2023-05-04 00:00:00,Peak,Yes,Yes,2
+41,Female,Australian,Transit,1,Hotel,2,Suite,Direct Booking,932.77,1865.54,4.1,2.2,None,2023-04-27,2023-04-29 00:00:00,Peak,No,No,4
+52,Male,Chinese,Visiting Friends/Relatives,3,Private Home,1,Deluxe,Direct Booking,169.37,169.37,1.9,2.1,Low,2023-04-28,2023-04-29 00:00:00,Off-Peak,Yes,Yes,2
+68,Male,Others,Visiting Friends/Relatives,2,Others,4,Suite,Online,673.51,2694.04,1.6,2.2,None,2023-04-29,2023-05-03 00:00:00,Peak,Yes,No,0
+59,Male,British,Transit,6,Hostel,24,Standard,Direct Booking,613.14,14715.36,2.9,1.5,High,2023-04-30,2023-05-24 00:00:00,Peak,Yes,No,3
+54,Female,Australian,Transit,4,Hostel,11,Suite,Online,295.18,3246.98,1.4,1.2,High,2023-05-01,2023-05-12 00:00:00,Off-Peak,Yes,Yes,3
+60,Male,British,Visiting Friends/Relatives,9,Private Home,4,Deluxe,Online,691.9,2767.6,2.1,2.2,Moderate,2023-05-02,2023-05-06 00:00:00,Off-Peak,Yes,No,1
+77,Male,Australian,Leisure,2,Others,22,Standard,Direct Booking,258.71,5691.62,4.8,1.7,None,2023-05-04,2023-05-26 00:00:00,Peak,No,Yes,1
+47,Female,Indian,Leisure,8,Hotel,22,Standard,Online,784.83,17266.26,3.4,3.4,Low,2023-05-05,2023-05-27 00:00:00,Off-Peak,Yes,No,2
+37,Female,Others,Visiting Friends/Relatives,9,Hotel,26,Deluxe,Online,989.51,25727.26,4.2,1.3,High,2023-05-06,2023-06-01 00:00:00,Peak,Yes,Yes,4
+26,Male,Indian,Leisure,7,Others,10,Suite,Travel Agency,256.2,2562,1.5,4.8,Moderate,2023-05-07,2023-05-17 00:00:00,Off-Peak,Yes,No,3
+61,Female,Chinese,Leisure,3,Hostel,9,Deluxe,Travel Agency,249.69,2247.21,1.4,2.8,Low,2023-05-08,2023-05-17 00:00:00,Off-Peak,No,Yes,2
+56,Female,American,Business,2,Serviced Apartment,6,Deluxe,Online,797,4782,3,4.2,High,2023-05-09,2023-05-15 00:00:00,Peak,No,Yes,3
+77,Female,Australian,Visiting Friends/Relatives,5,Hostel,24,Standard,Online,163.22,3917.28,4.2,1.3,High,2023-05-10,2023-06-03 00:00:00,Peak,No,Yes,1
+79,Male,Chinese,Visiting Friends/Relatives,4,Hostel,2,Deluxe,Direct Booking,505.55,1011.1,4.2,4.5,Low,2023-05-11,2023-05-13 00:00:00,Off-Peak,Yes,No,1
+58,Female,Others,Transit,8,Others,23,Standard,Online,86.19,1982.37,1.1,1.6,Low,2023-05-12,2023-06-04 00:00:00,Peak,Yes,Yes,4
+52,Male,Australian,Transit,9,Hostel,29,Deluxe,Travel Agency,664.9,19282.1,2,4.5,None,2023-05-13,2023-06-11 00:00:00,Off-Peak,No,No,4
+72,Female,American,Visiting Friends/Relatives,8,Serviced Apartment,28,Standard,Direct Booking,607.42,17007.76,4.9,3.6,None,2023-05-15,2023-06-12 00:00:00,Off-Peak,No,Yes,1
+75,Female,Others,Business,8,Hostel,20,Standard,Travel Agency,310.99,6219.8,4.1,4.6,Moderate,2023-05-16,2023-06-05 00:00:00,Off-Peak,Yes,No,0
+36,Male,Chinese,Visiting Friends/Relatives,7,Hostel,22,Standard,Travel Agency,566.79,12469.38,2.5,1.4,High,2023-05-17,2023-06-08 00:00:00,Peak,Yes,Yes,0
+60,Male,Indian,Visiting Friends/Relatives,8,Private Home,3,Deluxe,Direct Booking,137.64,412.92,4.9,4.8,None,2023-05-18,2023-05-21 00:00:00,Peak,No,Yes,2
+69,Female,Australian,Business,7,Hostel,16,Standard,Online,435.88,6974.08,1.5,3.2,Moderate,2023-05-19,2023-06-04 00:00:00,Peak,Yes,Yes,1
+22,Male,British,Business,5,Others,4,Suite,Direct Booking,647.85,2591.4,1.2,2.9,None,2023-05-20,2023-05-24 00:00:00,Peak,Yes,Yes,3
+61,Male,Australian,Visiting Friends/Relatives,7,Others,2,Suite,Direct Booking,950.18,1900.36,1.4,2.5,Moderate,2023-05-21,2023-05-23 00:00:00,Off-Peak,No,Yes,3
+48,Female,Indian,Business,6,Serviced Apartment,6,Standard,Online,712.69,4276.14,4.3,2.4,Low,2023-05-22,2023-05-28 00:00:00,Off-Peak,No,Yes,1
+23,Male,Others,Transit,5,Hotel,17,Deluxe,Online,184.75,3140.75,1.8,2.5,High,2023-05-23,2023-06-09 00:00:00,Peak,No,No,4
+38,Male,British,Leisure,1,Others,25,Suite,Online,846.17,21154.25,2.3,4.9,Moderate,2023-05-24,2023-06-18 00:00:00,Peak,No,Yes,3
+23,Male,Others,Business,5,Others,27,Deluxe,Online,147.63,3986.01,3.5,1.3,None,2023-05-25,2023-06-21 00:00:00,Off-Peak,No,No,0
+49,Male,Chinese,Business,9,Hostel,28,Standard,Direct Booking,308.75,8645,1.5,2.2,Moderate,2023-05-27,2023-06-24 00:00:00,Off-Peak,No,No,4
+34,Male,Indian,Business,3,Hostel,4,Deluxe,Travel Agency,162.8,651.2,1.1,4.1,None,2023-05-28,2023-06-01 00:00:00,Peak,No,Yes,3
+42,Female,British,Business,9,Serviced Apartment,29,Standard,Travel Agency,531.98,15427.42,1.3,3.1,Low,2023-05-29,2023-06-27 00:00:00,Peak,No,No,2
+22,Male,Australian,Business,2,Private Home,27,Deluxe,Travel Agency,211.49,5710.23,2,1.9,None,2023-05-30,2023-06-26 00:00:00,Peak,No,Yes,1
+57,Male,Chinese,Leisure,5,Hostel,12,Suite,Travel Agency,608.57,7302.84,4.2,4.5,None,2023-05-31,2023-06-12 00:00:00,Off-Peak,No,No,1
+65,Female,Others,Business,4,Hotel,20,Standard,Direct Booking,447.48,8949.6,4.5,4.3,Moderate,2023-06-01,2023-06-21 00:00:00,Peak,No,No,2
+44,Male,Chinese,Business,8,Hotel,16,Standard,Direct Booking,474.28,7588.48,3.6,4.2,Moderate,2023-06-02,2023-06-18 00:00:00,Peak,No,Yes,2
+78,Male,Indian,Leisure,1,Private Home,6,Standard,Direct Booking,251.57,1509.42,4.2,1.8,None,2023-06-03,2023-06-09 00:00:00,Off-Peak,No,Yes,3
+49,Female,Chinese,Visiting Friends/Relatives,6,Serviced Apartment,29,Standard,Travel Agency,537.75,15594.75,3.3,4,High,2023-06-04,2023-07-03 00:00:00,Peak,Yes,No,1
+21,Male,British,Visiting Friends/Relatives,9,Hotel,11,Suite,Travel Agency,937.45,10311.95,3.9,2.5,High,2023-06-05,2023-06-16 00:00:00,Off-Peak,No,No,2
+48,Male,Chinese,Visiting Friends/Relatives,1,Hostel,28,Deluxe,Travel Agency,749.85,20995.8,3.5,2.1,Low,2023-06-07,2023-07-05 00:00:00,Peak,No,Yes,1
+61,Female,American,Business,3,Others,16,Deluxe,Online,409.4,6550.4,4.5,1.7,High,2023-06-08,2023-06-24 00:00:00,Off-Peak,Yes,Yes,3
+28,Female,Chinese,Leisure,6,Serviced Apartment,19,Deluxe,Travel Agency,850.36,16156.84,5,3.7,Moderate,2023-06-09,2023-06-28 00:00:00,Off-Peak,No,Yes,0
+36,Female,Indian,Leisure,3,Hotel,4,Standard,Travel Agency,981.01,3924.04,2,2.6,Moderate,2023-06-10,2023-06-14 00:00:00,Off-Peak,Yes,Yes,4
+31,Female,American,Business,2,Hostel,17,Standard,Online,699.11,11884.87,3.7,2.1,Moderate,2023-06-11,2023-06-28 00:00:00,Peak,Yes,Yes,3
+50,Female,Others,Leisure,7,Others,29,Deluxe,Travel Agency,546.04,15835.16,4.5,3.7,None,2023-06-12,2023-07-11 00:00:00,Off-Peak,No,Yes,0
+60,Female,British,Leisure,9,Private Home,26,Standard,Travel Agency,123.16,3202.16,4.5,2.2,None,2023-06-13,2023-07-09 00:00:00,Peak,Yes,Yes,3
+56,Female,Australian,Visiting Friends/Relatives,2,Hostel,19,Standard,Travel Agency,843.55,16027.45,4.6,4.8,High,2023-06-14,2023-07-03 00:00:00,Peak,No,No,4
+20,Female,Indian,Leisure,5,Hotel,29,Suite,Online,280.06,8121.74,3.8,3.8,Low,2023-06-15,2023-07-14 00:00:00,Peak,Yes,No,1
+62,Male,Indian,Leisure,8,Others,4,Deluxe,Travel Agency,943.95,3775.8,1.4,4.9,None,2023-06-16,2023-06-20 00:00:00,Off-Peak,No,No,3
+64,Female,Others,Transit,3,Hotel,5,Suite,Travel Agency,239.08,1195.4,3.7,3.4,Low,2023-06-17,2023-06-22 00:00:00,Peak,No,Yes,1
+72,Female,Chinese,Business,1,Hostel,27,Standard,Direct Booking,522.81,14115.87,2.3,1.6,None,2023-06-19,2023-07-16 00:00:00,Off-Peak,No,No,1
+78,Female,Indian,Business,4,Hotel,9,Deluxe,Online,335.25,3017.25,1.8,1.2,Low,2023-06-20,2023-06-29 00:00:00,Peak,No,Yes,4
+26,Male,Australian,Visiting Friends/Relatives,1,Hotel,22,Standard,Direct Booking,872.5,19195,3.4,1.9,High,2023-06-21,2023-07-13 00:00:00,Peak,No,No,4
+78,Male,British,Visiting Friends/Relatives,1,Hostel,16,Suite,Direct Booking,240.26,3844.16,1.6,2,High,2023-06-22,2023-07-08 00:00:00,Off-Peak,No,Yes,2
+38,Female,British,Transit,3,Serviced Apartment,20,Deluxe,Online,267.94,5358.8,2.5,4.7,Moderate,2023-06-23,2023-07-13 00:00:00,Peak,No,No,3
+40,Male,British,Leisure,4,Hotel,19,Deluxe,Direct Booking,455.45,8653.55,3.6,3.1,None,2023-06-24,2023-07-13 00:00:00,Peak,Yes,No,4
+54,Female,Australian,Business,5,Hotel,19,Standard,Travel Agency,899.82,17096.58,3,4.6,Low,2023-06-25,2023-07-14 00:00:00,Peak,Yes,Yes,4
+42,Male,Australian,Business,6,Others,14,Standard,Direct Booking,895.84,12541.76,1.9,4.7,Moderate,2023-06-26,2023-07-10 00:00:00,Off-Peak,Yes,Yes,1
+47,Female,American,Business,1,Hostel,22,Standard,Direct Booking,169.62,3731.64,2,1.4,Low,2023-06-27,2023-07-19 00:00:00,Peak,No,Yes,0
+19,Female,British,Visiting Friends/Relatives,4,Serviced Apartment,22,Suite,Travel Agency,890.43,19589.46,2.5,2.7,Moderate,2023-06-28,2023-07-20 00:00:00,Peak,Yes,No,1
+58,Female,British,Visiting Friends/Relatives,2,Hotel,27,Deluxe,Travel Agency,466.72,12601.44,2.9,4.1,None,2023-06-30,2023-07-27 00:00:00,Peak,No,Yes,4
+46,Female,American,Transit,3,Hostel,2,Deluxe,Direct Booking,270.28,540.56,3.1,2.7,Low,2023-07-01,2023-07-03 00:00:00,Peak,No,Yes,2
+70,Male,British,Transit,2,Others,14,Deluxe,Online,825.81,11561.34,2.9,3.6,None,2023-07-02,2023-07-16 00:00:00,Peak,No,Yes,2
+62,Female,Others,Business,5,Hostel,5,Suite,Direct Booking,869.54,4347.7,1.8,4,Moderate,2023-07-03,2023-07-08 00:00:00,Off-Peak,Yes,Yes,0
+46,Female,British,Leisure,5,Hotel,17,Deluxe,Travel Agency,263.86,4485.62,2.3,2,Low,2023-07-04,2023-07-21 00:00:00,Off-Peak,Yes,Yes,3
+33,Female,Indian,Transit,5,Serviced Apartment,24,Standard,Online,999.36,23984.64,2.5,1.6,None,2023-07-05,2023-07-29 00:00:00,Peak,Yes,Yes,0
+49,Female,Australian,Transit,2,Hotel,24,Deluxe,Direct Booking,229.57,5509.68,3.7,2.2,Moderate,2023-07-06,2023-07-30 00:00:00,Off-Peak,No,No,3
+53,Female,Chinese,Visiting Friends/Relatives,8,Others,2,Deluxe,Online,145.47,290.94,2.3,4.9,Low,2023-07-07,2023-07-09 00:00:00,Peak,Yes,Yes,2
+72,Female,Australian,Visiting Friends/Relatives,2,Private Home,25,Suite,Travel Agency,166.61,4165.25,1.4,2.9,None,2023-07-08,2023-08-02 00:00:00,Peak,Yes,Yes,4
+45,Female,American,Leisure,1,Private Home,8,Deluxe,Travel Agency,932.89,7463.12,4.9,2,Low,2023-07-09,2023-07-17 00:00:00,Peak,No,Yes,2
+35,Female,Chinese,Visiting Friends/Relatives,2,Private Home,2,Standard,Direct Booking,88.93,177.86,3.2,3.5,Low,2023-07-10,2023-07-12 00:00:00,Off-Peak,Yes,Yes,1
+60,Female,Australian,Leisure,8,Hotel,21,Suite,Online,375.07,7876.47,1.9,1.1,None,2023-07-12,2023-08-02 00:00:00,Peak,No,No,2
+70,Female,Indian,Business,9,Others,22,Suite,Direct Booking,393.7,8661.4,2.4,2.7,High,2023-07-13,2023-08-04 00:00:00,Peak,No,No,3
+21,Female,British,Visiting Friends/Relatives,6,Serviced Apartment,17,Deluxe,Online,790.05,13430.85,4.1,4.3,None,2023-07-14,2023-07-31 00:00:00,Off-Peak,No,Yes,4
+52,Male,Indian,Leisure,7,Hotel,5,Deluxe,Online,808.06,4040.3,1.8,3.9,Low,2023-07-15,2023-07-20 00:00:00,Peak,Yes,No,1
+18,Female,Others,Business,7,Hostel,9,Deluxe,Online,583.01,5247.09,4.4,2.8,Moderate,2023-07-16,2023-07-25 00:00:00,Peak,Yes,No,0
+60,Female,Australian,Leisure,5,Private Home,20,Suite,Online,868.03,17360.6,4.7,3.7,High,2023-07-17,2023-08-06 00:00:00,Off-Peak,No,No,0
+21,Female,Others,Transit,7,Serviced Apartment,6,Suite,Online,335.17,2011.02,3.7,4.4,None,2023-07-18,2023-07-24 00:00:00,Off-Peak,No,Yes,1
+76,Female,Indian,Leisure,6,Hotel,13,Suite,Travel Agency,534.52,6948.76,1.1,1.7,None,2023-07-19,2023-08-01 00:00:00,Off-Peak,No,No,0
+51,Male,British,Leisure,7,Hostel,1,Suite,Travel Agency,821,821,4.2,3.4,None,2023-07-20,2023-07-21 00:00:00,Peak,Yes,No,0
+67,Female,Chinese,Transit,8,Hostel,18,Deluxe,Online,117.6,2116.8,1.3,3.9,High,2023-07-21,2023-08-08 00:00:00,Off-Peak,No,Yes,0
+42,Female,British,Business,8,Hostel,4,Suite,Travel Agency,583.6,2334.4,3.5,3.3,None,2023-07-23,2023-07-27 00:00:00,Off-Peak,No,No,0
+32,Male,Indian,Visiting Friends/Relatives,3,Hotel,28,Deluxe,Travel Agency,991.04,27749.12,4.8,3.6,High,2023-07-24,2023-08-21 00:00:00,Peak,Yes,Yes,0
+28,Female,Chinese,Visiting Friends/Relatives,2,Hostel,23,Suite,Direct Booking,741.43,17052.89,2.7,3.7,High,2023-07-25,2023-08-17 00:00:00,Peak,Yes,No,4
+78,Female,Chinese,Business,9,Others,27,Suite,Online,96.16,2596.32,4.8,3.6,Low,2023-07-26,2023-08-22 00:00:00,Peak,No,Yes,3
+72,Male,American,Business,4,Hotel,12,Standard,Online,193.37,2320.44,4.2,1.4,Low,2023-07-27,2023-08-08 00:00:00,Off-Peak,No,Yes,1
+34,Female,Others,Transit,3,Hotel,13,Suite,Travel Agency,671.82,8733.66,3.9,1.2,Moderate,2023-07-28,2023-08-10 00:00:00,Peak,Yes,Yes,2
+31,Male,Others,Leisure,3,Others,6,Standard,Direct Booking,742.76,4456.56,1.4,1.9,Moderate,2023-07-29,2023-08-04 00:00:00,Off-Peak,No,Yes,4
+37,Male,Australian,Business,5,Hostel,23,Suite,Travel Agency,875.61,20139.03,2.6,2,Moderate,2023-07-30,2023-08-22 00:00:00,Peak,Yes,Yes,3
+72,Male,Others,Leisure,8,Others,4,Standard,Travel Agency,382.18,1528.72,1.5,2.6,Moderate,2023-07-31,2023-08-04 00:00:00,Off-Peak,Yes,Yes,2
+45,Male,Indian,Transit,1,Serviced Apartment,24,Deluxe,Direct Booking,328.95,7894.8,3.7,4.7,Moderate,2023-08-01,2023-08-25 00:00:00,Off-Peak,No,Yes,2
+31,Male,American,Leisure,5,Hostel,17,Suite,Online,604.09,10269.53,1.2,4.1,High,2023-08-02,2023-08-19 00:00:00,Peak,No,No,1
+68,Male,Others,Transit,4,Hostel,19,Standard,Travel Agency,583.71,11090.49,3.6,4.2,Low,2023-08-04,2023-08-23 00:00:00,Off-Peak,No,Yes,2
+42,Female,Indian,Leisure,1,Hostel,12,Deluxe,Online,85.97,1031.64,2.5,1.7,High,2023-08-05,2023-08-17 00:00:00,Off-Peak,Yes,No,2
+25,Female,Chinese,Leisure,4,Hotel,7,Deluxe,Online,901.31,6309.17,4.4,1.9,Low,2023-08-06,2023-08-13 00:00:00,Off-Peak,No,No,3
+26,Female,Others,Visiting Friends/Relatives,4,Hotel,18,Suite,Travel Agency,332.03,5976.54,2.7,4.1,High,2023-08-07,2023-08-25 00:00:00,Peak,Yes,No,2
+69,Male,Indian,Visiting Friends/Relatives,5,Hostel,9,Standard,Direct Booking,857.13,7714.17,3.3,2.7,Moderate,2023-08-08,2023-08-17 00:00:00,Off-Peak,Yes,No,0
+78,Male,American,Transit,8,Hotel,16,Suite,Online,971.71,15547.36,4.3,2.2,None,2023-08-09,2023-08-25 00:00:00,Peak,Yes,Yes,1
+28,Male,Chinese,Visiting Friends/Relatives,4,Serviced Apartment,2,Standard,Travel Agency,938.34,1876.68,2,1.8,None,2023-08-10,2023-08-12 00:00:00,Peak,Yes,No,4
+40,Female,American,Transit,6,Others,10,Suite,Travel Agency,675.97,6759.7,4.4,3.3,Low,2023-08-11,2023-08-21 00:00:00,Off-Peak,No,Yes,2
+67,Female,British,Visiting Friends/Relatives,7,Hotel,2,Deluxe,Travel Agency,429.64,859.28,3.8,4.7,Low,2023-08-12,2023-08-14 00:00:00,Off-Peak,No,Yes,4
+59,Female,Australian,Transit,6,Hostel,28,Suite,Online,282.35,7905.8,3.1,2.6,Low,2023-08-13,2023-09-10 00:00:00,Peak,Yes,No,4
+74,Female,Indian,Transit,6,Hotel,26,Deluxe,Online,162.11,4214.86,3.6,1.4,Moderate,2023-08-15,2023-09-10 00:00:00,Off-Peak,Yes,Yes,1
+53,Male,Chinese,Transit,4,Hotel,12,Deluxe,Travel Agency,330.19,3962.28,4,2.7,High,2023-08-16,2023-08-28 00:00:00,Off-Peak,No,Yes,4
+39,Female,British,Transit,3,Others,21,Deluxe,Online,314.63,6607.23,4.1,4,Moderate,2023-08-17,2023-09-07 00:00:00,Peak,No,No,4
+46,Female,Chinese,Transit,5,Hotel,20,Suite,Online,287.84,5756.8,2.4,1.4,None,2023-08-18,2023-09-07 00:00:00,Peak,No,No,3
+47,Female,Indian,Business,2,Hotel,5,Standard,Direct Booking,841.55,4207.75,2,3.9,High,2023-08-19,2023-08-24 00:00:00,Peak,No,Yes,4
+19,Male,Others,Visiting Friends/Relatives,7,Hotel,4,Suite,Travel Agency,897.36,3589.44,2.9,3.2,High,2023-08-20,2023-08-24 00:00:00,Peak,No,Yes,1
+38,Male,Others,Business,4,Serviced Apartment,17,Standard,Travel Agency,541.55,9206.35,4.4,2.5,Moderate,2023-08-21,2023-09-07 00:00:00,Off-Peak,No,No,4
+75,Male,British,Transit,4,Serviced Apartment,5,Deluxe,Online,457.06,2285.3,4.8,1.3,None,2023-08-22,2023-08-27 00:00:00,Off-Peak,Yes,Yes,2
+64,Male,Chinese,Visiting Friends/Relatives,5,Others,2,Deluxe,Online,992.03,1984.06,4.4,1,Moderate,2023-08-23,2023-08-25 00:00:00,Off-Peak,Yes,Yes,3
+42,Female,American,Visiting Friends/Relatives,1,Serviced Apartment,8,Standard,Direct Booking,720.61,5764.88,4.8,3,Moderate,2023-08-24,2023-09-01 00:00:00,Off-Peak,No,No,4
+45,Male,British,Visiting Friends/Relatives,7,Hotel,14,Standard,Direct Booking,730.43,10226.02,2.9,4.2,Moderate,2023-08-25,2023-09-08 00:00:00,Off-Peak,No,No,3
+68,Male,Indian,Business,3,Others,11,Deluxe,Travel Agency,584.13,6425.43,4.9,4.6,Low,2023-08-27,2023-09-07 00:00:00,Peak,No,Yes,0
+32,Female,American,Transit,9,Hostel,17,Deluxe,Online,951.34,16172.78,4.3,4.7,Low,2023-08-28,2023-09-14 00:00:00,Peak,Yes,Yes,1
+64,Male,Indian,Leisure,8,Hostel,1,Deluxe,Direct Booking,488.5,488.5,4,3,Low,2023-08-29,2023-08-30 00:00:00,Off-Peak,Yes,Yes,2
+64,Female,Chinese,Business,9,Serviced Apartment,18,Standard,Travel Agency,749.13,13484.34,2.5,4.3,High,2023-08-30,2023-09-17 00:00:00,Off-Peak,Yes,No,4
+76,Male,Others,Leisure,8,Hostel,27,Standard,Direct Booking,719.67,19431.09,4.6,3.7,None,2023-08-31,2023-09-27 00:00:00,Off-Peak,Yes,No,2
+21,Female,Indian,Business,3,Others,8,Standard,Travel Agency,299.5,2396,4.1,1.6,High,2023-09-01,2023-09-09 00:00:00,Off-Peak,Yes,No,4
+74,Female,Indian,Transit,9,Private Home,1,Deluxe,Direct Booking,747.43,747.43,2.2,1.9,Low,2023-09-02,2023-09-03 00:00:00,Peak,No,Yes,4
+36,Male,Others,Leisure,6,Hostel,28,Standard,Online,934.83,26175.24,1.8,1.3,Low,2023-09-03,2023-10-01 00:00:00,Peak,Yes,Yes,3
+23,Female,British,Transit,7,Hostel,19,Suite,Online,512.38,9735.22,3.9,2.2,Low,2023-09-04,2023-09-23 00:00:00,Peak,Yes,Yes,4
+35,Female,American,Transit,8,Hotel,24,Standard,Online,225.36,5408.64,3.7,1.6,High,2023-09-05,2023-09-29 00:00:00,Peak,No,Yes,0
+41,Female,British,Business,3,Others,20,Deluxe,Online,476.72,9534.4,1.8,1.4,None,2023-09-07,2023-09-27 00:00:00,Peak,No,No,1
+50,Female,British,Visiting Friends/Relatives,8,Hostel,24,Standard,Direct Booking,402.83,9667.92,2,2.8,Moderate,2023-09-08,2023-10-02 00:00:00,Peak,Yes,Yes,0
+75,Female,American,Transit,1,Hotel,12,Standard,Online,931.81,11181.72,1.8,1.9,High,2023-09-09,2023-09-21 00:00:00,Off-Peak,No,Yes,3
+53,Male,Australian,Business,7,Serviced Apartment,8,Standard,Direct Booking,440.69,3525.52,2.4,1.2,Low,2023-09-10,2023-09-18 00:00:00,Off-Peak,No,Yes,0
+37,Male,Indian,Business,3,Serviced Apartment,14,Standard,Travel Agency,564.64,7904.96,4.4,4.3,Low,2023-09-11,2023-09-25 00:00:00,Peak,No,Yes,4
+57,Male,British,Visiting Friends/Relatives,8,Serviced Apartment,4,Standard,Direct Booking,266.38,1065.52,1.7,4.2,Low,2023-09-12,2023-09-16 00:00:00,Peak,Yes,No,2
+70,Male,British,Transit,5,Hostel,11,Suite,Online,946.87,10415.57,1.5,4.4,High,2023-09-13,2023-09-24 00:00:00,Peak,No,No,2
+37,Female,Indian,Transit,6,Others,22,Deluxe,Online,330.65,7274.3,3,3.2,Low,2023-09-14,2023-10-06 00:00:00,Peak,Yes,No,4
+41,Male,American,Transit,3,Hostel,18,Standard,Direct Booking,993.5,17883,4.5,4.2,None,2023-09-15,2023-10-03 00:00:00,Peak,No,Yes,4
+40,Male,British,Leisure,4,Hotel,4,Suite,Direct Booking,799.83,3199.32,1.8,4.6,High,2023-09-16,2023-09-20 00:00:00,Off-Peak,No,No,3
+49,Male,American,Transit,7,Hostel,1,Deluxe,Travel Agency,388.21,388.21,2.6,3.6,None,2023-09-17,2023-09-18 00:00:00,Off-Peak,No,No,0
+60,Male,American,Leisure,3,Others,29,Deluxe,Direct Booking,318.21,9228.09,2.8,1.5,Moderate,2023-09-19,2023-10-18 00:00:00,Off-Peak,No,No,1
+64,Female,Chinese,Leisure,5,Private Home,18,Suite,Online,288.92,5200.56,4.2,1.2,High,2023-09-20,2023-10-08 00:00:00,Off-Peak,Yes,No,3
+46,Female,Others,Business,5,Hotel,3,Standard,Direct Booking,688.48,2065.44,1.7,3.6,High,2023-09-21,2023-09-24 00:00:00,Peak,No,Yes,0
+67,Male,British,Transit,9,Hotel,4,Suite,Travel Agency,62.94,251.76,3.7,1.9,Moderate,2023-09-22,2023-09-26 00:00:00,Peak,No,Yes,1
+54,Male,Australian,Leisure,4,Private Home,9,Deluxe,Direct Booking,137.04,1233.36,3.6,2.5,High,2023-09-23,2023-10-02 00:00:00,Off-Peak,No,No,4
+21,Male,Chinese,Visiting Friends/Relatives,6,Serviced Apartment,25,Deluxe,Travel Agency,296.41,7410.25,2.1,4.1,High,2023-09-24,2023-10-19 00:00:00,Off-Peak,Yes,No,1
+29,Female,Others,Business,8,Serviced Apartment,19,Deluxe,Travel Agency,557.13,10585.47,3.3,3.6,Moderate,2023-09-25,2023-10-14 00:00:00,Off-Peak,No,No,4
+61,Male,American,Business,2,Others,18,Standard,Online,271.94,4894.92,3.6,3.2,None,2023-09-26,2023-10-14 00:00:00,Off-Peak,Yes,No,2
+43,Female,Others,Leisure,2,Others,18,Deluxe,Direct Booking,528.2,9507.6,4.8,2.1,Moderate,2023-09-27,2023-10-15 00:00:00,Peak,No,Yes,3
+52,Male,Australian,Transit,4,Hostel,7,Suite,Travel Agency,885.87,6201.09,2.4,3.4,None,2023-09-28,2023-10-05 00:00:00,Off-Peak,No,Yes,0
+40,Male,Others,Visiting Friends/Relatives,6,Private Home,19,Suite,Online,267.5,5082.5,2.6,3.8,High,2023-09-30,2023-10-19 00:00:00,Peak,No,Yes,4
+27,Female,Chinese,Visiting Friends/Relatives,1,Hostel,19,Suite,Online,873.82,16602.58,1.2,4,Low,2023-10-01,2023-10-20 00:00:00,Peak,No,Yes,2
+22,Female,Others,Visiting Friends/Relatives,7,Serviced Apartment,19,Deluxe,Travel Agency,308.33,5858.27,3.4,2.5,Low,2023-10-02,2023-10-21 00:00:00,Peak,No,Yes,3
+43,Male,Chinese,Transit,9,Private Home,1,Standard,Direct Booking,133.83,133.83,4.4,3.5,High,2023-10-03,2023-10-04 00:00:00,Off-Peak,Yes,No,2
+34,Male,Australian,Leisure,9,Serviced Apartment,22,Deluxe,Travel Agency,426.79,9389.38,4.3,1.4,High,2023-10-04,2023-10-26 00:00:00,Off-Peak,Yes,No,3
+55,Female,American,Visiting Friends/Relatives,2,Hostel,17,Suite,Direct Booking,214.16,3640.72,4.2,1.3,Moderate,2023-10-05,2023-10-22 00:00:00,Off-Peak,No,No,1
+33,Male,Australian,Leisure,8,Hotel,16,Suite,Travel Agency,201.89,3230.24,1.5,3.9,Low,2023-10-06,2023-10-22 00:00:00,Off-Peak,Yes,Yes,1
+42,Female,American,Business,6,Hotel,4,Deluxe,Travel Agency,236.31,945.24,4.4,2.3,High,2023-10-07,2023-10-11 00:00:00,Peak,No,Yes,1
+67,Male,Australian,Business,7,Private Home,12,Standard,Direct Booking,502.98,6035.76,4,4.2,None,2023-10-08,2023-10-20 00:00:00,Off-Peak,Yes,No,2
+65,Female,Others,Visiting Friends/Relatives,5,Hotel,7,Standard,Online,59.09,413.63,2.1,2.7,High,2023-10-09,2023-10-16 00:00:00,Peak,No,Yes,3
+31,Male,Australian,Transit,5,Serviced Apartment,16,Standard,Direct Booking,91.98,1471.68,1.1,4.3,High,2023-10-10,2023-10-26 00:00:00,Off-Peak,Yes,No,0
+79,Male,Australian,Business,1,Hotel,26,Suite,Travel Agency,962.75,25031.5,1.6,4.8,High,2023-10-12,2023-11-07 00:00:00,Peak,Yes,No,0
+27,Female,Chinese,Visiting Friends/Relatives,4,Serviced Apartment,22,Suite,Travel Agency,312,6864,1.1,1.4,Moderate,2023-10-13,2023-11-04 00:00:00,Off-Peak,Yes,No,1
+35,Female,Australian,Leisure,7,Others,8,Deluxe,Online,81.29,650.32,4.6,2.6,None,2023-10-14,2023-10-22 00:00:00,Off-Peak,No,Yes,1
+25,Male,American,Transit,5,Serviced Apartment,21,Deluxe,Online,228.85,4805.85,4,2.2,Moderate,2023-10-15,2023-11-05 00:00:00,Peak,No,No,4
+62,Female,Indian,Leisure,2,Hotel,27,Deluxe,Travel Agency,898.85,24268.95,3.6,3.7,None,2023-10-16,2023-11-12 00:00:00,Peak,No,Yes,4
+40,Female,Australian,Transit,2,Others,27,Standard,Direct Booking,760.05,20521.35,1.4,3.4,Moderate,2023-10-17,2023-11-13 00:00:00,Off-Peak,No,No,3
+49,Male,Australian,Business,8,Hotel,29,Suite,Online,773.17,22421.93,1.1,1.6,None,2023-10-18,2023-11-16 00:00:00,Off-Peak,No,No,1
+55,Female,Indian,Transit,9,Hostel,21,Deluxe,Direct Booking,310.04,6510.84,2.2,1.6,Low,2023-10-19,2023-11-09 00:00:00,Peak,Yes,Yes,0
+26,Female,Indian,Leisure,4,Hostel,29,Standard,Online,158.27,4589.83,2.9,4.3,Moderate,2023-10-20,2023-11-18 00:00:00,Peak,No,Yes,0
+70,Female,British,Leisure,9,Hostel,17,Standard,Direct Booking,918.7,15617.9,4,1.9,Moderate,2023-10-21,2023-11-07 00:00:00,Off-Peak,No,Yes,0
+25,Male,American,Transit,3,Private Home,23,Standard,Direct Booking,133.3,3065.9,1.7,3.1,Moderate,2023-10-23,2023-11-15 00:00:00,Off-Peak,Yes,No,1
+44,Male,American,Leisure,7,Private Home,2,Standard,Online,149.44,298.88,1.9,2.8,None,2023-10-24,2023-10-26 00:00:00,Off-Peak,Yes,No,1
+38,Female,American,Transit,3,Hotel,28,Suite,Online,814.04,22793.12,5,2.1,None,2023-10-25,2023-11-22 00:00:00,Peak,Yes,No,1
+76,Female,Others,Leisure,6,Private Home,1,Standard,Online,292.36,292.36,2.6,2,Low,2023-10-26,2023-10-27 00:00:00,Peak,Yes,Yes,3
+31,Male,Others,Business,1,Private Home,11,Suite,Online,234.88,2583.68,3.8,2.2,None,2023-10-27,2023-11-07 00:00:00,Off-Peak,No,Yes,0
+31,Female,British,Business,7,Hotel,8,Deluxe,Online,689.71,5517.68,3.8,2.8,Low,2023-10-28,2023-11-05 00:00:00,Peak,Yes,Yes,3
+64,Male,British,Transit,4,Hostel,3,Standard,Online,979.36,2938.08,1.1,3.3,Low,2023-10-29,2023-11-01 00:00:00,Peak,Yes,No,1
+36,Male,Chinese,Transit,2,Serviced Apartment,8,Standard,Direct Booking,185.49,1483.92,2.3,3.7,Moderate,2023-10-30,2023-11-07 00:00:00,Peak,Yes,Yes,2
+65,Female,Chinese,Transit,2,Others,6,Standard,Online,665.08,3990.48,4.9,3,None,2023-10-31,2023-11-06 00:00:00,Peak,Yes,Yes,4
+55,Male,Indian,Business,1,Hostel,4,Standard,Travel Agency,660.86,2643.44,1.1,3.9,High,2023-11-01,2023-11-05 00:00:00,Off-Peak,Yes,No,4
+71,Female,Indian,Transit,9,Private Home,29,Suite,Direct Booking,502.93,14584.97,2,3.3,High,2023-11-02,2023-12-01 00:00:00,Peak,No,Yes,4
+49,Male,Others,Visiting Friends/Relatives,8,Hotel,21,Deluxe,Online,312.06,6553.26,4.9,3.9,None,2023-11-04,2023-11-25 00:00:00,Peak,No,No,3
+67,Female,Indian,Business,2,Hostel,4,Standard,Travel Agency,937.86,3751.44,2,3,Moderate,2023-11-05,2023-11-09 00:00:00,Peak,No,No,4
+26,Male,British,Visiting Friends/Relatives,5,Private Home,24,Deluxe,Online,577.53,13860.72,1.7,1.7,High,2023-11-06,2023-11-30 00:00:00,Peak,No,Yes,4
+61,Female,Indian,Transit,1,Serviced Apartment,13,Deluxe,Direct Booking,286.98,3730.74,2.7,2.4,None,2023-11-07,2023-11-20 00:00:00,Off-Peak,Yes,Yes,0
+35,Female,American,Visiting Friends/Relatives,6,Hotel,19,Suite,Travel Agency,301.7,5732.3,4.5,2.7,None,2023-11-08,2023-11-27 00:00:00,Off-Peak,Yes,Yes,0
+74,Female,American,Leisure,6,Private Home,16,Suite,Online,922.51,14760.16,3.7,4.8,High,2023-11-09,2023-11-25 00:00:00,Peak,Yes,No,4
+38,Male,American,Transit,1,Private Home,24,Deluxe,Direct Booking,644.53,15468.72,2.9,4.8,Low,2023-11-10,2023-12-04 00:00:00,Peak,No,Yes,0
+77,Male,Others,Leisure,5,Hostel,14,Suite,Online,288.71,4041.94,4.7,3,High,2023-11-11,2023-11-25 00:00:00,Peak,No,No,3
+63,Female,Chinese,Visiting Friends/Relatives,9,Others,20,Deluxe,Online,712.36,14247.2,4.6,1.4,Low,2023-11-12,2023-12-02 00:00:00,Peak,No,Yes,0
+22,Male,British,Transit,1,Private Home,24,Suite,Travel Agency,103.24,2477.76,1.7,1.6,None,2023-11-13,2023-12-07 00:00:00,Peak,Yes,Yes,3
+35,Female,Australian,Transit,4,Hotel,4,Suite,Travel Agency,770.22,3080.88,4.9,2.2,None,2023-11-15,2023-11-19 00:00:00,Peak,No,No,4
+51,Female,Chinese,Leisure,8,Hotel,16,Suite,Direct Booking,69.71,1115.36,4.3,4.6,Moderate,2023-11-16,2023-12-02 00:00:00,Peak,No,Yes,1
+58,Male,American,Business,7,Serviced Apartment,14,Standard,Travel Agency,246.18,3446.52,2.2,1.6,High,2023-11-17,2023-12-01 00:00:00,Off-Peak,No,Yes,4
+22,Female,Chinese,Leisure,4,Hotel,12,Suite,Online,991.77,11901.24,1.7,1.9,High,2023-11-18,2023-11-30 00:00:00,Off-Peak,Yes,No,0
+58,Female,British,Visiting Friends/Relatives,6,Serviced Apartment,18,Suite,Online,493.97,8891.46,2.9,2.6,None,2023-11-19,2023-12-07 00:00:00,Off-Peak,Yes,Yes,2
+21,Female,Others,Leisure,8,Hostel,24,Suite,Online,100.31,2407.44,3.3,4.9,High,2023-11-20,2023-12-14 00:00:00,Peak,No,No,2
+37,Female,Indian,Leisure,3,Serviced Apartment,16,Standard,Travel Agency,409.88,6558.08,3.3,2,Moderate,2023-11-21,2023-12-07 00:00:00,Peak,Yes,No,0
+66,Male,British,Visiting Friends/Relatives,5,Private Home,18,Deluxe,Travel Agency,531.32,9563.76,2.5,4.4,Low,2023-11-22,2023-12-10 00:00:00,Peak,No,No,0
+79,Female,Others,Leisure,2,Private Home,28,Standard,Direct Booking,121.52,3402.56,2.4,3.1,Moderate,2023-11-23,2023-12-21 00:00:00,Off-Peak,No,No,2
+28,Female,British,Transit,3,Hostel,1,Standard,Online,915.34,915.34,2.6,2,Low,2023-11-24,2023-11-25 00:00:00,Peak,Yes,No,2
+66,Male,Indian,Leisure,7,Hotel,18,Standard,Travel Agency,808.13,14546.34,4.3,2,None,2023-11-25,2023-12-13 00:00:00,Off-Peak,Yes,No,2
+33,Female,Chinese,Leisure,4,Hotel,22,Deluxe,Online,739.58,16270.76,2.8,2.9,High,2023-11-27,2023-12-19 00:00:00,Peak,No,No,3
+60,Female,American,Leisure,8,Hostel,21,Deluxe,Travel Agency,829.73,17424.33,4.6,1.1,High,2023-11-28,2023-12-19 00:00:00,Peak,No,No,3
+29,Male,Others,Business,9,Others,5,Suite,Direct Booking,548.88,2744.4,4.5,2.7,Moderate,2023-11-29,2023-12-04 00:00:00,Off-Peak,Yes,No,4
+72,Female,American,Business,6,Others,8,Standard,Online,413.44,3307.52,2.5,4.2,Low,2023-11-30,2023-12-08 00:00:00,Off-Peak,Yes,No,1
+47,Male,Australian,Transit,2,Hostel,18,Suite,Direct Booking,232.96,4193.28,3.5,4.9,None,2023-12-01,2023-12-19 00:00:00,Peak,No,Yes,4
+21,Female,Chinese,Transit,2,Serviced Apartment,17,Standard,Travel Agency,941.78,16010.26,3.5,4.6,High,2023-12-02,2023-12-19 00:00:00,Off-Peak,Yes,Yes,2
+40,Female,Australian,Transit,8,Hostel,24,Standard,Direct Booking,477.21,11453.04,4.3,2.3,None,2023-12-03,2023-12-27 00:00:00,Peak,Yes,Yes,4
+46,Male,Indian,Business,9,Serviced Apartment,24,Deluxe,Travel Agency,271.55,6517.2,4.4,2.7,High,2023-12-04,2023-12-28 00:00:00,Peak,Yes,No,0
+70,Female,Australian,Business,4,Hotel,16,Deluxe,Online,502.3,8036.8,2.2,4.7,High,2023-12-05,2023-12-21 00:00:00,Off-Peak,No,No,4
+42,Male,Chinese,Visiting Friends/Relatives,2,Others,12,Deluxe,Online,194.25,2331,3.1,2,None,2023-12-06,2023-12-18 00:00:00,Peak,Yes,No,2
+61,Male,American,Visiting Friends/Relatives,9,Hostel,18,Standard,Travel Agency,974.93,17548.74,2.7,3.7,Low,2023-12-08,2023-12-26 00:00:00,Off-Peak,Yes,No,3
+32,Male,Others,Leisure,7,Hostel,6,Deluxe,Travel Agency,617.45,3704.7,3.4,1.6,High,2023-12-09,2023-12-15 00:00:00,Off-Peak,No,No,1
+55,Female,Indian,Leisure,5,Others,7,Standard,Travel Agency,296.02,2072.14,1.3,2.2,None,2023-12-10,2023-12-17 00:00:00,Off-Peak,Yes,No,0
+38,Male,Australian,Business,5,Others,29,Deluxe,Direct Booking,446.46,12947.34,3.8,4.5,High,2023-12-11,2024-01-09 00:00:00,Peak,Yes,No,3
+58,Male,British,Leisure,3,Hotel,24,Standard,Online,537.04,12888.96,1.2,2.5,Low,2023-12-12,2024-01-05 00:00:00,Peak,Yes,Yes,1
+25,Female,Others,Leisure,5,Private Home,20,Standard,Travel Agency,574.86,11497.2,3.9,4.8,Moderate,2023-12-13,2024-01-02 00:00:00,Off-Peak,Yes,No,2
+73,Female,Indian,Transit,8,Private Home,18,Suite,Online,999.86,17997.48,4.6,3.2,High,2023-12-14,2024-01-01 00:00:00,Off-Peak,Yes,No,1
+69,Female,Indian,Transit,1,Serviced Apartment,28,Suite,Direct Booking,330.56,9255.68,2.3,3.1,High,2023-12-15,2024-01-12 00:00:00,Off-Peak,Yes,No,0
+55,Female,British,Transit,9,Private Home,11,Suite,Direct Booking,92.68,1019.48,3.6,4.3,None,2023-12-16,2023-12-27 00:00:00,Off-Peak,No,No,4
+53,Male,Chinese,Visiting Friends/Relatives,1,Hotel,21,Deluxe,Online,631.89,13269.69,3,1.3,None,2023-12-17,2024-01-07 00:00:00,Peak,No,Yes,3
+32,Female,American,Visiting Friends/Relatives,9,Others,4,Standard,Online,186.13,744.52,3.8,1.3,None,2023-12-18,2023-12-22 00:00:00,Peak,No,Yes,2
+53,Male,British,Business,1,Serviced Apartment,18,Standard,Travel Agency,627.75,11299.5,2.7,3.4,Low,2023-12-20,2024-01-07 00:00:00,Off-Peak,No,Yes,1
+74,Male,American,Business,9,Serviced Apartment,4,Suite,Travel Agency,328.46,1313.84,3.4,4.2,Moderate,2023-12-21,2023-12-25 00:00:00,Peak,No,Yes,2
+70,Male,American,Business,9,Hostel,24,Deluxe,Direct Booking,276.77,6642.48,3,3.1,Moderate,2023-12-22,2024-01-15 00:00:00,Peak,Yes,No,4
+79,Female,British,Business,4,Hotel,13,Deluxe,Direct Booking,907.42,11796.46,1.1,3.7,None,2023-12-23,2024-01-05 00:00:00,Off-Peak,No,No,0
+41,Male,British,Transit,4,Hotel,20,Deluxe,Travel Agency,448.24,8964.8,2.1,4.7,None,2023-12-24,2024-01-13 00:00:00,Off-Peak,No,No,4
+68,Male,Chinese,Transit,9,Others,15,Standard,Direct Booking,871.11,13066.65,2.7,1.1,None,2023-12-25,2024-01-09 00:00:00,Peak,Yes,Yes,2
+25,Male,Australian,Leisure,1,Others,27,Suite,Travel Agency,833.16,22495.32,2.4,4.6,High,2023-12-26,2024-01-22 00:00:00,Peak,No,No,3
+39,Male,Others,Leisure,7,Others,11,Deluxe,Online,274.25,3016.75,3.3,2.3,High,2023-12-27,2024-01-07 00:00:00,Off-Peak,No,No,3
+69,Female,Others,Leisure,2,Others,8,Suite,Direct Booking,70.77,566.16,2.5,5,Moderate,2023-12-28,2024-01-05 00:00:00,Off-Peak,Yes,No,3
+64,Male,Others,Leisure,1,Serviced Apartment,18,Standard,Direct Booking,745.73,13423.14,4.3,3.2,None,2023-12-29,2024-01-16 00:00:00,Off-Peak,No,No,3
+33,Male,Others,Transit,7,Serviced Apartment,25,Suite,Direct Booking,106.18,2654.5,4.6,4.9,Moderate,2023-12-31,2024-01-25 00:00:00,Off-Peak,No,Yes,0
